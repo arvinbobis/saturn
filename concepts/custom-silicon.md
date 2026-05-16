@@ -1,0 +1,54 @@
+# Custom Silicon — Hyperscaler ASICs
+
+> The trend of major hyperscalers designing their own AI chips rather than buying NVIDIA GPUs — creating the second AI silicon wave that flows through Marvell and TSMC.
+
+*Last updated: 2026-05-14*
+
+---
+
+## What Custom Silicon Is
+
+Custom ASICs (Application-Specific Integrated Circuits) designed by hyperscalers for their specific AI workloads — training large models, running inference at scale, processing recommendation system queries. Unlike NVIDIA's general-purpose GPUs, custom ASICs are optimized for one company's specific models and infrastructure, yielding better performance-per-watt and lower cost-per-inference at scale.
+
+## Why Hyperscalers Build Custom Silicon
+
+1. **Cost at scale:** At 100,000+ chips, even a 20% cost improvement per chip is billions of dollars annually
+2. **Performance optimization:** A chip designed for the exact model architecture and data types runs more efficiently than a general-purpose GPU
+3. **Supply independence:** Reduces dependency on NVIDIA's supply chain, pricing, and roadmap
+4. **Competitive differentiation:** A faster inference chip means cheaper AI products for customers
+
+## Major Custom Silicon Programs
+
+| Company | Chip | Type | Co-designer | Foundry | Status |
+|---|---|---|---|---|---|
+| Google | TPU v5/v6 | Training + Inference | Marvell (partially) | TSMC | Volume production |
+| Amazon | Trainium2 | Training | Annapurna/Marvell | TSMC | Ramp |
+| Amazon | Inferentia | Inference | Annapurna | TSMC | Volume |
+| Microsoft | Maia 200 | Training | Marvell | TSMC | Ramping |
+| Meta | MTIA (Meta Training and Inference ASIC) | Inference | Internal | TSMC | Production |
+| Apple | Neural Engine (A/M series) | On-device inference | Internal | TSMC | Mature |
+
+## Portfolio Implications
+
+**TSMC (TSM):** All custom silicon is manufactured at TSMC. The custom silicon trend creates a *second* AI silicon demand wave on top of NVIDIA/AMD GPU demand. Even if NVIDIA loses some hyperscaler share to custom ASICs, total TSMC wafer demand may grow — because custom ASICs plus NVIDIA GPUs together use more wafers than NVIDIA alone.
+
+**Marvell (MRVL):** Marvell is the primary co-design partner for several hyperscaler programs (Google, Amazon, Microsoft). Marvell provides the ASIC design engineering that hyperscalers don't want to build fully in-house. As more hyperscalers launch custom silicon programs, Marvell's pipeline grows.
+
+**NVIDIA (NVDA):** Custom silicon is a competitive threat — but primarily at inference, not training. NVIDIA still dominates training because CUDA is deeply embedded. The threat is real but slower-moving than headlines suggest.
+
+## Timeline Dynamics
+
+Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 6–12 more months to production qualification. Revenue from a design win flows 2–4 years after the win announcement. This means Marvell's current design wins are the 2026–2028 revenue, not next quarter.
+
+## Key Questions to Track
+
+- How many hyperscalers have active Marvell co-design relationships? Any new wins announced?
+- Is custom silicon taking inference share from NVIDIA faster than expected?
+- Does NVIDIA respond with inference-optimized products (NIM, Spectrum-X, etc.) that blunt custom silicon adoption?
+
+## Cross-links
+
+- [[MRVL]] — primary beneficiary; co-designs hyperscaler custom ASICs
+- [[TSM]] — manufactures all custom silicon; additive demand on top of NVIDIA/AMD wafers
+- [[NVDA]] — threatened at inference; maintains training dominance via CUDA
+- [[ANET]] — custom silicon clusters still need networking infrastructure; Arista benefits
