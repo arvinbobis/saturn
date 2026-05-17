@@ -3,7 +3,7 @@
 > The dominant vendor for AI data center networking infrastructure —
 > every scale-out GPU cluster needs high-speed, low-latency ethernet switching, and Arista builds it.
 
-*Last updated: 2026-05-14 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -88,6 +88,25 @@ Arista has been early to each ethernet speed generation. 400G is now mainstream 
 ### Decision Log
 
 *(Append-only — no entries yet)*
+
+---
+
+## Recent Updates
+
+### 2026-05-17
+
+**Q1 2026 earnings (reported May 5):** Revenue $2,709M; EPS $0.87 vs. $0.79 expected (beat). Net income $1,022.9M. Q2 guidance: ~$2.8B. Full-year 2026 guidance raised to ~$11.5B. Source: FX Leaders / Simply Wall St / public.com, 2026-05-05. *Thesis bearing: Strongly confirms — beat and raised on AI networking demand.*
+
+**AI fabric sales to more than double:** Management commentary cited AI fabric (7800 AI spine and Universal AI Fabric) sales expected to more than double in 2026 to ~$3.5B. Supply constraints (wafers, silicon, memory) are pressuring margins slightly but not demand. Source: FX Leaders, 2026-05-13. *Thesis bearing: Confirms the Ethernet-for-AI-clusters thesis; scale-out GPU networking is exactly the growth driver modeled.*
+
+**Analyst upgrades:**
+- Raymond James upgraded ANET to Outperform from Market Perform (May 15), citing new application growth and AI infrastructure market share gains
+- Morgan Stanley raised PT to $180 from $165 (Overweight maintained)
+Source: GuruFocus / Search results, 2026-05-15.
+
+**AI Optical Group membership:** Arista joined the AI Optical Group, a consortium advancing optical networking standards for AI infrastructure. Positions Arista ahead of the co-packaged optics transition. Source: Yahoo Finance, 2026-05.
+
+**Stock price and valuation gap:** ANET at $142.54 on May 13, approximately 25% below average analyst target of ~$182–$183. Source: FX Leaders, 2026-05-13. *Note: Stock is down ~17.9% at some point in recent history (prior pullback) and recovering with analyst upgrades.*
 
 ---
 

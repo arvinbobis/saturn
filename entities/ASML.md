@@ -3,7 +3,7 @@
 > The sole supplier of EUV lithography machines — without ASML, no one makes leading-edge chips.
 > The most upstream chokepoint in the entire semiconductor supply chain.
 
-*Last updated: 2026-05-14 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -93,6 +93,22 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 ### Decision Log
 
 *(Append-only — no entries yet)*
+
+---
+
+## Recent Updates
+
+### 2026-05-17
+
+**Q1 2026 earnings beat:** EPS $8.37 vs. $7.72 forecast. Full-year 2026 revenue guidance raised significantly (absolute figures not yet confirmed in sources). Shares surged 3.99% to $1,581.58 on Nasdaq (May 13). Source: ad-hoc-news.de / TradingKey, 2026-05-13. *Thesis bearing: Confirms — beat and raised guidance validates EUV demand from TSMC and SK Hynix.*
+
+**Post-Trump-Xi summit selloff (May 13–15):** ASML dropped 5.22% after the Trump-Xi summit (May 13–15) failed to produce semiconductor trade agreements. US-China semiconductor tensions unresolved = China revenue headwind persists. Source: ad-hoc-news.de, 2026-05. *Risk bearing: China DUV restriction remains a multi-quarter revenue headwind; no near-term easing signal from summit.*
+
+**Analyst activity:** Major investment bank maintained Buy rating with price target upgrade (May 13). Raymond James upgrade also noted in broader AI infrastructure coverage. Analyst consensus remains positive.
+
+**India partnership (May 16):** Tata Electronics and ASML announced a strategic partnership to advance the semiconductor manufacturing ecosystem in India. Early-stage — optionality for a new geography of EUV demand beyond Taiwan, Korea, and US. Source: Search results, 2026-05-16.
+
+**Motley Fool thesis piece (May 13):** Analyst commentary describing ASML as an under-appreciated AI beneficiary with significant upside at current prices, citing monopoly position and High NA EUV ramp. Source: Motley Fool, 2026-05-13.
 
 ---
 

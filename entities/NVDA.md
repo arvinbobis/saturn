@@ -3,7 +3,7 @@
 > The dominant AI training hardware company — every major AI model is trained on NVIDIA GPUs.
 > In this portfolio, NVDA is tracked as both a holding and the primary demand signal for TSM and MU.
 
-*Last updated: 2026-05-14 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -89,6 +89,31 @@ NVIDIA has priority access to TSMC's most advanced nodes and CoWoS packaging cap
 ### Decision Log
 
 *(Append-only — no entries yet)*
+
+---
+
+## Recent Updates
+
+### 2026-05-17
+
+**Q1 FY2027 earnings — May 20 (3 days out):** NVIDIA reports Q1 FY2027 on May 20, 2026. Most anticipated earnings report of 2026 per analyst commentary. Consensus expects another blowout quarter. This is the single most important near-term event for the entire satellite portfolio — NVDA guidance revision will flow through to TSM CoWoS and MU HBM demand outlook. Source: Motley Fool, 2026-05-15/16.
+
+**Price target raised:** TD Cowen raised PT to $275 from $235. Source: Search results, 2026-05.
+
+**Stock selloff May 15:** NVDA fell 4.42% (from $235.74 to $225.32) on reports China did not proceed with expected H200 chip purchases, raising demand concerns for China revenue (~historically 20% of data center revenue). 52-week range: $129.16–$236.54. Source: StockInvest.us, 2026-05-15. *Risk flag: China export control enforcement and demand elasticity remain a persistent overhang — watch Q1 FY2027 China revenue commentary.*
+
+**NVIDIA + IREN strategic partnership:** NVIDIA and IREN (AI infrastructure operator) announced a partnership to accelerate deployment of up to 5 gigawatts of AI infrastructure. Underscores the scale of hyperscaler and sovereign AI infrastructure buildout that NVIDIA sits at the center of. Source: Search results, 2026-05.
+
+**Board addition:** Suzanne Nora Johnson added to NVIDIA board of directors. Source: Search results, 2026-05.
+
+**Market position:** NVDA up 67% in market value YTD; currently world's second-largest asset by market cap. Source: Search results, 2026-05.
+
+**Watch at May 20 earnings:**
+- Data Center revenue absolute and YoY growth
+- Blackwell shipment and demand commentary
+- China revenue %
+- Management visibility language (12-month demand forward signals)
+- Any CoWoS capacity commentary (leading for TSM)
 
 ---
 

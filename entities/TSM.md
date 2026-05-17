@@ -3,7 +3,7 @@
 > The world's pure-play foundry and the single most critical node in the global AI supply chain —
 > every advanced AI chip, regardless of who designed it, is manufactured here.
 
-*Last updated: 2026-05-14 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
 
 **Schema reference:** See `/schemas/claude-tsm.md` for full standing knowledge, entity template guidance, and quarterly review workflow. Read that file before updating this page.
 
@@ -80,6 +80,26 @@
 ### Decision Log
 
 *(Append-only — no entries yet)*
+
+---
+
+## Recent Updates
+
+### 2026-05-17
+
+**April 2026 monthly revenue (reported ~May 8):** NT$410.73B (+17.5% YoY, -1.1% MoM). Second-highest monthly revenue in TSMC history behind March 2026's record NT$415.19B. Jan–Apr 2026 YTD: NT$1,544.83B (+29.9% YoY). Source: pr.tsmc.com / NineScrolls, 2026-05-08.
+
+**Q1 2026 financials:** Revenue +40.6% YoY in USD terms; gross margin 66.2%. Management raised full-year 2026 outlook to >30% revenue growth in USD. Source: TSMC Q1 2026 earnings / SEC 6-K, 2026-04.
+
+**TSMC Arizona capital injection (May 12):** Board approved capital increase of up to US$20B for TSMC Arizona Corporation, subject to regulatory approval. Bolsters US manufacturing expansion and deepens TSMC's strategic footprint outside Taiwan. Source: TipRanks / StockTitan SEC Filing, 2026-05-12. *Thesis bearing: Confirms — de-risks geopolitical scenario by building US capacity; supports CHIPS Act thesis.*
+
+**Vanguard International Semiconductor stake trim (May 15):** TSMC announced sale of up to 152 million VIS common shares (~8.1% of fully diluted capital) via block trade to institutional investors. Refocuses TSMC on its core foundry business. Source: pr.tsmc.com, 2026-05-15.
+
+**$1.5T semiconductor market forecast (May 15):** TSMC forecast global semiconductor market will reach $1.5T by 2030, driven by AI. Source: TheStreet / GuruFocus, 2026-05-15. *Thesis bearing: Confirms long-duration investment horizon.*
+
+**Geopolitical — Trump-Xi summit (May 13–15):** Xi Jinping and Trump met; no major agreements on Taiwan reached. PLA Southern Theater Command conducted exercises east of Luzon Strait in late April–early May. Taiwan's legislature approved US$25B special defense budget. Cross-strait tensions remain elevated but no acute escalation. Source: AEI Taiwan Updates, CNBC, 2026-05. *Thesis bearing: No change to baseline risk — monitor quarterly.*
+
+**Hyperscaler CapEx context:** Combined 2026 AI CapEx guidance from Amazon ($200B), Microsoft ($190B), Alphabet ($190B), Meta ($145B) = ~$725B total (+77% YoY), of which ~$450B is directly AI infrastructure. Every dollar flows through TSMC wafers and CoWoS packaging. Source: Tom's Hardware / Fortune, 2026-04/05.
 
 ---
 

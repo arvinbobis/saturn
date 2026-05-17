@@ -3,7 +3,7 @@
 > The primary co-designer of custom AI ASICs for hyperscalers —
 > the company that enables Google, Amazon, Microsoft, and Meta to reduce their NVIDIA dependency.
 
-*Last updated: 2026-05-14 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -86,6 +86,27 @@ Beyond custom AI ASICs, Marvell sells programmable networking chips (Teralynx, P
 ### Decision Log
 
 *(Append-only — no entries yet)*
+
+---
+
+## Recent Updates
+
+### 2026-05-17
+
+**Q1 FY2027 earnings — May 27:** Marvell reports Q1 FY2027 on May 27. Analysts expect management to raise FY2027 and FY2028 revenue growth guidance driven by AI data center strength. Revenue estimates: FY2027 $11.12B, FY2028 $15.35B. Source: TheStreet / GuruFocus, 2026-05.
+
+**AMD 13F stake disclosure (May 13):** AMD's quarterly 13F filing revealed an ownership stake in Marvell Technology. MRVL shares surged 10% on the disclosure. AMD's investment in a company that designs inference silicon for hyperscalers could signal deeper semiconductor ecosystem collaboration or acquisition interest. Source: GuruFocus, 2026-05-13. *Thesis bearing: Bullish signal — AMD validation of Marvell's custom silicon position.*
+
+**Analyst upgrades:**
+- Bank of America raised PT to $200 from $125
+- Goldman Sachs raised PT to $125 from $100
+Source: TheStreet, 2026-05.
+
+**Stock performance:** Up 135% since March 5, 2026; closed May 13 at ~$177.95. Source: GuruFocus, 2026-05-14.
+
+**Insider selling:** $27.9M in insider sales over the last 3 months, no reported insider buying. Source: GuruFocus, 2026-05. *Caution flag — monitor at earnings; insider selling at elevated multiples is not unusual but worth tracking.*
+
+**Valuation note:** GF Value model estimates 60.6% overvaluation at current price vs. intrinsic value of ~$102. Note this is a model-based estimate; the AI ASIC revenue ramp may not be fully captured in historical-model valuations. Source: GuruFocus, 2026-05. *Assessment: Valuation is stretched on backward-looking metrics; forward revenue ramp ($11B+ FY2027) may justify current price if hyperscaler ASIC volumes accelerate on schedule.*
 
 ---
 

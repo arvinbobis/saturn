@@ -3,7 +3,7 @@
 > The only US-headquartered manufacturer of DRAM and NAND at scale —
 > and the company whose investment thesis turns on whether HBM has broken the commodity cycle.
 
-*Last updated: 2026-05-14 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
 
 **Schema reference:** See `/schemas/claude-micron.md` for full standing knowledge, entity template guidance, and quarterly review workflow. Read that file before updating this page.
 
@@ -94,6 +94,29 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 ### Decision Log
 
 *(Append-only — no entries yet)*
+
+---
+
+## Recent Updates
+
+### 2026-05-17
+
+**Q2 FY2026 earnings:** Revenue +196% YoY; gross margin 74.9%. HBM capacity sold out through calendar 2026. Source: Seeking Alpha / Motley Fool, 2026-05. *Thesis bearing: Strongly confirms — 74.9% GM shows HBM has structurally elevated Micron's earnings floor.*
+
+**DRAM pricing:** DRAM contract prices forecast +58–63% in the current quarter; full-year 2026 forecast +125%. Reflects AI-driven demand exceeding supply additions. Source: CNBC, 2026-05-11.
+
+**Analyst activity:** Bank of America raised price target to $950 from $500. Stock up 154% YTD prior to recent pullback. Some analysts targeting $2,000 on continued HBM allocation dominance. Source: Motley Fool, 2026-05-11.
+
+**China demand risk — stock selloff (May 15):** MU shares fell 5.5% after reports that China did not proceed with expected Nvidia H200 chip purchases, raising concerns about downstream AI hardware demand in China and, by extension, HBM demand. Source: Motley Fool, 2026-05-15. *Risk flag: China demand uncertainty is a recurring theme — monitor alongside NVDA earnings on May 20.*
+
+**Samsung HBM4 qualification status:** Reports indicate Samsung's HBM4 has passed NVIDIA's qualification tests with high evaluation scores, targeting NVIDIA supply chain entry in Q2 2026. Samsung also reportedly supplying 60%+ of Google TPU HBM3E. Source: SamMobile / TrendForce, late 2025–2026. *Risk bearing: If Samsung achieves full NVIDIA qualification and ramping volumes, Micron's ~20–25% HBM share could face competitive pressure — this is the key risk to monitor at each quarter.*
+
+### HBM Market Share Update (as of 2026-05-17)
+| Supplier | Share (est.) | Status |
+|---|---|---|
+| SK Hynix | ~50% | Dominant; HBM4 ramping |
+| Samsung | ~25–30% | HBM4 qualifying; gaining fast |
+| Micron | ~20–25% | Blackwell win; sold out 2026 |
 
 ---
 
