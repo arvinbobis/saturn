@@ -103,6 +103,16 @@
 
 ---
 
+### 2026-05-18
+
+**Analyst upgrades — Barclays PT raised to $470:** Barclays raised its TSMC ADR price target from $450 to $470, maintaining Overweight, citing continued AI demand momentum and TSMC's position as "a core holding." TSM is up 33.2% YTD, outpacing the S&P 500 (+9.1%) and broader tech sector (+16.8%). Source: MEXC / TheStreet, 2026-05. *Thesis bearing: Confirms — sell-side consensus continues to move targets higher alongside TSMC's revenue trajectory.*
+
+**Cathie Wood / Ark sells $40.6M of TSM (May 14–15):** Ark Invest sold 100,549 TSM ADR shares valued at ~$40.6M across May 14–15. No stated rationale. This is a trimming of position, not an exit — Ark funds remain TSM holders. Source: TheStreet, 2026-05-15. *Minor signal: Ark's selling could be fund rebalancing or valuation discipline at elevated YTD gains; not a thesis-level event.*
+
+**Vera Rubin implications for TSMC (2H 2026):** NVIDIA confirmed Vera Rubin NVL72 is in full production and will be available from cloud providers in 2H 2026 (AWS, Google Cloud, Microsoft Azure, OCI). Vera Rubin delivers 5x inference performance and 10x lower token cost vs. Blackwell. Each new NVIDIA architecture generation requires TSMC's latest nodes and expanded CoWoS capacity. The Vera Rubin ramp will sustain and likely accelerate TSMC's advanced packaging utilization through 2026–2027. Source: NVIDIA Newsroom / Tom's Hardware, CES 2026. *Thesis bearing: Confirms — TSMC's CoWoS demand runway extends well beyond Blackwell.*
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips

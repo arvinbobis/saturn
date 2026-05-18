@@ -118,6 +118,14 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 | Samsung | ~25–30% | HBM4 qualifying; gaining fast |
 | Micron | ~20–25% | Blackwell win; sold out 2026 |
 
+### 2026-05-18
+
+**Samsung 18-day strike — starting May 21 (CRITICAL):** Approximately 61,000 Samsung unionized workers approved an 18-day general strike (93.1% approval rate) set to begin May 21 after government-mediated talks failed. This will be the largest labor stoppage in semiconductor industry history. The union demands uncapped performance bonuses set at 15% of operating profit; Samsung management has offered a $340K one-time bonus but rejected removing the cap. The strike window (May 21–June 7) coincides directly with the critical HBM4 yield stabilization and shipment expansion ramp. Analysts estimate: 3–4% disruption to global DRAM output, 2–3% NAND, 2–3 week restabilization lag after workers return, and potential 12% reduction in Samsung's quarterly semiconductor profits. TrendForce reports Samsung began preemptive measures on May 14 by shifting product mix toward HBM ahead of the walkout. Source: Fortune / TrendForce / Tom's Hardware / Yahoo Finance, 2026-05-13–17. *Thesis bearing: Strongly confirms — any Samsung production disruption accelerates order redirection to SK Hynix and Micron. Micron is sold out through 2026 already; a strike-driven supply shock would further tighten HBM availability and support contract ASPs. This is the single most bullish near-term event for the MU thesis.*
+
+**Samsung HBM4 shipments begun:** Despite the impending strike, Samsung reportedly began initial HBM4 shipments before the May 21 walkout — attempting to build buffer inventory. TechTimes reports Samsung is ahead of SK Hynix on HBM4 initial shipments, though yield and volume remain limited. Source: TechTimes / TrendForce, 2026-05-16. *Risk note: If Samsung ships meaningful HBM4 volumes before and after the strike, the competitive pressure on Micron's share persists — watch for HBM4 volume ramp confirmation at Q3 2026 reporting.*
+
+**Analyst signal — "Watch MU":** Multiple analyst notes cited by Yahoo Finance explicitly flagged Micron as a beneficiary of Samsung supply disruption, with order shifts expected toward SK Hynix and Micron if strike proceeds. Source: Yahoo Finance / TradingKey, 2026-05-17.
+
 ---
 
 ## Cross-links

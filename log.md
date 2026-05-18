@@ -10,6 +10,20 @@ Format:
 
 ---
 
+## [2026-05-18] daily-scan
+
+Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET
+Notable: Samsung's 61,000-worker 18-day strike (starting May 21) is the largest planned work stoppage in semiconductor industry history — analysts expect 3–4% DRAM supply disruption and order redirection to Micron and SK Hynix, making this the single most material development for the MU thesis; Marvell hit an all-time high of $182 on confirmed reports of an AI chip co-design agreement with Google (inference TPU + Memory Processing Unit), cementing Marvell's position at the center of the hyperscaler custom silicon wave.
+No significant news: ANET — no material developments beyond the May 17 update; stock recovering near $142.
+
+Entity updates:
+- TSM: Barclays raised PT to $470 (Overweight); Cathie Wood sold $40.6M; Vera Rubin 2H 2026 ramp extends CoWoS demand
+- MU: Samsung 18-day strike starts May 21 (MAJOR) — bullish for MU; Samsung began preemptive HBM4 shipments; analysts flag MU as beneficiary
+- ASML: Apple-Intel foundry talks could drive €1.8–4.6B in EUV orders; €80M buyback; High-NA mass production 2027–2028
+- NVDA: Earnings May 20 setup — consensus $78.8B revenue, $1.77 EPS; Vera Rubin in full production for 2H 2026; Jensen Huang $1T Blackwell+Rubin order book
+- MRVL: Google/Alphabet AI chip co-design (inference TPU + MPU, ~2M units) — stock ATH $182; Polariton silicon photonics acquisition (Apr 22, uncaptured until today)
+- ANET: No new material developments
+
 ## [2026-05-17] daily-scan
 
 Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET

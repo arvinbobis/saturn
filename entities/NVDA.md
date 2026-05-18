@@ -117,6 +117,16 @@ NVIDIA has priority access to TSMC's most advanced nodes and CoWoS packaging cap
 
 ---
 
+### 2026-05-18
+
+**Q1 FY2027 earnings tomorrow (May 20) — consensus and setup:** Wall Street consensus: revenue ~$78.8B (+78% YoY), EPS $1.77. Data center revenue expected >$65B. Gross margins expected >74%. The market focus will be on Q2 guidance and commentary on Blackwell ramp, Vera Rubin supply availability, and China revenue. NVDA market cap at $5.71 trillion; stock up ~20% over the past month. Source: S&P Global / HeyGoTrade / TradingKey / TIKR, 2026-05. *For the portfolio: management's Q2 guidance and forward demand commentary is the most important data point for TSM CoWoS and MU HBM demand outlook over the next 1–2 quarters.*
+
+**Vera Rubin in full production — 2H 2026 availability:** NVIDIA announced at CES 2026 that Vera Rubin NVL72 is in full production. Cloud providers (AWS, Google Cloud, Microsoft Azure, OCI) plus CoreWeave, Lambda, Nebius, and Nscale will offer Vera Rubin instances in 2H 2026. Key specs: 5x inference performance, 10x lower cost per token, and 4x fewer GPUs to train MoE models vs. Blackwell. First Vera Rubin rack is already running at Microsoft Azure. Source: NVIDIA Newsroom / Tom's Hardware / DataCenterDynamics, CES 2026. *Thesis bearing: Confirms — Vera Rubin extends the AI hardware capex cycle well into 2027; sustains demand for TSMC advanced nodes and next-gen HBM from Micron.*
+
+**Jensen Huang — $1 trillion Blackwell + Vera Rubin order book (GTC March 2026):** At GTC 2026, Jensen Huang stated combined purchase orders for Blackwell and Vera Rubin are expected to reach $1 trillion through 2027. Computing demand has increased one million times in the last two years. Source: CNBC / TechCrunch / Axios, 2026-03-16. *Context for portfolio: The $1T NVIDIA order book represents the most concrete proof of hyperscaler CapEx commitment to the AI infrastructure buildout. Every dollar flows through TSMC CoWoS and requires HBM from MU/SKH.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS

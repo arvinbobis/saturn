@@ -1,16 +1,16 @@
 # Saturn Wiki Index
 
-Last updated: 2026-05-17
+Last updated: 2026-05-18
 
 ## Entities
 
 | Entity | Ticker | Description | Last Updated |
 |---|---|---|---|
-| [[TSM]] | TSM | Taiwan Semiconductor Manufacturing. Pure-play foundry; leading-edge silicon; AI supply chain anchor. CoWoS packaging monopoly. Monthly revenue reporting. | 2026-05-17 |
-| [[MU]] | MU | Micron Technology. DRAM/NAND IDM. HBM thesis: contracted ASP 5–8x standard DRAM. NVIDIA Blackwell HBM3E design win. Commodity cycle risk vs. HBM structural shift. | 2026-05-17 |
-| [[ASML]] | ASML | ASML Holding. Sole supplier of EUV lithography — no EUV machines, no leading-edge chips. TSMC CapEx leading indicator. | 2026-05-17 |
-| [[NVDA]] | NVDA | NVIDIA Corporation. AI GPU training dominance. Blackwell architecture. Data center revenue = demand signal for TSM (CoWoS) and MU (HBM). | 2026-05-17 |
-| [[MRVL]] | MRVL | Marvell Technology. Custom ASIC co-design for hyperscalers (Google, Amazon, Microsoft, Meta). Second AI silicon wave beyond NVIDIA. | 2026-05-17 |
+| [[TSM]] | TSM | Taiwan Semiconductor Manufacturing. Pure-play foundry; leading-edge silicon; AI supply chain anchor. CoWoS packaging monopoly. Monthly revenue reporting. | 2026-05-18 |
+| [[MU]] | MU | Micron Technology. DRAM/NAND IDM. HBM thesis: contracted ASP 5–8x standard DRAM. NVIDIA Blackwell HBM3E design win. Commodity cycle risk vs. HBM structural shift. | 2026-05-18 |
+| [[ASML]] | ASML | ASML Holding. Sole supplier of EUV lithography — no EUV machines, no leading-edge chips. TSMC CapEx leading indicator. | 2026-05-18 |
+| [[NVDA]] | NVDA | NVIDIA Corporation. AI GPU training dominance. Blackwell architecture. Data center revenue = demand signal for TSM (CoWoS) and MU (HBM). | 2026-05-18 |
+| [[MRVL]] | MRVL | Marvell Technology. Custom ASIC co-design for hyperscalers (Google, Amazon, Microsoft, Meta). Second AI silicon wave beyond NVIDIA. | 2026-05-18 |
 | [[ANET]] | ANET | Arista Networks. AI data center networking infrastructure. Spine-leaf architecture; 400G/800G ethernet; benefits from GPU cluster scale-out. | 2026-05-17 |
 
 ## Concepts

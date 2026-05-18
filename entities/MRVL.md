@@ -110,6 +110,16 @@ Source: TheStreet, 2026-05.
 
 ---
 
+### 2026-05-18
+
+**Google / Alphabet AI chip co-design (inference TPU + Memory Processing Unit):** Reports surfaced that Google is in talks with Marvell to co-design two new AI chips: (1) an inference-optimized TPU that is cheaper and more power-efficient than existing designs, and (2) a Memory Processing Unit (MPU) — a memory-centric processor designed to optimize data movement during AI inference workloads. Planned volume: ~2 million MPUs. Google is adding Marvell as a third design partner alongside Broadcom and MediaTek. No signed contract disclosed. MRVL shares surged to an all-time high of $182 on this news (May 14). Source: The Information / The Next Web / FX Leaders, 2026-04-20 / 2026-05-14. *Thesis bearing: Strongly confirms — adds Google to confirmed Marvell ASIC co-design relationships alongside Amazon. Counterpoint Research forecasts Marvell at ~25% of the custom AI accelerator market by 2027 (Broadcom ~60%). TrendForce projects custom chip sales up 45% in 2026 vs. 16% GPU growth.*
+
+**Polariton Technologies acquisition (April 22, 2026):** Marvell announced the acquisition of Polariton Technologies, a Swiss ETH Zurich spin-out that develops plasmonics-based silicon photonics devices. Polariton's technology enables ultra-high-density, low-power optical links for 3.2T+ data center interconnect (DCI) applications including ZR and ZR+ coherent optics. Financial terms not disclosed. This acquisition deepens Marvell's optical technology stack — SerDes + DSP + now plasmonics — for the co-packaged optics transition that AI data centers are moving toward. Source: Marvell Newsroom / Data Center Dynamics / Photonics Spectra, 2026-04-22. *Thesis bearing: Confirms — extends Marvell's IP moat in optical interconnect at exactly the point where AI cluster bandwidth demands are scaling beyond what electrical interconnects can support.*
+
+**Stock and valuation update:** MRVL hit all-time high of $182 on May 14 on the Alphabet chip report. TD Cowen doubled price target to $180. Up 135%+ since early March 2026. May 27 earnings: analysts expect FY2027 guidance raised ($11.12B est.) and FY2028 guide (~$15.35B). Source: FX Leaders / CoinCentral, 2026-05-14. *Note: Insider selling of $27.9M in last 3 months continues — elevated multiples + insider selling = elevated expectations already priced in; earnings execution is critical.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume

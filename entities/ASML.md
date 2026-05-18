@@ -112,6 +112,16 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 ---
 
+### 2026-05-18
+
+**Apple-Intel foundry talks — potential €1.8B–€4.6B in ASML orders:** Reports indicate Apple and Intel are in discussions about a foundry arrangement where Intel manufactures Apple chips. Bank of America estimates this could generate €1.8B–€4.6B in new EUV tool orders for ASML, depending on scope (iPhone chips would be the high-end scenario). BofA now forecasts 65 Low-NA EUV shipments in 2026 and 85 in 2027 — above ASML's own guidance floor of 60 and 80 respectively. Source: Yahoo Finance / ad-hoc-news.de / Simply Wall St, 2026-05. *Thesis bearing: Confirms — an Intel foundry revival anchored by Apple would be a multi-billion-euro order catalyst for ASML, extending EUV demand beyond TSMC and SK Hynix. No signed contract yet; treat as upside optionality.*
+
+**€80M share buyback announced:** ASML announced an €80 million buyback program, reflecting management confidence at current valuation levels. Source: ad-hoc-news.de, 2026-05. *Minor signal: Returns capital while ASML remains the monopoly equipment supplier — no strategic concern.*
+
+**High-NA EUV mass production timeline — 2027–2028:** ASML CEO Christophe Fouquet confirmed High-NA EUV mass production is targeted for 2027–2028. Intel's 14A risk production begins 2027, with mass production 2028. ASML confirmed first High-NA EXE:5200 shipment (to Intel) in 2025; Intel completed second-generation High-NA EUV acceptance testing December 2025. TSMC is a second High-NA customer for A16 and beyond. Source: TrendForce / Bits&Chips / FinancialContent, 2025–2026. *Thesis bearing: Confirms — High-NA EUV extends ASML's monopoly and price-per-machine economics (~€350–400M per unit) through the entire 10-year investment horizon.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — primary customer; TSMC CapEx guides ASML demand 12–18 months ahead
