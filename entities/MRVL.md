@@ -120,6 +120,16 @@ Source: TheStreet, 2026-05.
 
 ---
 
+### 2026-05-19
+
+**NVIDIA $2B strategic investment in Marvell (late March 2026 — previously uncaptured):** NVIDIA invested $2 billion in Marvell in late March 2026 — a strategic stake, not just a supply relationship. This positions Marvell as a critical NVDA ecosystem partner: Marvell co-designs the networking silicon and custom ASICs that connect and complement NVIDIA GPU clusters. Following NVIDIA's investment came AMD's $6.5M equity disclosure (May 18), meaning both of Marvell's major compute-silicon competitors have now taken financial stakes. Source: Motley Fool / TheStreet / Intellectia, 2026-05. *Thesis bearing: Strongly confirms — competing semiconductor giants investing in Marvell signals that its connectivity and custom ASIC IP is considered infrastructure-critical across all major AI accelerator architectures. The ecosystem bet hedges across GPU winners.*
+
+**Post-ATH pullback — MRVL at $168.93 (−4.5% on May 18):** Marvell shares pulled back 4.5% to $168.93 from the ATH of $182 reached on May 14 (Alphabet co-design news). GF Value model flags 63.9% overvaluation vs. intrinsic value ~$103. Source: GuruFocus, 2026-05-18. *Assessment: Pullback from ATH on no new negative news suggests the $182 move was partly spec-driven by the Alphabet leak. The forward revenue trajectory ($11.12B FY2027 estimate, $15.35B FY2028 estimate) is what matters — execution at May 27 earnings is the key test.*
+
+**Q1 FY2027 earnings — May 27 (8 days out):** Marvell reports Q1 FY2027 on May 27, 2026. Analysts expect FY2027 guidance raised alongside strong AI custom silicon commentary. The primary watch items: AI/data center revenue split, Google TPU/MPU design win confirmation, and any capacity allocation visibility for custom ASIC production at TSMC. Source: FX Leaders / CoinCentral, 2026-05-14.
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume

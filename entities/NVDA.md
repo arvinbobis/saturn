@@ -127,6 +127,18 @@ NVIDIA has priority access to TSMC's most advanced nodes and CoWoS packaging cap
 
 ---
 
+### 2026-05-19
+
+**US H200 clearance granted to 10 Chinese firms — deliveries in limbo:** The US Department of Commerce cleared approximately 10 Chinese companies — including Alibaba, Tencent, and ByteDance — to purchase NVIDIA H200 chips, capped at 75,000 units per customer. However, no deliveries have been completed; the deal remains stalled due to Beijing's supply chain regulations and ongoing US-China tech policy friction. Source: CNBC / Taipei Times, 2026-05-14–15. *Thesis bearing: Ambiguous — US clearance is constructive for NVDA China revenue recovery, but Beijing's blocking is the immediate constraint. Net: zero HBM/CoWoS impact until physical deliveries occur.*
+
+**Jensen Huang at Trump-Xi summit (May 18) — expects China opening:** NVIDIA CEO Jensen Huang accompanied President Trump on his state visit to China and stated he expects Chinese authorities to eventually allow US AI chip imports. Huang confirmed NVIDIA has received purchase orders from Chinese customers and is restarting H200 manufacturing for that market. Source: Bloomberg / CNBC, 2026-05-18. *Thesis bearing: Confirms demand appetite; the political pathway for China revenue recovery appears more open than it did two weeks ago. Key risk remains Beijing enforcement unpredictability.*
+
+**Pre-earnings final setup (earnings tonight, May 20 after close):** Wall Street consensus sits at $79.2B revenue (+77% YoY) and $1.78 adjusted EPS. Data Center segment projected at ~$72.8B. Gross margin expected >74%. Market will focus on Q2 FY2027 guidance and commentary on: Blackwell demand, Vera Rubin shipment cadence, China revenue, and whether hyperscaler capex commitments are holding. Stock closed May 19 at $222.32 (−1.33%), with $4.71 pre-market upside. Polymarket prices 97% probability of a beat. Source: S&P Global / Kiplinger / 247WallSt, 2026-05-19. *For the portfolio: Q2 guidance is the primary output to watch — it propagates directly into TSM CoWoS demand and MU HBM capacity allocation for 2H 2026.*
+
+**Hyperscaler capex reaches $725B in 2026 (+77% YoY):** Analysis from Tom's Hardware and Futurum Group puts combined Amazon, Microsoft, Google, and Meta capex for 2026 at $725B, up 77% from 2025, with ~75% ($450B+) directed at AI infrastructure. Individual estimates: Amazon ~$200B, Alphabet ~$175–$185B, Meta ~$115–$135B, Microsoft ~$120B. This is the largest concentrated infrastructure cycle in tech history. Source: Tom's Hardware / Futurum / Yahoo Finance, 2026-05. *Thesis bearing: Strongly confirms — the $725B figure represents 2.3× the ~$320B+ baseline framed in the portfolio thesis. Every dollar flowing into AI infrastructure chips, packaging, memory, and networking benefits one or more of the six satellite picks.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS

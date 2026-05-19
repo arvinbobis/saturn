@@ -10,6 +10,20 @@ Format:
 
 ---
 
+## [2026-05-19] daily-scan
+
+Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET
+Notable: NVIDIA Q1 FY2027 earnings are tonight (May 20 after close) — the single most anticipated print of the year, with consensus at $79.2B revenue and $1.78 EPS; separately, hyperscaler combined capex for 2026 is now tracking $725B (+77% YoY), more than doubling the $320B+ baseline thesis assumption and representing the strongest macro confirmation of the portfolio thesis to date.
+No significant news: ASML — no new developments beyond May 18.
+
+Entity updates:
+- TSM: Hyperscaler capex $725B (+77% YoY) captured as macro thesis confirmation; CoWoS 80% CAGR underpinned by these commitments
+- MU: Q3 FY2026 guidance $33.5B revenue (+260%) / $18.90 EPS (+1,025%) — highest growth guide in company history; Melius PT raised to $1,100; Micron exiting China data center market (Beijing restrictions — new risk flag)
+- ASML: No update
+- NVDA: US H200 clearance for 10 Chinese firms (75K units each); Jensen Huang at Trump-Xi summit expecting China breakthrough; pre-earnings consensus $79.2B/$1.78; $725B hyperscaler capex confirmation
+- MRVL: NVDA $2B strategic investment (late March, previously uncaptured) added to entity; post-ATH pullback to $168.93 (−4.5%); earnings May 27
+- ANET: XPO MSA optical standard announced — 75% rack reduction, 44% floor space savings; extends Arista into AI optical interconnect layer
+
 ## [2026-05-18] daily-scan
 
 Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET

@@ -128,6 +128,18 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 ---
 
+### 2026-05-19
+
+**Q3 FY2026 guidance — explosive forward: $33.5B revenue (+260%), $18.90 EPS (+1,025%):** Management guided Q3 FY2026 (quarter ending May 2026) revenue of $33.5B (260% YoY growth) and earnings of $18.90 per share (1,025% YoY). This is the steepest quarterly growth guide in Micron's history, driven by HBM and AI server DRAM demand. Source: Motley Fool / TradingKey, 2026-05-15. *Thesis bearing: Strongly confirms — if delivered, Q3 FY2026 will be the single highest-revenue quarter in Micron's history. HBM has structurally separated Micron from the commodity DRAM cycle.*
+
+**Analyst price target escalation — Melius to $1,100, Citi to $840:** Melius Research raised its Micron price target from $700 to $1,100, the highest published target on the street. Citi raised its target to $840 amid DRAM price hike forecasts. Mizuho maintains Buy. Bank of America's prior $950 target is now below consensus. Source: Motley Fool / TradingKey, 2026-05. *Signal: Sell-side PT escalation at this pace typically reflects model upgrades driven by ASP assumptions — watch for realized ASP commentary at Q3 earnings.*
+
+**Micron exiting China data center market — Beijing import restrictions:** Micron is withdrawing from China's data center segment after Beijing restricted Micron products from being used in Chinese data center infrastructure (a national security designation). This is a loss of a historically significant revenue segment. Source: Search results, 2026-05. *Risk bearing: China was ~10–12% of Micron's data center revenue. Near-term headwind, but partially mitigated by: (1) HBM demand from US/EU hyperscalers is absorbing all available capacity anyway; (2) Samsung and SK Hynix (both subject to similar exposure) lose the China market too. Net: modest revenue risk, offset by the HBM allocation reality. Long-term watch: whether Chinese domestic DRAM (CXMT) fills the gap.*
+
+**Stock performance:** Micron up 116.1% YTD and 700%+ over the trailing 12 months as of mid-May 2026. Reflects the full re-rating from commodity DRAM at trough to HBM AI memory provider. Source: Motley Fool, 2026-05-15.
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC CoWoS packages HBM alongside compute dies; CoWoS capacity is the packaging bottleneck

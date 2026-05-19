@@ -113,6 +113,12 @@
 
 ---
 
+### 2026-05-19
+
+**Hyperscaler capex $725B in 2026 (+77% YoY) — portfolio thesis macro confirmation:** Combined Amazon, Microsoft, Google, and Meta capex for 2026 now tracks $725B, up 77% from 2025, with ~75% ($450B+) directed at AI infrastructure. Individual estimates: Amazon ~$200B, Alphabet ~$175–185B, Meta ~$115–135B, Microsoft ~$120B. This is the largest concentrated infrastructure investment cycle in technology history. Source: Tom's Hardware / Futurum / Yahoo Finance, 2026-05. *Thesis bearing: Strongly confirms — this is the macro demand floor beneath every TSMC revenue line. CoWoS capacity growth (80% CAGR through 2027) and N3/N2 node ramps are directly underwritten by these spending commitments. The portfolio's $320B+ framing was conservative; $725B is the updated baseline.*
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips

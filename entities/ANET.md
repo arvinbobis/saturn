@@ -110,6 +110,14 @@ Source: GuruFocus / Search results, 2026-05-15.
 
 ---
 
+### 2026-05-19
+
+**XPO MSA standard announced — AI data center optical interconnect:** Arista announced the XPO (eXternal Pluggable Optics) Multi-Source Agreement (MSA), a new optical packaging standard designed to reduce AI data center networking rack space by up to 75% and floor space by up to 44% vs. traditional pluggable optics. The XPO MSA uses high-density liquid-cooled optics enabling shorter cable runs and lower-power AI scale-up interconnect. This is part of Arista's positioning for the co-packaged optics transition in next-generation AI clusters. Source: Yahoo Finance / SEC Form 8-K / AI Optical Group, 2026-05. *Thesis bearing: Confirms — Arista is not just a switching vendor; it is actively shaping next-gen AI interconnect standards, which entrenches it in the AI data center build-out through the next hardware generation. The rack and floor space efficiency claims address hyperscaler power density constraints, the #1 infrastructure bottleneck.*
+
+**AI Optical Group (already noted May 17) — additional context:** Arista's XPO MSA is the specific product initiative that accompanies its AI Optical Group membership announced May 17. The two items are related: joining the consortium advances the standards that the XPO MSA implements. *Combined reading: Arista is making a structured push into the optical layer of AI networking — moving up the stack from switching to interconnect architecture.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing
