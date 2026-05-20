@@ -3,7 +3,7 @@
 > The dominant AI training hardware company — every major AI model is trained on NVIDIA GPUs.
 > In this portfolio, NVDA is tracked as both a holding and the primary demand signal for TSM and MU.
 
-*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -136,6 +136,14 @@ NVIDIA has priority access to TSMC's most advanced nodes and CoWoS packaging cap
 **Pre-earnings final setup (earnings tonight, May 20 after close):** Wall Street consensus sits at $79.2B revenue (+77% YoY) and $1.78 adjusted EPS. Data Center segment projected at ~$72.8B. Gross margin expected >74%. Market will focus on Q2 FY2027 guidance and commentary on: Blackwell demand, Vera Rubin shipment cadence, China revenue, and whether hyperscaler capex commitments are holding. Stock closed May 19 at $222.32 (−1.33%), with $4.71 pre-market upside. Polymarket prices 97% probability of a beat. Source: S&P Global / Kiplinger / 247WallSt, 2026-05-19. *For the portfolio: Q2 guidance is the primary output to watch — it propagates directly into TSM CoWoS demand and MU HBM capacity allocation for 2H 2026.*
 
 **Hyperscaler capex reaches $725B in 2026 (+77% YoY):** Analysis from Tom's Hardware and Futurum Group puts combined Amazon, Microsoft, Google, and Meta capex for 2026 at $725B, up 77% from 2025, with ~75% ($450B+) directed at AI infrastructure. Individual estimates: Amazon ~$200B, Alphabet ~$175–$185B, Meta ~$115–$135B, Microsoft ~$120B. This is the largest concentrated infrastructure cycle in tech history. Source: Tom's Hardware / Futurum / Yahoo Finance, 2026-05. *Thesis bearing: Strongly confirms — the $725B figure represents 2.3× the ~$320B+ baseline framed in the portfolio thesis. Every dollar flowing into AI infrastructure chips, packaging, memory, and networking benefits one or more of the six satellite picks.*
+
+---
+
+### 2026-05-20
+
+**Q1 FY2027 earnings — tonight after close (results pending):** NVIDIA reports Q1 FY2027 results after market close today. Actual numbers not yet available for this scan; they will be captured in tomorrow's update. Setup: Wall Street consensus $78.8–$79.2B revenue (+77–78% YoY), $1.77–$1.78 adjusted EPS, Data Center >$65B. Q2 FY2027 guidance consensus is ~$87B; the market has flagged that guidance needs to land materially above that to re-rate the stock higher. Options markets priced an 8–10% move in either direction. Source: Kiplinger / HeyGoTrade / TradingKey, 2026-05-20. *Watch for tomorrow: Q2 guidance, Blackwell demand cadence, Vera Rubin supply, and China revenue commentary — these are the portfolio's leading indicators for TSM CoWoS and MU HBM demand through 2H 2026.*
+
+**Pre-earnings rally — stock at $236 (+4.5%), market cap $5.71T:** NVDA rallied 4.5% to $236 heading into the earnings print, capping a ~20% monthly rally. Market cap is $5.71 trillion, making NVIDIA one of the two most valuable public companies in the world. Stock's 52-week range: $129.16–$236.54; closed May 20 near the top of the range. Source: 247WallSt / BitMEX, 2026-05-20. *Context: The pre-earnings rally implies significant beat-and-raise is already priced in — Q2 guidance execution will determine the post-earnings direction.*
 
 ---
 

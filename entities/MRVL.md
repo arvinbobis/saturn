@@ -3,7 +3,7 @@
 > The primary co-designer of custom AI ASICs for hyperscalers —
 > the company that enables Google, Amazon, Microsoft, and Meta to reduce their NVIDIA dependency.
 
-*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -127,6 +127,20 @@ Source: TheStreet, 2026-05.
 **Post-ATH pullback — MRVL at $168.93 (−4.5% on May 18):** Marvell shares pulled back 4.5% to $168.93 from the ATH of $182 reached on May 14 (Alphabet co-design news). GF Value model flags 63.9% overvaluation vs. intrinsic value ~$103. Source: GuruFocus, 2026-05-18. *Assessment: Pullback from ATH on no new negative news suggests the $182 move was partly spec-driven by the Alphabet leak. The forward revenue trajectory ($11.12B FY2027 estimate, $15.35B FY2028 estimate) is what matters — execution at May 27 earnings is the key test.*
 
 **Q1 FY2027 earnings — May 27 (8 days out):** Marvell reports Q1 FY2027 on May 27, 2026. Analysts expect FY2027 guidance raised alongside strong AI custom silicon commentary. The primary watch items: AI/data center revenue split, Google TPU/MPU design win confirmation, and any capacity allocation visibility for custom ASIC production at TSMC. Source: FX Leaders / CoinCentral, 2026-05-14.
+
+---
+
+### 2026-05-20
+
+**Analyst price target surge — B. Riley $205, Melius $220, RBC $200:** Multiple major sell-side upgrades today ahead of May 27 earnings:
+- B. Riley raised PT to $205 from $156, citing faster-than-expected AI spending acceleration and rising hyperscaler capex through 2026–2028
+- Melius Research raised PT to $220 from $140 — the highest published street target on MRVL
+- RBC Capital raised PT to $200, highlighting sustained optical momentum and NVIDIA's investment in Marvell's optical connectivity business
+Source: StocksToTrade / TheStreet, 2026-05-19–20. *Note: Combined with BofA's prior raise to $200, three of the four top-tier banks now have $200+ targets. The consensus has moved ~60–70% above current trading levels in a short period — a sign that the AI ASIC revenue ramp is being priced more aggressively into forward models. Execution at May 27 earnings is critical to sustain this.*
+
+**Stock up 7.01% today — continuing rally:** MRVL shares climbed 7.01% today, adding to gains from the Alphabet co-design news and the broader AI capex confirmation. Stock has gained 135%+ since March 5. Source: StocksToTrade, 2026-05-20. *Valuation note: At $180+ and P/E above 50, MRVL is priced for strong FY2027 and FY2028 execution — the May 27 earnings call needs to confirm the Google co-design timeline and hyperscaler ASIC volumes.*
+
+**Earnings May 27 — 7 days out:** Watch items: (1) AI/Data Center revenue as % of total — expect >70%; (2) Google inference TPU and MPU co-design program confirmation and volume guidance; (3) FY2027 ($11.12B est.) and FY2028 ($15.35B est.) revenue guide; (4) Optical interconnect revenue trajectory following Polariton acquisition. Source: FX Leaders / TheStreet, 2026-05.
 
 ---
 

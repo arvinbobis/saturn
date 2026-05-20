@@ -3,7 +3,7 @@
 > The sole supplier of EUV lithography machines — without ASML, no one makes leading-edge chips.
 > The most upstream chokepoint in the entire semiconductor supply chain.
 
-*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -119,6 +119,14 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 **€80M share buyback announced:** ASML announced an €80 million buyback program, reflecting management confidence at current valuation levels. Source: ad-hoc-news.de, 2026-05. *Minor signal: Returns capital while ASML remains the monopoly equipment supplier — no strategic concern.*
 
 **High-NA EUV mass production timeline — 2027–2028:** ASML CEO Christophe Fouquet confirmed High-NA EUV mass production is targeted for 2027–2028. Intel's 14A risk production begins 2027, with mass production 2028. ASML confirmed first High-NA EXE:5200 shipment (to Intel) in 2025; Intel completed second-generation High-NA EUV acceptance testing December 2025. TSMC is a second High-NA customer for A16 and beyond. Source: TrendForce / Bits&Chips / FinancialContent, 2025–2026. *Thesis bearing: Confirms — High-NA EUV extends ASML's monopoly and price-per-machine economics (~€350–400M per unit) through the entire 10-year investment horizon.*
+
+---
+
+### 2026-05-20
+
+**2026 revenue guidance quantified — €38B (+16% YoY):** ASML raised its 2026 revenue guidance to €38 billion at the midpoint, representing 16% year-over-year growth versus prior guidance of ~11.6% growth. This is a meaningful upward revision to the growth rate — reflecting stronger EUV shipment cadence and service revenue as the installed base grows. Source: ASML Motley Fool / BofA estimates, 2026-05. *Thesis bearing: Confirms — +16% guidance at this scale reflects accelerating EUV adoption driven by TSMC N2 capacity ramp, SK Hynix HBM4 capacity expansion, and the early stages of High-NA EUV volume deliveries.*
+
+**Buy ratings maintained across brokers:** Bernstein, Berenberg Bank, and Erste Group all maintained Buy ratings on ASML in early May 2026. No ratings cuts noted. Stock at ~$1,463–$1,512 range following the May 15 Trump-Xi summit selloff. Source: GF Score analysis / Yahoo Finance, 2026-05. *Minor update — analyst community is holding conviction despite the selloff.*
 
 ---
 

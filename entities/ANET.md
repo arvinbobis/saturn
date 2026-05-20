@@ -3,7 +3,7 @@
 > The dominant vendor for AI data center networking infrastructure —
 > every scale-out GPU cluster needs high-speed, low-latency ethernet switching, and Arista builds it.
 
-*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -115,6 +115,18 @@ Source: GuruFocus / Search results, 2026-05-15.
 **XPO MSA standard announced — AI data center optical interconnect:** Arista announced the XPO (eXternal Pluggable Optics) Multi-Source Agreement (MSA), a new optical packaging standard designed to reduce AI data center networking rack space by up to 75% and floor space by up to 44% vs. traditional pluggable optics. The XPO MSA uses high-density liquid-cooled optics enabling shorter cable runs and lower-power AI scale-up interconnect. This is part of Arista's positioning for the co-packaged optics transition in next-generation AI clusters. Source: Yahoo Finance / SEC Form 8-K / AI Optical Group, 2026-05. *Thesis bearing: Confirms — Arista is not just a switching vendor; it is actively shaping next-gen AI interconnect standards, which entrenches it in the AI data center build-out through the next hardware generation. The rack and floor space efficiency claims address hyperscaler power density constraints, the #1 infrastructure bottleneck.*
 
 **AI Optical Group (already noted May 17) — additional context:** Arista's XPO MSA is the specific product initiative that accompanies its AI Optical Group membership announced May 17. The two items are related: joining the consortium advances the standards that the XPO MSA implements. *Combined reading: Arista is making a structured push into the optical layer of AI networking — moving up the stack from switching to interconnect architecture.*
+
+---
+
+### 2026-05-20
+
+**Analyst PT divergence — TD Cowen to $200, Citi cut to $176:** Sell-side views are diverging post-Q1 earnings:
+- TD Cowen raised PT to $200 from $170 (Outperform) — most bullish on AI fabric doubling to $3.5B in 2026
+- Citi lowered PT to $176 from $186 — noting supply chain shortages are constraining near-term shipments and pressuring margins
+- Consensus from 17 analysts remains Buy at $181.41 average target
+Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlights the real near-term risk — silicon and memory supply shortages are constraining ANET's ability to ship even when demand is strong. This is a timing/margin risk, not a demand risk. Long-term thesis intact.*
+
+**Post-earnings stock recovery context:** ANET shares dropped ~13% after hours following May 5 earnings despite the beat, as the full-year guidance of $11.5B came in below some elevated buy-side expectations. Stock had recovered to ~$142.54 by May 13 (per prior scan entry). The consensus target of $181.41 implies ~27% upside from current levels. Source: FX Leaders / Quiver Quant, 2026-05. *Note: In Arista's case, the post-earnings gap lower on guidance that still beat consensus is characteristic of crowded positioning — not a change in underlying AI networking demand trajectory.*
 
 ---
 

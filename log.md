@@ -10,6 +10,20 @@ Format:
 
 ---
 
+## [2026-05-20] daily-scan
+
+Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET
+Notable: NVDA Q1 FY2027 earnings released after market close tonight (actual results to be captured tomorrow); Micron confirmed shipping initial HBM4 units for NVIDIA's Vera Rubin platform — first HBM4 revenue from Micron and the single most material new thesis datapoint today; Samsung strike confirmed starting May 21 (tomorrow), adding supply-side pressure that further tightens HBM availability through June.
+No significant news: TSM — Needham PT raised to $480 (minor); no new fundamental data until ~June 8 monthly revenue report.
+
+Entity updates:
+- TSM: Needham PT raised to $480; no May revenue report yet (due ~June 8–10)
+- MU: Micron shipping initial HBM4 for Vera Rubin (NEW); Samsung strike begins tomorrow May 21; stock $661–674 range May 19
+- ASML: 2026 guidance quantified at €38B (+16% YoY); buy ratings maintained; stock ~$1,463–1,512
+- NVDA: Pre-earnings rally to $236 (+4.5%), market cap $5.71T; Q1 FY2027 results pending after close tonight
+- MRVL: B. Riley raised PT to $205, Melius to $220, RBC to $200; stock +7.01% today; earnings May 27
+- ANET: TD Cowen raised PT to $200; Citi cut to $176; supply chain shortages noted as near-term margin pressure
+
 ## [2026-05-19] daily-scan
 
 Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET

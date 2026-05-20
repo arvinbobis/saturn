@@ -3,7 +3,7 @@
 > The world's pure-play foundry and the single most critical node in the global AI supply chain —
 > every advanced AI chip, regardless of who designed it, is manufactured here.
 
-*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
 
 **Schema reference:** See `/schemas/claude-tsm.md` for full standing knowledge, entity template guidance, and quarterly review workflow. Read that file before updating this page.
 
@@ -116,6 +116,14 @@
 ### 2026-05-19
 
 **Hyperscaler capex $725B in 2026 (+77% YoY) — portfolio thesis macro confirmation:** Combined Amazon, Microsoft, Google, and Meta capex for 2026 now tracks $725B, up 77% from 2025, with ~75% ($450B+) directed at AI infrastructure. Individual estimates: Amazon ~$200B, Alphabet ~$175–185B, Meta ~$115–135B, Microsoft ~$120B. This is the largest concentrated infrastructure investment cycle in technology history. Source: Tom's Hardware / Futurum / Yahoo Finance, 2026-05. *Thesis bearing: Strongly confirms — this is the macro demand floor beneath every TSMC revenue line. CoWoS capacity growth (80% CAGR through 2027) and N3/N2 node ramps are directly underwritten by these spending commitments. The portfolio's $320B+ framing was conservative; $725B is the updated baseline.*
+
+---
+
+### 2026-05-20
+
+**Needham raises PT to $480:** Needham raised its TSM price target to $480 (from a prior target) following Q1 2026 earnings, joining Barclays ($470, Overweight). Consensus analyst target now sits at $463.45 with 5 Strong Buy, 12 Buy, 2 Hold — no sells. TSM is up ~40% YTD. Source: Search results, 2026-05. *Minor update — PT escalation continues but no new fundamental data today. Next major data point: May 2026 monthly revenue release, expected around June 8–10.*
+
+**No May monthly revenue report yet:** TSMC's May 2026 monthly revenue will not be released until approximately June 8–10, 2026. The most recent report remains April 2026 (NT$410.73B, +17.5% YoY), reported May 8. Source: TSMC Financial Calendar, 2026-05. *Routine tracking note.*
 
 ---
 

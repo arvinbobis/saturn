@@ -3,7 +3,7 @@
 > The only US-headquartered manufacturer of DRAM and NAND at scale —
 > and the company whose investment thesis turns on whether HBM has broken the commodity cycle.
 
-*Last updated: 2026-05-17 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
 
 **Schema reference:** See `/schemas/claude-micron.md` for full standing knowledge, entity template guidance, and quarterly review workflow. Read that file before updating this page.
 
@@ -137,6 +137,16 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 **Micron exiting China data center market — Beijing import restrictions:** Micron is withdrawing from China's data center segment after Beijing restricted Micron products from being used in Chinese data center infrastructure (a national security designation). This is a loss of a historically significant revenue segment. Source: Search results, 2026-05. *Risk bearing: China was ~10–12% of Micron's data center revenue. Near-term headwind, but partially mitigated by: (1) HBM demand from US/EU hyperscalers is absorbing all available capacity anyway; (2) Samsung and SK Hynix (both subject to similar exposure) lose the China market too. Net: modest revenue risk, offset by the HBM allocation reality. Long-term watch: whether Chinese domestic DRAM (CXMT) fills the gap.*
 
 **Stock performance:** Micron up 116.1% YTD and 700%+ over the trailing 12 months as of mid-May 2026. Reflects the full re-rating from commodity DRAM at trough to HBM AI memory provider. Source: Motley Fool, 2026-05-15.
+
+---
+
+### 2026-05-20
+
+**Micron shipping initial HBM4 units for Nvidia Vera Rubin — THESIS CONFIRMATION:** Micron has begun shipping initial HBM4 units for NVIDIA's next-generation "Vera Rubin" platform. This is the first confirmed HBM4 shipment from Micron and positions it as a qualified HBM4 supplier alongside SK Hynix at the very start of the Vera Rubin ramp. Vera Rubin is in full production and cloud providers begin taking deliveries in 2H 2026. Source: SK Hynix/Samsung/Micron competitive analysis / Tweaktown, 2026-05. *Thesis bearing: Strongly confirms — Micron's HBM4 qualification for Vera Rubin is the most important new datapoint this scan. It confirms Micron advances to the next HBM generation on schedule, sustaining the sold-out capacity trajectory into 2027. Combined with the Samsung strike beginning tomorrow (May 21), Micron is entering 2H 2026 with maximum leverage over HBM allocation.*
+
+**Samsung strike begins tomorrow (May 21) — final confirmation:** The 18-day Samsung strike is confirmed to begin May 21 (tomorrow), running through approximately June 7. Reports now cite 45,000–61,000 unionized workers participating, with analysts estimating 3–4% disruption to global DRAM supply. Strike coincides directly with the critical HBM4 yield stabilization and shipment expansion window. Source: Fortune / TrendForce, 2026-05-17–20. *Thesis bearing: Strongly confirms — timing of the strike (vs. HBM4 ramp) is maximally disruptive for Samsung's attempt to recover HBM market share. Micron and SK Hynix are the beneficiaries of any order redirection.*
+
+**Stock context — MU at $661–$674 (May 19):** Micron shares traded in the $661–$674 range on May 19, up 700%+ over the trailing 12 months and ~116% YTD. Minor intraday pullback of 4.2% noted on concerns about Western Digital competitive technology announcements — not a thesis-level event. Source: Capital.com / Yahoo Finance, 2026-05-19.
 
 ---
 
