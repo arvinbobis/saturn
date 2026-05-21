@@ -1,7 +1,8 @@
 {
-  "_comment": "Damodaran FCFF inputs for Micron Technology (MU). Populate from Wisesheets 10Y data. Amounts in USD millions.",
+  "_comment": "Damodaran FCFF inputs for Micron Technology (MU). Amounts in USD millions.",
   "_last_updated": "2026-05-21",
-  "_data_source": "Wisesheets — not yet pulled",
+  "_data_source": "Wisesheets — not yet pulled. Agent must search for TTM financials before running DCF.",
+  "_cycle_note": "Use cycle-normalized revenue as base, not peak. FY2023 trough was $15.5B. Current cycle peak ~$38–40B. Normalized mid-cycle ~$25–28B.",
 
   "ticker": "MU",
 
@@ -12,9 +13,23 @@
   "depreciation_usd_m": 0,
   "change_working_capital_usd_m": 0,
   "book_value_debt_usd_m": 0,
+  "book_value_equity_usd_m": 0,
   "cash_usd_m": 0,
+  "non_operating_assets_usd_m": 0,
+  "minority_interests_usd_m": 0,
   "shares_outstanding_m": 1110,
   "current_stock_price": 0,
+
+  "rd_expense_usd_m": 0,
+  "rd_history_usd_m": [],
+  "rd_amortization_years": 5,
+
+  "risk_free_rate": 0.045,
+  "beta_high": 1.3,
+  "beta_stable": 1.0,
+  "equity_risk_premium": 0.049,
+  "pre_tax_cost_of_debt": 0.05,
+  "uncertainty": "high",
 
   "high_growth_years": 10,
   "revenue_cagr_high": 0.20,
@@ -23,15 +38,16 @@
   "stable_ebit_margin": 0.28,
   "sales_to_capital_ratio_high": 0.7,
   "sales_to_capital_ratio_stable": 0.8,
-  "wacc_high": 0.11,
-  "wacc_stable": 0.09,
 
-  "_notes": {
-    "revenue_cagr_high": "20% reflects HBM structural uplift + DRAM recovery cycle. Use cycle-normalized revenue as base, not peak. Bear case: 10-12%.",
-    "target_ebit_margin_high": "38% reflects HBM premium mix at full ramp. Current margin at cycle peak is 47%+ but cycle-normalized is ~25-30%. 38% is an optimistic mid-case assuming HBM structurally raises the floor.",
-    "stable_ebit_margin": "28% reflects a future where HBM is ~30-40% of revenue mix at structurally higher margins. Conservative assumption.",
-    "sales_to_capital_ratio_high": "0.7x — memory is highly capital intensive. CHIPS Act reduces some burden but new fabs are expensive.",
-    "wacc_high": "11% = risk-free 4.5% + beta 1.3 * ERP 4.9% (higher beta reflects commodity cycle volatility)",
-    "effective_tax_rate": "Micron effective tax rate ~12% with CHIPS Act manufacturing credits"
-  }
+  "story_narrative": "Micron's HBM inflection thesis: HBM earns 5–8x standard DRAM ASP on contracted (not spot) pricing. Micron secured NVIDIA Blackwell HBM3E design win — #2 in HBM after SK Hynix. If HBM grows to 30–40% of revenue mix, it structurally raises the margin floor and dampens the severity of future DRAM troughs. FY2023 showed what commodity DRAM alone looks like — $5.8B operating loss. The question is whether HBM is large enough (~10–15% of bit output but 40–50% of revenue at peak) to prevent recurrence. CXMT (China) commoditizing legacy DRAM is a real threat; the thesis holds only if Micron stays in HBM and continues to close on SK Hynix.",
+  "story_revenue_cagr": "20% reflects HBM structural uplift + DRAM recovery cycle from normalized base (~$25B). Bear case 10–12% if HBM ramp stalls or CXMT accelerates commodity cannibalization.",
+  "story_target_margin": "38% assumes HBM premium mix at full ramp. Current cycle peak is 47%+ but cycle-normalized is ~25–30%. 38% is the optimistic mid-case where HBM structurally raises the floor.",
+  "story_growth_years": "10 years — HBM ramp + next memory generation (HBM4). DRAM cycles typically 3–4 years; 10 years captures 2–3 cycles with structural HBM shift.",
+  "story_stable_growth": "3% = global memory market long-run growth. Memory is more commoditized than logic; stable growth can't exceed GDP meaningfully.",
+  "story_stable_margin": "28% reflects a future where HBM is 30–40% of revenue at structurally higher margins. Conservative assumption versus current peak.",
+  "story_s2c_high": "0.7x — memory is highly capital intensive. TSMC-equivalent spending: Micron builds its own fabs. CHIPS Act reduces some burden but new fabs ($10B+) are expensive.",
+  "story_s2c_stable": "0.8x — slight improvement as HBM fabs reach full utilization and incremental capacity needs less greenfield spend.",
+  "story_beta": "1.3 — higher than foundry beta reflects commodity DRAM cycle volatility. DRAM cycles can cut stock price 60–70% trough-to-trough.",
+  "story_rd_cap": "5-year amortization. Memory process node IP (1-beta DRAM, HBM stacking) has useful life of ~5 years before the next node supersedes.",
+  "story_uncertainty": "High — commodity cycle adds severe earnings volatility, CXMT threat is real, and timing the cycle is nearly impossible. Wide MoS required before buying."
 }

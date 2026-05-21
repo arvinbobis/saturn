@@ -1,7 +1,7 @@
 {
-  "_comment": "Damodaran FCFF inputs for TSMC (TSM). Populate from Wisesheets 10Y data. Amounts in USD millions.",
+  "_comment": "Damodaran FCFF inputs for TSMC (TSM). Amounts in USD millions.",
   "_last_updated": "2026-05-21",
-  "_data_source": "Wisesheets — not yet pulled",
+  "_data_source": "Wisesheets — not yet pulled. Agent must search for TTM financials before running DCF.",
 
   "ticker": "TSM",
 
@@ -12,9 +12,23 @@
   "depreciation_usd_m": 0,
   "change_working_capital_usd_m": 0,
   "book_value_debt_usd_m": 0,
+  "book_value_equity_usd_m": 0,
   "cash_usd_m": 0,
+  "non_operating_assets_usd_m": 0,
+  "minority_interests_usd_m": 0,
   "shares_outstanding_m": 5180,
   "current_stock_price": 0,
+
+  "rd_expense_usd_m": 0,
+  "rd_history_usd_m": [],
+  "rd_amortization_years": 5,
+
+  "risk_free_rate": 0.045,
+  "beta_high": 0.9,
+  "beta_stable": 0.8,
+  "equity_risk_premium": 0.049,
+  "pre_tax_cost_of_debt": 0.04,
+  "uncertainty": "medium",
 
   "high_growth_years": 10,
   "revenue_cagr_high": 0.18,
@@ -23,14 +37,16 @@
   "stable_ebit_margin": 0.35,
   "sales_to_capital_ratio_high": 0.9,
   "sales_to_capital_ratio_stable": 1.0,
-  "wacc_high": 0.10,
-  "wacc_stable": 0.08,
 
-  "_notes": {
-    "revenue_cagr_high": "18% reflects AI-driven HPC segment growth, N2 ramp, CoWoS expansion. Downgrade to 12-15% for bear case.",
-    "target_ebit_margin_high": "42% reflects current margin trajectory; overseas fab cost headwind caps upside. Historical range 30-45%.",
-    "sales_to_capital_ratio_high": "0.9x reflects CapEx-intensive foundry model. TSMC spends ~40-50% of revenue on CapEx.",
-    "wacc_high": "10% = risk-free 4.5% + beta 0.9 * ERP 4.9% + geopolitical premium ~1%",
-    "effective_tax_rate": "TSMC effective tax rate ~13% with R&D incentives"
-  }
+  "story_narrative": "TSMC is the AI infrastructure pick-and-shovel. It gets paid on every advanced node chip — GPU, custom ASIC, or otherwise — regardless of which application wins. N2 ramping in 2025, Arizona fabs adding USD supply chain resilience, CoWoS capacity expanding for HBM/GPU stacking. CapEx peaks 2024–2026; as capacity fills, revenue grows into the fixed cost base and FCF expands sharply. The geopolitical premium is real but the moat — sole supplier of leading-edge nodes below 3nm — is essentially unassailable over the investment horizon.",
+  "story_revenue_cagr": "18% reflects HPC/AI segment growing >30% yr/yr dragging blended foundry revenue. N2 at premium ASPs, Arizona adds USD exposure. Bear case 12% if AI CapEx cools.",
+  "story_target_margin": "42% is current trajectory; overseas fab cost headwind (Arizona ~30% more expensive than Taiwan) caps upside. Damodaran would note TSMC's historical range is 30–45% EBIT margin.",
+  "story_growth_years": "10 years: N2 → A16 → next node. Leading-edge nodes have 3–5 year product cycles; 10 years covers 2 full cycles.",
+  "story_stable_growth": "3% = global semiconductor long-run growth. TSMC in stable phase grows with the market.",
+  "story_stable_margin": "35% is the mature foundry equilibrium — enough pricing power to stay above commodity margins but offshore fabs normalize cost structure.",
+  "story_s2c_high": "0.9x reflects foundry's CapEx intensity (~40–50% of revenue). Sales-to-Capital < 1.0 means TSMC must invest nearly as much as revenue it generates.",
+  "story_s2c_stable": "1.0x — as legacy fabs fully depreciate and capacity utilization stabilizes, incremental revenue requires less new capital.",
+  "story_beta": "0.9 — foundry is less cyclical than fabless or memory; backlogged orders reduce volatility. Geopolitical premium pushes beta above pure defensive.",
+  "story_rd_cap": "5-year amortization for process node R&D. Each new node (N2, A16) has a useful IP life of ~5 years before superseded.",
+  "story_uncertainty": "Medium — moat is clear but geopolitical tail risk (Taiwan Strait) creates asymmetric downside that makes wide MoS prudent. Offshore fab execution risk adds uncertainty."
 }

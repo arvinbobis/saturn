@@ -1,0 +1,19 @@
+{
+  "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
+  "last_run_utc": null,
+  "session_count": 0,
+  "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
+  "last_deep_session": null,
+  "next_deep_session": "TSM",
+  "event_queue": [],
+  "_event_queue_note": "Tickers with pending events (earnings released, price move >3%) belong here. Agent processes event_queue before the rotation ticker. Example: [{\"ticker\": \"MU\", \"event\": \"earnings Q3-2026\", \"detected\": \"2026-07-01\"}]",
+  "dcf_last_run": {
+    "TSM":  null,
+    "MU":   null,
+    "ASML": null,
+    "NVDA": null,
+    "MRVL": null,
+    "ANET": null,
+    "ALAB": null
+  }
+}

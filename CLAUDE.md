@@ -2,64 +2,200 @@
 
 A compounding knowledge base for seven AI/semiconductor supply chain companies held as satellite positions in a long-term retirement portfolio.
 
+---
+
+## ⚠ Usage Limit Policy
+
+**If you hit the Claude Pro usage limit at ANY point — STOP immediately.**
+
+Do not retry. Do not start a new search. Do not attempt to commit. Close out cleanly (save any in-progress JSON edits if possible) and exit. The session auto-resumes in the next 4-hour window. Burning tokens past the limit costs real money with no benefit.
+
+---
+
 ## Portfolio Context
 
+- **System name:** SATURN (SATellite retURN)
 - **Goal:** Identify and hold companies that are choke points in the AI/semiconductor supply chain — companies that get paid on the buildout regardless of which application wins at the top of the stack.
 - **Satellite picks:** TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
-- **Decision frequency:** Quarterly — review each entity's Monitoring Checklist, update models, record buy / hold / sell
+- **Decision frequency:** Every 4 hours (agent-driven). Quarterly manual review by portfolio holder.
 - **Investment horizon:** 5–8 years to double (~9–15% CAGR); 10+ year durability required
 - **Companion:** This portfolio runs alongside a 70% IUSG core position (passive S&P 900 Growth, ~8% annual return target)
+- **Savings rate:** ~PHP 80,000/month (~USD 1,333 at 60 PHP/USD)
+
+---
 
 ## Schemas
 
-Each primary entity has a hyperfocused schema file in `/schemas/`. Read the relevant schema before working on TSM or MU:
+Each primary entity has a hyperfocused schema file in `/schemas/`. Read the relevant schema before deep work on TSM or MU:
 
 - `/schemas/claude-tsm.md` — TSMC (TSM). Standing knowledge, moat analysis, CoWoS/node roadmap, geopolitical risk framing.
 - `/schemas/claude-micron.md` — Micron (MU). DRAM cycle mechanics, HBM thesis, CXMT threat, cycle-normalized financials.
 
-## Daily Scan — Agent Instructions
-
-When running the daily scan, work through these steps in order:
+*(ASML, NVDA, MRVL, ANET, ALAB schemas pending — use entity pages and DCF inputs as standing knowledge.)*
 
 ---
 
-### Step 1 — Update prices/dashboard.md
+## 4-Hour Session Structure
 
-Search for current prices for all seven tickers: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB.
-
-Update the `prices/dashboard.md` table with:
-- Current price
-- 1-day % change
-- Any notable price moves (>3% in either direction get a note)
-
-Also update the "Upcoming Catalysts" section — remove any catalysts that have passed and add any newly announced events within 30 days.
+Each session runs through these phases in order. Stop immediately at any point if the usage limit is hit.
 
 ---
 
-### Step 2 — Scan for news (last 24–48 hours) for each stock
+### Phase 1 — Quick Pulse (all 7 tickers, ~5–10 min)
 
-Search for `[TICKER] news`, `[COMPANY] stock news`, and relevant supply chain/industry developments.
+**Run at the start of every session, no exceptions.**
 
-For each stock find:
-- Major company news or announcements
-- Earnings releases or guidance updates
-- Analyst rating or price target changes
-- Industry developments affecting the thesis
+For each of TSM, MU, ASML, NVDA, MRVL, ANET, ALAB:
+1. Search for current price and 1-day % change
+2. Check for any news in the last 24 hours
 
-Also check:
-- **TSMC monthly revenue** (released ~8th–10th each month at pr.tsmc.com)
-- **Samsung HBM quality/qualification updates** (critical for MU thesis)
-- **Hyperscaler CapEx news:** Amazon, Microsoft, Google, Meta
-- **Taiwan Strait geopolitical developments** (affects TSM and ASML)
-- **TrendForce DRAM/NAND pricing** (monthly; critical for MU cycle position)
+**Outcomes from Phase 1:**
+- Update `prices/dashboard.md` with current prices
+- If any ticker moved >3% in either direction: flag it and add to `state/session.json` event_queue with reason
+- If any earnings were released: add to event_queue with `"event": "earnings QN-YYYY"`
+
+**Also check at Phase 1:**
+- Hyperscaler CapEx news: Amazon, Microsoft, Google, Meta
+- Taiwan Strait developments (affects TSM, ASML)
+- TrendForce DRAM pricing update (affects MU)
+- TSMC monthly revenue (released ~8th–10th each month at pr.tsmc.com)
 
 ---
 
-### Step 3 — Update entity pages
+### Phase 2 — Deep Session (1–2 tickers)
 
-For each ticker with material news:
+**Session selection logic (in priority order):**
 
-**Entity page update format — append under `## Recent Updates` with today's date as a sub-heading:**
+1. **Event-driven:** If `state/session.json` has items in `event_queue`, take the first one.
+   - Earnings released → deep earnings analysis session
+   - Price move >3% → investigate cause, update thesis bearing
+2. **Rotation:** If event_queue is empty, take `next_deep_session` from `state/session.json`.
+   - After completing, advance rotation: update `next_deep_session` to the next ticker in `rotation_order`
+
+**What to do in a Deep Session:**
+
+For the selected ticker:
+1. Read the entity page (`entities/[TICKER].md`)
+2. Read the relevant schema if one exists (TSM, MU)
+3. Search for news since the last entity update
+4. For each material development, append to `## Recent Updates` in the entity page:
+
+```markdown
+### YYYY-MM-DD
+
+**[Topic]:** [What happened]. Source: [outlet, date]. *Thesis bearing: [Confirms / Challenges / Neutral] — [one sentence why]*
+```
+
+5. If earnings: update the Financials tables in the entity page
+6. If new analyst price target: add to `prices/dashboard.md`
+
+**Thesis bearing is required on every update.**
+
+---
+
+### Phase 3 — Stories → Numbers + DCF
+
+**Trigger:** Run for the ticker from Phase 2 IF any of these are true:
+- Earnings were just processed (new financial data available)
+- The last DCF run was >30 days ago (check `state/session.json` dcf_last_run)
+- A material thesis-changing event occurred
+
+**Steps:**
+
+1. **Synthesize the story** — read the entity page's Recent Updates section. What is the current narrative? Write it in 2–3 sentences.
+
+2. **Derive assumptions from the story** — open `valuation/inputs/[TICKER].json`. Review the `story_narrative` and `story_*` justification fields. Update them to reflect the current wiki state. The DCF number is only as good as the story backing it.
+
+3. **Search for financial inputs** — search the web for TTM financials:
+   - Revenue (TTM or most recent fiscal year)
+   - EBIT / Operating Income
+   - CapEx and D&A
+   - Change in Working Capital
+   - Book value of debt and equity
+   - Cash and equivalents
+   - Shares outstanding
+   - Current stock price
+   - R&D expense (last 3–5 years for rd_history_usd_m)
+   Update the JSON file with these values.
+
+4. **Run the DCF model:**
+   ```
+   python3 valuation/dcf_model.py [TICKER]
+   ```
+   Output goes to `valuation/outputs/[TICKER]-dcf.md`
+
+5. **Update `state/session.json`** — set `dcf_last_run.[TICKER]` to today's date.
+
+**If revenue is 0 in the JSON, the model skips gracefully — don't force a run without real data.**
+
+---
+
+### Phase 4 — Update decisions/tracker.md
+
+After Phase 3 (or whenever a new DCF output exists), update the `decisions/tracker.md` table:
+
+| Column | Source |
+|--------|--------|
+| Price | Phase 1 price search |
+| Intrinsic Value | DCF output (or last run value if not re-run this session) |
+| MoS | (IV − Price) / Price × 100 |
+| Rec | BUY / WAIT / HOLD / SELL from DCF recommendation() logic |
+| Story (one line) | Distilled from story_narrative in the JSON |
+| Last DCF | Date from state/session.json dcf_last_run |
+
+**Update all 7 rows** — use cached values from previous sessions for tickers not run this session. Never leave a row blank if prior data exists.
+
+Append a one-paragraph session note under `## Notes from Last Session`. Include:
+- Ticker(s) reviewed in depth
+- Most significant news finding
+- Whether the DCF changed the recommendation
+
+Also append one line to `## Session History`.
+
+---
+
+### Phase 5 — Lint & Link
+
+Quick scan for quality gaps (5 min max):
+
+1. **Missing data audit:** For each ticker, check if any entity page section is empty or says "pending." Flag the most critical gap in the session note.
+2. **Broken cross-links:** Scan entity pages for `[[concept]]` links. Verify the concept exists in `/concepts/`. Flag broken links.
+3. **Stale catalysts:** Check `prices/dashboard.md` Upcoming Catalysts. Remove any catalysts whose date has passed. Note outcome.
+4. **DCF health check:** If any ticker has `current_revenue_usd_m: 0` in its JSON and the last DCF run is null, flag it as "needs financial data" in the tracker notes.
+
+---
+
+### Phase 6 — Commit & Stop
+
+**Only commit if there is material content to save.**
+
+Material = any of: entity page updated, DCF model run, tracker.md changed, financial data added to JSON, price data updated.
+
+If prices moved <2% and no news found and no DCF run: skip commit.
+
+```
+git config user.email "saturn-agent@noreply.com"
+git config user.name "Saturn Agent"
+git remote set-url origin https://arvinbobis:${GITHUB_PAT}@github.com/arvinbobis/saturn
+git add -A
+git commit -m "scan: YYYY-MM-DD HH:MM UTC — [ticker] deep session"
+git push
+```
+
+If git push fails: print the error and stop. Do not retry.
+
+**After commit (or skip): update `state/session.json`:**
+- Set `last_run_utc` to current UTC timestamp
+- Increment `session_count`
+- Update `next_deep_session` if rotation advanced
+
+Then stop. The session is complete.
+
+---
+
+## Entity Page Update Format
+
+Append under `## Recent Updates` with today's date as a sub-heading:
 
 ```markdown
 ### YYYY-MM-DD
@@ -68,25 +204,27 @@ For each ticker with material news:
 ```
 
 **Also update structured sections when new data is available:**
-- If earnings were reported: update the Financials tables in the entity page (Revenue, Gross Margin, Operating Margin, FCF)
+- If earnings were reported: update the Financials tables in the entity page
 - If HBM market share data is available: update the HBM Market Share table in MU.md
 - If a catalyst has played out: move it from Active to Archived Catalysts with the outcome noted
-- If a new analyst price target was issued: add it to `prices/dashboard.md` Analyst Targets section
+- If a new analyst price target was issued: add it to `prices/dashboard.md`
 
-**Thesis bearing is required** for every update — always state whether the development Confirms, Challenges, or is Neutral to the investment thesis, and why in one sentence.
+**Thesis bearing is required** on every update — always state whether the development Confirms, Challenges, or is Neutral to the investment thesis, and why in one sentence.
 
 ---
 
-### Step 4 — Update log.md
+## Log Format
 
-Append one entry per scan:
+Append to `log.md` at the end of each session:
 
 ```markdown
-## [YYYY-MM-DD] daily-scan
+## [YYYY-MM-DD HH:MM UTC] session-N
 
-Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: [TICKER] — [event-driven reason or "rotation"]
 Notable: [1–2 sentences on the single most significant finding]
 No significant news: [list tickers with nothing notable]
+DCF run: [TICKER] — IV $X.XX, MoS +/-X%, Rec: [BUY/WAIT/HOLD/SELL]
 
 Entity updates:
 - [TICKER]: [one-line summary of what was updated]
@@ -94,53 +232,12 @@ Entity updates:
 
 ---
 
-### Step 5 — Update index.md
-
-Update the "Last Updated" date for any entity page that was modified today.
-
----
-
-### Step 6 — Run DCF model (Quarterly — when earnings data is fresh)
-
-**Trigger:** Run after any quarterly earnings report for TSM, MU, ASML, NVDA, MRVL, or ANET.
-
-Steps:
-1. Read `valuation/inputs/[TICKER].json`
-2. Search for the key financial inputs from the most recent earnings: Revenue, EBIT/Operating Income, CapEx, D&A, shares outstanding, current stock price
-3. Update the JSON file with the new data
-4. Run: `python3 valuation/dcf_model.py [TICKER]`
-5. The model outputs to `valuation/outputs/[TICKER]-dcf.md`
-6. Append the DCF summary (Intrinsic Value, Current Price, Margin of Safety) to the entity's Investment View section
-
-**Note:** The DCF model requires Python 3. No external packages needed.
-
----
-
-### Step 7 — Commit and push
-
-Run exactly in this order:
-```
-git config user.email "saturn-agent@noreply.com"
-git config user.name "Saturn Agent"
-git remote set-url origin https://arvinbobis:${GITHUB_PAT}@github.com/arvinbobis/saturn
-git add -A
-git commit -m "scan: YYYY-MM-DD daily update"
-git push
-```
-
-**Scope:** Only commit when there is something material to update. If no meaningful news was found for any ticker and prices moved less than 2%, skip the commit.
-
-If git push fails, print the error and stop. Do not retry.
-
----
-
 ## Conventions
 
 - **Dates:** YYYY-MM-DD everywhere. Quarterly labels: 2026-Q1, 2026-Q2, etc.
 - **Cross-links:** `[[TICKER]]` or `[[concept-name]]` for internal references
-- **Currency:** USD throughout
+- **Currency:** USD throughout (convert EUR/TWD/JPY at prevailing rate, note the rate)
 - **Thesis bearing:** every news update must have one — Confirms / Challenges / Neutral + one sentence why
 - **Sources:** cite outlet and date inline with every data point
 - **Decision Log:** append-only in each entity page. Never edit past entries.
-- **Wisesheets data:** note pull date whenever citing financial figures
 - **Usage limits:** If you hit any API rate limit or usage constraint, stop immediately. Do not retry.
