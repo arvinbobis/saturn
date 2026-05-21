@@ -7,20 +7,21 @@ Daily snapshot updated by the Saturn agent each morning.
 
 ## Current Prices
 
-*Last updated: 2026-05-21 by agent (Session 1)*
+*Last updated: 2026-05-21 by agent (Session 2)*
 
 | Ticker | Company | Price | 1D % | 1W % | 1M % | 52W Range | Market Cap |
 |---|---|---|---|---|---|---|---|
-| TSM | TSMC | $402.48 | +0.21% | — | — | $190.06–$421.90 | $2.05T |
-| MU | Micron | $748.10 | +3.88% | — | — | ~$55–$819 | ~$830B |
-| ASML | ASML | $1,541.00 | -0.52% | — | — | $683.48–$1,603.49 | ~$663B |
-| NVDA | NVIDIA | $220.66 | -1.26% (AH) | — | — | $129.16–$236.54 | ~$5.36T |
-| MRVL | Marvell | $176.27 | +4.34% | — | — | ~$90–$192 | ~$150B |
+| TSM | TSMC | $401.62 | +0.21% | — | — | $190.06–$421.97 | $2.05T |
+| MU | Micron | $744.68 | +3.88% | — | — | ~$55–$818.67 | ~$830B |
+| ASML | ASML | $1,597.00 | +3.04% | — | — | $683.48–$1,603.49 | ~$690B |
+| NVDA | NVIDIA | $219.45 | -1.26% | — | — | $129.16–$236.54 | ~$5.34T |
+| MRVL | Marvell | $175.64 | +4.34% | — | — | ~$90–$192 | ~$150B |
 | ANET | Arista | $145.93 | +3.86% | — | — | $83.86–$179.80 | ~$46B |
-| ALAB | Astera Labs | $288.06 | +1.10% | — | — | — | $49.23B |
+| ALAB | Astera Labs | $288.06 | +1.10% | — | — | $80–$295 | $49.23B |
 
-*⚑ Price movers >3% this session: MU (+3.88%), MRVL (+4.34%), ANET (+3.86%). NVDA AH reaction -1.26% post Q1 FY2027 earnings beat.*
-*ASML USD price ~$1,541; EUR price €1,326 (EUR/USD ~1.163, prev close €1,333).*
+*⚑ Price movers >3% (May 21): MU (+3.88%), MRVL (+4.34%), ANET (+3.86%), ASML (+3.04%).*
+*Session 1 captured ASML early-day at -0.52%; confirmed +3.04% end-of-day. ASML May 20–21 two-day gain: +9.5%.*
+*EUR/USD ~1.163; ASML EUR price ~€1,373.*
 
 ---
 
@@ -41,6 +42,7 @@ Daily snapshot updated by the Saturn agent each morning.
 
 | Ticker | Event | Expected Date | Notes |
 |---|---|---|---|
+| MU | Samsung Union Vote | 2026-05-22–27 | Samsung workers vote on tentative wage deal; outcome determines whether strike risk is fully resolved |
 | MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move; NVDA $2B investment |
 | TSM | May Monthly Revenue | ~2026-06-08 | Monthly revenue release; leading AI demand signal |
 
@@ -56,6 +58,7 @@ Daily snapshot updated by the Saturn agent each morning.
 | TSM | Needham | $480 | Buy | 2026-05-20 |
 | MU | Bank of America | $950 | Buy | 2026-05-17 |
 | MU | Melius | $1,100 | Buy | 2026-05-19 |
+| MU | HSBC | $1,100 | Buy | 2026-05-21 |
 | ASML | UBS | €1,900 | Buy | 2026-05-21 |
 | MRVL | Melius | $220 | Buy | 2026-05-20 |
 | MRVL | B. Riley | $205 | Buy | 2026-05-20 |

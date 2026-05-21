@@ -10,6 +10,28 @@ Format:
 
 ---
 
+## [2026-05-21 ~01:00 UTC+4h] session-2
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MU — event-driven (price move +3.88%, Samsung strike Day 1 / preliminary agreement)
+Notable: Samsung's 18-day strike was AVERTED via tentative wage deal on May 21, suspending the walkout before material DRAM disruption. Union member vote May 22–27. MU DCF first run: IV $268.33 vs. current $744.68 → MoS -64%, SELL/AVOID under high-uncertainty framework. Stock is priced for 25%+ revenue CAGR from a $58.1B peak-cycle base — an extremely aggressive implied assumption.
+Price movers >3% (new): ASML +3.04% (May 21 close, correcting Session 1 early-day reading of -0.52%); ASML two-day gain May 20-21 = +9.5%
+No significant news: TSM (flat -0.21%), NVDA (-1.26% continuation of post-earnings sell-the-news), MRVL (-0.36%), ANET (-2.98%), ALAB (-0.20%)
+DCF run: MU — IV $268.33, MoS -64.0%, Rec: SELL/AVOID (high uncertainty)
+
+Entity updates:
+- MU.md: Added Samsung strike AVERTED update (2026-05-21, thesis bearing: Challenges). Last updated timestamp refreshed.
+- MU.json: All financial fields populated from Q2 FY2026 actuals — TTM revenue $58.1B, TTM EBIT ~$28.3B (peak cycle), cash $13.9B, debt $10.1B, shares 1,142M
+- dashboard.md: ASML price corrected to $1,597 (+3.04%); HSBC $1,100 MU target added; Samsung union vote catalyst added; price mover flag updated
+- tracker.md: MU row populated with IV $268.33 / MoS -64% / SELL/AVOID; Session 2 note appended; ASML price corrected to $1,597
+- state/session.json: session_count 1→2; MU removed from event_queue; ASML added to event_queue; dcf_last_run.MU = 2026-05-21; last_run_utc updated
+
+Lint findings:
+- 5 of 7 tickers still have current_revenue_usd_m = 0 in DCF inputs: TSM, ASML, MRVL, ANET, ALAB
+- Most critical: TSM (next rotation, schema exists) and ASML (in event queue, earnings data available)
+- MRVL earnings May 27 will unlock financial data for that ticker
+- No broken cross-links found; concepts/HBM.md, concepts/dram-cycle.md all exist from init
+
 ## [2026-05-21 21:00 UTC] session-1
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

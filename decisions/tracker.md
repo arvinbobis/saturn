@@ -2,8 +2,8 @@
 
 *Updated by the agent each 4-hour session. Single source of truth for buy / wait / hold / sell across all 7 satellite positions.*
 
-Last updated: 2026-05-21  
-Session #: 1
+Last updated: 2026-05-21 (Session 2)
+Session #: 2
 
 ---
 
@@ -12,10 +12,10 @@ Session #: 1
 | Ticker | Price | Intrinsic Value | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----------------|-----|-----|------------------|----------|
 | TSM    | $402.48 | —             | —   | —   | Sole leading-edge foundry; CoWoS packaging monopoly underpins every AI GPU | — |
-| MU     | $748.10 | —             | —   | —   | HBM3E sold out through 2026; Samsung strike boosts supply thesis; HBM4 ramp underway | — |
-| ASML   | $1,541.00 | —           | —   | —   | Only EUV supplier; China sales declining but AI-driven WFE cycle remains intact | — |
-| NVDA   | $220.66 | **$156.27**   | **-29.2%** | **SELL/AVOID** | CUDA-moated AI GPU dominance; Q2 guided $91B; priced for perfection at $5.3T | 2026-05-21 |
-| MRVL   | $176.27 | —             | —   | —   | Custom ASIC co-design for hyperscalers; NVDA $2B investment; earnings May 27 | — |
+| MU     | $744.68 | **$268.33**   | **-64.0%** | **SELL/AVOID** | HBM supercycle peak: Q2 $23.86B rev, 75% GM; sold out 2026; Samsung strike averted May 21 | 2026-05-21 |
+| ASML   | $1,597.00 | —           | —   | —   | Only EUV supplier; Q1 FY2026 beat + raised guidance; AI WFE cycle accelerating; +9.5% 2-day | — |
+| NVDA   | $219.45 | **$156.27**   | **-29.2%** | **SELL/AVOID** | CUDA-moated AI GPU dominance; Q2 guided $91B; priced for perfection at $5.3T | 2026-05-21 |
+| MRVL   | $175.64 | —             | —   | —   | Custom ASIC co-design for hyperscalers; NVDA $2B investment; earnings May 27 | — |
 | ANET   | $145.93 | —             | —   | —   | AI data center networking; Q1 revenue +35% YoY; FY2026 $11.5B guide w/ $3.5B AI fabric | — |
 | ALAB   | $288.06 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp driving Scorpio X switches | — |
 
@@ -40,8 +40,19 @@ Pending for next sessions: MU deep session (Samsung strike outcome + HBM4 ramp t
 
 ---
 
+**Session 2 (2026-05-21) — Deep: MU (event-driven: price move +3.88%, Samsung strike Day 1).**
+
+The single most significant finding: **the Samsung strike was AVERTED on May 21 itself** — Samsung's union reached a tentative wage deal and suspended the planned 18-day walkout before it materially disrupted production. Union member vote runs May 22–27. This removes Micron's largest near-term supply disruption catalyst. However, Micron's HBM is contracted and sold out through calendar 2026 regardless; the structural NVDA demand thesis ($91B Q2 guide, $725B hyperscaler capex) is unchanged.
+
+The MU DCF (first run, high-uncertainty) yields **IV $268.33 vs. current price $744.68 → MoS -64% → SELL/AVOID.** This is the most important quantitative output of Session 2. Inputs use TTM actuals: $58.1B revenue (Q3 FY2025–Q2 FY2026), $28.3B EBIT (48.7% margin — peak cycle), 10% revenue CAGR, 35% target EBIT margin at year 10. The sensitivity table shows that $744 is only justified at 25% CAGR + ~10% WACC — implying the market is pricing MU to grow revenue from $58.1B to ~$560B in 10 years. The DCF does not model a cycle trough and recovery (the model projects monotonically from current peak), so the true cycle-adjusted IV may be even lower. Key interpretation: at $744, MU is priced as a perpetual-growth technology company, not a cyclical memory IDM. The HBM structural thesis is real and confirmed — but the valuation leaves no margin of safety. Recommendation: WAIT/AVOID at current price; re-assess at cycle trough entry or after Samsung union vote outcome.
+
+ASML correction: Session 1 captured ASML at -0.52% early day; confirmed May 21 close was +3.04% → updated to $1,597. ASML's two-day gain May 20–21 was +9.5%, driven by Q1 beat and raised full-year guidance. ASML added to event queue for next session's deep review. No recommendation change for NVDA (IV $156 vs. $219 — unchanged).
+
+---
+
 ## Session History
 
 | Session | Date/Time UTC | Deep Ticker | Trigger | Most Significant Finding |
 |---------|--------------|-------------|---------|--------------------------|
 | 1 | 2026-05-21 ~21:00 | NVDA | event: Q1 FY2027 earnings | NVDA Q1 $81.6B (+85% YoY), Q2 guide $91B; AI infra capex cycle accelerating; DCF IV $156.27 (SELL/AVOID) |
+| 2 | 2026-05-21 ~01:00+4h | MU | event: price move +3.88%, Samsung strike Day 1 | Samsung strike AVERTED via tentative deal; MU DCF IV $268.33 vs. $744.68 → -64% MoS SELL/AVOID; ASML +9.5% two-day corrected |
