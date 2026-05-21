@@ -10,6 +10,21 @@ Format:
 
 ---
 
+## [2026-05-21 21:00 UTC] session-1
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA — event-driven (Q1 FY2027 earnings released after close May 20)
+Notable: NVIDIA Q1 FY2027 beat was historic — $81.6B revenue (+85% YoY), Data Center $75B (+92% YoY), Q2 guide $91B vs. $85–87B consensus; DCF model yields IV $156.27 (MoS -29.2%, SELL/AVOID at high uncertainty); simultaneously hyperscaler capex confirmed at $725B for 2026 (+77% YoY), the single strongest macro confirmation of the portfolio thesis.
+Price movers >3%: MU +3.88% (Samsung strike preliminary agreement), MRVL +4.34% (analyst upgrades + NVDA $2B investment), ANET +3.86% (NVDA read-through)
+No significant news: TSM (+0.21%), ASML (-0.52%), ALAB (+1.10%) — no material single-session news beyond ongoing trends
+DCF run: NVDA — IV $156.27, MoS -29.2%, Rec: SELL/AVOID (high uncertainty)
+
+Entity updates:
+- NVDA: Added post-earnings reaction (AH -1.26%), $80B buyback + 25× dividend raise, and DCF result (IV $156.27, MoS -29.2%) to Recent Updates
+- dashboard.md: Updated all 7 prices; added ALAB RBC $250 PT; noted April TSMC revenue catalyst resolved
+- session.json: session_count 0→1; event_queue populated with MU/MRVL/ANET movers; dcf_last_run NVDA = 2026-05-21
+- tracker.md: Session 1 portfolio snapshot populated; NVDA DCF result recorded; session note written
+
 ## [2026-05-21] daily-scan
 
 Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET

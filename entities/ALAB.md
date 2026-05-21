@@ -136,6 +136,22 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 
 ---
 
+## Recent Updates
+
+### 2026-05-21
+
+**Q1 2026 record revenue — $308.4M:** Astera Labs reported Q1 2026 revenue of $308.4M with net income of ~$80.3M (net margin >25%), gross margin ~75.7%. The company carries no long-term debt and holds ~$1.18B in cash and short-term investments. This confirms the business is both high-growth and profitable — a rare combination at this stage of the AI infrastructure buildout. Source: StocksToTrade / TimothySykes / InsiderMonkey, 2026-05-20. *Thesis bearing: Confirms — record quarterly revenue with expanding margins validates the thesis that AI cluster scale-out is translating directly into ALAB revenue; the cash-rich, debt-free balance sheet reduces dilution risk.*
+
+**Amazon Trainium3 ramp — Scorpio X switch design win:** RBC Capital reiterated Outperform and raised price target from $225 to $250, citing Amazon's preparation to ramp its Trainium3 AI chips. RBC analyst Srini Pajjuri expects Astera's Scorpio X switches to ramp into Amazon Trainium3 racks in Q3 2026, tied to Amazon's expanded partnership with Anthropic. The AWS AI infrastructure buildout tied to the Amazon-Anthropic deal is a direct demand signal for ALAB's connectivity layer. Source: RBC / InsiderMonkey / TipRanks, 2026-05-20. *Thesis bearing: Confirms — a named Amazon Trainium3 design win (via RBC channel checks) upgrades ALAB from "hyperscaler connectivity supplier" to "named ramp partner in the most watched AI infrastructure program at AWS in 2026." Scorpio X switch ramping in Q3 provides near-term revenue visibility.*
+
+**+57% stock rally (Apr 28 → May 20):** ALAB rose from ~$183 on April 28 to ~$285 on May 20 — approximately +57% in three weeks — driven by the Amazon Trainium3 ramp visibility and broader AI infrastructure enthusiasm from NVDA's blowout earnings. Market cap reached $49.23B on May 21 at $288.06. Source: StockAnalysis, 2026-05-21. *Thesis bearing: Neutral — the thesis is confirmed by the design win; the rapid multiple expansion creates valuation risk if near-term execution disappoints. Not a BUY trigger at current price without DCF validation.*
+
+**Analyst coverage — Barclays and Citi target raises:** Barclays and Citi also raised price targets citing strong product portfolio ramp-up, complementing the RBC move. Source: StocksToTrade, 2026-05-20. *Thesis bearing: Confirms — broad analyst upgrades suggest institutional awareness of the Amazon Trainium3 design win is widening.*
+
+**Hyperscaler capex backdrop — $725B in 2026:** Combined Amazon, Microsoft, Google, and Meta capex for 2026 is tracking $725B (+77% YoY), with Amazon alone at ~$200B. AWS Trainium3 is the primary ALAB growth lever within this — ALAB's Scorpio X switch is the connectivity layer for Amazon's most important AI accelerator. Source: Tom's Hardware / Futurum Group, 2026-05. *Thesis bearing: Confirms — the macro backdrop is the strongest in the portfolio's history; ALAB's Amazon Trainium3 design win positions it directly within the largest single hyperscaler AI spend.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — primary indirect customer; Blackwell/Vera Rubin GPU clusters drive ALAB demand

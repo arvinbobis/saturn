@@ -1,17 +1,21 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": null,
-  "session_count": 0,
+  "last_run_utc": "2026-05-21T21:00:00Z",
+  "session_count": 1,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": null,
+  "last_deep_session": "NVDA",
   "next_deep_session": "TSM",
-  "event_queue": [],
+  "event_queue": [
+    {"ticker": "MU",   "event": "price move +3.88% — Samsung strike preliminary agreement, HBM demand surge", "detected": "2026-05-21"},
+    {"ticker": "MRVL", "event": "price move +4.34% — multiple analyst target hikes, NVIDIA $2B strategic investment", "detected": "2026-05-21"},
+    {"ticker": "ANET", "event": "price move +3.86% — NVDA earnings read-through, AI networking demand confirmation", "detected": "2026-05-21"}
+  ],
   "_event_queue_note": "Tickers with pending events (earnings released, price move >3%) belong here. Agent processes event_queue before the rotation ticker. Example: [{\"ticker\": \"MU\", \"event\": \"earnings Q3-2026\", \"detected\": \"2026-07-01\"}]",
   "dcf_last_run": {
     "TSM":  null,
     "MU":   null,
     "ASML": null,
-    "NVDA": null,
+    "NVDA": "2026-05-21",
     "MRVL": null,
     "ANET": null,
     "ALAB": null

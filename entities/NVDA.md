@@ -162,6 +162,12 @@ Source: CNBC / Quiver Quantitative / StockTitan / Motley Fool Transcript, 2026-0
 
 **Portfolio read-through:** Q2 guidance of $91B, up from Q1's $81.6B, requires proportionally more TSMC CoWoS capacity and HBM from Micron/SK Hynix. The cadence: NVDA guidance → TSM CoWoS ramp → MU HBM contract extensions → ASML machine orders (18-month lag). All four are directly connected.
 
+**$80B share repurchase + 25× dividend hike:** Alongside earnings, NVIDIA announced $80B in additional buyback authorization and raised its quarterly dividend from $0.01 to $0.25/share — a 25× increase. Source: NVIDIA 8-K, 2026-05-20. *Thesis bearing: Confirms — management is signaling that FCF generation ($96.7B in FY2026) is sustainable and durable enough to return capital at scale. This is the behavior of a structurally profitable monopoly, not a cyclical hardware vendor.*
+
+**Post-earnings stock reaction:** NVDA fell ~1.26% after hours following the print, despite the significant beat-and-raise. Intraday price on May 21: $220.66 (52-week range $129.16–$236.54). The muted reaction reflects that the consensus (97% Polymarket beat probability) had already priced in an extraordinary quarter — incremental upside required guidance materially above the ~$90B whisper. $91B guidance landed at the whisper, not above it. Source: Reuters / CNBC / Polymarket, 2026-05-21. *Thesis bearing: Neutral — the execution is exceptional; the stock's non-reaction is a valuation signal, not a thesis signal.*
+
+**DCF valuation — Session 1 (2026-05-21):** Damodaran FCFF model with FY2026 inputs ($215.9B revenue, $137.3B EBIT, 63.6% EBIT margin) and 22% 10-year revenue CAGR assumption yields **Intrinsic Value $156.27 vs. current price $220.66 → MoS -29.2% → SELL/AVOID** under high-uncertainty framework. WACC 13.06% (high growth), 9.88% (stable). Key sensitivity: bull case 30% CAGR → IV ~$210; bear case 15% CAGR → IV ~$110. The DCF reflects conservative mean-reversion of growth from FY2027's ~60% YoY trajectory toward long-run 22%; the stock is priced for a more aggressive scenario. See `valuation/outputs/NVDA-dcf.md`. *Thesis bearing: Challenges market price but not the business thesis — NVDA is the strongest business in this portfolio; it is simply priced for perfection. Hold if already owned; do not add at current levels.*
+
 ---
 
 ## Cross-links
