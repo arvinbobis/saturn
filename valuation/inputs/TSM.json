@@ -1,0 +1,36 @@
+{
+  "_comment": "Damodaran FCFF inputs for TSMC (TSM). Populate from Wisesheets 10Y data. Amounts in USD millions.",
+  "_last_updated": "2026-05-21",
+  "_data_source": "Wisesheets — not yet pulled",
+
+  "ticker": "TSM",
+
+  "current_revenue_usd_m": 0,
+  "current_ebit_usd_m": 0,
+  "effective_tax_rate": 0.13,
+  "capex_usd_m": 0,
+  "depreciation_usd_m": 0,
+  "change_working_capital_usd_m": 0,
+  "book_value_debt_usd_m": 0,
+  "cash_usd_m": 0,
+  "shares_outstanding_m": 5180,
+  "current_stock_price": 0,
+
+  "high_growth_years": 10,
+  "revenue_cagr_high": 0.18,
+  "target_ebit_margin_high": 0.42,
+  "stable_growth_rate": 0.03,
+  "stable_ebit_margin": 0.35,
+  "sales_to_capital_ratio_high": 0.9,
+  "sales_to_capital_ratio_stable": 1.0,
+  "wacc_high": 0.10,
+  "wacc_stable": 0.08,
+
+  "_notes": {
+    "revenue_cagr_high": "18% reflects AI-driven HPC segment growth, N2 ramp, CoWoS expansion. Downgrade to 12-15% for bear case.",
+    "target_ebit_margin_high": "42% reflects current margin trajectory; overseas fab cost headwind caps upside. Historical range 30-45%.",
+    "sales_to_capital_ratio_high": "0.9x reflects CapEx-intensive foundry model. TSMC spends ~40-50% of revenue on CapEx.",
+    "wacc_high": "10% = risk-free 4.5% + beta 0.9 * ERP 4.9% + geopolitical premium ~1%",
+    "effective_tax_rate": "TSMC effective tax rate ~13% with R&D incentives"
+  }
+}

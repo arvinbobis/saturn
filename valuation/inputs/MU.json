@@ -1,0 +1,37 @@
+{
+  "_comment": "Damodaran FCFF inputs for Micron Technology (MU). Populate from Wisesheets 10Y data. Amounts in USD millions.",
+  "_last_updated": "2026-05-21",
+  "_data_source": "Wisesheets — not yet pulled",
+
+  "ticker": "MU",
+
+  "current_revenue_usd_m": 0,
+  "current_ebit_usd_m": 0,
+  "effective_tax_rate": 0.12,
+  "capex_usd_m": 0,
+  "depreciation_usd_m": 0,
+  "change_working_capital_usd_m": 0,
+  "book_value_debt_usd_m": 0,
+  "cash_usd_m": 0,
+  "shares_outstanding_m": 1110,
+  "current_stock_price": 0,
+
+  "high_growth_years": 10,
+  "revenue_cagr_high": 0.20,
+  "target_ebit_margin_high": 0.38,
+  "stable_growth_rate": 0.03,
+  "stable_ebit_margin": 0.28,
+  "sales_to_capital_ratio_high": 0.7,
+  "sales_to_capital_ratio_stable": 0.8,
+  "wacc_high": 0.11,
+  "wacc_stable": 0.09,
+
+  "_notes": {
+    "revenue_cagr_high": "20% reflects HBM structural uplift + DRAM recovery cycle. Use cycle-normalized revenue as base, not peak. Bear case: 10-12%.",
+    "target_ebit_margin_high": "38% reflects HBM premium mix at full ramp. Current margin at cycle peak is 47%+ but cycle-normalized is ~25-30%. 38% is an optimistic mid-case assuming HBM structurally raises the floor.",
+    "stable_ebit_margin": "28% reflects a future where HBM is ~30-40% of revenue mix at structurally higher margins. Conservative assumption.",
+    "sales_to_capital_ratio_high": "0.7x — memory is highly capital intensive. CHIPS Act reduces some burden but new fabs are expensive.",
+    "wacc_high": "11% = risk-free 4.5% + beta 1.3 * ERP 4.9% (higher beta reflects commodity cycle volatility)",
+    "effective_tax_rate": "Micron effective tax rate ~12% with CHIPS Act manufacturing credits"
+  }
+}

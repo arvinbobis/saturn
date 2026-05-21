@@ -12,6 +12,7 @@ Last updated: 2026-05-21
 | [[NVDA]] | NVDA | NVIDIA Corporation. AI GPU training dominance. Blackwell architecture. Data center revenue = demand signal for TSM (CoWoS) and MU (HBM). | 2026-05-21 |
 | [[MRVL]] | MRVL | Marvell Technology. Custom ASIC co-design for hyperscalers (Google, Amazon, Microsoft, Meta). Second AI silicon wave beyond NVIDIA. | 2026-05-21 |
 | [[ANET]] | ANET | Arista Networks. AI data center networking infrastructure. Spine-leaf architecture; 400G/800G ethernet; benefits from GPU cluster scale-out. | 2026-05-21 |
+| [[ALAB]] | ALAB | Astera Labs. High-speed PCIe/CXL connectivity chips for AI GPU clusters. CXL memory pooling play. Top Atreides holding ($369M). | 2026-05-21 |
 
 ## Concepts
 
