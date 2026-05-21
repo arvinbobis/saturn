@@ -128,6 +128,12 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 **Post-earnings stock recovery context:** ANET shares dropped ~13% after hours following May 5 earnings despite the beat, as the full-year guidance of $11.5B came in below some elevated buy-side expectations. Stock had recovered to ~$142.54 by May 13 (per prior scan entry). The consensus target of $181.41 implies ~27% upside from current levels. Source: FX Leaders / Quiver Quant, 2026-05. *Note: In Arista's case, the post-earnings gap lower on guidance that still beat consensus is characteristic of crowded positioning — not a change in underlying AI networking demand trajectory.*
 
+### 2026-05-21
+
+**EBO (Expanded Beam Optical) MSA — new AI optical interconnect standard:** Arista joined an industry standards group for next-generation Expanded Beam Optical (EBO) connectivity for AI infrastructure and is participating in a Multi-Source Agreement (MSA) targeting open, interoperable specifications for high-performance optical interconnects. This is distinct from the XPO (eXternal Pluggable Optics) MSA announced May 19 — Arista is now participating in two parallel optical interconnect standard tracks. Source: Search results / stockanalysis.com, 2026-05-21. *Thesis bearing: Confirms — Arista's simultaneous engagement in both the XPO and EBO standard-setting processes positions it to win regardless of which optical packaging approach prevails in AI data centers. The company is not a bystander but an active architect of the next interconnect generation.*
+
+**NVDA Q1 results — AI networking demand validation:** NVIDIA's $75B data center quarter and $91B Q2 guide represent a direct increase in GPU cluster scale-out demand. Every incremental large GPU cluster requires the spine-leaf ethernet fabric that Arista builds — the networking order pipeline should follow the GPU shipment cadence with roughly a 1-quarter lag. Supply chain constraints (silicon and memory shortages noted by Citi) remain the primary near-term margin risk, not demand. Source: See [[NVDA]] 2026-05-21 entry.
+
 ---
 
 ## Cross-links

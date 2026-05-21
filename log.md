@@ -10,6 +10,20 @@ Format:
 
 ---
 
+## [2026-05-21] daily-scan
+
+Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET
+Notable: NVIDIA reported Q1 FY2027 after close on May 20 — $81.6B revenue (+85% YoY), Data Center $75B (+92% YoY), non-GAAP EPS $2.39 (beat $1.79 estimate by 34%), and Q2 FY2027 guidance of $91B vs. $85–87B consensus; simultaneously, Samsung's 18-day strike began today (May 21) with ~45,000 workers at the Pyeongtaek and Hwaseong DRAM fabs, making this the largest semiconductor labor stoppage in history and directly benefiting Micron's HBM contracted position.
+No significant news: ANET — NVDA results confirm AI networking demand; no new ANET-specific developments beyond ongoing optical standards work.
+
+Entity updates:
+- NVDA: Q1 FY2027 actual results: $81.6B revenue, $75B data center, $2.39 EPS, Q2 guide $91B; dividend raised $0.01→$0.25; Jensen Huang: "demand has gone parabolic"
+- TSM: Arizona Fab 21 posted $514M profit in inaugural full year; Q1 2026 alone exceeded that figure; NVDA using Fab 21 for Blackwell accelerators
+- MU: Samsung strike day 1 confirmed; ~45,000 workers; 3–4% DRAM disruption expected; MU premarket +4%; HBM market share updated to SK Hynix 62% / Micron 21% / Samsung 17%
+- ASML: +6.19% on May 20 to $1,549.71; UBS reinstated as Europe's top pick, PT €1,900; High-NA EUV first chips expected in coming months
+- MRVL: pre-market above $185; May 27 earnings consensus $2.40B revenue / $0.79 EPS; options pricing 13% move
+- ANET: joined EBO MSA (second optical standard track alongside XPO MSA); NVDA demand validates AI networking pipeline
+
 ## [2026-05-20] daily-scan
 
 Stocks checked: TSM, MU, ASML, NVDA, MRVL, ANET

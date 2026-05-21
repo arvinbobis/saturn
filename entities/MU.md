@@ -148,6 +148,23 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 **Stock context — MU at $661–$674 (May 19):** Micron shares traded in the $661–$674 range on May 19, up 700%+ over the trailing 12 months and ~116% YTD. Minor intraday pullback of 4.2% noted on concerns about Western Digital competitive technology announcements — not a thesis-level event. Source: Capital.com / Yahoo Finance, 2026-05-19.
 
+### 2026-05-21
+
+**Samsung strike — DAY 1 (today, May 21):** The 18-day strike officially began today with approximately 45,000 unionized workers walking off the job at Samsung's Pyeongtaek and Hwaseong fabs — the largest labor stoppage in semiconductor industry history. Key impact estimates: 3–4% disruption to global DRAM supply, 2–3% NAND disruption, with a 2–3 week restabilization lag after workers return. AI memory prices already up 90–95% QoQ in 2026 before the strike began; any production disruption tightens an already pinched market. Samsung's management preemptively stored ~15,000 wafer pods before the walkout. South Korea's Labor Minister has re-entered talks in a last-ditch mediation attempt, though as of May 20 the strike appears on track. Source: Fortune / TrendForce / TechTimes / Manila Times, 2026-05-21. *Thesis bearing: Strongly confirms — Micron is positioned as the direct beneficiary. Micron's 21% HBM market share (vs. SK Hynix ~62%, Samsung ~17%) and fully committed capacity through 2026 means that any order redirection from Samsung lands at SK Hynix and Micron. Combined with Micron's HBM4 shipments for Vera Rubin already underway, the supply tightness directly supports Micron's contracted ASP floor.*
+
+**MU stock premarket +4% on strike day, volatile:** Micron shares rose more than 4% in pre-market trading on May 21 (strike day 1) as investors rotated into memory beneficiaries. However, the stock had seen a 15.2% cumulative decline over the three prior sessions, followed by a 2.52% recovery on May 20 — reflecting the ongoing tension between Samsung strike bullishness and China demand/valuation concerns. Analysts from two major firms set $1,000 price targets. Source: TipRanks / TradingKey / MSN, 2026-05-21.
+
+**NVDA Q1 FY2027 beat — HBM demand read-through:** NVIDIA's $75B Data Center quarter and $91B Q2 guide directly increase the demand floor for HBM. Each Blackwell and Vera Rubin GPU unit requires HBM3E or HBM4 stacks assembled via TSMC CoWoS. NVDA's upward guidance revision tightens an already sold-out HBM market for 2H 2026. Source: See [[NVDA]] 2026-05-21 entry.
+
+### HBM Market Share Update (as of 2026-05-21)
+| Supplier | Share (est.) | Status |
+|---|---|---|
+| SK Hynix | ~62% | Dominant; HBM4 ramping for Vera Rubin |
+| Micron | ~21% | HBM4 shipping for Vera Rubin; sold out 2026 |
+| Samsung | ~17% | Strike ongoing; HBM4 ramp disrupted |
+
+*Note: Share figures sourced from TradingKey / TipRanks, 2026-05-21. Prior estimates (SK Hynix ~50%, Samsung ~25–30%, Micron ~20–25%) used different methodologies; the new figures reflect more recent HBM4 allocation as Samsung's ramp has slowed.*
+
 ---
 
 ## Cross-links

@@ -142,6 +142,17 @@ Source: StocksToTrade / TheStreet, 2026-05-19–20. *Note: Combined with BofA's 
 
 **Earnings May 27 — 7 days out:** Watch items: (1) AI/Data Center revenue as % of total — expect >70%; (2) Google inference TPU and MPU co-design program confirmation and volume guidance; (3) FY2027 ($11.12B est.) and FY2028 ($15.35B est.) revenue guide; (4) Optical interconnect revenue trajectory following Polariton acquisition. Source: FX Leaders / TheStreet, 2026-05.
 
+### 2026-05-21
+
+**Pre-earnings positioning — MRVL pre-market above $185, 6 days to May 27:** Marvell shares closed May 20 at $176.27 (+4.35%) and pushed above $185 in pre-market trading ahead of the May 27 Q1 FY2027 earnings report. Options markets price a ~13% move on earnings day (Bloomberg data). Consensus: 22 Buys / 4 Holds — Strong Buy. Source: Investing.com / FX Leaders / TipRanks, 2026-05-20–21.
+
+**Q1 FY2027 earnings expectations (May 27):** Wall Street consensus for Q1 FY2027:
+- Revenue: $2.40B (+27% YoY)
+- EPS: $0.79 (+27.4% YoY)
+Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 above $15.35B estimates. The most watched items: (1) confirmation of Google inference TPU + MPU co-design program and volume timeline; (2) Data Center % of total revenue; (3) optical connectivity revenue trajectory post-Polariton acquisition. Source: Investing.com / TipRanks, 2026-05-20–21.
+
+**NVDA Q1 results — positive read-through for MRVL:** NVIDIA's $81.6B Q1 and $91B Q2 guidance confirms the AI ASIC/custom silicon wave is not decelerating. Hyperscaler CapEx at $725B+ underpins the demand for the custom co-design work Marvell delivers. NVDA's strategic $2B investment in Marvell (captured March 2026) is additional confirmation of the custom silicon and optical interconnect thesis. Source: See [[NVDA]] 2026-05-21 entry.
+
 ---
 
 ## Cross-links

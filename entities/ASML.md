@@ -128,6 +128,16 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 **Buy ratings maintained across brokers:** Bernstein, Berenberg Bank, and Erste Group all maintained Buy ratings on ASML in early May 2026. No ratings cuts noted. Stock at ~$1,463–$1,512 range following the May 15 Trump-Xi summit selloff. Source: GF Score analysis / Yahoo Finance, 2026-05. *Minor update — analyst community is holding conviction despite the selloff.*
 
+### 2026-05-21
+
+**ASML +6.19% on May 20 to $1,549.71 — NVDA earnings lift:** ASML surged 6.19% on May 20 to $1,549.71, driven by a broad AI semiconductor rally following NVIDIA's earnings anticipation and NVDA's actual Q1 FY2027 blockbuster results after close. European AI-linked semiconductor stocks drove over two-thirds of STOXX Europe 600 gains on the session. Source: TradingKey / GuruFocus, 2026-05-20.
+
+**UBS reinstates as Europe's top semiconductor pick — PT €1,900:** UBS reinstated ASML as its top pick in the European semiconductor sector and raised its price target to €1,900, citing an "attractive risk/reward profile" and ASML's structural market positioning. At current trading levels (~$1,550 on Nasdaq ADR), the UBS target represents ~25%+ implied upside. Source: TradingKey, 2026-05-20. *Note: Prior highest disclosed PT was from analyst coverage; €1,900 UBS target is new and the most bullish published estimate seen this scan.*
+
+**High-NA EUV — first chips from the technology expected in coming months:** ASML CEO confirmed significant progress on High-NA EUV lithography, with first commercial chips produced using the technology expected to emerge "in the coming months." The first High-NA EXE:5200 machine was delivered to Intel in 2025; TSMC is the second High-NA customer for A16 and beyond. Mass production targeted 2027–2028. Source: TradingKey, 2026-05-20. *Thesis bearing: Confirms — High-NA EUV (~€350–400M per machine vs. ~€150–200M for standard EUV) represents a step-change in per-machine ASP as the installed base transitions. Each machine shipped is 2x the revenue of its predecessor.*
+
+**NVDA Q1 demand read-through:** NVIDIA's $91B Q2 FY2027 guidance implies continued TSMC leading-edge node and CoWoS ramp, which flows through to ASML EUV machine orders with an 18–24 month lag. Source: See [[NVDA]] 2026-05-21 entry.
+
 ---
 
 ## Cross-links

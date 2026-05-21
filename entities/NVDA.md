@@ -145,6 +145,23 @@ NVIDIA has priority access to TSMC's most advanced nodes and CoWoS packaging cap
 
 **Pre-earnings rally — stock at $236 (+4.5%), market cap $5.71T:** NVDA rallied 4.5% to $236 heading into the earnings print, capping a ~20% monthly rally. Market cap is $5.71 trillion, making NVIDIA one of the two most valuable public companies in the world. Stock's 52-week range: $129.16–$236.54; closed May 20 near the top of the range. Source: 247WallSt / BitMEX, 2026-05-20. *Context: The pre-earnings rally implies significant beat-and-raise is already priced in — Q2 guidance execution will determine the post-earnings direction.*
 
+### 2026-05-21
+
+**Q1 FY2027 ACTUAL RESULTS — BLOCKBUSTER BEAT AND RAISE (THESIS CONFIRMATION):** NVIDIA reported Q1 FY2027 on May 20, 2026, after market close. Key results:
+- **Revenue:** $81.6B (+85.2% YoY), beat $80.4B consensus by $1.2B
+- **Data Center:** $75B (+92% YoY, +21% QoQ) — dominant segment
+- **Net income:** $58.3B (+210.6% YoY)
+- **Diluted EPS (non-GAAP):** $2.39, beat $1.79 estimate by ~34%
+- **Gross profit:** $61.2B (+129.3% YoY)
+- **Cash from operations:** $50.3B (+83.6% YoY)
+- **Q2 FY2027 guidance:** $91B ± 2% — substantially above consensus of $85–87B and whisper number of ~$90B
+- **Dividend raise:** Quarterly dividend raised from $0.01 to $0.25 per share
+Source: CNBC / Quiver Quantitative / StockTitan / Motley Fool Transcript, 2026-05-20.
+
+*Jensen Huang quote:* "This was an extraordinary quarter. Demand has gone parabolic. The reason is simple: Agentic AI has arrived." *Thesis bearing: STRONGLY CONFIRMS the entire portfolio thesis. The $91B Q2 guide vs. $85–87B consensus is the most important single number of the scan — it implies the AI infrastructure buildout is accelerating, not plateauing. Data Center at $75B (+92% YoY) flows directly through TSMC CoWoS and HBM demand from Micron and SK Hynix. The beat-and-raise propagates forward: every TSM wafer and every MU HBM4 contract is underpinned by this demand trajectory. This print confirms the investment thesis for all six satellite positions simultaneously.*
+
+**Portfolio read-through:** Q2 guidance of $91B, up from Q1's $81.6B, requires proportionally more TSMC CoWoS capacity and HBM from Micron/SK Hynix. The cadence: NVDA guidance → TSM CoWoS ramp → MU HBM contract extensions → ASML machine orders (18-month lag). All four are directly connected.
+
 ---
 
 ## Cross-links

@@ -125,6 +125,14 @@
 
 **No May monthly revenue report yet:** TSMC's May 2026 monthly revenue will not be released until approximately June 8–10, 2026. The most recent report remains April 2026 (NT$410.73B, +17.5% YoY), reported May 8. Source: TSMC Financial Calendar, 2026-05. *Routine tracking note.*
 
+### 2026-05-21
+
+**TSMC Arizona Fab 21 posted $514M profit in first full year — and Q1 2026 alone exceeded that full-year figure:** TSMC's first Arizona fab (Fab 21, N4/N3 process) earned $514 million in profit during its inaugural full year of mass production. More significantly, in Q1 2026 alone, Arizona generated more profit than the entire prior year combined — a sign of rapid utilization ramp and wafer price increases. Apple is the largest Arizona customer; NVIDIA is also confirmed to be using Fab 21 for Blackwell AI accelerators. Source: TechTimes / Digitimes / ad-hoc-news.de, 2026-05-20. *Thesis bearing: Confirms — this is the first concrete data that directly refutes the long-dominant "overseas fabs can't be economical" thesis articulated by TSMC founder Morris Chang. Arizona profitability de-risks the geopolitical concentration scenario and validates TSMC's $20B Arizona capital injection (approved May 12). For the portfolio, this means US-based TSMC supply capacity is both technically and financially viable — a structural improvement to the geopolitical risk scenario.*
+
+**NVDA Q1 FY2027 beat — downstream validation for TSMC:** NVIDIA's $81.6B Q1 revenue (+85% YoY) with Q2 guidance of $91B directly underpins TSMC's advanced node and CoWoS capacity utilization outlook. Data Center at $75B represents demand that must flow through TSMC's N4/N3 nodes and CoWoS packaging. Source: See [[NVDA]] 2026-05-21 entry. *Thesis bearing: Confirms — NVDA's Q2 guide is the strongest single forward demand signal for TSMC's CoWoS and leading-edge node revenue for 2H 2026.*
+
+**Stock up 2.3% on May 20 to $401.62:** TSM ADR gained 2.3% to $401.62 on May 20, in part driven by NVDA pre-earnings momentum and the semiconductor sector broad rally. ASML also surged 6.19% on the same session. Consensus analyst target remains $463.45 (5 Strong Buy, 12 Buy, 2 Hold). Source: Search results, 2026-05-20.
+
 ---
 
 ## Cross-links
