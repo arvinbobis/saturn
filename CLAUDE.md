@@ -44,21 +44,61 @@ Each session runs through these phases in order. Stop immediately at any point i
 
 ---
 
-### Phase 1 — Quick Pulse (all 7 tickers, every session)
+### Phase 1 — Quick Pulse + Intelligence Sweep (every session)
 
 **Run at the start of every session, no exceptions.**
 
+#### 1a — Price & News (all 7 tickers)
+
 For each of TSM, MU, ASML, NVDA, MRVL, ANET, ALAB:
 1. Search for current price and 1-day % change
-2. Check for any news in the last 24 hours
+2. Check for news in the last 24 hours
 
-**Also check:**
-- Hyperscaler CapEx news: Amazon, Microsoft, Google, Meta
+Search across these sources specifically:
+- **X/Twitter:** search `[TICKER] site:twitter.com` or `[COMPANY] semiconductor twitter` to surface threads from @SemiAnalysis, @chipmakingmatters, @benedictevans and other key accounts
+- **CNBC:** `[TICKER] site:cnbc.com`
+- **Yahoo Finance:** `[TICKER] site:finance.yahoo.com`
+- **WSJ / Bloomberg:** `[COMPANY] site:wsj.com` or `site:bloomberg.com` (headlines accessible even if paywalled)
+- General search for any breaking news
+
+**Also check every session:**
+- Hyperscaler CapEx: Amazon, Microsoft, Google, Meta
 - Taiwan Strait developments (affects TSM, ASML)
-- TrendForce DRAM pricing update (affects MU)
-- TSMC monthly revenue (released ~8th–10th each month at pr.tsmc.com)
+- TrendForce DRAM pricing (affects MU)
+- TSMC monthly revenue (released ~8th–10th each month)
 
-**Update `dashboard.md`:** Edit the **Price** and **1D%** columns for all 7 rows in the Portfolio Snapshot table.
+**Update `dashboard.md`:** Edit the **Price** and **1D%** columns for all 7 rows.
+
+#### 1b — Podcast & Long-Form Intelligence Scan
+
+Search for recent episodes (last 14 days) from these shows mentioning AI chips, semiconductors, or supply chain:
+- Acquired, Invest Like the Best, Odd Lots (Bloomberg), Eye on AI, Dwarkesh Podcast, The MAD Podcast
+
+Search terms: `"Acquired podcast" semiconductor 2026`, `"Invest Like the Best" AI chips`, `"Odd Lots" DRAM OR TSMC OR NVIDIA`, `"Eye on AI" infrastructure`
+
+If a relevant episode is found:
+1. Note it in `sources/podcasts.md` under Recent Podcast Intelligence (date, show, episode, key finding, ticker impact)
+2. If the episode surfaces a thesis-relevant insight for a current position, note it in the session's entity update
+
+#### 1c — Chokepoint Scout (next frontier scan)
+
+Once per session, run a brief scan for emerging AI/semiconductor supply chain companies NOT in the current 7:
+
+Search terms:
+- `"AI supply chain" bottleneck OR chokepoint 2026 site:cnbc.com OR site:wsj.com`
+- `"semiconductor" "monopoly" OR "sole supplier" 2026`
+- `next TSMC OR "next NVIDIA" OR "AI picks and shovels" 2026`
+- `site:twitter.com @SemiAnalysis new company OR investment thesis 2026`
+
+**Thesis filter for any candidate found:**
+1. Does it supply something the AI buildout cannot proceed without?
+2. Does it get paid regardless of which application or GPU architecture wins?
+3. Is the position defensible for 5–10 years?
+
+If a candidate passes all three: add a row to `dashboard.md` Watchlist section and create `watchlist/[TICKER].md` stub with:
+- Why scouted, choke point thesis, key risk, status: Watching
+
+If nothing new surfaces: skip silently (no note needed).
 
 **Event queue management — run in this order:**
 
@@ -183,14 +223,15 @@ Carry forward IV/MoS/Rec/Story/Last DCF from prior sessions for tickers not run 
 Rewrite the `## For Arvs` section with fresh content based on this session's findings:
 
 **Action Items** (max 5, numbered, concrete and specific):
-- Each item must be actionable: "Watch X on Y date", "Consider entry if pulls back to $Z", "Hold — no action", "Re-run DCF after earnings"
+- Each item must be actionable: "Watch X on Y date", "Entry if pulls back to $Z", "Hold — no action", "Re-run DCF after earnings"
 - Ordered by urgency: time-sensitive first, then price-level alerts, then holds
 - If all tickers are SELL/AVOID: say so clearly with the mildest one and its re-entry level
+- If a new watchlist candidate was scouted: include as an action item ("New scout: [TICKER] — [one sentence thesis]")
 
 **Key Snippets** (max 5, bulleted, one sentence each):
-- The most important facts a portfolio holder needs to know right now
-- Include the single biggest macro finding, the most surprising DCF result, and the most important upcoming catalyst
-- Written for a non-expert: no jargon, plain language, numbers included
+- Most important facts right now: biggest macro finding, most surprising DCF result, most important upcoming catalyst
+- If a podcast episode surfaced a relevant insight: include it ("Acquired latest: [key point]")
+- Written for a non-expert: no jargon, numbers included
 
 **4c — Session Notes** (append, do not overwrite):
 Add a new `### Session N` entry summarizing the deep session. Trim to 3–5 sentences.

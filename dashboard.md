@@ -154,6 +154,28 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 
 ---
 
+## Watchlist — Next Frontier Candidates
+
+*Companies Saturn is scouting as potential 8th+ satellite positions. Same thesis filter: choke point, stack-agnostic, durable.*
+
+| Ticker | Company | Choke Point | Source | Status | Added |
+|--------|---------|-------------|--------|--------|-------|
+| — | — | — | — | — | — |
+
+*Candidates graduate to full entity when thesis confirmed by 3+ independent sources and Arvs approves.*
+
+---
+
+## Podcast & Long-Form Intelligence
+
+*Recent episodes with investment-relevant signal. Full source list: `sources/podcasts.md`.*
+
+| Date | Show | Episode / Topic | Key Finding | Ticker Impact |
+|------|------|-----------------|-------------|---------------|
+| — | — | — | — | — |
+
+---
+
 ## Session History
 
 | # | Date UTC | Deep Ticker | Trigger | Key Finding |
