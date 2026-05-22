@@ -26,12 +26,15 @@ Do not retry. Do not start a new search. Do not attempt to commit. Close out cle
 
 ## Schemas
 
-Each primary entity has a hyperfocused schema file in `/schemas/`. Read the relevant schema before deep work on TSM or MU:
+Each entity has a hyperfocused schema in `/schemas/`. **Always read the schema before a deep session on that ticker.**
 
-- `/schemas/claude-tsm.md` — TSMC (TSM). Standing knowledge, moat analysis, CoWoS/node roadmap, geopolitical risk framing.
-- `/schemas/claude-micron.md` — Micron (MU). DRAM cycle mechanics, HBM thesis, CXMT threat, cycle-normalized financials.
-
-*(ASML, NVDA, MRVL, ANET, ALAB schemas pending — use entity pages and DCF inputs as standing knowledge.)*
+- `/schemas/claude-tsm.md` — TSMC. CoWoS, node roadmap, geopolitical risk framing.
+- `/schemas/claude-micron.md` — Micron. DRAM cycle mechanics, HBM thesis, CXMT threat.
+- `/schemas/claude-asml.md` — ASML. EUV monopoly, High NA timeline, China risk, TSMC as leading indicator.
+- `/schemas/claude-nvda.md` — NVIDIA. CUDA moat, Blackwell/Rubin roadmap, hyperscaler dependency.
+- `/schemas/claude-mrvl.md` — Marvell. Custom ASIC programs (Google TPU, Amazon Trainium), GAAP vs non-GAAP.
+- `/schemas/claude-anet.md` — Arista. EOS switching costs, port speed upgrade cycle, NVDA competitive overhang.
+- `/schemas/claude-alab.md` — Astera Labs. Aries/Leo products, CXL memory pooling thesis, Atreides conviction.
 
 ---
 
@@ -41,7 +44,7 @@ Each session runs through these phases in order. Stop immediately at any point i
 
 ---
 
-### Phase 1 — Quick Pulse (all 7 tickers, ~5–10 min)
+### Phase 1 — Quick Pulse (all 7 tickers, every session)
 
 **Run at the start of every session, no exceptions.**
 
@@ -49,36 +52,41 @@ For each of TSM, MU, ASML, NVDA, MRVL, ANET, ALAB:
 1. Search for current price and 1-day % change
 2. Check for any news in the last 24 hours
 
-**Outcomes from Phase 1:**
-- Update the **Price** and **1D%** columns in `dashboard.md` for all 7 tickers
-- If any ticker moved >3% in either direction: flag it and add to `state/session.json` event_queue with reason
-- If any earnings were released: add to event_queue with `"event": "earnings QN-YYYY"`
-
-**Also check at Phase 1:**
+**Also check:**
 - Hyperscaler CapEx news: Amazon, Microsoft, Google, Meta
 - Taiwan Strait developments (affects TSM, ASML)
 - TrendForce DRAM pricing update (affects MU)
 - TSMC monthly revenue (released ~8th–10th each month at pr.tsmc.com)
 
+**Update `dashboard.md`:** Edit the **Price** and **1D%** columns for all 7 rows in the Portfolio Snapshot table.
+
+**Event queue management — run in this order:**
+
+1. **Null DCF check:** For each ticker where `dcf_last_run` is null in `state/session.json`, if that ticker is not already in `event_queue`, INSERT it at position 0:
+   ```json
+   {"ticker": "[TICKER]", "event": "dcf_never_run — first DCF needed", "detected": "[today]"}
+   ```
+   This ensures no ticker is permanently deferred by event volume. TSM must not remain null indefinitely.
+
+2. **Price move check:** If any ticker moved >3%: add to event_queue with reason.
+
+3. **Earnings check:** If any earnings were released: add to event_queue with `"event": "earnings QN-YYYY"`.
+
 ---
 
 ### Phase 2 — Deep Session (1–2 tickers)
 
-**Session selection logic (in priority order):**
+**Session selection logic:**
 
-1. **Event-driven:** If `state/session.json` has items in `event_queue`, take the first one.
-   - Earnings released → deep earnings analysis session
-   - Price move >3% → investigate cause, update thesis bearing
-2. **Rotation:** If event_queue is empty, take `next_deep_session` from `state/session.json`.
-   - After completing, advance rotation: update `next_deep_session` to the next ticker in `rotation_order`
+- FIRST: if `event_queue` is non-empty, take the first item
+- ELSE: use `next_deep_session` from `state/session.json` (rotation: TSM → MU → ASML → NVDA → MRVL → ANET → ALAB → TSM)
 
-**What to do in a Deep Session:**
+**For the selected ticker:**
 
-For the selected ticker:
 1. Read the entity page (`entities/[TICKER].md`)
-2. Read the relevant schema if one exists (TSM, MU)
-3. Search for news since the last entity update
-4. For each material development, append to `## Recent Updates` in the entity page:
+2. **Read the schema** (`schemas/claude-[ticker].md`) — every ticker now has one
+3. Search for news since the last entity update date
+4. For each material development, append to `entities/[TICKER].md` under `## Recent Updates`:
 
 ```markdown
 ### YYYY-MM-DD
@@ -86,53 +94,77 @@ For the selected ticker:
 **[Topic]:** [What happened]. Source: [outlet, date]. *Thesis bearing: [Confirms / Challenges / Neutral] — [one sentence why]*
 ```
 
-5. If earnings: update the Financials tables in the entity page
+5. If earnings reported: update the Financials tables in the entity page
 6. If new analyst price target: add to `dashboard.md` Analyst Price Targets section
 
 **Thesis bearing is required on every update.**
+
+**Concept page propagation — after each entity update:**
+
+For each material update added, check if it relates to any of these concepts and update the relevant file:
+
+| If update touches... | Update this concept page |
+|---|---|
+| HBM, high bandwidth memory, memory stacking, HBM ASP | `concepts/HBM.md` |
+| CoWoS, advanced packaging, TSMC packaging | `concepts/cowos.md` |
+| Custom silicon, hyperscaler ASICs, co-design, TPU, Trainium | `concepts/custom-silicon.md` |
+| DRAM pricing, DRAM cycle, memory trough/peak, TrendForce | `concepts/dram-cycle.md` |
+
+Append to the concept page:
+
+```markdown
+### YYYY-MM-DD — [TICKER]
+
+**[Key fact or data point]** — [one sentence on why this matters for the concept's standing knowledge]
+```
+
+This is how the wiki compounds across entities, not just within them.
+
+**After deep session:** Advance rotation in `state/session.json`:
+- Update `next_deep_session` to the next ticker in rotation order
+- Remove processed event from `event_queue` if applicable
+- Set `last_deep_session` to the ticker just completed
 
 ---
 
 ### Phase 3 — Stories → Numbers + DCF
 
-**Trigger:** Run for the ticker from Phase 2 IF any of these are true:
-- Earnings were just processed (new financial data available)
-- The last DCF run was >30 days ago (check `state/session.json` dcf_last_run)
+**Run for the Phase 2 ticker IF any of these apply:**
+- Earnings just processed (new financial data available)
+- `dcf_last_run` for this ticker is null or >30 days ago
 - A material thesis-changing event occurred
 
 **Steps:**
 
-1. **Synthesize the story** — read the entity page's Recent Updates section. What is the current narrative? Write it in 2–3 sentences.
+1. **Synthesize the story** — read the entity page's Recent Updates. What is the current narrative? 2–3 sentences.
 
-2. **Derive assumptions from the story** — open `valuation/inputs/[TICKER].json`. Review the `story_narrative` and `story_*` justification fields. Update them to reflect the current wiki state. The DCF number is only as good as the story backing it.
+2. **Update assumptions** — open `valuation/inputs/[TICKER].json`. Update `story_narrative` and all `story_*` justification fields to reflect current wiki state. The DCF number is only as good as the story backing it.
 
-3. **Search for financial inputs** — search the web for TTM financials:
-   - Revenue (TTM or most recent fiscal year)
-   - EBIT / Operating Income
-   - CapEx and D&A
+3. **Search for financial inputs** — search the web for TTM (trailing twelve months) financials:
+   - Revenue, EBIT / Operating Income, CapEx, D&A
    - Change in Working Capital
    - Book value of debt and equity
-   - Cash and equivalents
-   - Shares outstanding
+   - Cash and equivalents, shares outstanding
    - Current stock price
-   - R&D expense (last 3–5 years for rd_history_usd_m)
+   - R&D expense (current year + 3–5 years of history for `rd_history_usd_m`)
+
    Update the JSON file with these values.
 
-4. **Run the DCF model:**
+4. **Run the model:**
    ```
    python3 valuation/dcf_model.py [TICKER]
    ```
    Output goes to `valuation/outputs/[TICKER]-dcf.md`
 
-5. **Update `state/session.json`** — set `dcf_last_run.[TICKER]` to today's date.
+5. **Update `state/session.json`:** set `dcf_last_run.[TICKER]` to today's date.
 
-**If revenue is 0 in the JSON, the model skips gracefully — don't force a run without real data.**
+**If revenue is 0 in the JSON after your search (data unavailable), skip the DCF run and note the gap.**
 
 ---
 
 ### Phase 4 — Update dashboard.md (low-frequency columns)
 
-After Phase 3 (or whenever a new DCF output exists), update the **IV, MoS, Rec, Story, Last DCF** columns in `dashboard.md` for the ticker that was run. Also update the Upcoming Catalysts section if any have resolved.
+After Phase 3, edit `dashboard.md` Portfolio Snapshot table — update these columns for the ticker that had a DCF run:
 
 | Column | Frequency | Source |
 |--------|-----------|--------|
@@ -140,29 +172,51 @@ After Phase 3 (or whenever a new DCF output exists), update the **IV, MoS, Rec, 
 | 1D% | Every session (Phase 1) | Live price search |
 | IV | On DCF run only | `valuation/outputs/[TICKER]-dcf.md` |
 | MoS | On DCF run only | (IV − Price) / Price × 100 |
-| Rec | On DCF run only | DCF recommendation() logic |
-| Story | On DCF run only | Distilled from story_narrative in JSON |
-| Last DCF | On DCF run only | Date from state/session.json dcf_last_run |
+| Rec | On DCF run only | DCF recommendation() output |
+| Story | On DCF run only | Distilled from `story_narrative` in JSON |
+| Last DCF | On DCF run only | Today's date |
 
-**Carry forward** IV/MoS/Rec/Story/Last DCF from prior sessions for tickers not run this session. Never blank out a cell that has data.
+**Carry forward** IV/MoS/Rec/Story/Last DCF from prior sessions for tickers not run this session. Never blank a cell that has data.
 
-Append a session note under `## Session Notes` as a new `### Session N` heading. Include:
-- Ticker(s) reviewed in depth and trigger reason
+Append a new `### Session N` note under `## Session Notes` with:
+- Ticker(s) reviewed and trigger reason
 - Most significant news finding
 - Whether any recommendation changed
+- Any concept pages updated
 
-Also append one line to `## Session History`.
+Append one line to `## Session History` table.
+
+Update `dashboard.md` header: Last updated date and Session #.
 
 ---
 
-### Phase 5 — Lint & Link
+### Phase 5 — Lint & Remediate
 
-Quick scan for quality gaps (5 min max):
+**This phase fixes problems, not just flags them.** 5–10 minutes max.
 
-1. **Missing data audit:** For each ticker, check if any entity page section is empty or says "pending." Flag the most critical gap in the session note.
-2. **Broken cross-links:** Scan entity pages for `[[concept]]` links. Verify the concept exists in `/concepts/`. Flag broken links.
-3. **Stale catalysts:** Check `dashboard.md` Upcoming Catalysts. Remove any catalysts whose date has passed. Note outcome.
-4. **DCF health check:** If any ticker has `current_revenue_usd_m: 0` in its JSON and the last DCF run is null, flag it as "needs financial data" in the session note.
+**1. Null DCF remediation:**
+Check `state/session.json` dcf_last_run. For any ticker where it is null:
+- Verify the ticker is already in event_queue (the Phase 1 null check should have added it)
+- If not, add it now
+
+**2. Zero-revenue remediation:**
+For any ticker where `valuation/inputs/[TICKER].json` has `current_revenue_usd_m: 0`:
+- Search the web for that ticker's most recent annual revenue figure
+- If found in under 2 searches: populate the JSON and add a note. This is a quick fix, not a full DCF session.
+- If not found: note the gap and ensure the ticker is in event_queue for a full financial data session
+
+**3. Stale catalyst cleanup:**
+Check `dashboard.md` Upcoming Catalysts. For any catalyst whose date has passed:
+- Remove the row
+- Add a one-line outcome note to the session notes (e.g., "MRVL May 27 earnings: revenue $X.XB, guide $Y.YB, stock moved Z%")
+
+**4. Concept page staleness check:**
+For each concept page (`HBM.md`, `cowos.md`, `dram-cycle.md`, `custom-silicon.md`):
+- Check the last dated entry
+- If >14 days since last update AND material developments have occurred in related entity pages: add a catch-up entry from memory of this session's Phase 1/2 findings
+
+**5. Cross-link audit:**
+Scan entity pages for `[[concept]]` or `[[TICKER]]` references. Verify the target file exists. Flag broken links in the session note — do not silently ignore them.
 
 ---
 
@@ -170,7 +224,7 @@ Quick scan for quality gaps (5 min max):
 
 **Only commit if there is material content to save.**
 
-Material = any of: entity page updated, DCF model run, dashboard.md changed, financial data added to JSON, price data updated.
+Material = entity page updated, DCF run, dashboard.md changed, JSON populated, concept page updated.
 
 If prices moved <2% and no news found and no DCF run: skip commit.
 
@@ -185,10 +239,23 @@ git push
 
 If git push fails: print the error and stop. Do not retry.
 
-**After commit (or skip): update `state/session.json`:**
+**Update `state/session.json`:**
 - Set `last_run_utc` to current UTC timestamp
 - Increment `session_count`
 - Update `next_deep_session` if rotation advanced
+
+**Append to `log.md`:**
+
+```markdown
+## [YYYY-MM-DD HH:MM UTC] session-N
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: [TICKER] — [event-driven reason or "rotation"]
+Notable: [1–2 sentences on the single most significant finding]
+No significant news: [list tickers]
+DCF run: [TICKER or "none"] — IV $X.XX, MoS +/-X%, Rec: [BUY/WAIT/HOLD/SELL]
+Concept pages updated: [list or "none"]
+```
 
 Then stop. The session is complete.
 
@@ -205,31 +272,12 @@ Append under `## Recent Updates` with today's date as a sub-heading:
 ```
 
 **Also update structured sections when new data is available:**
-- If earnings were reported: update the Financials tables in the entity page
-- If HBM market share data is available: update the HBM Market Share table in MU.md
-- If a catalyst has played out: move it from Active to Archived Catalysts with the outcome noted
-- If a new analyst price target was issued: add it to `dashboard.md` Analyst Price Targets section
+- Earnings reported → update Financials tables
+- HBM market share data → update HBM Market Share table in MU.md
+- Catalyst played out → move from Active to Archived with outcome
+- New analyst price target → add to `dashboard.md` Analyst Price Targets section
 
-**Thesis bearing is required** on every update — always state whether the development Confirms, Challenges, or is Neutral to the investment thesis, and why in one sentence.
-
----
-
-## Log Format
-
-Append to `log.md` at the end of each session:
-
-```markdown
-## [YYYY-MM-DD HH:MM UTC] session-N
-
-Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
-Deep session: [TICKER] — [event-driven reason or "rotation"]
-Notable: [1–2 sentences on the single most significant finding]
-No significant news: [list tickers with nothing notable]
-DCF run: [TICKER] — IV $X.XX, MoS +/-X%, Rec: [BUY/WAIT/HOLD/SELL]
-
-Entity updates:
-- [TICKER]: [one-line summary of what was updated]
-```
+**Thesis bearing is required on every update.**
 
 ---
 
