@@ -7,21 +7,23 @@ Daily snapshot updated by the Saturn agent each morning.
 
 ## Current Prices
 
-*Last updated: 2026-05-22 by agent (Session 5)*
+*Last updated: 2026-05-22 by agent (Session 6)*
 
 | Ticker | Company | Price | 1D % | 1W % | 1M % | 52W Range | Market Cap |
 |---|---|---|---|---|---|---|---|
 | TSM | TSMC | $407.15 | ~flat | — | — | $190.06–$421.97 | ~$2.08T |
-| MU | Micron | $762.10 | ~flat | — | — | ~$55–$818.67 | ~$851B |
-| ASML | ASML | $1,592.00 | +3.04%* | — | — | $683.48–$1,603.49 | ~$688B |
-| NVDA | NVIDIA | $219.51 | -1.77% | — | — | $129.16–$236.54 | ~$5.34T |
-| MRVL | Marvell | $177.95 | ~+1.3% | — | — | ~$90–$192 | ~$155B |
-| ANET | Arista | $147.71 | ~+0.9% | — | — | $83.86–$179.80 | ~$186B |
+| MU | Micron | $759.00 | -0.4% | — | — | ~$55–$818.67 | ~$867B |
+| ASML | ASML | $1,633.00 | +2.6% | — | — | $683.48–$1,633.00 | ~$706B |
+| NVDA | NVIDIA | $223.47 | +1.30% | — | — | $129.16–$236.54 | ~$5.44T |
+| MRVL | Marvell | $183.52 | +3.1%⚑ | — | — | ~$90–$198.23 | ~$160B |
+| ANET | Arista | $147.71 | ~flat | — | — | $83.86–$179.80 | ~$186B |
 | ALAB | Astera Labs | $288.06 | ~flat | — | — | $80–$295.38 | ~$50B |
 
-*ASML: +3.04% reflects the May 21 close vs. May 20 close. No new significant intraday move on May 22 detected. ASML completed a 9.5% two-day surge (May 20–21) driven by NVDA earnings read-through + UBS €1,900 PT reinstatement.*
-*MRVL: $175.64 → $177.95 from Session 4 to Session 5 on continued pre-earnings momentum (earnings May 27). ANET: modest recovery from $146.44 to ~$147.71 after May 21 +5.8% surge.*
-*No new >3% single-session movers detected in Session 5. EUR/USD ~1.163.*
+*MU: -0.4% on May 22 as Samsung strike averted news confirmed; pares +4.76% prior session gain. Samsung union vote underway May 22–27.*
+*ASML: +2.6% on May 22 European session (€1,390 vs. prior close €1,345.20 = +3.3% in EUR). USD price ~$1,633 at EUR/USD 1.163. New 52-week high USD. Two-day gain May 21–22 ~+5.7%.*
+*NVDA: recovered to $223.47 (+1.30% May 22 close) from session 5's intraday $219.51; market absorbing strong Q1 FY2027 print ($81.62B revenue, $91B Q2 guide).*
+*MRVL: ⚑ >3% TRIGGER — hit new 52-week high $183.52 (intraday $192.20) on May 22; multiple analyst PT raises (Citi $215, Melius $220); added to event_queue. Earnings May 27.*
+*TSM, ANET, ALAB: no material May 22 moves. EUR/USD ~1.163.*
 
 ---
 
@@ -29,10 +31,10 @@ Daily snapshot updated by the Saturn agent each morning.
 
 | Ticker | Coatue Entry | Atreides Entry | Current | vs. Coatue | vs. Atreides |
 |---|---|---|---|---|---|
-| ASML | $1,321 | — | $1,541.00 | +16.7% | — |
-| MU | $338 | $337 | $748.10 | +121.3% | +122.0% |
+| ASML | $1,321 | — | $1,633.00 | +23.6% | — |
+| MU | $338 | $337 | $759.00 | +124.6% | +125.2% |
 | ALAB | — | ~$110 | $288.06 | — | +162.0% |
-| TSM | (added) | — | $402.48 | — | — |
+| TSM | (added) | — | $407.15 | — | — |
 
 ---
 
@@ -42,8 +44,8 @@ Daily snapshot updated by the Saturn agent each morning.
 
 | Ticker | Event | Expected Date | Notes |
 |---|---|---|---|
-| MU | Samsung Union Vote | 2026-05-22–27 | **ONGOING** — voting underway as of May 22; outcome determines whether May 21 tentative deal is ratified; rejection could re-ignite strike |
-| MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move; NVDA $2B investment |
+| MU | Samsung Union Vote | 2026-05-22–27 | **ONGOING** — vote runs through May 27; tentative deal reached May 21; rejection re-ignites strike; MU -0.4% on May 22 as averted consensus priced in |
+| MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move; MRVL hit new 52-week high $183.52 on May 22 (analyst PT surge) |
 | TSM | May Monthly Revenue | ~2026-06-08 | Monthly revenue release; leading AI demand signal |
 
 *Note: April Monthly Revenue for TSMC was released May 8 — NT$410.73B (+17.5% YoY), second-highest month ever.*
@@ -71,3 +73,4 @@ Daily snapshot updated by the Saturn agent each morning.
 | ANET | Rosenblatt | $210 | Buy | 2026-05-06 |
 | NVDA | TD Cowen | $275 | Buy | 2026-05-17 |
 | ALAB | RBC | $250 | Outperform | 2026-05-20 |
+| ALAB | Evercore ISI | $297 | Outperform | 2026-05-19 |

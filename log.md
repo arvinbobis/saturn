@@ -10,6 +10,27 @@ Format:
 
 ---
 
+## [2026-05-22 20:00 UTC] session-6
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MU — event-driven (price move +4.76% May 22; NVDA $91B Q2 guide HBM demand confirmation; Samsung union vote May 22-27 ongoing)
+Notable: HBM supercycle confirmed at industry level — all three memory makers' 2026 capacity sold out; customers now negotiating 3–5 year LTAs for 2027; Micron expects HBM TAM to reach $100B by 2028 (two years ahead of prior estimates). Hyperscaler CapEx 2026 confirmed at $720B combined (Amazon $200B, MSFT $190B, Google $185B, Meta $135B), with 2027 trending >$1T — materially reduces AI CapEx plateau risk. Samsung union vote underway (May 22-27, tentative deal reached May 21). TrendForce 2Q26: DRAM contract prices +58-63% QoQ; RDIMM prices temporarily overtaking HBM (LTA pricing lag); supply remains tight across all products. No DCF re-run (last run May 21). MRVL hit new 52-week high $183.52 (+3.1%) on May 22 — added to event_queue for Session 7 ahead of May 27 earnings.
+No significant news: TSM (~flat), ANET (~flat), ALAB (~flat). ASML +2.6% continuing surge (3-day total +5.7%). NVDA recovered to $223.47 (+1.30% May 22 close).
+DCF run: none (MU last run May 21; triggers not met)
+
+Entity updates:
+- MU.md: 2026-05-22 entry added — Samsung union vote underway; MU -0.4% on averted-strike pricing; NVDA Q1 FY2027 $81.62B/$91B Q2 confirmed; TrendForce 2Q26 DRAM +58-63% QoQ / RDIMM prices temporarily leading HBM; HBM 2026 capacity sold out across top 3 / 2027 LTAs being signed / $100B TAM by 2028; hyperscaler CapEx $720B (2026) trending >$1T (2027). Last updated refreshed to 2026-05-22 Session 6.
+- dashboard.md: Session 6 prices updated — MU $759 (-0.4%), ASML $1,633 (+2.6%), NVDA $223.47 (+1.30%), MRVL $183.52 (+3.1%⚑ new 52-week high); ALAB Evercore ISI $297 PT added; institutional entry price table updated; catalyst notes updated.
+- tracker.md: All 7 prices updated; MRVL MoS updated to -34.7% ($183.52 vs. IV $119.91); ASML MoS updated to -31.2% ($1,633); NVDA MoS updated to -30.1% ($223.47); MU MoS updated to -64.6% ($759); Session 6 note appended; Session History row added.
+- state/session.json: session_count 5→6; MU removed from event_queue; MRVL added (+3.1% trigger); last_run_utc updated to 2026-05-22T20:00:00Z; last_deep_session = MU.
+- log.md: session-6 appended (this entry).
+
+Lint findings:
+- TSM and ALAB: dcf_last_run still null — critical gap. TSM is next in rotation after MRVL event resolves. ALAB still stub with no financial data.
+- MRVL earnings May 27 (5 days): Session 7 should process MRVL event-driven (earnings QN-2027 + price move). Q1 FY2027 results will unlock updated financials for DCF refresh.
+- Samsung union vote May 22-27: outcome pending. If rejected, MU supply-disruption thesis re-engages. Monitor for Session 7 update.
+- No stale catalysts in dashboard (all are still active).
+
 ## [2026-05-22 16:00 UTC] session-5
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

@@ -3,7 +3,7 @@
 > The only US-headquartered manufacturer of DRAM and NAND at scale —
 > and the company whose investment thesis turns on whether HBM has broken the commodity cycle.
 
-*Last updated: 2026-05-21 (Session 2) | Wisesheets data as of: not yet pulled — TTM financials from Q2 FY2026 press release*
+*Last updated: 2026-05-22 (Session 6) | Wisesheets data as of: not yet pulled — TTM financials from Q2 FY2026 press release*
 
 **Schema reference:** See `/schemas/claude-micron.md` for full standing knowledge, entity template guidance, and quarterly review workflow. Read that file before updating this page.
 
@@ -166,6 +166,20 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 | Samsung | ~17% | Strike ongoing; HBM4 ramp disrupted |
 
 *Note: Share figures sourced from TradingKey / TipRanks, 2026-05-21. Prior estimates (SK Hynix ~50%, Samsung ~25–30%, Micron ~20–25%) used different methodologies; the new figures reflect more recent HBM4 allocation as Samsung's ramp has slowed.*
+
+---
+
+### 2026-05-22
+
+**Samsung union vote underway — MU pares gains -0.4%:** The member ratification vote for Samsung's tentative wage deal began today (May 22) and runs through May 27. With the supply-disruption catalyst removed, MU pared -0.4% on May 22, giving back a fraction of the prior session's +4.76% gain. The critical watch: if union members reject the deal (voting runs May 22–27), the 18-day strike resumes — re-igniting the supply disruption thesis. Approval is the consensus expectation given the 10.5% performance bonus pool and bonus cap abolition, but ratification is not guaranteed until votes are counted. Source: CNBC / TechTimes / Yahoo Finance, 2026-05-22. *Thesis bearing: Neutral — Micron's contracted HBM pricing and 2026 sold-out capacity are independent of Samsung labor outcomes; the near-term supply-disruption speculative premium continues to unwind, but the structural HBM thesis is unchanged.*
+
+**NVDA Q1 FY2027 confirmed — HBM demand floor raised to $91B Q2 guide:** NVIDIA's Q1 FY2027 results now fully absorbed by markets: $81.62B revenue (+85% YoY), Data Center $75.2B (doubled YoY, 92% of total), EPS $1.87 vs. $1.76 estimate. Q2 FY2027 guide: $91B. CEO Jensen Huang: "Demand has gone parabolic; agentic AI has arrived." Each Blackwell and Vera Rubin GPU unit requires HBM3E/HBM4 stacks via TSMC CoWoS packaging. The $91B Q2 guide is the most concrete forward signal for Micron's HBM allocation into 2H 2026, directly underwriting the contracted-capacity revenue stream for Vera Rubin. Source: CNBC / Kiplinger, 2026-05-20–22. *Thesis bearing: Strongly confirms — the primary HBM demand driver (NVDA GPU production ramp) is accelerating; Micron's contracted HBM4 position for Vera Rubin is directly tied to this demand guide.*
+
+**TrendForce 2Q26 DRAM update — RDIMM contract prices +58–63% QoQ; temporarily overtaking HBM:** Q2 2026 DRAM contract prices forecast +58–63% QoQ across conventional products, following the record +90–95% surge in Q1 2026. Notable dynamic: server RDIMM prices have temporarily overtaken HBM contract prices in 2Q26 due to differing pricing mechanisms (spot-adjacent vs. long-term agreements). SK Hynix is deliberately maintaining balance between HBM and conventional DRAM production rather than maximizing short-term RDIMM margin. Smartphone DRAM negotiations concluding in May. PC DRAM prices rising but momentum decelerating as brands face absorption limits. Source: TrendForce / Tom's Hardware / Tweaktown, 2026-05-22. *Thesis bearing: Confirms — RDIMM prices overtaking HBM is a temporary LTA-pricing-lag phenomenon; the underlying tight supply that sustains HBM pricing is intact; strong server DRAM pricing further validates the memory market supply constraint and supports MU's non-HBM DRAM revenue.*
+
+**HBM supercycle: top 3 makers' 2026 capacity sold out; customers negotiating 2027 LTAs; $100B market by 2028:** Independent confirmation that all three memory manufacturers' 2026 HBM capacity is essentially sold out. Major customers (NVIDIA, Meta, Microsoft) can only secure 50–67% of their HBM requirements from Micron due to scarcity. Customers are now negotiating 3–5 year long-term supply agreements (LTAs) for 2027 capacity — a structural shift away from historical quarterly spot negotiation. Micron expects the HBM market to reach $100B by 2028 (vs. prior expectation of 2030+). Source: StockPil / Yahoo Finance / Investing.com, 2026-05-22. *Thesis bearing: Strongly confirms — multi-year LTAs eliminate spot market exposure and provide revenue visibility that fundamentally distinguishes HBM from commodity DRAM; at ~21% HBM share, $100B market by 2028 implies ~$21B in HBM revenue alone for Micron — a transformative shift from pre-HBM normalized revenue of ~$15–30B.*
+
+**Hyperscaler CapEx 2026 — $720B combined; 2027 trending toward $1T+:** Amazon ($200B), Microsoft ($190B), Alphabet ($185B), and Meta ($135B) collectively plan $720B in 2026 CapEx — a 77% YoY increase, with ~75% ($450B+) AI-specific infrastructure. CNBC reports Big Tech CapEx now on track to exceed $1 trillion in 2027. Source: Yahoo Finance / CNBC / Tom's Hardware, 2026-04–05. *Thesis bearing: Strongly confirms — $720B in AI-infrastructure spend in 2026 with 2027 trending >$1T materially reduces the probability of the AI CapEx plateau risk scenario identified in the schema; the demand floor for HBM has structurally moved higher than prior base-case assumptions.*
 
 ---
 

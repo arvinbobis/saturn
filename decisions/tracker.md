@@ -2,8 +2,8 @@
 
 *Updated by the agent each 4-hour session. Single source of truth for buy / wait / hold / sell across all 7 satellite positions.*
 
-Last updated: 2026-05-22 (Session 5)
-Session #: 5
+Last updated: 2026-05-22 (Session 6)
+Session #: 6
 
 ---
 
@@ -12,12 +12,12 @@ Session #: 5
 | Ticker | Price | Intrinsic Value | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----------------|-----|-----|------------------|----------|
 | TSM    | $407.15 | —             | —   | —   | Sole leading-edge foundry; CoWoS packaging monopoly underpins every AI GPU | — |
-| MU     | $762.10 | **$268.33**   | **-64.8%** | **SELL/AVOID** | HBM supercycle peak: sold out 2026; NVDA $91B Q2 guide confirms demand; Samsung union vote May 22-27 | 2026-05-21 |
-| ASML   | $1,592.00 | **$1,122.64** | **-29.5%** | **SELL/AVOID** | Only EUV supplier; €36-40B FY2026 guide; Q1 36% op. margin record; TSMC defers High-NA to 2029 | 2026-05-22 |
-| NVDA   | $219.51 | **$156.27**   | **-28.8%** | **SELL/AVOID** | CUDA-moated AI GPU dominance; Q2 guided $91B; profit-taking -1.77% today; priced for perfection | 2026-05-21 |
-| MRVL   | $177.95 | **$119.91**   | **-32.6%** | **SELL/AVOID** | Custom ASIC co-design for Google/Amazon; Citi $215 target; earnings May 27 (5 days); priced for perfect execution | 2026-05-22 |
+| MU     | $759.00 | **$268.33**   | **-64.6%** | **SELL/AVOID** | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM market by 2028 | 2026-05-21 |
+| ASML   | $1,633.00 | **$1,122.64** | **-31.2%** | **SELL/AVOID** | Only EUV supplier; €36-40B FY2026 guide; Q1 36% op. margin record; +2.6% May 22 continuing surge | 2026-05-22 |
+| NVDA   | $223.47 | **$156.27**   | **-30.1%** | **SELL/AVOID** | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; data center $75.2B doubled | 2026-05-21 |
+| MRVL   | $183.52 | **$119.91**   | **-34.7%** | **SELL/AVOID** | Custom ASIC co-design; new 52-week high $183.52; Citi $215/Melius $220 targets; earnings May 27 (5 days) | 2026-05-22 |
 | ANET   | $147.71 | **$126.94**   | **-14.1%** | **SELL/AVOID** | AI networking backbone; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide; $725B hyperscaler CapEx | 2026-05-22 |
-| ALAB   | $288.06 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp driving Scorpio X switches | — |
+| ALAB   | $288.06 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp driving Scorpio X switches; Evercore PT $297 | — |
 
 **MoS** = (Intrinsic Value − Price) / Price × 100. Positive = undervalued.
 
@@ -29,6 +29,16 @@ Session #: 5
 ---
 
 ## Notes from Last Session
+
+**Session 6 (2026-05-22) — Deep: MU (event-driven: +4.76% May 22, NVDA $91B Q2 guide HBM demand confirmation, Samsung union vote May 22-27).**
+
+No DCF re-run this session (MU DCF ran May 21, <30 days; no new earnings; updates are all thesis-confirming, not thesis-changing). Recommendation unchanged: SELL/AVOID at $759 (MoS -64.6%); IV $268.33 from May 21 model.
+
+The dominant finding from today's MU deep session is the HBM supercycle confirmation at the industry level: (1) all three memory manufacturers' 2026 HBM capacity is sold out, (2) customers are now signing 3–5 year LTAs for 2027 capacity — a structural shift from quarterly spot negotiation — and (3) Micron expects the HBM total addressable market to reach $100B by 2028, two years ahead of prior projections. At ~21% HBM share, that implies ~$21B in HBM revenue alone for Micron by 2028. Combined with hyperscaler CapEx of $720B in 2026 and trending >$1T in 2027, the AI CapEx plateau risk scenario has materially diminished. The Samsung union vote (May 22-27) is the remaining event to monitor — no outcome yet. MU pared -0.4% on May 22 as the averted-strike consensus priced in.
+
+Also notable: MRVL hit a new 52-week high ($183.52) on May 22, a +3.1% single-session move driven by the continued wave of analyst price target increases (Citi $215, Melius $220, Wells Fargo $195). MRVL added to event_queue for Session 7 review ahead of May 27 earnings. NVDA recovered to $223.47 (+1.30%) as the market absorbed the $91B Q2 guide. ASML continued to +2.6% in the European session (+5.7% over two days). All 5 valued tickers remain SELL/AVOID — the AI hardware supply chain is priced for perfection across the board.
+
+---
 
 **Session 5 (2026-05-22) — Deep: ASML (event-driven: +9.5% two-day surge, Q1 FY2026 beat, raised guidance to €36-40B).**
 
@@ -95,3 +105,4 @@ ASML correction: Session 1 captured ASML at -0.52% early day; confirmed May 21 c
 | 3 | 2026-05-22 | MRVL | event: price move +4.34%, NVDA $2B investment, analyst target surge | MRVL DCF IV $119.91 vs. $177.95 → -32.6% MoS SELL/AVOID; Citi raised PT $118→$215; May 27 earnings 5 days out |
 | 4 | 2026-05-22 | ANET | event: price move +3.86%, NVDA AI networking read-through | ANET DCF IV $126.94 vs. $146.44 → -13.3% MoS SELL/AVOID; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide |
 | 5 | 2026-05-22 | ASML | event: +9.5% two-day surge, Q1 FY2026 beat, guidance raised to €36-40B | ASML DCF first run: IV $1,122.64 vs. $1,592 → -29.5% MoS SELL/AVOID; TSMC defers High-NA EUV to 2029; Q1 record 36% op margin |
+| 6 | 2026-05-22 ~20:00 | MU | event: price move +4.76%, NVDA $91B Q2 demand confirmation, Samsung union vote May 22-27 | HBM 2026 capacity sold out across all 3 makers; customers signing 2027 LTAs; $100B HBM TAM by 2028; $720B hyperscaler CapEx; MRVL +3.1% new 52-week high (added to event_queue) |

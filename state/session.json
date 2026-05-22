@@ -1,14 +1,14 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-22T16:00:00Z",
-  "session_count": 5,
+  "last_run_utc": "2026-05-22T20:00:00Z",
+  "session_count": 6,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "ASML",
+  "last_deep_session": "MU",
   "next_deep_session": "NVDA",
   "event_queue": [
-    {"ticker": "MU", "event": "price move +4.76% (May 22) — first full regular-session day post-NVDA $91B Q2 guide; HBM demand confirmation; Samsung union vote May 22-27 ongoing", "detected": "2026-05-22"}
+    {"ticker": "MRVL", "event": "price move +3.1% on May 22 — new 52-week high $183.52 (intraday $192.20); continued analyst PT wave (Citi $215, Melius $220); pre-earnings momentum ahead of May 27 Q1 FY2027 earnings", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "ASML processed in Session 5 and removed. MU remains (Session 6 will process it — Samsung union vote outcome expected May 22-27, plus NVDA demand read-through follow-up). After MU, rotation resumes at NVDA.",
+  "_event_queue_note": "MU processed in Session 6 and removed. MRVL added for >3% intraday move on May 22 (new 52-week high from $177.95 to $183.52+). Session 7 should process MRVL (event-driven + earnings May 27). After MRVL earnings processed, rotation resumes at NVDA.",
   "dcf_last_run": {
     "TSM":  null,
     "MU":   "2026-05-21",
