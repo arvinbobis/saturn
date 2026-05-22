@@ -2,8 +2,8 @@
 
 *Updated by the agent each 4-hour session. Single source of truth for buy / wait / hold / sell across all 7 satellite positions.*
 
-Last updated: 2026-05-22 (Session 4)
-Session #: 4
+Last updated: 2026-05-22 (Session 5)
+Session #: 5
 
 ---
 
@@ -11,12 +11,12 @@ Session #: 4
 
 | Ticker | Price | Intrinsic Value | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----------------|-----|-----|------------------|----------|
-| TSM    | $407.12 | —             | —   | —   | Sole leading-edge foundry; CoWoS packaging monopoly underpins every AI GPU | — |
-| MU     | $762.10 | **$268.33**   | **-64.8%** | **SELL/AVOID** | HBM supercycle peak: Q2 $23.86B rev, 75% GM; sold out 2026; Samsung union vote May 22-27 | 2026-05-21 |
-| ASML   | $1,592.00 | —           | —   | —   | Only EUV supplier; Q1 FY2026 beat + raised guidance to €36-40B; +9.5% two-day | — |
+| TSM    | $407.15 | —             | —   | —   | Sole leading-edge foundry; CoWoS packaging monopoly underpins every AI GPU | — |
+| MU     | $762.10 | **$268.33**   | **-64.8%** | **SELL/AVOID** | HBM supercycle peak: sold out 2026; NVDA $91B Q2 guide confirms demand; Samsung union vote May 22-27 | 2026-05-21 |
+| ASML   | $1,592.00 | **$1,122.64** | **-29.5%** | **SELL/AVOID** | Only EUV supplier; €36-40B FY2026 guide; Q1 36% op. margin record; TSMC defers High-NA to 2029 | 2026-05-22 |
 | NVDA   | $219.51 | **$156.27**   | **-28.8%** | **SELL/AVOID** | CUDA-moated AI GPU dominance; Q2 guided $91B; profit-taking -1.77% today; priced for perfection | 2026-05-21 |
-| MRVL   | $175.64 | **$119.91**   | **-31.7%** | **SELL/AVOID** | Custom ASIC co-design for Google/Amazon; Citi $215 target; earnings May 27 (5 days); priced for perfect execution | 2026-05-22 |
-| ANET   | $146.44 | **$126.94**   | **-13.3%** | **SELL/AVOID** | AI networking backbone; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide; $725B hyperscaler CapEx | 2026-05-22 |
+| MRVL   | $177.95 | **$119.91**   | **-32.6%** | **SELL/AVOID** | Custom ASIC co-design for Google/Amazon; Citi $215 target; earnings May 27 (5 days); priced for perfect execution | 2026-05-22 |
+| ANET   | $147.71 | **$126.94**   | **-14.1%** | **SELL/AVOID** | AI networking backbone; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide; $725B hyperscaler CapEx | 2026-05-22 |
 | ALAB   | $288.06 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp driving Scorpio X switches | — |
 
 **MoS** = (Intrinsic Value − Price) / Price × 100. Positive = undervalued.
@@ -29,6 +29,20 @@ Session #: 4
 ---
 
 ## Notes from Last Session
+
+**Session 5 (2026-05-22) — Deep: ASML (event-driven: +9.5% two-day surge, Q1 FY2026 beat, raised guidance to €36-40B).**
+
+ASML DCF first run: IV **$1,122.64** vs. current price **$1,592.00** → MoS **-29.5%** → **SELL/AVOID** (medium uncertainty). Base year adjusted EBIT = $16.2B (reported $13.2B + $3.0B R&D capitalization adjustment on $17.7B capitalized R&D asset). Base FCFF = $10.0B. The enterprise value is $415.8B, split roughly 70/30 terminal vs. Stage 1 — consistent with ASML's long-duration moat characteristics.
+
+The sensitivity table reveals the key interpretive frame: at WACC ~8% and 16% CAGR, IV = $1,641 — above current price. At the model's WACC of 9.13% and 16% CAGR, IV = $844-$1,122 depending on exact parameters. ASML is priced for WACC compression toward 8%, which is plausible given monopoly earnings quality but represents an aggressive assumption. No other large-cap equipment company trades at monopoly-grade WACC.
+
+Most significant finding: TSMC deferred High-NA EUV adoption to 2029 (Bloomberg April 22), citing €350-400M per unit cost vs. €150-200M for Low-NA — 2x ASP difference. This is a near-term risk: the revenue uplift from High-NA was expected to begin materializing in 2026-2028 from TSMC. However, ASML pivots well: Intel is proceeding with High-NA for 14A/18A, SK Hynix is adopting for HBM4, and FY2026 guidance was actually raised (not cut) to €36-40B (+16% YoY) — confirming Low-NA demand absorbs the near-term shortfall. Q1 2026's record 36% operating margin (best in company history) further validates the structural thesis.
+
+Recommendation: SELL/AVOID initiating at $1,592. The monopoly case for ASML is among the strongest in the portfolio, but the valuation leaves no margin of safety under DCF assumptions. HOLD if already owned given monopoly quality; re-assess at pullback to $1,100-1,200 range where DCF IV aligns with price.
+
+Macro: Hyperscaler CapEx 2026 confirmed at $725B combined (+77% YoY). Taiwan: Xi-Trump May 13-15 summit produced no semiconductor trade agreements; PLA ADIZ incursions at "comparatively low" levels; risk elevated but below crisis threshold. TrendForce: Server DRAM stable, spot prices rising — supports MU thesis.
+
+---
 
 **Session 4 (2026-05-22) — Deep: ANET (event-driven: +3.86% price move, NVDA earnings read-through).**
 
@@ -80,3 +94,4 @@ ASML correction: Session 1 captured ASML at -0.52% early day; confirmed May 21 c
 | 2 | 2026-05-21 ~01:00+4h | MU | event: price move +3.88%, Samsung strike Day 1 | Samsung strike AVERTED via tentative deal; MU DCF IV $268.33 vs. $744.68 → -64% MoS SELL/AVOID; ASML +9.5% two-day corrected |
 | 3 | 2026-05-22 | MRVL | event: price move +4.34%, NVDA $2B investment, analyst target surge | MRVL DCF IV $119.91 vs. $177.95 → -32.6% MoS SELL/AVOID; Citi raised PT $118→$215; May 27 earnings 5 days out |
 | 4 | 2026-05-22 | ANET | event: price move +3.86%, NVDA AI networking read-through | ANET DCF IV $126.94 vs. $146.44 → -13.3% MoS SELL/AVOID; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide |
+| 5 | 2026-05-22 | ASML | event: +9.5% two-day surge, Q1 FY2026 beat, guidance raised to €36-40B | ASML DCF first run: IV $1,122.64 vs. $1,592 → -29.5% MoS SELL/AVOID; TSMC defers High-NA EUV to 2029; Q1 record 36% op margin |

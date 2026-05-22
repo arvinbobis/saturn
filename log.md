@@ -10,6 +10,29 @@ Format:
 
 ---
 
+## [2026-05-22 16:00 UTC] session-5
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ASML — event-driven (price move +9.5% two-day May 20-21; Q1 FY2026 beat; raised FY2026 guidance to €36-40B)
+Notable: TSMC officially deferred High-NA EUV adoption to 2029, citing €350-400M per unit cost (2x standard EUV). This moderates the High-NA ASP revenue uplift timeline from TSMC but does not threaten Low-NA demand; ASML's FY2026 guidance was raised anyway (€36-40B vs. €34-39B prior). Q1 2026 operating margin of 36.0% is the highest in company history. DCF first run: IV $1,122.64 vs. $1,592 → MoS -29.5% → SELL/AVOID (medium uncertainty). At WACC ~8%, IV = $1,641 — implying the market is pricing monopoly WACC compression. ASML's -29.5% MoS is similar to NVDA (-28.8%) — the entire AI hardware supply chain appears priced for perfection.
+Price movers >3% (new, May 22 Session 5): none detected. MRVL +1.3% from Session 4, ANET +0.9% from Session 4 — both within noise.
+No significant news: TSM (~flat), MU (~flat), NVDA (-1.77% continuing), MRVL (~+1.3%), ANET (~+0.9%), ALAB (~flat)
+DCF run: ASML — IV $1,122.64, MoS -29.5%, Rec: SELL/AVOID (medium uncertainty)
+
+Entity updates:
+- ASML.md: 2026-05-22 entry added — Q1 2026 financials quantified (€8.767B revenue, €3.158B EBIT, 36% op margin, €2.757B net income); TSMC High-NA EUV deferral to 2029 detailed; ASML customer pivot (Intel + SK Hynix + Samsung on High-NA); two-day surge context; Financials section populated with Q1 2026 and TTM tables. Last updated timestamp refreshed.
+- ASML.json: Full TTM financial data populated — revenue $39,214M, EBIT $13,220M, cash $9,741M, debt $3,140M, equity $22,795M, shares 392M, price $1,592; R&D $5,234M with 5-year history; story narrative updated for TSMC High-NA deferral context.
+- dashboard.md: Session 5 prices updated; ASML $1,592 (+3.04% from May 20-21 move noted); MRVL $177.95, ANET $147.71 updated; NVDA -1.77% continuing.
+- tracker.md: ASML row populated with IV $1,122.64 / MoS -29.5% / SELL/AVOID; MRVL updated to $177.95 / MoS -32.6%; ANET updated to $147.71 / MoS -14.1%; Session 5 note appended; Session History row added.
+- state/session.json: session_count 4→5; ASML removed from event_queue; MU remains in queue; next_deep_session updated to NVDA; dcf_last_run.ASML = 2026-05-22; last_run_utc updated to 16:00 UTC.
+
+Lint findings:
+- 2 of 7 tickers still have current_revenue_usd_m = 0 in DCF inputs: TSM, ALAB (ASML now populated)
+- ASML gap closed this session
+- TSM DCF remains null — needs financial data; next after MU event queue item resolves
+- MRVL earnings May 27 in 5 days — will trigger event-driven session
+- Samsung union vote May 22-27 ongoing — outcome will determine MU thesis bearing
+
 ## [2026-05-22 12:00 UTC] session-4
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

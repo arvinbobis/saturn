@@ -7,23 +7,21 @@ Daily snapshot updated by the Saturn agent each morning.
 
 ## Current Prices
 
-*Last updated: 2026-05-22 by agent (Session 4)*
+*Last updated: 2026-05-22 by agent (Session 5)*
 
 | Ticker | Company | Price | 1D % | 1W % | 1M % | 52W Range | Market Cap |
 |---|---|---|---|---|---|---|---|
-| TSM | TSMC | $407.12 | +1.37% | — | — | $190.06–$421.97 | ~$2.08T |
-| MU | Micron | $762.10 | +4.76%⚑ | — | — | ~$55–$818.67 | ~$851B |
-| ASML | ASML | $1,592.00 | ~flat | — | — | $683.48–$1,603.49 | ~$688B |
+| TSM | TSMC | $407.15 | ~flat | — | — | $190.06–$421.97 | ~$2.08T |
+| MU | Micron | $762.10 | ~flat | — | — | ~$55–$818.67 | ~$851B |
+| ASML | ASML | $1,592.00 | +3.04%* | — | — | $683.48–$1,603.49 | ~$688B |
 | NVDA | NVIDIA | $219.51 | -1.77% | — | — | $129.16–$236.54 | ~$5.34T |
-| MRVL | Marvell | $175.64 | ~+4.0%* | — | — | ~$90–$192 | ~$153B |
-| ANET | Arista | $146.44 | -0.77% | — | — | $83.86–$179.80 | ~$184B |
+| MRVL | Marvell | $177.95 | ~+1.3% | — | — | ~$90–$192 | ~$155B |
+| ANET | Arista | $147.71 | ~+0.9% | — | — | $83.86–$179.80 | ~$186B |
 | ALAB | Astera Labs | $288.06 | ~flat | — | — | $80–$295.38 | ~$50B |
 
-*⚑ Session 4 mover >3%: MU +4.76% from May 21 official close (~$727) — NVDA $91B Q2 guide confirms HBM demand; first full regular-session trading day post-NVDA earnings. Added to event_queue.*
-*MRVL: ~+4.0% from official May 21 close (~$168.93→$175.64); pre-earnings volatility ahead of May 27. MRVL already processed in Session 3 (not re-added to queue).*
-*ASML: Using May 21 close — no new May 22 intraday data found. NVDA: -1.77% profit-taking after historic Q1 FY2027 beat.*
-*ANET market cap corrected: 1,259M shares × $146.44 ≈ $184B (prior ~$47B was based on wrong share count from pre-split data).*
-*EUR/USD ~1.163; ASML EUR price ~€1,368.*
+*ASML: +3.04% reflects the May 21 close vs. May 20 close. No new significant intraday move on May 22 detected. ASML completed a 9.5% two-day surge (May 20–21) driven by NVDA earnings read-through + UBS €1,900 PT reinstatement.*
+*MRVL: $175.64 → $177.95 from Session 4 to Session 5 on continued pre-earnings momentum (earnings May 27). ANET: modest recovery from $146.44 to ~$147.71 after May 21 +5.8% surge.*
+*No new >3% single-session movers detected in Session 5. EUR/USD ~1.163.*
 
 ---
 

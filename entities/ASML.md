@@ -3,7 +3,7 @@
 > The sole supplier of EUV lithography machines — without ASML, no one makes leading-edge chips.
 > The most upstream chokepoint in the entire semiconductor supply chain.
 
-*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-22 | Financial data from SEC Form 6-K Q1 2026; EUR/USD 1.163*
 
 ---
 
@@ -46,7 +46,36 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 ## Financials
 
-*(Pull from Wisesheets — note pull date when populating)*
+*Updated 2026-05-22 from SEC Form 6-K Q1 2026 and FY2025 annual results. EUR/USD 1.163.*
+
+### Income Statement Summary
+
+| Period | Revenue (€B) | Gross Margin | Operating Income (€B) | Op. Margin | Net Income (€B) |
+|---|---|---|---|---|---|
+| FY2025 | €32.7B | 52.8% | ~€11.0B (est) | ~33.7% | €9.6B |
+| Q4 2025 | €9.7B | 52.2% | ~€3.1B (est) | ~32% | €2.8B |
+| Q1 2026 | €8.767B | 53.0% | €3.158B | **36.0%** | €2.757B |
+| Q2 2026E | €8.4–9.0B | 51–52% | — | — | — |
+| FY2026E (guide) | **€36–40B** | — | — | — | — |
+
+### Balance Sheet (Q1 2026 End)
+
+| Item | EUR | USD (at 1.163) |
+|---|---|---|
+| Cash + ST Investments | €8,376M | $9,741M |
+| Total Debt | €2,700M | $3,140M |
+| Total Equity | €19,600M | $22,795M |
+| Total Assets | €50,600M | $58,848M |
+
+### TTM Key Metrics (used for DCF)
+
+| Metric | EUR | USD |
+|---|---|---|
+| TTM Revenue | €33,709M | $39,214M |
+| TTM EBIT (est) | €11,367M | $13,220M |
+| TTM CapEx (annlzd) | €1,688M | $1,963M |
+| TTM D&A (annlzd) | €1,038M | $1,207M |
+| TTM R&D (est) | €4,500M | $5,234M |
 
 ---
 
@@ -137,6 +166,18 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 **High-NA EUV — first chips from the technology expected in coming months:** ASML CEO confirmed significant progress on High-NA EUV lithography, with first commercial chips produced using the technology expected to emerge "in the coming months." The first High-NA EXE:5200 machine was delivered to Intel in 2025; TSMC is the second High-NA customer for A16 and beyond. Mass production targeted 2027–2028. Source: TradingKey, 2026-05-20. *Thesis bearing: Confirms — High-NA EUV (~€350–400M per machine vs. ~€150–200M for standard EUV) represents a step-change in per-machine ASP as the installed base transitions. Each machine shipped is 2x the revenue of its predecessor.*
 
 **NVDA Q1 demand read-through:** NVIDIA's $91B Q2 FY2027 guidance implies continued TSMC leading-edge node and CoWoS ramp, which flows through to ASML EUV machine orders with an 18–24 month lag. Source: See [[NVDA]] 2026-05-21 entry.
+
+---
+
+### 2026-05-22
+
+**Q1 2026 financials quantified:** ASML reported Q1 2026 total net sales of €8,767M (+13% YoY), gross margin 53.0%, operating income €3,158M (36.0% margin — the strongest in company history), and net income €2,757M. Q2 2026 guidance: €8.4-9.0B revenue, 51-52% gross margin. FY2026 guidance raised to €36-40B (midpoint €38B, +16% YoY vs. €32.7B in FY2025). Source: ASML SEC Form 6-K, 2026-04-15. *Thesis bearing: Confirms — Q1 operating margin at 36% is the highest ever recorded; service revenue growing +25% YoY reflects accelerating installed base economics. The €38B midpoint validates the 16% revenue CAGR assumption in the DCF model.*
+
+**TSMC High-NA EUV deferral to 2029 — cost discipline, not confidence loss:** TSMC confirmed it will delay adopting ASML's High-NA EUV machines (priced at ~€350-400M each, 2x standard EUV) until at least 2029, citing cost considerations. TSMC's roadmap instead advances the A13 node (2029) and N2U (2028) using existing optimized Low-NA EUV. Analysts note this reflects TSMC's capital discipline, not a loss of confidence in the technology. Meanwhile, Intel completed acceptance testing of its second High-NA EXE:5200 in December 2025, and ASML CEO Christophe Fouquet confirmed first commercial chips produced on High-NA EUV are expected "in the coming months" from Intel and memory customers. ASML maintained its FY2026 shipment guidance of at least 60 Low-NA units, rising to ~80 in 2027. Source: Bloomberg, 2026-04-22; TrendForce, 2026-05-01 and 2026-05-20; Sherwood News / MSN. *Thesis bearing: Neutral to mild Challenges near-term — delays the ASP uplift (~€350M vs. €150-200M) from TSMC for 3+ years, but Low-NA demand remains strong and other customers (Intel, SK Hynix, Samsung) are proceeding with High-NA. The monopoly is intact; the revenue trajectory is slightly back-end loaded relative to prior assumptions.*
+
+**ASML quietly pivots on customer mix (TrendForce May 20 analysis):** With TSMC stepping back from High-NA near-term, ASML is repositioning: Intel becomes the primary High-NA customer for logic (14A/18A nodes), SK Hynix is adopting High-NA for next-generation DRAM (HBM4 and beyond), and Samsung is expected to follow. TrendForce notes the Low-NA EUV market remains undersupplied — ASML's FY2026 Low-NA shipment target of 60+ units is demand-driven, not supply-limited. Source: TrendForce, 2026-05-20. *Thesis bearing: Confirms — multi-customer High-NA adoption diversifies ASML's exposure away from single-customer TSMC dependency; Low-NA backlog strength confirms the installed base continues to compound.*
+
+**Completed 9.5% two-day surge (May 20-21) — now at $1,592:** ASML's stock closed at $1,592.00 on May 21 (+3.04% on May 21, +6.19% on May 20), completing a 9.5% two-day gain driven by the NVDA Q1 FY2027 earnings read-through and UBS reinstatement at €1,900 price target (Europe's top semiconductor pick). The two-day move was the largest since the Q1 2026 earnings release. Current price $1,592 is near the 52-week high of $1,603.49. Source: TradingKey, 2026-05-20/21. *Thesis bearing: Confirms — the market is pricing ASML as the primary AI infrastructure equipment beneficiary in Europe; UBS €1,900 target implies ~25% additional upside from current levels at EUR/USD 1.163.*
 
 ---
 
