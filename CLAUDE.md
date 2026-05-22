@@ -162,9 +162,9 @@ This is how the wiki compounds across entities, not just within them.
 
 ---
 
-### Phase 4 — Update dashboard.md (low-frequency columns)
+### Phase 4 — Update dashboard.md
 
-After Phase 3, edit `dashboard.md` Portfolio Snapshot table — update these columns for the ticker that had a DCF run:
+**4a — Portfolio Snapshot table** (after any DCF run):
 
 | Column | Frequency | Source |
 |--------|-----------|--------|
@@ -176,17 +176,28 @@ After Phase 3, edit `dashboard.md` Portfolio Snapshot table — update these col
 | Story | On DCF run only | Distilled from `story_narrative` in JSON |
 | Last DCF | On DCF run only | Today's date |
 
-**Carry forward** IV/MoS/Rec/Story/Last DCF from prior sessions for tickers not run this session. Never blank a cell that has data.
+Carry forward IV/MoS/Rec/Story/Last DCF from prior sessions for tickers not run this session. Never blank a cell that has data.
 
-Append a new `### Session N` note under `## Session Notes` with:
-- Ticker(s) reviewed and trigger reason
-- Most significant news finding
-- Whether any recommendation changed
-- Any concept pages updated
+**4b — "For Arvs" section** (overwrite entirely every session — this is the human brief):
 
-Append one line to `## Session History` table.
+Rewrite the `## For Arvs` section with fresh content based on this session's findings:
 
-Update `dashboard.md` header: Last updated date and Session #.
+**Action Items** (max 5, numbered, concrete and specific):
+- Each item must be actionable: "Watch X on Y date", "Consider entry if pulls back to $Z", "Hold — no action", "Re-run DCF after earnings"
+- Ordered by urgency: time-sensitive first, then price-level alerts, then holds
+- If all tickers are SELL/AVOID: say so clearly with the mildest one and its re-entry level
+
+**Key Snippets** (max 5, bulleted, one sentence each):
+- The most important facts a portfolio holder needs to know right now
+- Include the single biggest macro finding, the most surprising DCF result, and the most important upcoming catalyst
+- Written for a non-expert: no jargon, plain language, numbers included
+
+**4c — Session Notes** (append, do not overwrite):
+Add a new `### Session N` entry summarizing the deep session. Trim to 3–5 sentences.
+
+**4d — Session History** (append one row).
+
+**4e — Header:** Update "Last updated" date and Session # at top of file.
 
 ---
 
