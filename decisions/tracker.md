@@ -2,8 +2,8 @@
 
 *Updated by the agent each 4-hour session. Single source of truth for buy / wait / hold / sell across all 7 satellite positions.*
 
-Last updated: 2026-05-22 (Session 6)
-Session #: 6
+Last updated: 2026-05-22 (Session 7)
+Session #: 7
 
 ---
 
@@ -13,11 +13,11 @@ Session #: 6
 |--------|-------|-----------------|-----|-----|------------------|----------|
 | TSM    | $407.15 | —             | —   | —   | Sole leading-edge foundry; CoWoS packaging monopoly underpins every AI GPU | — |
 | MU     | $759.00 | **$268.33**   | **-64.6%** | **SELL/AVOID** | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM market by 2028 | 2026-05-21 |
-| ASML   | $1,633.00 | **$1,122.64** | **-31.2%** | **SELL/AVOID** | Only EUV supplier; €36-40B FY2026 guide; Q1 36% op. margin record; +2.6% May 22 continuing surge | 2026-05-22 |
+| ASML   | $1,592.00 | **$1,122.64** | **-29.5%** | **SELL/AVOID** | Only EUV supplier; €36-40B FY2026 guide; Q1 36% op. margin record; USD dip EUR/USD FX effect | 2026-05-22 |
 | NVDA   | $223.47 | **$156.27**   | **-30.1%** | **SELL/AVOID** | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; data center $75.2B doubled | 2026-05-21 |
 | MRVL   | $183.52 | **$119.91**   | **-34.7%** | **SELL/AVOID** | Custom ASIC co-design; new 52-week high $183.52; Citi $215/Melius $220 targets; earnings May 27 (5 days) | 2026-05-22 |
 | ANET   | $147.71 | **$126.94**   | **-14.1%** | **SELL/AVOID** | AI networking backbone; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide; $725B hyperscaler CapEx | 2026-05-22 |
-| ALAB   | $288.06 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp driving Scorpio X switches; Evercore PT $297 | — |
+| ALAB   | $309.78 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp; Q2 guide $365M; new 52W high $315.73; ⚑ >3% | — |
 
 **MoS** = (Intrinsic Value − Price) / Price × 100. Positive = undervalued.
 
@@ -29,6 +29,16 @@ Session #: 6
 ---
 
 ## Notes from Last Session
+
+**Session 7 (2026-05-22/23) — Deep: MRVL (event-driven: price move +3.1% May 22, new 52-week high $183.52, pre-earnings momentum ahead of May 27 Q1 FY2027 report).**
+
+MRVL entity was comprehensively updated in Session 6 (same day); no new material developments found in this session. Stock holding ~$183.52. The pre-earnings setup is intact: consensus $2.40B Q1 FY2027 revenue, $0.79 EPS, 5 days to report. Options price ~13% move on earnings day. The MRVL DCF (IV $119.91, run Session 6) confirms SELL/AVOID at current price — MoS -34.7%. No DCF re-run triggered (last run was today, no new earnings, no material thesis change).
+
+Most significant finding this session: **ALAB surged to a new 52-week high of $315.73 intraday (+7.5% from $288.06), closing near $309.78.** Catalyst: Evercore ISI raised PT to $297 (from $215) and RBC raised PT a second time in 3 days to $270 (from $250), both citing Amazon Trainium3 ramp and Scorpio X switch visibility. Q2 2026 guidance of up to $365M (+18% QoQ) was confirmed from the May 5 Q1 earnings. ALAB added to event_queue for Session 8 deep dive — this is the highest-priority item: ALAB has no DCF (last run = null) and the entity needs the Q2 guide captured. Also: hyperscaler CapEx combined 2026 confirmed at $700B+ (Amazon $200B, Google $175-185B, Meta $115-135B, Microsoft $120B+) — the strongest macro backdrop in the portfolio's history. TrendForce Q2 DRAM contract prices +58-63% QoQ reconfirmed. Taiwan ADIZ incursions at "comparatively low" levels in April (169 incursions); no acute escalation.
+
+No recommendation changes: all 5 valued tickers remain SELL/AVOID. ASML USD price dipped to $1,592 (EUR flat at €1,390; EUR/USD weakened from 1.163 to ~1.146). MoS recalculated at -29.5%.
+
+---
 
 **Session 6 (2026-05-22) — Deep: MU (event-driven: +4.76% May 22, NVDA $91B Q2 guide HBM demand confirmation, Samsung union vote May 22-27).**
 
@@ -106,3 +116,4 @@ ASML correction: Session 1 captured ASML at -0.52% early day; confirmed May 21 c
 | 4 | 2026-05-22 | ANET | event: price move +3.86%, NVDA AI networking read-through | ANET DCF IV $126.94 vs. $146.44 → -13.3% MoS SELL/AVOID; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide |
 | 5 | 2026-05-22 | ASML | event: +9.5% two-day surge, Q1 FY2026 beat, guidance raised to €36-40B | ASML DCF first run: IV $1,122.64 vs. $1,592 → -29.5% MoS SELL/AVOID; TSMC defers High-NA EUV to 2029; Q1 record 36% op margin |
 | 6 | 2026-05-22 ~20:00 | MU | event: price move +4.76%, NVDA $91B Q2 demand confirmation, Samsung union vote May 22-27 | HBM 2026 capacity sold out across all 3 makers; customers signing 2027 LTAs; $100B HBM TAM by 2028; $720B hyperscaler CapEx; MRVL +3.1% new 52-week high (added to event_queue) |
+| 7 | 2026-05-23 ~00:00 | MRVL | event: price move +3.1% new 52W high; pre-earnings positioning May 27 | ALAB new 52W high $315.73 (+7.5%) on Evercore $297/RBC $270 PTs + Amazon Trainium3 Scorpio X ramp; added to event_queue. MRVL entity current; no new material developments; DCF IV $119.91 unchanged (SELL/AVOID). |

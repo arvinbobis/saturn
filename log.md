@@ -10,6 +10,29 @@ Format:
 
 ---
 
+## [2026-05-23 00:00 UTC] session-7
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event-driven (price move +3.1% May 22; new 52-week high $183.52; pre-earnings positioning ahead of May 27 Q1 FY2027 report)
+Notable: ALAB surged to new 52-week high $315.73 (+7.5% from $288.06 Session 6 reference) driven by Evercore ISI PT raise $215→$297 and RBC second raise $250→$270, confirming Amazon Trainium3 Scorpio X ramp narrative. Q2 2026 guide up to $365M (+18% QoQ) reconfirmed from May 5 earnings. ALAB added to event_queue as highest-priority Session 8 item (no DCF run, entity needs financial data). MRVL: no new material developments since Session 6; entity is current; DCF IV $119.91 (SELL/AVOID) unchanged. Hyperscaler CapEx 2026 confirmed at $700B+ combined (Amazon $200B, Google $175-185B, Meta $115-135B, MSFT $120B+) — strongest macro backdrop to date. TrendForce Q2 DRAM +58-63% QoQ reconfirmed. Taiwan ADIZ 169 incursions April; no acute escalation.
+No significant news: TSM (flat), MU (Samsung vote ongoing, averted deal priced in), NVDA ($223.47 close confirmed), ANET (flat). ASML USD -2.5% to $1,592 (EUR/USD FX effect; EUR price flat €1,390).
+DCF run: none — MRVL last run 2026-05-22 (Session 6); no new earnings; no triggers met.
+
+Entity updates:
+- ALAB.md: 2026-05-22 entry added — Evercore ISI $297 PT (from $215), RBC second raise to $270 (from $250), Q2 guide up to $365M confirmed, new 52W high $315.73, >3% trigger flagged. Last updated refreshed to 2026-05-22 Session 7.
+- dashboard.md: ALAB price updated $288.06→$309.78 (+7.5%⚑ new 52W high); ASML updated $1,633→$1,592 USD (EUR/USD effect); ALAB added to Upcoming Catalysts; ALAB analyst PTs updated (RBC $270, Evercore $297). Session 7 noted.
+- tracker.md: ALAB price $309.78, story updated; ASML MoS recalculated -29.5% ($1,592); Session 7 note appended; Session History row added.
+- state/session.json: session_count 6→7; MRVL removed from event_queue (processed); ALAB added to event_queue (>3% trigger + no DCF); last_run_utc 2026-05-23T00:00:00Z; last_deep_session = MRVL.
+- log.md: session-7 appended (this entry).
+
+Lint findings:
+- TSM: dcf_last_run = null — no financial data in JSON; critical gap; not next in rotation but should be addressed.
+- ALAB: dcf_last_run = null — entity stub lacks Financials section; Session 8 must pull TTM financials and run DCF. Highest priority.
+- MRVL earnings May 27 (5 days): no deep session needed until after earnings report; monitor for post-earnings trigger (expected Q1 FY2027 results = new financial data → Phase 3 DCF refresh).
+- Samsung union vote ongoing through May 27 — watch for final outcome alongside MRVL earnings day.
+
+---
+
 ## [2026-05-22 20:00 UTC] session-6
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

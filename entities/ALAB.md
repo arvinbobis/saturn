@@ -152,6 +152,16 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 
 ---
 
+### 2026-05-22
+
+**Analyst price target escalation — RBC raises to $270 (second raise in 3 days), Evercore ISI raises to $297:** RBC Capital raised its price target on ALAB a second time this week — from $250 to $270 (prior raise was $225→$250 on May 20) — maintaining Outperform. Evercore ISI raised to $297 from $215, maintaining Outperform. Both firms cited Amazon Trainium3 ramp visibility and the broader hyperscaler capex acceleration as drivers. Evercore's $297 target is the highest on the Street and implies further upside to the current price. Source: Evercore ISI / RBC Capital / StocksToTrade, 2026-05-22. *Thesis bearing: Confirms — two independent research firms raising PTs rapidly (Evercore +38% in one move) reflects growing institutional conviction that the Amazon Trainium3 design win is not fully priced in; the rapid pace of revision suggests analyst models are still catching up to the demand ramp.*
+
+**Q2 2026 revenue guidance — up to $365M (+18% QoQ):** Reiterated from Q1 2026 earnings (reported May 5): management guided Q2 2026 revenue at up to $365M — an 18% sequential increase from Q1's record $308.4M. Scorpio X-Series scale-up switches are expected to become the largest product line by year-end 2026, surpassing P-Series (PCIe retimers). PCIe Gen 6 contributed >one-third of Q1 revenue. Source: Astera Labs Q1 2026 8-K / Motley Fool earnings transcript, 2026-05-05. *Thesis bearing: Confirms — the sequential growth acceleration driven by Scorpio X ramp into Amazon Trainium3 provides near-term revenue visibility through mid-2026; PCIe Gen 6 > one-third of revenue confirms the upgrade cycle thesis is materializing.*
+
+**New 52-week high $315.73 — stock ~$309.78 in after-hours (+7.5% from $288.06 close):** ALAB set a new 52-week high of $315.73 during May 22 trading, closing near $309.78 — a gain of approximately +7.5% from the prior Session 6 reference price of $288.06. The Benzinga "Why Is Astera Labs Trending Overnight?" headline indicates continued after-hours momentum. Market cap at $309.78 is approximately $53B. **>3% trigger: adding to event_queue for Session 8 deep dive.** Source: Benzinga / StockAnalysis / MarketBeat, 2026-05-22. *Thesis bearing: Neutral — the thesis is confirmed by the Amazon Trainium3 design win and Q2 guide; the rapid price appreciation from ~$183 on April 28 to $309.78 on May 22 (+69% in 25 days) compresses the margin of safety. DCF validation needed before this is a BUY.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — primary indirect customer; Blackwell/Vera Rubin GPU clusters drive ALAB demand
