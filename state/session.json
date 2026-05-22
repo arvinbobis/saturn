@@ -1,22 +1,21 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-22T01:00:00Z",
-  "session_count": 2,
+  "last_run_utc": "2026-05-22T06:00:00Z",
+  "session_count": 3,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "MU",
+  "last_deep_session": "MRVL",
   "next_deep_session": "TSM",
   "event_queue": [
-    {"ticker": "MRVL", "event": "price move +4.34% — multiple analyst target hikes, NVIDIA $2B strategic investment", "detected": "2026-05-21"},
     {"ticker": "ANET", "event": "price move +3.86% — NVDA earnings read-through, AI networking demand confirmation", "detected": "2026-05-21"},
     {"ticker": "ASML", "event": "price move +3.04% (May 21) + +6.2% (May 20) = +9.5% two-day — Q1 FY2026 beat, raised FY2026 guidance, NVDA demand read-through", "detected": "2026-05-21"}
   ],
-  "_event_queue_note": "MU processed in Session 2 and removed. MRVL is next (earnings May 27 also approaching). ASML added for +9.5% two-day move driven by strong Q1 results.",
+  "_event_queue_note": "MRVL processed in Session 3 and removed. ANET is next (AI networking +35% YoY Q1 revenue). ASML follows (Q1 beat, raised FY2026 guidance to €36-40B, High-NA EUV progress).",
   "dcf_last_run": {
     "TSM":  null,
     "MU":   "2026-05-21",
     "ASML": null,
     "NVDA": "2026-05-21",
-    "MRVL": null,
+    "MRVL": "2026-05-22",
     "ANET": null,
     "ALAB": null
   }

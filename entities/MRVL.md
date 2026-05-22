@@ -39,37 +39,84 @@ Beyond custom AI ASICs, Marvell sells programmable networking chips (Teralynx, P
 
 ## Financials
 
-*(Pull from Wisesheets — note pull date when populating)*
+*Last pulled: 2026-05-22. Source: SEC 8-K (Q4 FY2026, filed March 5, 2026), MarketBeat, web search.*
 
 **Segment note:** Marvell reports Data Center, Carrier Infrastructure, Enterprise Networking, Consumer, Automotive/Industrial. Data Center is the primary segment — custom AI ASICs are here and growing rapidly.
+
+### Annual Income Statement (USD millions)
+
+| Metric | FY2024 (Jan 2024) | FY2025 (Jan 2025) | FY2026 (Jan 2026) |
+|---|---|---|---|
+| Revenue | ~$5,510 | ~$5,773 | **$8,195** |
+| YoY Growth | — | +4.8% | **+42.0%** |
+| GAAP Operating Income | — | — | **-$720** |
+| Non-GAAP Operating Income | — | — | **~$2,868** |
+| Non-GAAP Operating Margin | — | — | **35%** |
+| GAAP Net Income | — | — | **$2,670** |
+| R&D Expense (GAAP) | $1,896 | $1,950 | **$2,075** |
+| CapEx | — | — | **$354** |
+| D&A (PP&E) | — | — | **~$374** |
+
+### Balance Sheet (as of January 31, 2026)
+
+| Metric | Value |
+|---|---|
+| Cash & Equivalents | $2,639M |
+| Total Debt | $4,471M (short $500M + long $3,971M) |
+| Net Debt | ~$1,832M |
+| Total Stockholders' Equity | $14,308M |
+| Shares Outstanding | 874M |
 
 ---
 
 ## Revenue Segments
 
-*(Update quarterly — Data Center % of revenue is the primary metric; extract AI ASIC revenue commentary separately from general data center)*
+*Update quarterly — Data Center % of revenue is the primary metric; extract AI ASIC revenue commentary separately from general data center.*
+
+FY2026 summary: Data Center is the dominant segment, driving the +42% YoY total revenue growth. Management confirmed AI custom ASIC volume as the primary driver. Carrier Infrastructure, Consumer, and Automotive/Industrial are all declining or flat — legacy mix headwind. Data Center is expected to be >70% of revenue by Q1 FY2027.
 
 ---
 
 ## Growth Drivers
 
-*(Populate: Hyperscaler custom ASIC ramp (Google, Amazon confirmed; others rumored); Inference silicon growth as AI moves from training to deployment; Co-packaged optics opportunity; 5G carrier infrastructure recovery)*
+1. **Google custom AI ASIC co-design (confirmed):** Google is co-designing two chips with Marvell — an inference-optimized TPU and a Memory Processing Unit (MPU, ~2M units planned). Marvell added as a third design partner alongside Broadcom and MediaTek. Multi-year, high-volume program anchors revenue visibility through FY2028+.
+2. **Amazon Trainium/Inferentia ramp (confirmed):** AWS Trainium custom silicon (designed with Marvell) ramping at scale for AI inference. Wells Fargo cited AWS Trainium deployment as the primary basis for its $195 price target raise.
+3. **Hyperscaler CapEx acceleration:** Combined Amazon/Google/Microsoft/Meta CapEx for 2026 forecast at $600-700B (+36% YoY), 75% directed at AI infrastructure. Custom silicon follows CapEx with a 2-4 quarter lag.
+4. **Optical interconnect (co-packaged optics):** Polariton Technologies acquisition (April 2026) adds plasmonics-based silicon photonics for 3.2T+ data center links. Combined with existing SerDes and DSP IP, Marvell becomes a full-stack optical connectivity supplier.
+5. **NVIDIA ecosystem integration:** NVIDIA's $2B strategic investment (March 2026) means Marvell connectivity silicon is embedded in NVIDIA-centric GPU clusters as well as the custom ASIC alternative path.
 
 ---
 
 ## Risks
 
-*(Populate: Customer concentration (hyperscaler co-design revenue is lumpy — one customer delay = quarterly miss); NVIDIA maintaining inference dominance longer than expected, reducing hyperscaler custom silicon urgency; Broadcom as competitor in custom ASIC co-design; Design cycle timing risk — 18-24 month lag between win and revenue)*
+1. **Customer concentration:** Top 3 hyperscalers likely >60% of AI revenue. One program delay = quarterly miss. Custom ASIC revenue is lumpy by design.
+2. **NVIDIA inference dominance:** If NVIDIA maintains inference GPU efficiency (Blackwell NIM deployment), hyperscaler urgency to build custom silicon decreases.
+3. **Broadcom competition:** Broadcom co-designs custom ASICs for Google at ~60% market share (vs. Marvell ~25%, per Counterpoint Research). Marvell must win next-gen program iterations.
+4. **Design cycle timing risk:** 18-24 month lag from design win to revenue. Program slippage creates revenue miss without public warning.
+5. **Valuation risk:** At $178+, stock trades at >50× GAAP earnings. Highly sensitive to execution miss at earnings.
+6. **Insider selling:** $27.9M in insider sales (prior 3 months, as of May 2026) with no insider buying — elevated multiples + insider sales = elevated expectations already priced in.
 
 ---
 
 ## Catalysts
 
 ### Active Catalysts
-*(Populate: Google TPU ramp at TSMC (Marvell co-designed); Amazon Trainium volume; Microsoft Maia revenue contribution; New hyperscaler co-design win announcement)*
+
+| Catalyst | Expected Timing | Status |
+|---|---|---|
+| Q1 FY2027 Earnings (May 27) | 2026-05-27 | 5 days out; consensus $2.40B revenue; options price ~13% move |
+| Google inference TPU + MPU program confirmation | May 27 earnings call | Watch for volume timeline and production schedule |
+| FY2027 guidance raise | May 27 earnings call | Consensus $11.12B; management expected to raise above this |
+| Trainium volume ramp visibility | H2 2026 | AWS deployment scale-out; cited by Wells Fargo as key driver |
+| Co-packaged optics revenue (post-Polariton) | 2026-2027 | Integration timeline unclear; watch R&D commentary |
 
 ### Archived Catalysts
-*(Move here once played out)*
+
+| Catalyst | Date | Outcome |
+|---|---|---|
+| NVIDIA $2B strategic investment in MRVL | March 2026 | Confirmed; validates optical + custom silicon thesis |
+| AMD 13F stake disclosure | 2026-05-13 | MRVL +10% on day; both NVDA and AMD invested = ecosystem validation |
+| NVDA Q1 FY2027 earnings read-through | 2026-05-20 | NVDA +85% YoY revenue confirms AI buildout acceleration; MRVL continued rally |
 
 ---
 
@@ -152,6 +199,16 @@ Source: StocksToTrade / TheStreet, 2026-05-19–20. *Note: Combined with BofA's 
 Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 above $15.35B estimates. The most watched items: (1) confirmation of Google inference TPU + MPU co-design program and volume timeline; (2) Data Center % of total revenue; (3) optical connectivity revenue trajectory post-Polariton acquisition. Source: Investing.com / TipRanks, 2026-05-20–21.
 
 **NVDA Q1 results — positive read-through for MRVL:** NVIDIA's $81.6B Q1 and $91B Q2 guidance confirms the AI ASIC/custom silicon wave is not decelerating. Hyperscaler CapEx at $725B+ underpins the demand for the custom co-design work Marvell delivers. NVDA's strategic $2B investment in Marvell (captured March 2026) is additional confirmation of the custom silicon and optical interconnect thesis. Source: See [[NVDA]] 2026-05-21 entry.
+
+---
+
+### 2026-05-22
+
+**Analyst target escalation — Citi $215 (from $118), Oppenheimer $200 (from $170), Wells Fargo $195 (from $135):** Three additional major sell-side upgrades, all anchored on NVDA's $81.6B Q1 FY2027 blowout and AWS Trainium custom silicon momentum. Citi's raise from $118 to $215 is the single largest revision — nearly doubling their target — citing Amazon's Trainium deployment and broadening custom silicon tailwinds. Oppenheimer (Outperform) and Wells Fargo (Overweight) also raised, bringing confirmed institutional targets above $200 to: Melius $220, Citi $215, B. Riley $205, BofA $200, Oppenheimer $200, RBC $200. Source: GuruFocus / 247 Wall St. / Investing.com, 2026-05-20–22. *Thesis bearing: Confirms — the sell-side consensus has repriced MRVL's revenue trajectory following NVDA's demand-signal earnings; $200+ targets imply the custom silicon ramp is being underwritten by multiple independent research shops.*
+
+**FY2026 full-year results confirmed (year ended Jan 31, 2026):** Revenue $8.195B (+42% YoY, record). GAAP operating income: -$720.3M (distorted by acquired intangibles amortization ~$639M and large SBC). Non-GAAP operating margin: 35%. GAAP net income: $2.67B (aided by tax benefit). Cash: $2.64B. Total debt: $4.47B. Shares: 874M. Source: Marvell investor relations / SEC 8-K March 5, 2026. *Thesis bearing: Confirms — record revenue validates the hyperscaler custom silicon ramp; the GAAP/non-GAAP gap is explained by non-cash accounting charges from prior acquisitions, not operating weakness.*
+
+**Pre-earnings positioning — 5 days to May 27 Q1 FY2027 report:** MRVL trading ~$178, with pre-market sessions pushing above $185 ahead of the earnings report. Options markets price ~13% move on earnings day. Wall Street consensus for Q1 FY2027: revenue $2.40B (+27% YoY), EPS $0.79. Full-year FY2027 consensus: $11.12B revenue. Key watch items: (1) AI/Data Center revenue as % of total (expect >70%); (2) Google inference TPU + MPU program timeline and volume; (3) FY2027 and FY2028 guidance raise; (4) optical interconnect contribution post-Polariton. Source: Investing.com / FX Leaders, 2026-05-22. *Thesis bearing: Neutral — pre-earnings positioning is consensus-driven; actual confirmation on May 27 is the signal that matters.*
 
 ---
 

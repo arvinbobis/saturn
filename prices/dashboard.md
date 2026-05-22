@@ -7,21 +7,21 @@ Daily snapshot updated by the Saturn agent each morning.
 
 ## Current Prices
 
-*Last updated: 2026-05-21 by agent (Session 2)*
+*Last updated: 2026-05-22 by agent (Session 3)*
 
 | Ticker | Company | Price | 1D % | 1W % | 1M % | 52W Range | Market Cap |
 |---|---|---|---|---|---|---|---|
-| TSM | TSMC | $401.62 | +0.21% | — | — | $190.06–$421.97 | $2.05T |
-| MU | Micron | $744.68 | +3.88% | — | — | ~$55–$818.67 | ~$830B |
-| ASML | ASML | $1,597.00 | +3.04% | — | — | $683.48–$1,603.49 | ~$690B |
-| NVDA | NVIDIA | $219.45 | -1.26% | — | — | $129.16–$236.54 | ~$5.34T |
-| MRVL | Marvell | $175.64 | +4.34% | — | — | ~$90–$192 | ~$150B |
-| ANET | Arista | $145.93 | +3.86% | — | — | $83.86–$179.80 | ~$46B |
-| ALAB | Astera Labs | $288.06 | +1.10% | — | — | $80–$295 | $49.23B |
+| TSM | TSMC | $407.12 | +1.37% | — | — | $190.06–$421.97 | ~$2.08T |
+| MU | Micron | $758.44 | +1.8%* | — | — | ~$55–$818.67 | ~$845B |
+| ASML | ASML | $1,592.00 | ~flat | — | — | $683.48–$1,603.49 | ~$688B |
+| NVDA | NVIDIA | $223.47 | +1.89% | — | — | $129.16–$236.54 | ~$5.44T |
+| MRVL | Marvell | $177.95 | ~+1.3% | — | — | ~$90–$192 | ~$155B |
+| ANET | Arista | $147.71 | ~+1.2% | — | — | $83.86–$179.80 | ~$47B |
+| ALAB | Astera Labs | $288.06 | ~flat | — | — | $80–$295.38 | ~$50B |
 
-*⚑ Price movers >3% (May 21): MU (+3.88%), MRVL (+4.34%), ANET (+3.86%), ASML (+3.04%).*
-*Session 1 captured ASML early-day at -0.52%; confirmed +3.04% end-of-day. ASML May 20–21 two-day gain: +9.5%.*
-*EUR/USD ~1.163; ASML EUR price ~€1,373.*
+*⚑ Prior session movers >3% (May 21): MU (+3.88%), MRVL (+4.34%), ANET (+3.86%), ASML (+3.04%) — all already in event queue.*
+*May 22 session: No new >3% movers. MU estimated from news article citing $758.44 after NVDA earnings read-through. ASML using May 21 close; May 22 intraday data unavailable.*
+*EUR/USD ~1.163; ASML EUR price ~€1,368.*
 
 ---
 
@@ -60,9 +60,12 @@ Daily snapshot updated by the Saturn agent each morning.
 | MU | Melius | $1,100 | Buy | 2026-05-19 |
 | MU | HSBC | $1,100 | Buy | 2026-05-21 |
 | ASML | UBS | €1,900 | Buy | 2026-05-21 |
+| MRVL | Citi | $215 | Buy | 2026-05-22 |
 | MRVL | Melius | $220 | Buy | 2026-05-20 |
 | MRVL | B. Riley | $205 | Buy | 2026-05-20 |
 | MRVL | RBC | $200 | Buy | 2026-05-20 |
+| MRVL | Oppenheimer | $200 | Outperform | 2026-05-20 |
+| MRVL | Wells Fargo | $195 | Overweight | 2026-05-20 |
 | ANET | TD Cowen | $200 | Buy | 2026-05-19 |
 | NVDA | TD Cowen | $275 | Buy | 2026-05-17 |
 | ALAB | RBC | $250 | Outperform | 2026-05-20 |

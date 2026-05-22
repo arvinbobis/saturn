@@ -10,6 +10,29 @@ Format:
 
 ---
 
+## [2026-05-22 06:00 UTC] session-3
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event-driven (price move +4.34%, NVIDIA $2B strategic investment, analyst target surge)
+Notable: Citi raised MRVL price target from $118 to $215 (nearly doubled), joining Melius $220, B. Riley $205, RBC $200, Oppenheimer $200, Wells Fargo $195 — six sell-side firms now have $195–$220 targets ahead of May 27 Q1 FY2027 earnings. MRVL DCF first run: IV $119.91 vs. $177.95 current → MoS -32.6% → SELL/AVOID. GAAP EBIT base is deeply negative (-$720M) from non-cash acquisition amortization; true economic IV likely higher. Separately, NVDA Q1 FY2027 $81.6B revenue (+85% YoY) with $91B Q2 guidance confirmed AI buildout acceleration; hyperscaler CapEx 2026 tracking $600-725B; DRAM contract prices +58-63% QoQ Q2 2026 (MU thesis confirmation). Taiwan: PLA exercises ongoing; Taiwan defense budget NT$780B passed; Xi-Trump (May 13-15) no major Taiwan agreements reached.
+No significant news: TSM (+1.37%), NVDA (+1.89%), ASML (~flat), ALAB (~flat), ANET (~+1.2%)
+DCF run: MRVL — IV $119.91, MoS -32.6%, Rec: SELL/AVOID (high uncertainty; GAAP EBIT basis)
+
+Entity updates:
+- MRVL.md: Financials section populated (FY2026 $8.195B revenue, $-720M GAAP operating income, 35% non-GAAP margin, balance sheet). Growth Drivers, Risks, and Active/Archived Catalysts sections populated. Recent Updates 2026-05-22 added (Citi $215 upgrade, FY2026 results confirmed, pre-earnings positioning)
+- MRVL.json: Full financial data populated from FY2026 actuals — revenue $8,195M, EBIT -$720M, CapEx $354M, D&A $374M, cash $2,639M, debt $4,471M, equity $14,308M, shares 874M, R&D $2,075M with 4-year history
+- dashboard.md: All 7 prices updated for May 22; Citi $215 MRVL target added; Oppenheimer $200 and Wells Fargo $195 MRVL targets added
+- tracker.md: MRVL row populated with IV $119.91 / MoS -32.6% / SELL/AVOID; MU/NVDA prices updated; Session 3 note appended
+- state/session.json: session_count 2→3; MRVL removed from event_queue; dcf_last_run.MRVL = 2026-05-22; last_run_utc updated
+
+Lint findings:
+- 4 of 7 tickers still have revenue = 0 in DCF inputs: TSM, ASML, ANET, ALAB
+- Next priority in event queue: ANET (then ASML) — both with confirmed >3% price moves and strong fundamental news
+- No stale catalysts (Samsung vote May 22-27 ongoing; MRVL earnings May 27 approaching; TSM monthly revenue ~June 8)
+- No broken cross-links identified in MRVL entity page
+
+---
+
 ## [2026-05-21 ~01:00 UTC+4h] session-2
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
