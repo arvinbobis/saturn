@@ -50,7 +50,7 @@ For each of TSM, MU, ASML, NVDA, MRVL, ANET, ALAB:
 2. Check for any news in the last 24 hours
 
 **Outcomes from Phase 1:**
-- Update `prices/dashboard.md` with current prices
+- Update the **Price** and **1D%** columns in `dashboard.md` for all 7 tickers
 - If any ticker moved >3% in either direction: flag it and add to `state/session.json` event_queue with reason
 - If any earnings were released: add to event_queue with `"event": "earnings QN-YYYY"`
 
@@ -87,7 +87,7 @@ For the selected ticker:
 ```
 
 5. If earnings: update the Financials tables in the entity page
-6. If new analyst price target: add to `prices/dashboard.md`
+6. If new analyst price target: add to `dashboard.md` Analyst Price Targets section
 
 **Thesis bearing is required on every update.**
 
@@ -130,25 +130,26 @@ For the selected ticker:
 
 ---
 
-### Phase 4 — Update decisions/tracker.md
+### Phase 4 — Update dashboard.md (low-frequency columns)
 
-After Phase 3 (or whenever a new DCF output exists), update the `decisions/tracker.md` table:
+After Phase 3 (or whenever a new DCF output exists), update the **IV, MoS, Rec, Story, Last DCF** columns in `dashboard.md` for the ticker that was run. Also update the Upcoming Catalysts section if any have resolved.
 
-| Column | Source |
-|--------|--------|
-| Price | Phase 1 price search |
-| Intrinsic Value | DCF output (or last run value if not re-run this session) |
-| MoS | (IV − Price) / Price × 100 |
-| Rec | BUY / WAIT / HOLD / SELL from DCF recommendation() logic |
-| Story (one line) | Distilled from story_narrative in the JSON |
-| Last DCF | Date from state/session.json dcf_last_run |
+| Column | Frequency | Source |
+|--------|-----------|--------|
+| Price | Every session (Phase 1) | Live price search |
+| 1D% | Every session (Phase 1) | Live price search |
+| IV | On DCF run only | `valuation/outputs/[TICKER]-dcf.md` |
+| MoS | On DCF run only | (IV − Price) / Price × 100 |
+| Rec | On DCF run only | DCF recommendation() logic |
+| Story | On DCF run only | Distilled from story_narrative in JSON |
+| Last DCF | On DCF run only | Date from state/session.json dcf_last_run |
 
-**Update all 7 rows** — use cached values from previous sessions for tickers not run this session. Never leave a row blank if prior data exists.
+**Carry forward** IV/MoS/Rec/Story/Last DCF from prior sessions for tickers not run this session. Never blank out a cell that has data.
 
-Append a one-paragraph session note under `## Notes from Last Session`. Include:
-- Ticker(s) reviewed in depth
+Append a session note under `## Session Notes` as a new `### Session N` heading. Include:
+- Ticker(s) reviewed in depth and trigger reason
 - Most significant news finding
-- Whether the DCF changed the recommendation
+- Whether any recommendation changed
 
 Also append one line to `## Session History`.
 
@@ -160,8 +161,8 @@ Quick scan for quality gaps (5 min max):
 
 1. **Missing data audit:** For each ticker, check if any entity page section is empty or says "pending." Flag the most critical gap in the session note.
 2. **Broken cross-links:** Scan entity pages for `[[concept]]` links. Verify the concept exists in `/concepts/`. Flag broken links.
-3. **Stale catalysts:** Check `prices/dashboard.md` Upcoming Catalysts. Remove any catalysts whose date has passed. Note outcome.
-4. **DCF health check:** If any ticker has `current_revenue_usd_m: 0` in its JSON and the last DCF run is null, flag it as "needs financial data" in the tracker notes.
+3. **Stale catalysts:** Check `dashboard.md` Upcoming Catalysts. Remove any catalysts whose date has passed. Note outcome.
+4. **DCF health check:** If any ticker has `current_revenue_usd_m: 0` in its JSON and the last DCF run is null, flag it as "needs financial data" in the session note.
 
 ---
 
@@ -169,7 +170,7 @@ Quick scan for quality gaps (5 min max):
 
 **Only commit if there is material content to save.**
 
-Material = any of: entity page updated, DCF model run, tracker.md changed, financial data added to JSON, price data updated.
+Material = any of: entity page updated, DCF model run, dashboard.md changed, financial data added to JSON, price data updated.
 
 If prices moved <2% and no news found and no DCF run: skip commit.
 
@@ -207,7 +208,7 @@ Append under `## Recent Updates` with today's date as a sub-heading:
 - If earnings were reported: update the Financials tables in the entity page
 - If HBM market share data is available: update the HBM Market Share table in MU.md
 - If a catalyst has played out: move it from Active to Archived Catalysts with the outcome noted
-- If a new analyst price target was issued: add it to `prices/dashboard.md`
+- If a new analyst price target was issued: add it to `dashboard.md` Analyst Price Targets section
 
 **Thesis bearing is required** on every update — always state whether the development Confirms, Challenges, or is Neutral to the investment thesis, and why in one sentence.
 
