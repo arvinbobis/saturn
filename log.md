@@ -10,6 +10,30 @@ Format:
 
 ---
 
+## [2026-05-22 12:00 UTC] session-8
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ALAB — event-driven (>7.5% move May 22; new 52-week high $315.73; DCF = null; Amazon Trainium3 Scorpio X ramp; Q1 $308.4M +93% YoY; Q2 guide $365M)
+Notable: ALAB first DCF run yields IV $111.84 vs. $309.78 price → MoS -63.9% → SELL/AVOID. Even at 35% revenue CAGR for 10 years with full R&D capitalization ($837M capitalized R&D, +$199M adj to EBIT), the intrinsic value is 64% below current price. Sensitivity confirms: 25% CAGR at 10% WACC gives IV $232 — still below market. ALAB is priced for perfection (~112x forward EPS). Thesis is CONFIRMED (Amazon Trainium3 Scorpio X design win, PCIe Gen 6 >1/3 of Q1 revenue, 76.3% gross margin) but valuation leaves zero margin of safety. Also: ANET flagged with +3.1% move on May 22 (Q1 earnings beat + Gartner MQ Leader); added to event_queue. Hyperscaler CapEx $700B in 2026 confirmed — 2027 trending >$1T. TrendForce Q2 DRAM +58-63% QoQ. Samsung union vote ongoing.
+No significant news: TSM (flat, +46% YTD, May revenue due ~June 8), MU (+1.6% to $771; Samsung vote ongoing), ASML (~flat $1,592; High-NA first products "within months"), NVDA (-2.4% to $218.13, healthy post-earnings digestion).
+DCF run: ALAB — IV $111.84, MoS -63.9%, Rec: SELL/AVOID (high uncertainty)
+
+Entity updates:
+- ALAB.md: Financials section fully populated (Q1 2026 actuals, FY2024/FY2025 annual, balance sheet, TTM); 2026-05-19 entry added (JP Morgan TMC Conference, Scorpio X ramp confirmation, +12-16% surge, JPM $280/Roth $275/Needham $260/Stifel $260 PTs); 2026-05-22 entry appended (Session 8 DCF run note + ANET >3% cross-portfolio flag). Last updated timestamp updated to 2026-05-22 Session 8.
+- ALAB.json: All financial inputs populated — revenue $1,001.5M (TTM), EBIT $200.4M, CapEx $8M, D&A $15M, cash $1,200M, debt $0, equity est $1,400M, shares 182.5M diluted, price $309.78, R&D $411M (TTM), R&D history [50, 70, 180, 350]. Story narrative updated for Q1 beat, Amazon Trainium3 win, Scorpio X ramp, valuation risk.
+- dashboard.md: Prices updated — MU $771 (+1.6%), NVDA $218.13 (-2.4%), MRVL $195.96 (+2.8%), ANET $148.59 (+3.1%⚑). ALAB catalyst moved to "processed." ANET added to Upcoming Catalysts (Session 9). TSM May Revenue catalyst flagged with dcf_last_run = null warning. New analyst PTs added (JPM $280, Roth $275, Needham $260, Stifel $260 — all for ALAB, dated May 19).
+- decisions/tracker.md: ALAB IV $111.84, MoS -63.9%, SELL/AVOID added. All prices refreshed. Session 8 notes and history row appended.
+- state/session.json: session_count 7→8; ALAB removed from event_queue (processed); ANET and MRVL-pre-earnings added to event_queue; dcf_last_run.ALAB = 2026-05-22; last_run_utc = 2026-05-22T12:00:00Z; last_deep_session = ALAB.
+- log.md: session-8 appended (this entry).
+
+Lint findings:
+- TSM: dcf_last_run = null — CRITICAL GAP. TSM is the portfolio's largest position rationale (foundry monopoly) but has no intrinsic value estimate. Next session after event_queue clears (ANET, MRVL-earnings) should prioritize TSM DCF.
+- MRVL earnings May 27: event_queue item; entity is current; DCF last run May 22 (IV $119.91, MoS -38.8%). Post-earnings session will refresh DCF.
+- Samsung union vote: result expected by May 27. Watch alongside MRVL earnings.
+- No stale catalysts removed (all upcoming dates still valid as of May 22).
+
+---
+
 ## [2026-05-23 00:00 UTC] session-7
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

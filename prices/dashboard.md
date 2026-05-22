@@ -7,24 +7,26 @@ Daily snapshot updated by the Saturn agent each morning.
 
 ## Current Prices
 
-*Last updated: 2026-05-22 by agent (Session 7)*
+*Last updated: 2026-05-22 by agent (Session 8)*
 
 | Ticker | Company | Price | 1D % | 1W % | 1M % | 52W Range | Market Cap |
 |---|---|---|---|---|---|---|---|
 | TSM | TSMC | $407.15 | ~flat | — | — | $190.06–$421.97 | ~$2.08T |
-| MU | Micron | $759.00 | -0.4% | — | — | ~$55–$818.67 | ~$867B |
-| ASML | ASML | $1,592.00 | -2.5% USD | — | — | $683.48–$1,633.00 | ~$688B |
-| NVDA | NVIDIA | $223.47 | +1.30% | — | — | $129.16–$236.54 | ~$5.44T |
-| MRVL | Marvell | $183.52 | +3.1%⚑ | — | — | ~$90–$198.23 | ~$160B |
-| ANET | Arista | $147.71 | ~flat | — | — | $83.86–$179.80 | ~$186B |
-| ALAB | Astera Labs | $309.78 | +7.5%⚑ | — | — | $80–$315.73 | ~$53B |
+| MU | Micron | $771.00 | +1.6% | — | — | ~$55–$818.67 | ~$880B |
+| ASML | ASML | $1,592.00 | ~flat | — | — | $683.48–$1,633.00 | ~$688B |
+| NVDA | NVIDIA | $218.13 | -2.4% | — | — | $129.16–$236.54 | ~$5.37T |
+| MRVL | Marvell | $195.96 | +2.8% | — | — | ~$90–$198.23 | ~$170B |
+| ANET | Arista | $148.59 | +3.1%⚑ | — | — | $83.86–$179.80 | ~$187B |
+| ALAB | Astera Labs | $309.78 | ~flat | — | — | $80–$315.73 | ~$56.6B |
 
-*MU: -0.4% on May 22 as Samsung strike averted news confirmed; pares +4.76% prior session gain. Samsung union vote underway May 22–27.*
-*ASML: USD price -2.5% to $1,592 (EUR flat at €1,390) — EUR/USD weakened from 1.163 to ~1.146 in after-hours. EUR 52-week high unchanged at €1,390.*
-*NVDA: May 22 close $223.47 (+1.30% vs. May 21 close $219.51); market absorbing strong Q1 FY2027 print ($81.62B revenue, $91B Q2 guide).*
-*MRVL: holding ~$183.52 ahead of May 27 earnings; multiple analyst PT raises (Citi $215, Melius $220); 5 days to Q1 FY2027 report. Event-queue processed in Session 7.*
-*ALAB: ⚑ >3% TRIGGER — new 52-week high $315.73 intraday; after-hours ~$309.78 (+7.5%); Evercore ISI $297 PT and RBC $270 PT; Q2 guide up to $365M; added to event_queue.*
-*TSM, ANET: no material moves. EUR/USD ~1.146 (Session 7).*
+*MU: +1.6% to $771 as Samsung union vote continues (May 22–27); tentative deal holding. Memory stocks recovering after averted-strike consolidation.*
+*ASML: USD ~flat at $1,592; EUR/USD stable ~1.146. High-NA EUV CEO comment (May 20): first memory/logic products "within months." €33B backlog.*
+*NVDA: -2.4% to $218.13 as market digests record Q1 ($81.62B, +85%) and $91B Q2 guide. Healthy consolidation after +10% post-earnings move.*
+*MRVL: +2.8% to $195.96; approaching May 27 Q1 FY2027 earnings. Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move.*
+*ANET: ⚑ +3.1% to $148.59 — Q1 2026 earnings beat + full-year outlook raised + Gartner Magic Quadrant Leader for Enterprise LAN. NVDA entry into Ethernet switching noted as "competitive overhang." Added to event_queue (Session 8).*
+*ALAB: ~flat at $309.78 (prior session high was $315.73). Session 8 DCF: IV $111.84, MoS -63.9%, SELL/AVOID — processed from event_queue.*
+*TSM: flat, no material news today. Monthly revenue release expected ~June 8.*
+*EUR/USD: ~1.146. Session 8.*
 
 ---
 
@@ -45,11 +47,12 @@ Daily snapshot updated by the Saturn agent each morning.
 
 | Ticker | Event | Expected Date | Notes |
 |---|---|---|---|
-| MU | Samsung Union Vote | 2026-05-22–27 | **ONGOING** — vote runs through May 27; tentative deal reached May 21; rejection re-ignites strike; MU -0.4% on May 22 as averted consensus priced in |
-| MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move; MRVL ~$183.52; 5 days out |
-| ALAB | >3% Move — Deep Review | Session 8 | ⚑ +7.5% from $288.06 → $309.78; new 52W high $315.73; Evercore $297, RBC $270; Q2 guide $365M; event-queue for Session 8 |
-| TSM | May Monthly Revenue | ~2026-06-08 | Monthly revenue release; leading AI demand signal |
+| MU | Samsung Union Vote | 2026-05-22–27 | **ONGOING** — vote runs through May 27; tentative deal May 21; MU at $771 (+1.6% May 22). Rejection would re-ignite strike and boost MU supply thesis. |
+| MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move; MRVL at $195.96 (5 days out). Event-queue item → next rotation deep session. |
+| ANET | >3% Move — Deep Review | Session 9 | ⚑ +3.1% on May 22 to $148.59; Q1 earnings beat + Gartner MQ Leader + FY guide raised; added to event_queue for next session |
+| TSM | May Monthly Revenue | ~2026-06-08 | Monthly revenue release; leading AI demand signal. April was NT$410.73B (+17.5% YoY), 2nd-highest ever. ⚠ TSM dcf_last_run = null — CRITICAL GAP. |
 
+*ALAB >3% Move (Session 8): ✓ PROCESSED — DCF first run complete (IV $111.84, MoS -63.9%, SELL/AVOID). Entity fully updated.*
 *Note: April Monthly Revenue for TSMC was released May 8 — NT$410.73B (+17.5% YoY), second-highest month ever.*
 
 ---
@@ -76,3 +79,7 @@ Daily snapshot updated by the Saturn agent each morning.
 | NVDA | TD Cowen | $275 | Buy | 2026-05-17 |
 | ALAB | RBC | $270 | Outperform | 2026-05-22 |
 | ALAB | Evercore ISI | $297 | Outperform | 2026-05-22 |
+| ALAB | JPMorgan | $280 | Overweight | 2026-05-19 |
+| ALAB | Roth MKM | $275 | Buy | 2026-05-19 |
+| ALAB | Needham | $260 | Buy | 2026-05-19 |
+| ALAB | Stifel | $260 | Buy | 2026-05-19 |

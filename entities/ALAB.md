@@ -3,7 +3,7 @@
 > The connectivity chip company that makes AI GPU clusters physically possible at scale —
 > high-speed PCIe/CXL retimers and optical interconnects for hyperscaler AI infrastructure.
 
-*Last updated: 2026-05-21 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-22 (Session 8) | Q1 2026 financials pulled from 10-Q/8-K SEC filings*
 
 ---
 
@@ -48,17 +48,74 @@ As a TSMC customer on advanced nodes, Astera benefits from TSMC's process advant
 
 ## Financials
 
-*(Pull from Wisesheets — note pull date when populating)*
+*Data pulled by Saturn agent on 2026-05-22 from Q1 2026 10-Q (SEC) and prior earnings releases.*
 
-**Note:** Astera IPO'd in March 2024, so historical data is limited to ~2 years of public filings. Revenue growth has been exceptional — 300%+ YoY in recent quarters driven by hyperscaler AI infrastructure buildout.
+**Note:** Astera IPO'd in March 2024; historical data limited to ~2 years of public filings.
+
+### Quarterly Revenue ($M)
+
+| Quarter | Revenue | QoQ % | YoY % |
+|---|---|---|---|
+| Q1 2024 | $65.3M | — | +269% |
+| Q2 2024 | $76.9M | +18% | +619% |
+| Q3 2024 | $113.1M | +47% | +206% |
+| Q4 2024 | $141.1M | +25% | +179% |
+| Q1 2025 | $159.4M | +13% | +144% |
+| Q2 2025 | $191.9M | +20% | +149% |
+| Q3 2025 | $230.6M | +20% | +104% |
+| Q4 2025 | $270.6M | +17% | +92% |
+| Q1 2026 | **$308.4M** | **+14%** | **+93%** |
+| Q2 2026E | ~$360M | ~+17% | ~+88% |
+
+### Income Statement — Q1 2026 (GAAP, $M)
+
+| Item | Q1 2026 | Q1 2025 |
+|---|---|---|
+| Revenue | $308.4M | $159.4M |
+| Gross Profit | $235.1M (76.3% GM) | — |
+| R&D Expense | $125.6M | $64.6M |
+| S&M | $21.9M | — |
+| G&A | $25.8M | — |
+| Operating Income | $61.8M (20.0% margin) | — |
+| Net Income | $80.3M | — |
+| Diluted EPS (GAAP) | $0.44 | — |
+| Diluted EPS (non-GAAP) | $0.61 | $0.33 |
+| Diluted Shares | ~182.5M | — |
+
+### Annual Summary
+
+| Year | Revenue | YoY % | Gross Margin | EBIT Margin | Net Income | FCF |
+|---|---|---|---|---|---|---|
+| FY2024 | $396.3M | +242% | ~73% | ~18% | ~$72M | — |
+| FY2025 | $852.5M | +115% | 75.7% | 20.3% | $219.1M | $281.8M |
+
+### Balance Sheet — Q1 2026 (March 31, 2026)
+
+| Item | Value |
+|---|---|
+| Cash + ST Investments | $1,200M |
+| Total Liabilities | $165.3M |
+| Long-term Debt | $0 (debt-free) |
+| Goodwill (post-$74M acquisition) | $87.7M |
+| Est. Book Value of Equity | ~$1,400M |
+
+### TTM (Q2 2025 – Q1 2026)
+
+| Item | TTM Value |
+|---|---|
+| Revenue | ~$1,001.5M |
+| Est. EBIT (GAAP ~20% margin) | ~$200M |
+| R&D Expense | ~$411M |
+| D&A | ~$15M (annualized from Q1 $3.7M) |
+| Est. CapEx | ~$8M (fabless; very light) |
 
 ---
 
 ## Revenue Segments
 
-*(Update quarterly — Astera reports by product line. Track CXL/PCIe retimers vs. optical/ethernet; hyperscaler % of revenue)*
+**Q1 2026 product mix:** PCIe Gen 6 (Aries) contributed >1/3 of Q1 2026 revenue. Scorpio X-Series AI fabric switches are ramping and are expected to become the largest product line by year-end 2026. Leo (optical interconnects) growing. CXL contribution still small but ramping with Microsoft and Meta pilots.
 
-**Customer concentration:** A small number of hyperscalers (Microsoft, Meta, Google) represent a large % of revenue. This is a concentration risk but also a sign of deep design wins.
+**Customer concentration:** Amazon (Trainium3), Microsoft, Meta and Google represent a large % of revenue. Amazon Trainium3 is the most visible named design win as of Q1 2026 — Scorpio X switches are the connectivity fabric for Amazon's primary AI accelerator. Concentration risk exists but also signals deep co-design relationships.
 
 ---
 
@@ -138,6 +195,12 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 
 ## Recent Updates
 
+### 2026-05-19
+
+**J.P. Morgan TMC Conference — Scorpio X ramp confirmed, stock surges +12–16%:** ALAB management presented at the J.P. Morgan 54th Annual Global Technology, Media and Communications Conference in Boston (May 19). CEO explicitly confirmed Scorpio X-Series 320-lane AI fabric switches are on track to become the largest product line by year-end 2026 — a major product mix upgrade from the legacy P-Series PCIe retimer position. ALAB surged 12.58%–16% on May 19 (touching $255.96 intraday), directly attributable to the conference presentation + simultaneous analyst upgrades from JPMorgan ($280 PT, Overweight), Roth MKM ($275, Buy), Needham ($260), and Stifel ($260). Source: J.P. Morgan conference transcript / Invezz / TradingKey / StocksToTrade, 2026-05-19. *Thesis bearing: Confirms — management's on-record ramp timeline for Scorpio X at a major institutional venue, combined with a wave of new analyst coverage, directly validates the scale-up switch layer of the thesis; the +16% move reflects institutional repricing of the product mix story.*
+
+---
+
 ### 2026-05-21
 
 **Q1 2026 record revenue — $308.4M:** Astera Labs reported Q1 2026 revenue of $308.4M with net income of ~$80.3M (net margin >25%), gross margin ~75.7%. The company carries no long-term debt and holds ~$1.18B in cash and short-term investments. This confirms the business is both high-growth and profitable — a rare combination at this stage of the AI infrastructure buildout. Source: StocksToTrade / TimothySykes / InsiderMonkey, 2026-05-20. *Thesis bearing: Confirms — record quarterly revenue with expanding margins validates the thesis that AI cluster scale-out is translating directly into ALAB revenue; the cash-rich, debt-free balance sheet reduces dilution risk.*
@@ -159,6 +222,10 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 **Q2 2026 revenue guidance — up to $365M (+18% QoQ):** Reiterated from Q1 2026 earnings (reported May 5): management guided Q2 2026 revenue at up to $365M — an 18% sequential increase from Q1's record $308.4M. Scorpio X-Series scale-up switches are expected to become the largest product line by year-end 2026, surpassing P-Series (PCIe retimers). PCIe Gen 6 contributed >one-third of Q1 revenue. Source: Astera Labs Q1 2026 8-K / Motley Fool earnings transcript, 2026-05-05. *Thesis bearing: Confirms — the sequential growth acceleration driven by Scorpio X ramp into Amazon Trainium3 provides near-term revenue visibility through mid-2026; PCIe Gen 6 > one-third of revenue confirms the upgrade cycle thesis is materializing.*
 
 **New 52-week high $315.73 — stock ~$309.78 in after-hours (+7.5% from $288.06 close):** ALAB set a new 52-week high of $315.73 during May 22 trading, closing near $309.78 — a gain of approximately +7.5% from the prior Session 6 reference price of $288.06. The Benzinga "Why Is Astera Labs Trending Overnight?" headline indicates continued after-hours momentum. Market cap at $309.78 is approximately $53B. **>3% trigger: adding to event_queue for Session 8 deep dive.** Source: Benzinga / StockAnalysis / MarketBeat, 2026-05-22. *Thesis bearing: Neutral — the thesis is confirmed by the Amazon Trainium3 design win and Q2 guide; the rapid price appreciation from ~$183 on April 28 to $309.78 on May 22 (+69% in 25 days) compresses the margin of safety. DCF validation needed before this is a BUY.*
+
+**Session 8 DCF — first valuation run (ALAB dcf_last_run was null):** Saturn agent ran the first ALAB DCF model on 2026-05-22 using TTM financials (Q2–Q4 2025 + Q1 2026). Key inputs: TTM revenue $1,001.5M, TTM GAAP EBIT ~$200M, R&D capitalized from 5-year history, shares 182.5M diluted, price $309.78. See `valuation/outputs/ALAB-dcf.md` for full output. The DCF result is the primary decision input in `decisions/tracker.md` Session 8 update.
+
+**ANET Arista Networks — >3% move today (+3.1%), flagging for event_queue:** Arista Networks rose +3.08% on May 22 to close at $148.59 (from prior close of ~$140.49). Catalyst: Arista named a Gartner Magic Quadrant Leader for Enterprise LAN, Q1 2026 earnings beat + full-year revenue outlook raised, new ruggedized switch products announced. Zacks downgraded to Hold on May 16 citing valuation, but market focused on the fundamental beat and Gartner recognition. NVDA's entry into Ethernet switching noted as a "real competitive overhang" but not yet impacting results. Source: TradingKey / Zacks, 2026-05-22. *Not an ALAB thesis bearing update — noted here for cross-portfolio awareness; ANET >3% move added to event_queue for next rotation.*
 
 ---
 
