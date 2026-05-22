@@ -71,6 +71,8 @@ Search across these sources specifically:
 
 #### 1b — Podcast & Long-Form Intelligence Scan
 
+**Frequency gate: run only if `session_count % 3 == 0`.** Skip silently if not — no note needed.
+
 Search for recent episodes (last 14 days) from these shows mentioning AI chips, semiconductors, or supply chain:
 - Acquired, Invest Like the Best, Odd Lots (Bloomberg), Eye on AI, Dwarkesh Podcast, The MAD Podcast
 
@@ -82,7 +84,9 @@ If a relevant episode is found:
 
 #### 1c — Chokepoint Scout (next frontier scan)
 
-Once per session, run a brief scan for emerging AI/semiconductor supply chain companies NOT in the current 7:
+**Frequency gate: run only if `session_count % 6 == 0`.** Skip silently if not — no note needed.
+
+Run a brief scan for emerging AI/semiconductor supply chain companies NOT in the current 7:
 
 Search terms:
 - `"AI supply chain" bottleneck OR chokepoint 2026 site:cnbc.com OR site:wsj.com`
@@ -252,7 +256,9 @@ Check `state/session.json` dcf_last_run. For any ticker where it is null:
 - If not, add it now
 
 **2. Zero-revenue remediation:**
-For any ticker where `valuation/inputs/[TICKER].json` has `current_revenue_usd_m: 0`:
+**Cap: fix at most 1 ticker per session.** If multiple tickers have zero revenue, pick the one whose entity page was most recently updated (most active); queue the rest in event_queue for future sessions.
+
+For the selected ticker where `valuation/inputs/[TICKER].json` has `current_revenue_usd_m: 0`:
 - Search the web for that ticker's most recent annual revenue figure
 - If found in under 2 searches: populate the JSON and add a note. This is a quick fix, not a full DCF session.
 - If not found: note the gap and ensure the ticker is in event_queue for a full financial data session
@@ -272,7 +278,66 @@ Scan entity pages for `[[concept]]` or `[[TICKER]]` references. Verify the targe
 
 ---
 
-### Phase 6 — Commit & Stop
+### Phase 6 — Self-Feedback + Commit & Stop
+
+#### 6a — Self-Feedback Loop
+
+**Run every session.** Saturn evaluates its own performance and autonomously executes warranted improvements.
+
+**Step 1 — Score this session:**
+
+For each phase, record: `Complete` / `Partial` (did most of it) / `Skipped` (did none).
+
+Indicators of trouble:
+- Phase 3 or later was reached with fewer than 30% of context remaining → context pressure
+- A phase was skipped entirely → either correct (frequency gate) or a gap to fix
+- Fewer than 3 useful findings in Phase 1 → searches may be over-broad
+- Zero-revenue or null-DCF tickers accumulating across 3+ sessions → event_queue not clearing
+
+**Step 2 — Write assessment to `state/feedback.md`:**
+
+Append:
+
+```markdown
+## Session N — YYYY-MM-DD
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete/Partial/Skipped | |
+| 1b (podcasts) | Complete/Partial/Skipped/Gated | |
+| 1c (scout) | Complete/Partial/Skipped/Gated | |
+| 2 (deep session) | Complete/Partial/Skipped | |
+| 3 (DCF) | Complete/Partial/Skipped | |
+| 4 (dashboard) | Complete/Partial/Skipped | |
+| 5 (lint) | Complete/Partial/Skipped | |
+
+### Diagnosis
+[1–2 sentences: what was the most significant friction this session?]
+
+### Improvement Executed
+[What was changed, or "None — no pattern yet"]
+```
+
+**Step 3 — Execute autonomous improvement if warranted:**
+
+Before executing any change, apply the 3-session rule: only act if the same problem appears in 3 consecutive sessions in `state/feedback.md`. One bad session is noise; a pattern is signal.
+
+When the 3-session rule is met, you MAY autonomously:
+- Adjust a frequency gate (e.g., change `% 3` to `% 4` for podcasts if context is regularly exhausted)
+- Simplify a search string (e.g., reduce tickers searched per Phase 1 pass from 7 to 5 if context runs low before Phase 3)
+- Reorder phase steps (e.g., move zero-revenue remediation earlier if it consistently gets skipped)
+- Add a hard skip: "If context < 20% before Phase 3, skip Phase 1c regardless of gate"
+
+You MAY NOT autonomously:
+- Add new tickers to the portfolio
+- Change DCF assumptions (story_* fields, WACC, CAGR)
+- Remove phases entirely
+- Change the commit or push behavior
+
+If a change is executed: edit CLAUDE.md in place, note it in the `Improvement Executed` field, and include it in the session commit. Log it in the session notes as: `Self-improvement: [what changed and why]`.
+
+---
 
 **Only commit if there is material content to save.**
 
