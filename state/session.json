@@ -1,22 +1,22 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-22T06:00:00Z",
-  "session_count": 3,
+  "last_run_utc": "2026-05-22T12:00:00Z",
+  "session_count": 4,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "MRVL",
-  "next_deep_session": "TSM",
+  "last_deep_session": "ANET",
+  "next_deep_session": "ASML",
   "event_queue": [
-    {"ticker": "ANET", "event": "price move +3.86% — NVDA earnings read-through, AI networking demand confirmation", "detected": "2026-05-21"},
-    {"ticker": "ASML", "event": "price move +3.04% (May 21) + +6.2% (May 20) = +9.5% two-day — Q1 FY2026 beat, raised FY2026 guidance, NVDA demand read-through", "detected": "2026-05-21"}
+    {"ticker": "ASML", "event": "price move +3.04% (May 21) + +6.2% (May 20) = +9.5% two-day — Q1 FY2026 beat, raised FY2026 guidance to €36-40B, NVDA demand read-through", "detected": "2026-05-21"},
+    {"ticker": "MU", "event": "price move +4.76% (May 22) — first full regular-session day post-NVDA $91B Q2 guide; HBM demand confirmation; Samsung union vote May 22-27 ongoing", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "MRVL processed in Session 3 and removed. ANET is next (AI networking +35% YoY Q1 revenue). ASML follows (Q1 beat, raised FY2026 guidance to €36-40B, High-NA EUV progress).",
+  "_event_queue_note": "ANET processed in Session 4 and removed. ASML remains (Session 5 will process it). MU added: +4.76% on May 22 from NVDA earnings read-through (first regular-session day after NVDA's after-close report).",
   "dcf_last_run": {
     "TSM":  null,
     "MU":   "2026-05-21",
     "ASML": null,
     "NVDA": "2026-05-21",
     "MRVL": "2026-05-22",
-    "ANET": null,
+    "ANET": "2026-05-22",
     "ALAB": null
   }
 }

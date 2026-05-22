@@ -10,6 +10,32 @@ Format:
 
 ---
 
+## [2026-05-22 12:00 UTC] session-4
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ANET — event-driven (price move +3.86% on May 21, NVDA AI networking read-through)
+Notable: ANET Q1 2026 GAAP operating margin expanded to 42.7% (from FY2025 average 32.7%), confirming operating leverage on EOS software is materializing faster than modeled. DCF first run: IV $126.94 vs. $146.44 → MoS -13.3% → SELL/AVOID (medium uncertainty). The -13.3% is the mildest overvaluation in the portfolio — at WACC ~8% and 20% CAGR, IV reaches $227. Separately, hyperscaler CapEx $725B combined in 2026 (+77% YoY) confirmed, with Meta raising to $125-145B and Microsoft at $190B — the strongest possible demand confirmation for AI networking. MU +4.76% on May 22 (first regular session post-NVDA earnings) added to event queue for Session 5. Taiwan: PLA exercises ongoing; Trump warned against formal independence declaration; Lai reiterated sovereignty; risk elevated but stable.
+Price movers >3% (new, May 22): MU +4.76% (added to event_queue)
+No significant news: TSM (+1.37%), ASML (~flat), NVDA (-1.77% profit-taking), MRVL (~flat, pre-earnings volatility), ALAB (~flat)
+DCF run: ANET — IV $126.94, MoS -13.3%, Rec: SELL/AVOID (medium uncertainty; GAAP EBIT basis)
+
+Entity updates:
+- ANET.md: 2026-05-22 entry added — Q1 2026 GAAP operating margin 42.7% confirmed; hyperscaler CapEx $725B validated; NVDA profit-taking context; analyst consensus $181-188 noted. Last updated timestamp refreshed.
+- ANET.json: Full TTM financial data populated — revenue $9,700M, EBIT $3,400M, cash $12,353M (no debt), equity $13,487M, shares 1,259M, R&D $1,237M with 5-year history. Story narrative updated for Q1 2026 data.
+- dashboard.md: Session 4 prices updated; MU $762.10 (+4.76%⚑) flagged; ANET market cap corrected to ~$184B; MRVL updated to $175.64; NVDA $219.51 (-1.77%); Samsung union vote updated to ONGOING; Barclays $195 and Rosenblatt $210 ANET targets added.
+- tracker.md: ANET row populated with IV $126.94 / MoS -13.3% / SELL/AVOID; MU/NVDA/MRVL prices updated; Session 4 note appended; Session History row added.
+- state/session.json: session_count 3→4; ANET removed from event_queue; MU added to event_queue (+4.76%); next_deep_session updated to ASML; dcf_last_run.ANET = 2026-05-22; last_run_utc updated.
+
+Lint findings:
+- 3 of 7 tickers still have current_revenue_usd_m = 0 in DCF inputs: TSM, ASML, ALAB
+- ASML next in event queue — Q1 2026 beat (€8.8B revenue) provides financial data for DCF; should run in Session 5
+- TSM DCF remains null; schema exists but no financial data populated yet; after ASML processes in event queue, TSM is next in rotation
+- MRVL earnings May 27 will trigger event-driven session (earnings QN release); 5 days out
+- MU Samsung union vote outcome pending (May 22-27) — if union ratifies deal, bear risk removed; if rejected, strike resumes and MU HBM supply-side thesis strengthens further
+- ALAB still stub — no financial data, no DCF; low priority relative to event-driven queue
+
+---
+
 ## [2026-05-22 06:00 UTC] session-3
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

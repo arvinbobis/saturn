@@ -3,7 +3,7 @@
 > The dominant vendor for AI data center networking infrastructure —
 > every scale-out GPU cluster needs high-speed, low-latency ethernet switching, and Arista builds it.
 
-*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-22 | Wisesheets data as of: not yet pulled; TTM financials from SEC filings*
 
 ---
 
@@ -133,6 +133,16 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 **EBO (Expanded Beam Optical) MSA — new AI optical interconnect standard:** Arista joined an industry standards group for next-generation Expanded Beam Optical (EBO) connectivity for AI infrastructure and is participating in a Multi-Source Agreement (MSA) targeting open, interoperable specifications for high-performance optical interconnects. This is distinct from the XPO (eXternal Pluggable Optics) MSA announced May 19 — Arista is now participating in two parallel optical interconnect standard tracks. Source: Search results / stockanalysis.com, 2026-05-21. *Thesis bearing: Confirms — Arista's simultaneous engagement in both the XPO and EBO standard-setting processes positions it to win regardless of which optical packaging approach prevails in AI data centers. The company is not a bystander but an active architect of the next interconnect generation.*
 
 **NVDA Q1 results — AI networking demand validation:** NVIDIA's $75B data center quarter and $91B Q2 guide represent a direct increase in GPU cluster scale-out demand. Every incremental large GPU cluster requires the spine-leaf ethernet fabric that Arista builds — the networking order pipeline should follow the GPU shipment cadence with roughly a 1-quarter lag. Supply chain constraints (silicon and memory shortages noted by Citi) remain the primary near-term margin risk, not demand. Source: See [[NVDA]] 2026-05-21 entry.
+
+---
+
+### 2026-05-22
+
+**Q1 2026 GAAP operating margin expanded to 42.7% — confirms operating leverage thesis:** GAAP income from operations in Q1 2026 was $1,157.8M on $2,709M revenue (42.7% margin), up sharply from FY2025 full-year average of 32.7% ($2,944.6M on $9,006M). Non-GAAP operating income reached $1,294M (47.8% margin). Q1 2026 operating cash flow was $1,693.5M — nearly 40% of FY2025's full-year OCF of $4.4B in a single quarter. Balance sheet: $2,789.5M cash + $9,563.7M marketable securities = $12,353M total cash/investments; zero debt; equity $13,487.1M. Source: SEC Form 10-Q (anet-20260331), 2026-05-05. *Thesis bearing: Confirms — the margin expansion from 32.7% (FY2025 average) to 42.7% (Q1 2026) demonstrates accelerating operating leverage on EOS software and services revenue; the 40% long-run EBIT margin modeled in the DCF is already being achieved and exceeded.*
+
+**Hyperscaler CapEx $725B in 2026 (+77% YoY) — direct demand signal for AI networking:** Combined CapEx guidance from the Big Four (Microsoft $190B, Amazon ~$200B, Meta raised to $125–145B, Alphabet ~$175–185B) totals ~$725B in 2026, of which ~75% ($450–540B) is AI-related infrastructure. Meta raised its full-year 2026 capex from $115–135B to $125–145B, citing higher component costs and additional data center builds. Microsoft's $190B 2026 CapEx figure was well above the $152B analyst consensus. Approximately 60%+ of hyperscaler spend goes to power/cooling; the remainder directly funds hardware including networking. Source: Tom's Hardware / Yahoo Finance / Futurum Group, 2026-05-22. *Thesis bearing: Strongly confirms — this is the demand source that underpins ANET's $3.5B AI fabric target in 2026 and the FY2026 $11.5B revenue guidance. At $725B combined CapEx, hyperscalers are deploying GPU clusters at a scale that requires proportionally more 800G ethernet switching, and ANET is the primary supplier.*
+
+**NVDA profit-taking (-1.77% today) — not a demand signal:** NVIDIA declined -1.77% on May 22 on post-earnings profit-taking after the historic Q1 FY2027 beat ($81.6B revenue, Q2 guide $91B). For ANET, this is immaterial — NVDA's $91B Q2 guide confirms GPU cluster scale-out continues at full speed. Networking orders follow GPU shipments with a ~1-quarter lag, so the Q2 FY2027 GPU shipment surge translates into ANET networking orders in Q3–Q4 2026. Consensus analyst target for ANET remains $181–188 (17 analysts Buy, average $181.41; 29 analysts show $187.98). High target: Rosenblatt $210 (May 6), TD Cowen $200 (May 19), Barclays $195 (May 7). Source: Market data / MarketBeat, 2026-05-22. *Thesis bearing: Neutral — NVDA price action is irrelevant to ANET's order pipeline; the underlying demand signal from NVDA's Q2 guide is unchanged and strongly confirmatory.*
 
 ---
 

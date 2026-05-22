@@ -2,8 +2,8 @@
 
 *Updated by the agent each 4-hour session. Single source of truth for buy / wait / hold / sell across all 7 satellite positions.*
 
-Last updated: 2026-05-22 (Session 3)
-Session #: 3
+Last updated: 2026-05-22 (Session 4)
+Session #: 4
 
 ---
 
@@ -12,11 +12,11 @@ Session #: 3
 | Ticker | Price | Intrinsic Value | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----------------|-----|-----|------------------|----------|
 | TSM    | $407.12 | —             | —   | —   | Sole leading-edge foundry; CoWoS packaging monopoly underpins every AI GPU | — |
-| MU     | $758.44 | **$268.33**   | **-64.6%** | **SELL/AVOID** | HBM supercycle peak: Q2 $23.86B rev, 75% GM; sold out 2026; Samsung strike averted May 21 | 2026-05-21 |
-| ASML   | $1,592.00 | —           | —   | —   | Only EUV supplier; Q1 FY2026 beat + raised guidance; AI WFE cycle accelerating; +9.5% 2-day | — |
-| NVDA   | $223.47 | **$156.27**   | **-30.1%** | **SELL/AVOID** | CUDA-moated AI GPU dominance; Q2 guided $91B; priced for perfection at $5.4T | 2026-05-21 |
-| MRVL   | $177.95 | **$119.91**   | **-32.6%** | **SELL/AVOID** | Custom ASIC co-design for Google/Amazon; Citi $215 target; earnings May 27; priced for perfect execution | 2026-05-22 |
-| ANET   | $147.71 | —             | —   | —   | AI data center networking; Q1 revenue +35% YoY; FY2026 $11.5B guide w/ $3.5B AI fabric | — |
+| MU     | $762.10 | **$268.33**   | **-64.8%** | **SELL/AVOID** | HBM supercycle peak: Q2 $23.86B rev, 75% GM; sold out 2026; Samsung union vote May 22-27 | 2026-05-21 |
+| ASML   | $1,592.00 | —           | —   | —   | Only EUV supplier; Q1 FY2026 beat + raised guidance to €36-40B; +9.5% two-day | — |
+| NVDA   | $219.51 | **$156.27**   | **-28.8%** | **SELL/AVOID** | CUDA-moated AI GPU dominance; Q2 guided $91B; profit-taking -1.77% today; priced for perfection | 2026-05-21 |
+| MRVL   | $175.64 | **$119.91**   | **-31.7%** | **SELL/AVOID** | Custom ASIC co-design for Google/Amazon; Citi $215 target; earnings May 27 (5 days); priced for perfect execution | 2026-05-22 |
+| ANET   | $146.44 | **$126.94**   | **-13.3%** | **SELL/AVOID** | AI networking backbone; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide; $725B hyperscaler CapEx | 2026-05-22 |
 | ALAB   | $288.06 | —             | —   | —   | PCIe/CXL AI connectivity; Amazon Trainium3 ramp driving Scorpio X switches | — |
 
 **MoS** = (Intrinsic Value − Price) / Price × 100. Positive = undervalued.
@@ -29,6 +29,18 @@ Session #: 3
 ---
 
 ## Notes from Last Session
+
+**Session 4 (2026-05-22) — Deep: ANET (event-driven: +3.86% price move, NVDA earnings read-through).**
+
+ANET DCF first run: IV **$126.94** vs. current price **$146.44** → MoS **-13.3%** → **SELL/AVOID** under medium-uncertainty framework. The model uses TTM revenue $9,700M with GAAP EBIT $3,400M (TTM ~35% margin), expanded from FY2025's 32.7% average. Q1 2026 alone demonstrated 42.7% GAAP operating margin — operating leverage on EOS software and services is materializing faster than modeled. The adjusted EBIT (after R&D capitalization of $3,248M) adds $274M, yielding base year FCFF of $2,425M.
+
+The SELL/AVOID signal is the mildest in the portfolio at -13.3% MoS (vs. MU -64.8%, NVDA -28.8%, MRVL -31.7%). The sensitivity table shows that at WACC ~8% and 20% CAGR, IV reaches $227 — well above current price. At WACC ~10% (base case 9.65%) and 20% CAGR, IV is $110. The model recommendation hinges critically on WACC: if Arista's risk premium compresses as it matures (e.g., beta declining from 1.05 to 0.90 sooner than modeled), the stock could be fairly valued at current levels. **Key caveat:** ANET's 20% revenue CAGR assumption reflects FY2026 guidance (+27.7%), and the FY2026 AI fabric target of $3.5B represents direct hyperscaler network spend from the $725B CapEx cycle — the demand signal is among the strongest in the portfolio. Recommendation: AVOID initiating new position at $146; HOLD if already owned; watch for 15–20% pullback to entry range ($120-125).
+
+Most significant finding today: ANET Q1 2026 GAAP operating margin expanded to 42.7% — confirming the operating leverage thesis quantitatively. Combined with the $725B hyperscaler CapEx validation, ANET's demand visibility is arguably the best of any company in the portfolio for 12-18 months. The stock is modestly overvalued by the DCF but not dangerously so. No recommendation change from the pre-session assumption of "no prior IV."
+
+Macro context: MU up +4.76% today (official May 21 close to May 22 intraday) on first full regular-session day post-NVDA earnings. Samsung union vote underway May 22-27 — outcome pending. MRVL approaching May 27 earnings at $175.64, slightly below Session 3 estimate of $177.95. Taiwan: PLA exercises ongoing near Taiwan; Trump warned against formal independence; Lai reaffirmed sovereignty; risk elevated but below crisis threshold.
+
+---
 
 **Session 1 (2026-05-21) — Deep: NVDA (event-driven: Q1 FY2027 earnings).**
 
@@ -67,3 +79,4 @@ ASML correction: Session 1 captured ASML at -0.52% early day; confirmed May 21 c
 | 1 | 2026-05-21 ~21:00 | NVDA | event: Q1 FY2027 earnings | NVDA Q1 $81.6B (+85% YoY), Q2 guide $91B; AI infra capex cycle accelerating; DCF IV $156.27 (SELL/AVOID) |
 | 2 | 2026-05-21 ~01:00+4h | MU | event: price move +3.88%, Samsung strike Day 1 | Samsung strike AVERTED via tentative deal; MU DCF IV $268.33 vs. $744.68 → -64% MoS SELL/AVOID; ASML +9.5% two-day corrected |
 | 3 | 2026-05-22 | MRVL | event: price move +4.34%, NVDA $2B investment, analyst target surge | MRVL DCF IV $119.91 vs. $177.95 → -32.6% MoS SELL/AVOID; Citi raised PT $118→$215; May 27 earnings 5 days out |
+| 4 | 2026-05-22 | ANET | event: price move +3.86%, NVDA AI networking read-through | ANET DCF IV $126.94 vs. $146.44 → -13.3% MoS SELL/AVOID; Q1 42.7% GAAP EBIT margin; $11.5B FY2026 guide |

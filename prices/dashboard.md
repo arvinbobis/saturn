@@ -7,20 +7,22 @@ Daily snapshot updated by the Saturn agent each morning.
 
 ## Current Prices
 
-*Last updated: 2026-05-22 by agent (Session 3)*
+*Last updated: 2026-05-22 by agent (Session 4)*
 
 | Ticker | Company | Price | 1D % | 1W % | 1M % | 52W Range | Market Cap |
 |---|---|---|---|---|---|---|---|
 | TSM | TSMC | $407.12 | +1.37% | — | — | $190.06–$421.97 | ~$2.08T |
-| MU | Micron | $758.44 | +1.8%* | — | — | ~$55–$818.67 | ~$845B |
+| MU | Micron | $762.10 | +4.76%⚑ | — | — | ~$55–$818.67 | ~$851B |
 | ASML | ASML | $1,592.00 | ~flat | — | — | $683.48–$1,603.49 | ~$688B |
-| NVDA | NVIDIA | $223.47 | +1.89% | — | — | $129.16–$236.54 | ~$5.44T |
-| MRVL | Marvell | $177.95 | ~+1.3% | — | — | ~$90–$192 | ~$155B |
-| ANET | Arista | $147.71 | ~+1.2% | — | — | $83.86–$179.80 | ~$47B |
+| NVDA | NVIDIA | $219.51 | -1.77% | — | — | $129.16–$236.54 | ~$5.34T |
+| MRVL | Marvell | $175.64 | ~+4.0%* | — | — | ~$90–$192 | ~$153B |
+| ANET | Arista | $146.44 | -0.77% | — | — | $83.86–$179.80 | ~$184B |
 | ALAB | Astera Labs | $288.06 | ~flat | — | — | $80–$295.38 | ~$50B |
 
-*⚑ Prior session movers >3% (May 21): MU (+3.88%), MRVL (+4.34%), ANET (+3.86%), ASML (+3.04%) — all already in event queue.*
-*May 22 session: No new >3% movers. MU estimated from news article citing $758.44 after NVDA earnings read-through. ASML using May 21 close; May 22 intraday data unavailable.*
+*⚑ Session 4 mover >3%: MU +4.76% from May 21 official close (~$727) — NVDA $91B Q2 guide confirms HBM demand; first full regular-session trading day post-NVDA earnings. Added to event_queue.*
+*MRVL: ~+4.0% from official May 21 close (~$168.93→$175.64); pre-earnings volatility ahead of May 27. MRVL already processed in Session 3 (not re-added to queue).*
+*ASML: Using May 21 close — no new May 22 intraday data found. NVDA: -1.77% profit-taking after historic Q1 FY2027 beat.*
+*ANET market cap corrected: 1,259M shares × $146.44 ≈ $184B (prior ~$47B was based on wrong share count from pre-split data).*
 *EUR/USD ~1.163; ASML EUR price ~€1,368.*
 
 ---
@@ -42,7 +44,7 @@ Daily snapshot updated by the Saturn agent each morning.
 
 | Ticker | Event | Expected Date | Notes |
 |---|---|---|---|
-| MU | Samsung Union Vote | 2026-05-22–27 | Samsung workers vote on tentative wage deal; outcome determines whether strike risk is fully resolved |
+| MU | Samsung Union Vote | 2026-05-22–27 | **ONGOING** — voting underway as of May 22; outcome determines whether May 21 tentative deal is ratified; rejection could re-ignite strike |
 | MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move; NVDA $2B investment |
 | TSM | May Monthly Revenue | ~2026-06-08 | Monthly revenue release; leading AI demand signal |
 
@@ -67,5 +69,7 @@ Daily snapshot updated by the Saturn agent each morning.
 | MRVL | Oppenheimer | $200 | Outperform | 2026-05-20 |
 | MRVL | Wells Fargo | $195 | Overweight | 2026-05-20 |
 | ANET | TD Cowen | $200 | Buy | 2026-05-19 |
+| ANET | Barclays | $195 | Overweight | 2026-05-07 |
+| ANET | Rosenblatt | $210 | Buy | 2026-05-06 |
 | NVDA | TD Cowen | $275 | Buy | 2026-05-17 |
 | ALAB | RBC | $250 | Outperform | 2026-05-20 |
