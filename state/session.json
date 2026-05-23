@@ -1,15 +1,15 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-22T12:00:00Z",
-  "session_count": 8,
+  "last_run_utc": "2026-05-23T12:00:00Z",
+  "session_count": 9,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "ALAB",
+  "last_deep_session": "ANET",
   "next_deep_session": "NVDA",
   "event_queue": [
-    {"ticker": "ANET", "event": "price move +3.1% on May 22 to $148.59 (prior close ~$140.49, +5.77% on the day); catalyst: Q1 2026 earnings beat + full-year revenue outlook raised + Gartner Magic Quadrant Leader for Enterprise LAN. NVDA entry into Ethernet switching noted as competitive overhang. ANET DCF last run May 22 (IV $126.94, MoS -14.6%). Session 9 should review entity for Q1 2026 earnings updates and re-check DCF currency.", "detected": "2026-05-22"},
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (5 days out). Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move. MRVL at $195.96. Prior DCF IV $119.91 (MoS -38.8%, SELL/AVOID). Post-earnings update required: if revenue beats and FY2027 guide raised, reassess DCF assumptions.", "detected": "2026-05-22"}
+    {"ticker": "TSM", "event": "dcf_never_run — null DCF for 9 consecutive sessions. Revenue now populated ($122,900M FY2025), stock price $407.15. Session 10 must complete the full Phase 3 DCF: search for CapEx, D&A, EBIT, debt/equity, cash, R&D. This is the highest-priority gap in the portfolio. TSM at $2.05T market cap with no IV.", "detected": "2026-05-23"},
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (4 days out). Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move. MRVL at $196.81. Prior DCF IV $119.91 (MoS -38.8%, SELL/AVOID). Post-earnings update required: if revenue beats and FY2027 guide raised meaningfully, reassess DCF assumptions and story_narrative.", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "ALAB processed in Session 8 — entity fully updated (JP Morgan conference, Q1 financials, additional analyst PTs), first DCF run complete (IV $111.84, MoS -63.9%, SELL/AVOID). ANET added for +3.1% move on May 22. MRVL added for upcoming earnings May 27 (not yet a >3% move but material catalyst incoming — should be reviewed before earnings). After ANET and MRVL are processed, regular rotation resumes at NVDA (next_deep_session). TSM dcf_last_run remains null — CRITICAL GAP; TSM should be prioritized for a full DCF session after the event_queue clears.",
+  "_event_queue_note": "Session 9 processed ANET — entity reviewed and confirmed current; May 23 update added (price momentum + NVDA Spectrum-X context). No DCF re-run needed (last run May 22). TSM added to event_queue at position 0 per null DCF check — must run full DCF in Session 10. MRVL earnings May 27 remains in queue. After MRVL earnings processed, regular rotation resumes at NVDA (next_deep_session). Phase 5: TSM.json revenue and stock price populated as quick fix; full financial data still needed.",
   "dcf_last_run": {
     "TSM":  null,
     "MU":   "2026-05-21",

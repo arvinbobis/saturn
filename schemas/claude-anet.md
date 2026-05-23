@@ -31,7 +31,7 @@ Management guided to AI fabric revenue of $3.5B in FY2026 (calendar year), repre
 
 ### Key Financials (from agent sessions)
 
-- Q1 2026 revenue: $2,709M (+27.7% YoY)
+- Q1 2026 revenue: $2,709M (+35.1% YoY)
 - Q1 2026 GAAP operating margin: 42.7% (record — operating leverage materializing)
 - FY2026 guidance: $11.5B revenue (raised post Q1)
 - AI fabric FY2026 target: $3.5B

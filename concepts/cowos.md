@@ -43,6 +43,14 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 - Lead time for CoWoS-packaged chips — when normalized, supply constraint lifted; when extended, still a bottleneck
 - Revenue contribution — disclosed directionally in earnings commentary
 
+## Dated Intelligence Log
+
+### 2026-05-22 — TSM
+
+**TSMC Arizona first fab posts $514M profit in year one; board approved $20B additional capital injection** — Demonstrates TSMC's advanced packaging economics (including CoWoS) are replicating successfully outside Taiwan. Q1 2026 TSMC net income NT$572B (+58.3% YoY), with 66.2% gross margin — driven by a combination of N3/N2 wafer revenue and CoWoS packaging revenue on Blackwell and HBM GPU production. The $20B Arizona capital injection signals TSMC's confidence in U.S.-based advanced packaging demand through at least 2030.
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC; sole meaningful CoWoS capacity; separate revenue stream on top of wafer revenue

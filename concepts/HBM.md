@@ -50,6 +50,18 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 - What is Micron's position in HBM4 (qualification status, design wins)?
 - Is HBM4 a format change that resets the qualification race?
 
+## Dated Intelligence Log
+
+### 2026-05-22 — MU
+
+**HBM4 in volume production for Nvidia Vera Rubin; 2026 HBM sold out across all three suppliers** — Micron CEO confirmed supply crunch so severe the company can supply only 50–67% of key customers' requirements. All three memory makers have fully contracted 2026 HBM capacity; customers are now signing 3–5 year LTAs for 2027. This marks the structural shift from spot to contracted HBM pricing — the single most important development for the cycle-resistance thesis.
+
+### 2026-05-23 — ASML / MU
+
+**ASML targets 60+ EUV shipments in 2026; >51% going to memory (HBM/storage); Bloomberg Intelligence forecasts HBM market at $130B by 2033** — SK Hynix plans 20 Low-NA EUV units over two years, all dedicated to HBM production. At $130B by 2033 (up from ~$30B today), HBM is moving from GPU component to a major semiconductor category that drives its own equipment cycle — with both Micron (supply) and ASML (tooling) as direct beneficiaries.
+
+---
+
 ## Cross-links
 
 - [[MU]] — Micron; HBM3E supplier with Blackwell design win; thesis entity

@@ -63,6 +63,18 @@ Track: TrendForce monthly reports on CXMT capacity additions and market share.
 - TrendForce quarterly DRAM supply/demand balance — bit supply growth vs. bit demand growth
 - Any indication of inventory build at major DRAM customers (hyperscalers, PC OEMs)
 
+## Dated Intelligence Log
+
+### 2026-05-22 — MU
+
+**TrendForce: DRAM contract prices +90–95% QoQ in Q1 2026 (record); +58–63% expected in Q2 2026** — Memory makers are reallocating capacity to HBM and server DDR5, driving across-the-board price increases. This is the acute shortage phase of the current cycle, the mirror image of the 2023 trough. Risk to watch: capacity additions from 2024–2025 expansions begin coming online in 2027, which could tighten the supply-demand balance if AI CapEx growth moderates even modestly.
+
+### 2026-05-23 — MU / ASML
+
+**HBM and server DRAM driving Q2 2026 contract price increases; CSPs securing supply via long-term agreements (TrendForce)** — AI server demand is pulling contract prices up across the entire DRAM stack. DDR5 profitability improving as capacity crowd-out from HBM production continues. The gap between HBM3e pricing and server DDR5 is narrowing toward 1–2x by end of 2026 (from 4–5x prior), reflecting DDR5 catching up rather than HBM falling — a bullish data point for the overall DRAM ASP environment.
+
+---
+
 ## Cross-links
 
 - [[MU]] — primary entity affected by cycle; FY2023 trough is the baseline risk scenario

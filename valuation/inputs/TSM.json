@@ -1,11 +1,11 @@
 {
   "_comment": "Damodaran FCFF inputs for TSMC (TSM). Amounts in USD millions.",
-  "_last_updated": "2026-05-21",
-  "_data_source": "Wisesheets — not yet pulled. Agent must search for TTM financials before running DCF.",
+  "_last_updated": "2026-05-23",
+  "_data_source": "Phase 5 zero-revenue remediation 2026-05-23: revenue and price populated from web search (The Motley Fool / TechTimes). Full financial inputs (CapEx, D&A, debt/equity, R&D) still required — scheduled for Session 10 Phase 3 DCF.",
 
   "ticker": "TSM",
 
-  "current_revenue_usd_m": 0,
+  "current_revenue_usd_m": 122900,
   "current_ebit_usd_m": 0,
   "effective_tax_rate": 0.13,
   "capex_usd_m": 0,
@@ -17,7 +17,7 @@
   "non_operating_assets_usd_m": 0,
   "minority_interests_usd_m": 0,
   "shares_outstanding_m": 5180,
-  "current_stock_price": 0,
+  "current_stock_price": 407.15,
 
   "rd_expense_usd_m": 0,
   "rd_history_usd_m": [],

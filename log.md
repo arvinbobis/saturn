@@ -10,6 +10,24 @@ Format:
 
 ---
 
+## [2026-05-23 12:00 UTC] session-9
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ANET — event_queue (Q1 2026 earnings review; +3.1% on May 22 catalyst)
+Notable: ANET entity confirmed current through May 22; May 23 update added (stock +3.66% to $154.03, second consecutive session of gains post-earnings; NVDA Spectrum-X competitive context confirmed — integrative response with BlueField-3 is correct posture; Spectrum-X at ~11.6% of DC ethernet market but no hyperscaler EOS rip-and-replace evidence). No DCF re-run (last run May 22, IV $126.94, MoS est -17.6% at new price). Schema corrected: Q1 2026 YoY growth fixed from 27.7% (FY guidance rate, mislabeled) to 35.1% (actual Q1 YoY). All 7 tickers remain SELL/AVOID. Strongest macro confirmation ever: hyperscaler CapEx $725B in 2026 (+77%); DRAM prices +58–63% QoQ Q2 2026; TSMC Arizona $514M year-one profit.
+No significant news: TSM (~flat, $407.15), MU (~flat, $771), ASML (+2.7% to $1,592 — ASML targets 60+ EUV in 2026; 51% to memory), NVDA (-1.8% to $219.51, healthy digestion post-Q1 blowout), ALAB (~flat, $309.78).
+DCF run: none
+Concept pages updated: HBM (2 entries), dram-cycle (2 entries), cowos (1 entry), custom-silicon (1 entry) — all received first-ever dated catch-up entries
+
+Phase 5 lint:
+- TSM: added to event_queue position 0 (null DCF — 9 sessions overdue); TSM.json revenue=$122,900M and price=$407.15 populated as quick fix; full financial inputs still needed for DCF run
+- ANET "Post-earnings deep review Session 9" catalyst removed from Upcoming Catalysts (completed)
+- Morgan Stanley $180 and Citi $176 ANET analyst targets added to dashboard
+- Concept pages: all 4 had zero dated entries — bulk catch-up written from sessions 1–9 findings
+- Cross-links: no broken references found in ANET entity; [[NVDA]], [[MRVL]], [[TSM]], [[custom-silicon]] all exist
+
+---
+
 ## [2026-05-22 12:00 UTC] session-8
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

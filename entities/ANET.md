@@ -146,6 +146,14 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-23
+
+**Post-earnings momentum continues, stock +3.66% to $154.03:** ANET rose a second consecutive session to $154.03 with no specific new catalyst identified — the move reflects continued re-rating as the market digests the Q1 beat and $3.5B AI fabric target confirmed in the May 5 earnings call. At $154.03, the live MoS is approximately -17.6% vs. the DCF IV of $126.94 (last run May 22 at $148.59); the SELL/AVOID recommendation is unchanged. The stock has gained +9.7% in two sessions ($140.49 → $154.03). Source: Market data, 2026-05-23. *Thesis bearing: Neutral — price appreciation compresses the margin of safety further but does not alter the underlying AI networking demand trajectory.*
+
+**NVDA Spectrum-X competitive update — integrative response confirmed:** NVIDIA's Spectrum-X platform has grown from zero to ~11.6% of the DC ethernet switch market, with Oracle and Meta deployments confirmed. However, Arista's strategic response is integrative: co-developing with NVIDIA BlueField-3 SmartNICs to build holistic networking stacks, turning potential competition into a partnership. This "integrate, don't fight" posture is the correct response given Arista's EOS embedding at existing hyperscaler deployments. Key monitor: any greenfield AI fabric decision at a major hyperscaler that selects Spectrum-X over Arista EOS on a net-new cluster. Source: NextPlatform / ainvest / SDxCentral, 2026. *Thesis bearing: Neutral — NVDA entry into ethernet switching is a real long-term risk but the installed-base EOS moat is intact; no evidence of hyperscaler EOS rip-and-replace yet.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing

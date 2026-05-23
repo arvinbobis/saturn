@@ -46,6 +46,14 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 - Is custom silicon taking inference share from NVIDIA faster than expected?
 - Does NVIDIA respond with inference-optimized products (NIM, Spectrum-X, etc.) that blunt custom silicon adoption?
 
+## Dated Intelligence Log
+
+### 2026-05-22 — MRVL / ALAB
+
+**NVDA invested $2B strategically in Marvell; Amazon Trainium3 (Scorpio X) ramp visible through Astera Labs** — NVDA's $2B stake validates Marvell as the central co-design partner for the custom ASIC wave, not a peripheral player. The Amazon Trainium3 ramp is evidenced by ALAB's revenue growth (+93% YoY Q1 2026) from PCIe connectivity into the Scorpio X cluster. The three-company stack — MRVL (ASIC design) + ALAB (connectivity) + TSM (foundry) — confirms the custom silicon supply chain is scaled and investable. Jensen Huang on Dwarkesh (April 15, 2026) confirmed NVIDIA views custom ASICs as complementary at inference, not competitive at training.
+
+---
+
 ## Cross-links
 
 - [[MRVL]] — primary beneficiary; co-designs hyperscaler custom ASICs

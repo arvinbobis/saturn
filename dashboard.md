@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-22 | Session #8
+Last updated: 2026-05-23 | Session #9
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-22 | Session #8
 
 ### Action Items
 
-1. **Do nothing on all 7 positions** — every valued ticker is SELL/AVOID at current prices. No new purchases warranted. The thesis is intact; the valuation is not.
-2. **Watch MRVL earnings May 27** — options pricing 13% move. If stock drops sharply and management confirms Google TPU volumes and raises FY2027 guide, re-run DCF and reassess entry.
-3. **TSM IV pending** — TSM has no intrinsic value yet (8 sessions, no DCF). Force-through rule now active; next session produces the first IV. Hold judgment on TSM sizing until then.
-4. **Samsung union vote through May 27** — rejection would re-ignite an 18-day strike and boost MU supply thesis. Outcome could shift MU's near-term narrative.
-5. **Closest to fair value: ANET** — MoS -14.6%, the mildest SELL in the portfolio. If pulls back 15–20% to $120–125, re-run DCF and check entry.
+1. **Watch MRVL earnings May 27 (post-close)** — consensus $2.40B / $0.79 EPS; options pricing 13% move. If management confirms Google TPU volumes and raises FY2027 guide materially (above $10.4B), re-run DCF and consider whether the story has shifted from -38.8% MoS to HOLD territory. This is the portfolio's highest-urgency near-term event.
+2. **Watch Samsung union vote by May 27** — rejection re-ignites an 18-day strike, which tightens memory supply further and is directly bullish for the MU supply thesis. No action needed — just monitor the outcome.
+3. **TSM DCF is next session's primary objective** — revenue now populated ($122.9B FY2025); Session 10 runs the full Phase 3 DCF. TSM has been 9 sessions without an IV. Hold judgment on sizing until IV is established.
+4. **ANET mildest SELL at estimated -17.6% MoS ($154.03)** — if it pulls back to $125–130, re-run DCF and evaluate entry. The AI fabric thesis is confirmed; the price is rich. No action at current levels.
+5. **Hold all positions** — all 7 tickers remain SELL/AVOID. The thesis has never been stronger (AI CapEx $725B, HBM sold out, NVDA $91B guide); the valuations have never been more stretched. Wait for either a correction or a significant earnings beat that moves the IV.
 
 ### Key Snippets
 
-- **AI CapEx $725B+ in 2026 (+77% YoY)** — hyperscaler combined spend (Amazon $200B, Google $175–185B, Meta $115–135B, Microsoft $120B+) is the strongest macro confirmation of the portfolio thesis ever recorded. All 7 tickers benefit.
-- **HBM 2026 sold out; 2027 LTAs being signed** — all three memory makers' HBM capacity is contracted through 2026. Customers are now locking in 3–5 year agreements for 2027 capacity. The HBM structural shift from spot to contract is happening.
-- **NVDA Q1 $81.6B (+85%), Q2 guide $91B** — beat consensus by $4–6B. Jensen Huang: "demand has gone parabolic." This directly underpins TSMC CoWoS capacity and Micron HBM4 demand.
-- **ALAB at $309.78: IV $111.84** — Atreides holds $369M at ~$110 cost. The thesis is right; the current price embeds perfection. Even at 35% CAGR for 10 years, DCF IV is less than half the price.
-- **MRVL: NVDA invested $2B strategically** — validates Marvell's position at the center of the custom ASIC ecosystem. May 27 earnings is the next make-or-break catalyst.
+- **Hyperscaler CapEx $725B in 2026 (+77% YoY)** — Amazon $200B, Google $175–185B, Meta $125–145B, Microsoft $190B. ~75% is AI-related. This is the strongest macro backdrop in the portfolio's history and the primary demand driver for all 7 tickers.
+- **TSMC Arizona: $514M profit in year one; $20B additional capital injection approved** — dispels the "offshore fabs are uneconomical" narrative. Geopolitical risk premium on TSM may be overstated if U.S. fab economics are this strong.
+- **DRAM contract prices +90–95% QoQ in Q1 2026; +58–63% in Q2 2026 (TrendForce)** — memory shortage is acute. Micron CEO says can only supply 50–67% of key customers' needs. The supply constraint thesis is not just intact — it's exceeding expectations.
+- **ANET Q1 GAAP operating margin 42.7% (record)** — the DCF uses 40% long-run EBIT margin; the model is already conservative. Stock up 9.7% in two days post-earnings to $154.03.
+- **NVDA Spectrum-X at ~11.6% of DC ethernet market** — real competitive entry, but Arista's response (EOS + BlueField-3 integration) is the right posture. Monitor greenfield AI cluster decisions; no rip-and-replace evidence yet.
 
 ---
 
@@ -32,12 +32,12 @@ Last updated: 2026-05-22 | Session #8
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $407.15 | ~flat | —         | —      | —          | Sole leading-edge foundry; CoWoS packaging monopoly; Q1 $35.9B +40.6% YoY; AI accelerator CAGR 54–56% target | — |
-| MU     | $771.00 | +1.6% | $268.33 | -65.2% | SELL/AVOID | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM TAM by 2028 | 2026-05-21 |
-| ASML   | $1,592.00 | ~flat | $1,122.64 | -29.5% | SELL/AVOID | Only EUV supplier; High-NA first products "within months"; €33B backlog; €36.5B FY2026 target | 2026-05-22 |
-| NVDA   | $218.13 | -2.4% | $156.27 | -28.4% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; data center $75.2B doubled | 2026-05-21 |
-| MRVL   | $195.96 | +2.8% | $119.91 | -38.8% | SELL/AVOID | Custom ASIC co-design; ahead of May 27 Q1 FY2027 earnings; Citi $215 / Melius $220 targets | 2026-05-22 |
-| ANET   | $148.59 | +3.1% | $126.94 | -14.6% | SELL/AVOID | AI networking backbone; Q1 beat + Gartner MQ Leader + full-year outlook raised | 2026-05-22 |
+| TSM    | $407.15 | ~flat | —         | —      | —          | Sole leading-edge foundry; CoWoS packaging monopoly; Q1 $35.9B +40.6% YoY; Arizona fab $514M year-one profit | — |
+| MU     | $771.00 | ~flat | $268.33 | -65.2% | SELL/AVOID | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM TAM by 2028 | 2026-05-21 |
+| ASML   | $1,592.00 | +2.7% | $1,122.64 | -29.5% | SELL/AVOID | Only EUV supplier; High-NA first products "within months"; €33B backlog; 60+ EUV units targeted 2026 | 2026-05-22 |
+| NVDA   | $219.51 | -1.8% | $156.27 | -28.4% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Spectrum-X entering ethernet market | 2026-05-21 |
+| MRVL   | $196.81 | +3.2% | $119.91 | -38.8% | SELL/AVOID | Custom ASIC co-design; Q1 FY2027 earnings May 27; NVDA $2B strategic investment validates thesis | 2026-05-22 |
+| ANET   | $154.03 | +3.7% | $126.94 | -14.6% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; +9.7% in 2 sessions | 2026-05-22 |
 | ALAB   | $309.78 | ~flat | $111.84 | -63.9% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; priced for perfection | 2026-05-22 |
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
@@ -68,8 +68,7 @@ Last updated: 2026-05-22 | Session #8
 |--------|-------|------|-------|
 | MU | Samsung Union Vote result | 2026-05-27 | Vote runs through May 27; rejection re-ignites strike, bullish MU supply thesis |
 | MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B / $0.79 EPS; options pricing 13% move; in event_queue |
-| ANET | Post-earnings deep review | Session 9 | +3.1% May 22 on Q1 beat + Gartner MQ Leader; in event_queue |
-| TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF still null |
+| TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF scheduled Session 10 |
 
 ---
 
@@ -93,6 +92,8 @@ Last updated: 2026-05-22 | Session #8
 | ANET | Rosenblatt | $210 | Buy | 2026-05-06 |
 | ANET | TD Cowen | $200 | Buy | 2026-05-19 |
 | ANET | Barclays | $195 | Overweight | 2026-05-07 |
+| ANET | Morgan Stanley | $180 | Overweight | 2026-05-15 |
+| ANET | Citi | $176 | Neutral | 2026-05-20 |
 | ALAB | Evercore ISI | $297 | Outperform | 2026-05-22 |
 | ALAB | JPMorgan | $280 | Overweight | 2026-05-19 |
 | ALAB | RBC | $270 | Outperform | 2026-05-22 |
@@ -103,6 +104,10 @@ Last updated: 2026-05-22 | Session #8
 ---
 
 ## Session Notes
+
+### Session 9 (2026-05-23) — Deep: ANET
+
+Event-driven: processing event_queue (Q1 2026 earnings review after +3.1% move on May 22). Entity was already comprehensively updated through May 22 from Sessions 4 and 8 — added May 23 update (stock +3.66% to $154.03; NVDA Spectrum-X competitive context confirmed as manageable). No DCF re-run (run May 22, no new earnings data). Schema fix: corrected Q1 2026 YoY growth rate from 27.7% (FY guidance rate, incorrectly labeled) to 35.1% (actual Q1 YoY). Phase 5: TSM added to event_queue at position 0 (null DCF, 9 sessions overdue); TSM.json revenue populated ($122,900M FY2025) and stock price ($407.15). All 4 concept pages received first-ever dated entries (catch-up from Sessions 1–9). MRVL May 27 earnings unchanged as next event. No podcast finds in 14-day window. Macro: Taiwan ADIZ incursions at 169/month in April (below 300/month average since May 2024) — geopolitical risk subdued but present.
 
 ### Session 8 (2026-05-22) — Deep: ALAB
 
@@ -188,3 +193,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 6 | 2026-05-22 ~20:00 | MU | price +4.76%, HBM demand confirmation | 2026 HBM sold out; LTAs for 2027; $100B TAM by 2028 |
 | 7 | 2026-05-23 ~00:00 | MRVL | pre-earnings rotation | ALAB new 52W high $315.73; added to event_queue |
 | 8 | 2026-05-22 | ALAB | >7.5% move, DCF = null | DCF IV $111.84 → -63.9% MoS SELL/AVOID; ANET flagged for Session 9 |
+| 9 | 2026-05-23 | ANET | event_queue (Q1 review) | Q1 GAAP op margin 42.7%; AI fabric $3.5B FY2026; +3.66% today to $154.03; est MoS -17.6% SELL/AVOID |
