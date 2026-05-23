@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-23 | Session #11
+Last updated: 2026-05-23 | Session #12
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-23 | Session #11
 
 ### Action Items
 
-1. **Watch MRVL earnings May 27 (post-close) — 4 days out, high-stakes binary event.** Consensus $2.40B revenue / $0.79 EPS. Options pricing 13% move. Stifel (buy, $210) expects "beat-and-raise" driven by 1.6T optical deployments, Trainium 3 production, and XPU-Attach broadening. Key watch items: (a) optical interconnect FY2027 growth guide — does management confirm 50% YoY?; (b) Data Center % of total revenue (expect >70%); (c) FY2027 full-year guidance vs. $11.12B consensus; (d) Google inference TPU + MPU program timeline. If confirmed: re-run DCF immediately (current IV $119.91 is stale on these assumptions).
-2. **TSM HOLD at $402.90 — no action but note the pullback.** Stock down ~1% to $402.90 from $407. IV $384.28 → MoS now -4.6%. Cathie Wood sold $40.6M of TSM this week. Hold. Dividend ex-date June 11.
-3. **Watch Samsung union vote result (by May 27)** — MU thesis. Rejection re-ignites strike scenario, tightens HBM supply, bullish for MU pricing. MU up +4.11% today to $751. If vote fails and MU pulls back, it stays deep SELL/AVOID (IV $268). No action.
-4. **Monitor Taiwan Strait — 26 PLA aircraft near Strait, Liaoning carrier in West Pacific.** Elevated but within norms. Indirect risk via TSMC for MRVL and all TSMC-dependent positions. No action now — if escalation increases, re-evaluate TSM geopolitical discount in DCF.
-5. **ANET at $153.24 → mildest SELL/AVOID (-17.1% MoS, IV $126.94).** If ANET pulls back to $125–130 range, re-run DCF and evaluate entry. Otherwise hold.
+1. **Watch MRVL earnings May 27 (post-close, 4 days) — binary event at new ATH $196.** Consensus $2.40B / $0.79 EPS; options pricing 13% move. Wall of upgrades: Citi $215 (from $118, +82%), Melius $220 (from $140), Wells Fargo $195 (from $135), citing disclosed $225B Trainium 2 backlog at Amazon. Must-confirm items: (a) optical interconnect FY2027 guide — management confirm 50% YoY?; (b) XPU-Attach broadening beyond AWS; (c) FY2027 full-year guidance vs. $11.12B consensus. After earnings: re-run DCF immediately — current IV $119.91 is pre-guide.
+2. **Watch Samsung union vote result by May 27 — still live catalyst for MU.** If members REJECT the tentative deal, 18-day strike resumes; HBM supply tightens further (bullish MU). If ACCEPTED, speculative premium finishes unwinding (MU already -1.3% today to $752). Either way: MU's contracted HBM position through 2027 is unchanged. SELL/AVOID at -64% MoS — no action either outcome.
+3. **New watchlist scout: COHR (Coherent Corp) — only 6-inch InP wafer fab globally; $23B AI datacenter SAM.** Passes all three thesis filters: optical transceivers can't be bypassed at 1.6T speeds, serves all hyperscalers regardless of GPU vendor, and 6-inch InP manufacturing is a 5–10 year capital moat. Also supplies optical components inside ASML EUV equipment — dual chokepoint. Begin a full research session (financials, DCF sizing, Atreides/Coatue 13F check) before Session 15.
+4. **TSM HOLD at $402.90 — watch May monthly revenue ~June 8-10.** Only non-SELL position (MoS -4.6%, IV $384.28). April revenue NT$410.73B was 2nd-highest ever (+17.5% YoY). May figure will confirm whether Q2 2026 stays on pace for a second consecutive record quarter. Dividend ex-date June 11.
+5. **ANET at $153.24 — mildest SELL/AVOID (-17.2% MoS, IV $126.94).** Recovery from May 5 post-earnings -14% dip is largely complete. If pullback to $125–130, re-run DCF and evaluate entry. Otherwise no action.
 
 ### Key Snippets
 
-- **Stifel: MRVL optical interconnects to grow 50% YoY in FY2027** — up from prior 30% estimate; AWS Trainium 3 in production. If confirmed at May 27 earnings, this is the first revenue-trajectory upgrade that would force a DCF revision (current IV $119.91 was built on 35% non-GAAP margins without optical acceleration).
-- **MU +4.11% today to $751 — Melius raised PT to $1,100; 1α DRAM chips launched in Virginia.** US domestic memory manufacturing is real. Melius's $1,100 target implies 2× from here — the bull case. Our DCF IV is $268. The gap is the cycle premium the market is paying for HBM scarcity; it's real, but we won't chase it at -64% MoS.
-- **TSMC Q1 2026: 66.2% gross margin (record), HPC 61% of wafer revenue.** Our DCF model assumed 42% target margin — already 24 points below actual. The model is conservative by design; if 50%+ margins persist, true IV is $500–600. This is the single most important number to watch for TSM re-rating.
-- **Taiwan Strait: PLA Liaoning carrier live-fire drills in West Pacific + 26 aircraft near Strait.** Trump treating Taiwan arms sales as a "negotiating chip." No escalation beyond historical norms — risk is present but not acute. TSMC Arizona + Japan fabs provide partial hedge.
-- **NVDA -1.64% despite $91B Q2 guide — Needham raised PT to $270, cites potential $20B CPU revenue by FY2027.** Post-earnings selling into strength; thesis intact. NVDA data center revenue grew 92% YoY in Q1. Every AI chip still routes through TSMC wafers.
+- **Hyperscaler CapEx confirmed at $700-720B in 2026 (+77% YoY), $450B+ AI-specific** — Goldman Sachs projects this grows to $1.6T by 2031; every dollar of AI capex flows through TSMC CoWoS, HBM, and networking chips; this is the most definitive macro tailwind confirmation this portfolio has received.
+- **Micron HBM sold out into 2027 (extended from 2026)** — customers can secure only 50–67% of their HBM requirements from Micron; multi-year LTAs are now the standard; contracted pricing through 2027 eliminates spot-market ASP risk for the next 18 months, which is the core structural argument for why this cycle is different.
+- **MRVL wall of upgrades ahead of May 27 earnings** — Citi $215, Melius $220, Wells Fargo $195; disclosed $225B Trainium 2 backlog at Amazon; if MRVL beats and raises, the current DCF IV of $119.91 will require immediate upward revision — this is the single most live portfolio event in the next 4 days.
+- **TrendForce: DRAM contract prices +58-63% QoQ in Q2 2026; RDIMM prices temporarily overtaking HBM due to LTA pricing lag** — confirms that the supply tightness isn't just AI-specific HBM; conventional server memory is also scarce, supporting Micron's non-HBM revenue outside the contracted cycle.
+- **New scout COHR: only 6-inch InP fab, $23B AI datacenter SAM, and inside ASML EUV equipment** — if COHR's moat is confirmed by a DCF session, it could be the 8th satellite pick; Coherent is to optical transceivers what Astera Labs is to PCIe connectivity, but with a harder-to-replicate manufacturing base.
 
 ---
 
@@ -33,11 +33,11 @@ Last updated: 2026-05-23 | Session #11
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
 | TSM    | $402.90 | -1.0% | $384.28 | -4.6% | **HOLD** | Sole leading-edge foundry; 50.8% FY25 op margin (model: 42%); Q1 2026 gross margin 66.2% record; HPC 61% of wafer revenue | 2026-05-23 |
-| MU     | $751.00 | +4.11% | $268.33 | -64.3% | SELL/AVOID | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM TAM by 2028; 1α DRAM in Virginia | 2026-05-21 |
-| ASML   | $1,632.90 | +2.57% | $1,122.64 | -31.3% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; UBS reinstated top European pick €1,900 target | 2026-05-22 |
-| NVDA   | $215.33 | -1.64% | $156.27 | -27.5% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Needham $270 PT — $20B CPU by FY2027 | 2026-05-21 |
-| MRVL   | $192.00 | +3.0% | $119.91 | -37.5% | SELL/AVOID | Custom ASIC co-design; earnings May 27; ATH $192; Stifel $210 — optical 50% YoY FY2027; Trainium 3 in production | 2026-05-22 |
-| ANET   | $153.24 | -0.5% | $126.94 | -17.1% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; Gartner MQ Leader 2026 | 2026-05-22 |
+| MU     | $752.24 | -1.3% | $268.33 | -64.3% | SELL/AVOID | HBM supercycle: sold out into 2027 w/ LTAs; Vera Rubin HBM4 shipping; 1α DRAM in Virginia; $100B HBM TAM by 2028 | 2026-05-21 |
+| ASML   | $1,632.90 | ~flat | $1,122.64 | -31.3% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; UBS reinstated top European pick €1,900 target | 2026-05-22 |
+| NVDA   | $215.33 | -1.6% | $156.27 | -27.5% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Needham $270 PT — $20B CPU by FY2027 | 2026-05-21 |
+| MRVL   | $196.33 | +2.3% | $119.91 | -38.9% | SELL/AVOID | Custom ASIC co-design; earnings May 27; ATH $196; Citi $215, Melius $220 — $225B Trainium 2 backlog | 2026-05-22 |
+| ANET   | $153.24 | ~flat | $126.94 | -17.2% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; Gartner MQ Leader 2026 | 2026-05-22 |
 | ALAB   | $309.78 | ~flat | $111.84 | -63.9% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; Q2 guide +15-18% sequential | 2026-05-22 |
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
@@ -131,6 +131,12 @@ Event-driven: +3.1% new 52W high $183.52, pre-earnings positioning.
 
 MRVL entity current from Session 6. No new material developments. Pre-earnings setup intact: $2.40B consensus / $0.79 EPS, 5 days out, options pricing 13% move. Most significant: **ALAB surged to $315.73 (+7.5%)** on Evercore ISI $297 and RBC $270 PTs (Amazon Trainium3 Scorpio X ramp visibility). Added to event_queue for Session 8. Hyperscaler CapEx confirmed at $700B+.
 
+### Session 12 (2026-05-23) — Deep: MU
+
+Event-driven: MU event_queue (1α Virginia launch, sold-out-into-2027 confirmation, Samsung vote pending).
+
+MU entity updated with four new developments: HBM sold out into 2027 (extended from 2026), 1α DRAM manufacturing launched in Manassas Virginia (most advanced US DRAM, ~40% higher bit density than 1z), Micron opening Seoul HBM design roles targeting Samsung engineers, and stock -1.29% to $752.24 as strike speculative premium unwinds. No DCF run (last run May 21, no new earnings, no thesis change warranting immediate re-run). Phase 1c open (12%6=0): COHR (Coherent Corp) scouted as watchlist candidate — passes all three thesis filters; only 6-inch InP fab globally, $23B AI datacenter SAM, also inside ASML EUV equipment. Phase 1b open (12%3=0): Odd Lots Feb 16 "Memory Mania" episode noted in podcast log — outside 14-day window but most recent relevant episode found; no May 2026 semiconductor episodes located. Hyperscaler CapEx confirmed at $700-720B for 2026 (+77% YoY), AI-specific ~$450B — strongest macro tailwind confirmation to date.
+
 ### Session 6 (2026-05-22) — Deep: MU
 
 Event-driven: +4.76%, NVDA $91B Q2 demand confirmation, Samsung union vote.
@@ -175,7 +181,7 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 
 | Ticker | Company | Choke Point | Source | Status | Added |
 |--------|---------|-------------|--------|--------|-------|
-| — | — | — | — | — | — |
+| COHR | Coherent Corp | Only 6-inch InP wafer fab; optical transceivers required for 400G/800G/1.6T AI DC networking; also supplies ASML EUV laser optics | Phase 1c scan, Session 12 | Watching — research session needed | 2026-05-23 |
 
 *Candidates graduate to full entity when thesis confirmed by 3+ independent sources and Arvs approves.*
 
@@ -187,7 +193,7 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 
 | Date | Show | Episode / Topic | Key Finding | Ticker Impact |
 |------|------|-----------------|-------------|---------------|
-| — | — | — | — | — |
+| 2026-02-16 | Odd Lots (Bloomberg) | "Ray Wang on How AI Is Causing DRAM Prices to Surge" (SemiAnalysis) | "Memory Mania" thesis: once-in-four-decades DRAM shortage; Chinese makers cannot close the gap | MU: Confirms; TSM: Confirms |
 
 ---
 
@@ -206,3 +212,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 9 | 2026-05-23 | ANET | event_queue (Q1 review) | Q1 GAAP op margin 42.7%; AI fabric $3.5B FY2026; +3.66% today to $154.03; est MoS -17.6% SELL/AVOID |
 | 10 | 2026-05-23 | TSM | event_queue (dcf_never_run, 10 sessions) | DCF IV $384.28 → MoS -5.6% → **HOLD** — only non-SELL position; model conservative vs. 58.1% Q1 margin |
 | 11 | 2026-05-23 | MRVL | event_queue (pre-earnings prep, May 27) | Stifel $210; optical 50% YoY FY2027; Trainium 3 in production; ATH $192; MU +4.11% added to queue |
+| 12 | 2026-05-23 | MU | event_queue (price move, 1α Virginia launch, sold out into 2027) | HBM visibility extended to 2027 via LTAs; 1α DRAM in Manassas VA; COHR scouted and added to watchlist; Phase 1b/1c gated open (12%3=0, 12%6=0); no DCF (last run May 21, no new earnings) |

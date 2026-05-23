@@ -1,15 +1,14 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-23T20:00:00Z",
-  "session_count": 11,
+  "last_run_utc": "2026-05-23T24:00:00Z",
+  "session_count": 12,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "MRVL",
+  "last_deep_session": "MU",
   "next_deep_session": "NVDA",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (4 days out). Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move. MRVL at ATH ~$192. Stifel expects beat-and-raise: optical interconnects 50% YoY FY2027, Trainium 3 in production, XPU-Attach broadening. Post-earnings: re-run DCF and revise story_narrative. Current MoS -37.5% requires meaningful revision to reach HOLD.", "detected": "2026-05-22"},
-    {"ticker": "MU", "event": "price +4.11% on 2026-05-23 ($751). Melius raised PT to $1,100. 1α DRAM chips launched in Virginia. Samsung union vote result due by May 27 — monitor for HBM supply impact.", "detected": "2026-05-23"}
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (4 days out). Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move. ATH ~$196. Citi $215, Melius $220, Wells Fargo $195. $225B Trainium 2 backlog at Amazon confirmed. Post-earnings: re-run DCF and revise story_narrative. Current MoS -38.9% requires meaningful revision to reach HOLD.", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "Session 11: MRVL pre-earnings deep session. Stifel $210 PT — optical 50% YoY FY2027, Trainium 3 in production. MU +4.11% added to event_queue. No DCF run (MRVL DCF ran May 22 — waiting for May 27 earnings). Phase 1b/1c gated (11%3=2, 11%6=5). Next: MRVL earnings on May 27 — post-earnings DCF re-run is the priority action.",
+  "_event_queue_note": "Session 12: MU event processed — HBM sold out into 2027 confirmed, 1α DRAM Virginia launched, COHR added to watchlist. MU event removed from queue. MRVL remains: earnings May 27 still pending; post-earnings DCF re-run is the priority action for Session 13. Phase 1b/1c both active (12%3=0, 12%6=0) — no relevant podcast found in last 14 days; COHR scouted and added. Next: MRVL earnings May 27 — hold queue until after results.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-21",

@@ -10,6 +10,28 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 *(Agent appends one block per session below)*
 
+## Session 12 — 2026-05-23
+
+### Phase Scores
+
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers priced; Taiwan Strait (Liaoning in West Pacific, ADIZ incursions, Xi-Trump May 13-15 meeting); TrendForce DRAM (+58-63% QoQ 2Q26, RDIMM overtaking HBM); hyperscaler CapEx confirmed $700-720B; TSMC May revenue pending June 8-10 |
+| 1b (podcasts) | Complete | Gate met (12 % 3 = 0); searched Acquired, Odd Lots, ILTB, Eye on AI, Dwarkesh — no relevant episodes in last 14 days; Odd Lots Feb 16 "Memory Mania" (Ray Wang) noted in podcast table as most recent relevant episode |
+| 1c (scout) | Complete | Gate met (12 % 6 = 0); COHR (Coherent Corp) identified and added to watchlist — passes all three thesis filters; CRDO considered and rejected (overlaps with ALAB) |
+| 2 (deep session) | Complete | MU entity updated: HBM sold out into 2027, 1α DRAM in Virginia, Seoul HBM hiring, stock -1.29%; MU event removed from event_queue |
+| 3 (DCF) | Skipped | MU DCF ran May 21 (<30 days, no new earnings, no thesis-change threshold met); correct skip |
+| 4 (dashboard) | Complete | All 7 prices updated; For Arvs overwritten; COHR added to watchlist section; Odd Lots noted in podcast intelligence section; session notes + history row added |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue tickers; no stale catalysts; concept pages: HBM updated (sold-out 2027); cross-links: no broken references found |
+
+### Diagnosis
+
+Session ran cleanly — both Phase 1b and 1c gates were open simultaneously for the first time (session 12 is divisible by both 3 and 6). Phase 1c surfaced a genuine new watchlist candidate (COHR), which is the expected output of that phase. The only friction was the podcast scan: despite the gate being open, no episodes from the target shows were found within the 14-day window for semiconductor/AI topics, which has now occurred in sessions 9, 11, and 12 (three consecutive podcast-gate-open sessions). This may warrant a search string adjustment.
+
+### Improvement Executed
+
+None — the podcast search miss is now at the 3-session threshold (sessions 9, 11, 12 all gate-open with no finds). However, session 9 and session 11 used different gate counts (9%3=0 and 12%3=0 respectively; session 11 was gated). Actually session 11 was NOT gate-open for podcasts (11%3=2, gated). So the 3 consecutive gate-open misses have not yet occurred — session 9 and 12 are both podcast-open with no finds, but session 11 was skipped. True pattern: 2 consecutive open sessions with no finds. Will monitor session 15 (next gate) before adjusting search strings.
+
 ## Session 11 — 2026-05-23
 
 ### Phase Scores

@@ -183,6 +183,18 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 ---
 
+### 2026-05-23
+
+**HBM allocation extended — sold out into 2027:** Micron's HBM capacity is now committed not just through calendar 2026 but into 2027, with major customers (NVIDIA, Meta, Microsoft) unable to secure more than 50–67% of their HBM requirements from Micron. Customers are actively signing 3–5 year long-term agreements for 2027 capacity. Source: Investing.com / ad-hoc-news.de, 2026-05-23. *Thesis bearing: Strongly confirms — visibility window extended by a full year; contracted pricing through 2027 effectively eliminates spot-market risk for the next 18 months; this is the most structurally significant upgrade to the thesis since HBM4 shipments began.*
+
+**1α DRAM manufacturing launched in Manassas, Virginia — official announcement:** Micron formally announced commencement of 1-alpha (1α) DRAM production at its Manassas, Virginia fab on May 22, 2026. The 1α node delivers ~40% higher bit density than the prior 1z node and achieves sub-15nm DRAM cell dimensions — the most advanced DRAM produced domestically in the US. The fab produces DDR4 and LP4 memory for automotive, defense, aerospace, and medical end-markets, with full qualification expected by end of calendar 2026 and >3,100 direct manufacturing jobs. Source: Micron press release / Tom's Hardware / HPCwire / Quiver Quantitative, 2026-05-22. *Thesis bearing: Confirms — US manufacturing milestone validates the CHIPS Act thesis and creates a stable, non-cyclical revenue stream (automotive/defense DDR4 is not subject to cloud-driven ASP swings or CXMT commodity pressure); 40% higher bit density improves fab economics.*
+
+**Micron opens Seoul HBM design roles targeting Samsung engineers:** Micron posted permanent Seoul-based HBM design positions during the Samsung labor dispute, explicitly targeting Samsung semiconductor engineers. This signals a strategic talent acquisition effort to accelerate Micron's HBM design depth and yield improvement capabilities. Source: TechTimes, 2026-05-21. *Thesis bearing: Confirms — Micron is investing aggressively to deepen HBM competency; recruiting Samsung engineers (the most experienced HBM workforce outside SK Hynix) would accelerate yield improvement and next-generation HBM product development.*
+
+**MU stock -1.29% on May 23 ($752.24) — Samsung strike speculation unwinds:** MU gave back 1.29% to $752.24 as the market continued to unwind the Samsung strike speculative premium following the May 21 tentative wage agreement. Union member ratification vote runs May 22–27; if rejected, the 18-day strike resumes. Source: Yahoo Finance / foreignpolicyjournal.com, 2026-05-23. *Thesis bearing: Neutral — the speculative premium around Samsung supply disruption was ephemeral and correctly priced out; Micron's contracted HBM position through 2027 is unchanged regardless of the vote outcome.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC CoWoS packages HBM alongside compute dies; CoWoS capacity is the packaging bottleneck

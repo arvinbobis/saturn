@@ -291,6 +291,17 @@ Entity updates:
 Pages created: CLAUDE.md, index.md, log.md, entities/TSM.md, entities/MU.md, entities/ASML.md, entities/NVDA.md, entities/MRVL.md, entities/ANET.md, concepts/HBM.md, concepts/cowos.md, concepts/dram-cycle.md, concepts/custom-silicon.md, schemas/claude-tsm.md, schemas/claude-micron.md
 Key context: Six satellite picks initialized with stub entity pages. Schema files for TSM and MU contain full standing knowledge and quarterly review workflows. Daily scan agent begins 2026-05-15.
 
+## [2026-05-23 24:00 UTC] session-12
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MU — event_queue (1α Virginia launch, HBM sold-out-into-2027 confirmation, Samsung union vote pending)
+Notable: MU HBM commitment window extended from 2026 into 2027 via multi-year LTAs; customers can secure only 50–67% of requirements from Micron; 1α DRAM launched in Manassas Virginia (most advanced US DRAM, sub-15nm); hyperscaler CapEx confirmed at $700-720B 2026 (+77% YoY, $450B AI-specific).
+No significant news: TSM, ASML, NVDA, ANET, ALAB (prices within 2% of last session; no material new developments)
+DCF run: none — MU last run May 21 (<30 days, no new earnings); no thesis-change threshold met
+Concept pages updated: HBM (sold-out window extended to 2027)
+Watchlist: COHR (Coherent Corp) — only 6-inch InP wafer fab globally; passes all three thesis filters; $23B AI datacenter SAM; also inside ASML EUV equipment
+Podcast: Odd Lots Feb 16 "Memory Mania" (Ray Wang / SemiAnalysis) — noted in log; outside 14-day window; no May 2026 episodes found
+
 ## [2026-05-23 16:00 UTC] session-10
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

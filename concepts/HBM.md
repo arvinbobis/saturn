@@ -60,6 +60,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **ASML targets 60+ EUV shipments in 2026; >51% going to memory (HBM/storage); Bloomberg Intelligence forecasts HBM market at $130B by 2033** — SK Hynix plans 20 Low-NA EUV units over two years, all dedicated to HBM production. At $130B by 2033 (up from ~$30B today), HBM is moving from GPU component to a major semiconductor category that drives its own equipment cycle — with both Micron (supply) and ASML (tooling) as direct beneficiaries.
 
+### 2026-05-23 — MU
+
+**HBM sold-out window extended from 2026 into 2027; multi-year LTAs now standard** — all three HBM makers' capacity is now committed through 2027, with customers unable to secure full requirements from any single supplier. The shift from spot/quarterly to 3–5 year LTAs is the structural inflection that eliminates ASP volatility for the contracted window — the single most important distinction between HBM and commodity DRAM that the thesis rests on.
+
 ---
 
 ## Cross-links
