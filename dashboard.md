@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-23 | Session #9
+Last updated: 2026-05-23 | Session #10
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-23 | Session #9
 
 ### Action Items
 
-1. **Watch MRVL earnings May 27 (post-close)** — consensus $2.40B / $0.79 EPS; options pricing 13% move. If management confirms Google TPU volumes and raises FY2027 guide materially (above $10.4B), re-run DCF and consider whether the story has shifted from -38.8% MoS to HOLD territory. This is the portfolio's highest-urgency near-term event.
-2. **Watch Samsung union vote by May 27** — rejection re-ignites an 18-day strike, which tightens memory supply further and is directly bullish for the MU supply thesis. No action needed — just monitor the outcome.
-3. **TSM DCF is next session's primary objective** — revenue now populated ($122.9B FY2025); Session 10 runs the full Phase 3 DCF. TSM has been 9 sessions without an IV. Hold judgment on sizing until IV is established.
-4. **ANET mildest SELL at estimated -17.6% MoS ($154.03)** — if it pulls back to $125–130, re-run DCF and evaluate entry. The AI fabric thesis is confirmed; the price is rich. No action at current levels.
-5. **Hold all positions** — all 7 tickers remain SELL/AVOID. The thesis has never been stronger (AI CapEx $725B, HBM sold out, NVDA $91B guide); the valuations have never been more stretched. Wait for either a correction or a significant earnings beat that moves the IV.
+1. **Watch MRVL earnings May 27 (post-close)** — 4 days out; consensus $2.40B / $0.79 EPS; options pricing 13% move. Stock at ATH ~$191 — high-risk binary event. If FY2027 guide raised above $10.4B and Google/Amazon ASIC volumes confirmed, re-run DCF. Current IV $119.91 (-37.2% MoS) would need radical revision to reach HOLD. No action before earnings.
+2. **TSM is now HOLD — the only position not SELL/AVOID** — DCF just completed: IV $384.28 vs. $407.15 = -5.6% MoS. The model uses a conservative 42% target margin; actual FY2025 margin was 50.8% and Q1 2026 margin was 58.1%. If TSMC sustains 50%+ margins, true IV is closer to $500–600. No action needed today — HOLD means no add, no trim. Review after any >10% correction (entry at ~$345 would hit WAIT threshold).
+3. **Watch Samsung union vote by May 27** — rejection re-ignites the 18-day strike scenario, tightening memory supply and directly benefiting MU's pricing thesis. No action — monitor outcome only.
+4. **ANET at -17.6% MoS ($126.94 IV)** — mildest SELL/AVOID after TSM's HOLD. If ANET pulls back to $125–130, re-run DCF and evaluate entry. AI fabric thesis confirmed (Q1 42.7% GAAP op margin), price still rich.
+5. **Hold all 7 positions** — thesis has never been stronger ($725B hyperscaler CapEx, HBM sold out, NVDA $91B Q2 guide). All 6 non-TSM positions remain SELL/AVOID. No new capital deployment until a correction or TSM-level valuation appears elsewhere.
 
 ### Key Snippets
 
-- **Hyperscaler CapEx $725B in 2026 (+77% YoY)** — Amazon $200B, Google $175–185B, Meta $125–145B, Microsoft $190B. ~75% is AI-related. This is the strongest macro backdrop in the portfolio's history and the primary demand driver for all 7 tickers.
-- **TSMC Arizona: $514M profit in year one; $20B additional capital injection approved** — dispels the "offshore fabs are uneconomical" narrative. Geopolitical risk premium on TSM may be overstated if U.S. fab economics are this strong.
-- **DRAM contract prices +90–95% QoQ in Q1 2026; +58–63% in Q2 2026 (TrendForce)** — memory shortage is acute. Micron CEO says can only supply 50–67% of key customers' needs. The supply constraint thesis is not just intact — it's exceeding expectations.
-- **ANET Q1 GAAP operating margin 42.7% (record)** — the DCF uses 40% long-run EBIT margin; the model is already conservative. Stock up 9.7% in two days post-earnings to $154.03.
-- **NVDA Spectrum-X at ~11.6% of DC ethernet market** — real competitive entry, but Arista's response (EOS + BlueField-3 integration) is the right posture. Monitor greenfield AI cluster decisions; no rip-and-replace evidence yet.
+- **TSM DCF first ever: IV $384.28 → HOLD (-5.6% MoS)** — the model's 42% target margin is already 8.8 points below TSMC's actual FY2025 margin (50.8%) and 15 points below Q1 2026 (58.1%). The model is conservative; TSMC's true IV is likely higher. This is the portfolio's only non-SELL position.
+- **Hyperscaler CapEx: $725B in 2026 (+77% YoY), rising to >$1T in 2027** — Amazon $200B, Microsoft $190B, Google $185B, Meta $125–145B. 60%+ goes to power infrastructure, but every AI chip still flows through TSMC wafers and CoWoS packaging.
+- **ASML High-NA EUV delayed at TSMC until 2029** — TSMC confirmed it won't deploy ASML's highest-margin machine until at least 2029; its N2/A16 roadmap proceeds on conventional EUV. Near-term headwind for ASML revenue; neutral for TSMC's investment thesis.
+- **DRAM server prices stabilizing in May, mobile hikes moderating** — TrendForce: smartphone DRAM brands struggling to absorb consecutive 90%+ and 58%+ QoQ price hikes. Server DRAM holding. Micron remains supply-constrained at 50–67% fill rate — thesis intact.
+- **MRVL at all-time high $190.69 (May 22) ahead of May 27 earnings** — market pricing in a beat. 13% options move implies either a re-rating to HOLD/WAIT or a sharp reversal. This is the highest-stakes 4-day window in the current portfolio.
 
 ---
 
@@ -32,12 +32,12 @@ Last updated: 2026-05-23 | Session #9
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $407.15 | ~flat | —         | —      | —          | Sole leading-edge foundry; CoWoS packaging monopoly; Q1 $35.9B +40.6% YoY; Arizona fab $514M year-one profit | — |
-| MU     | $771.00 | ~flat | $268.33 | -65.2% | SELL/AVOID | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM TAM by 2028 | 2026-05-21 |
-| ASML   | $1,592.00 | +2.7% | $1,122.64 | -29.5% | SELL/AVOID | Only EUV supplier; High-NA first products "within months"; €33B backlog; 60+ EUV units targeted 2026 | 2026-05-22 |
-| NVDA   | $219.51 | -1.8% | $156.27 | -28.4% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Spectrum-X entering ethernet market | 2026-05-21 |
-| MRVL   | $196.81 | +3.2% | $119.91 | -38.8% | SELL/AVOID | Custom ASIC co-design; Q1 FY2027 earnings May 27; NVDA $2B strategic investment validates thesis | 2026-05-22 |
-| ANET   | $154.03 | +3.7% | $126.94 | -14.6% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; +9.7% in 2 sessions | 2026-05-22 |
+| TSM    | $407.15 | ~flat | $384.28 | -5.6% | **HOLD** | Sole leading-edge foundry; 50.8% FY25 op margin (model: 42%); CapEx peak 2025-26 → FCF inflection; $407 mild premium to IV | 2026-05-23 |
+| MU     | $771.00 | ~+1% | $268.33 | -65.2% | SELL/AVOID | HBM supercycle: 2026 capacity sold out w/ LTAs; Vera Rubin HBM4 shipping; $100B HBM TAM by 2028 | 2026-05-21 |
+| ASML   | $1,592.00 | ~flat | $1,122.64 | -29.5% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; €33B backlog; 60+ EUV units targeted 2026 | 2026-05-22 |
+| NVDA   | $216.00 | -1.6% | $156.27 | -27.6% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Spectrum-X entering ethernet market | 2026-05-21 |
+| MRVL   | $191.00 | ~flat | $119.91 | -37.2% | SELL/AVOID | Custom ASIC co-design; Q1 FY2027 earnings May 27; ATH ~$192; NVDA $2B strategic investment validates thesis | 2026-05-22 |
+| ANET   | $154.03 | ~flat | $126.94 | -17.6% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; Gartner MQ Leader 2026 | 2026-05-22 |
 | ALAB   | $309.78 | ~flat | $111.84 | -63.9% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; priced for perfection | 2026-05-22 |
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
@@ -68,7 +68,7 @@ Last updated: 2026-05-23 | Session #9
 |--------|-------|------|-------|
 | MU | Samsung Union Vote result | 2026-05-27 | Vote runs through May 27; rejection re-ignites strike, bullish MU supply thesis |
 | MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B / $0.79 EPS; options pricing 13% move; in event_queue |
-| TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF scheduled Session 10 |
+| TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF completed Session 10 (IV $384.28) |
 
 ---
 
@@ -104,6 +104,10 @@ Last updated: 2026-05-23 | Session #9
 ---
 
 ## Session Notes
+
+### Session 10 (2026-05-23) — Deep: TSM
+
+First-ever TSM DCF — 10 sessions overdue. Inputs populated from FY2025 SEC 6-K filings: Revenue $122.9B, EBIT $62.4B (50.8% margin), CapEx $41.0B, D&A $22.6B, Cash $88.7B, LT Debt $29.6B, R&D $7.91B. **DCF result: IV $384.28 vs. $407.15 → MoS -5.6% → HOLD** — the only non-SELL position in the portfolio. The model's 42% target margin assumption is already 8.8 points below TSMC's actual FY2025 margin; if TSMC sustains 50%+ margins (as Q1 2026 at 58.1% suggests), the real IV is likely $500–600+. Key Phase 1 findings: ASML High-NA confirmed deferred at TSMC to 2029 (Challenges ASML near-term, Neutral for TSM); MRVL at ATH $191 with May 27 earnings binary; DRAM pricing moderating but still up; hyperscaler CapEx rising to >$1T in 2027. Phase 1b: no relevant podcast episodes found in last 14 days. TSM removed from event_queue (DCF complete); MRVL earnings May 27 remains.
 
 ### Session 9 (2026-05-23) — Deep: ANET
 
@@ -194,3 +198,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 7 | 2026-05-23 ~00:00 | MRVL | pre-earnings rotation | ALAB new 52W high $315.73; added to event_queue |
 | 8 | 2026-05-22 | ALAB | >7.5% move, DCF = null | DCF IV $111.84 → -63.9% MoS SELL/AVOID; ANET flagged for Session 9 |
 | 9 | 2026-05-23 | ANET | event_queue (Q1 review) | Q1 GAAP op margin 42.7%; AI fabric $3.5B FY2026; +3.66% today to $154.03; est MoS -17.6% SELL/AVOID |
+| 10 | 2026-05-23 | TSM | event_queue (dcf_never_run, 10 sessions) | DCF IV $384.28 → MoS -5.6% → **HOLD** — only non-SELL position; model conservative vs. 58.1% Q1 margin |

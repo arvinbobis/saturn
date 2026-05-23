@@ -279,3 +279,14 @@ Entity updates:
 
 Pages created: CLAUDE.md, index.md, log.md, entities/TSM.md, entities/MU.md, entities/ASML.md, entities/NVDA.md, entities/MRVL.md, entities/ANET.md, concepts/HBM.md, concepts/cowos.md, concepts/dram-cycle.md, concepts/custom-silicon.md, schemas/claude-tsm.md, schemas/claude-micron.md
 Key context: Six satellite picks initialized with stub entity pages. Schema files for TSM and MU contain full standing knowledge and quarterly review workflows. Daily scan agent begins 2026-05-15.
+
+## [2026-05-23 16:00 UTC] session-10
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: TSM — dcf_never_run (10 consecutive sessions overdue)
+Notable: First TSM DCF ever — IV $384.28 (-5.6% MoS, HOLD); TSMC's actual margins (50.8% FY2025, 58.1% Q1 2026) already exceed the model's 42% target, making HOLD potentially conservative; TSM is the only non-SELL/AVOID position in the portfolio.
+No significant news: ANET, ALAB (prices flat; no material developments beyond prior sessions)
+DCF run: TSM — IV $384.28, MoS -5.6%, Rec: HOLD
+Concept pages updated: cowos (TSM Q1 2026 margin expansion + 2026 CapEx guide)
+Podcast: none (gate met, no episodes found)
+Watchlist: none

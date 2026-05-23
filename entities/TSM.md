@@ -135,11 +135,27 @@
 
 ---
 
+### 2026-05-23
+
+**FY2025 full-year financials (confirmed):** Revenue NT$3,809,054M (~$122.9B, +31.6% YoY). Operating income by quarter: Q1 NT$407.1B, Q2 NT$463.4B, Q3 NT$500.7B, Q4 NT$564.9B — full-year EBIT ~NT$1,936B (~$62.4B, 50.8% operating margin). CapEx NT$1,272,411M (~$41.0B). D&A estimated ~NT$701B (~$22.6B). Cash and marketable securities (Q3 2025): NT$2,751B (~$88.7B). Long-term interest-bearing debt ~NT$918B (~$29.6B). Source: TSMC SEC 6-K filings (Q1-Q4 2025), 2026-05. *Thesis bearing: Confirms — 50.8% EBIT margin is well above DCF assumption of 42% for high-growth phase; structural profitability substantially stronger than modeled. FCF inflection thesis is tracking ahead of schedule.*
+
+**Q1 2026 results recap:** Revenue NT$1,134,103M ($35.9B, +40.6% YoY, +8.4% QoQ). Gross margin 66.2%, operating margin 58.1%, net margin 50.5%. EPS NT$22.08 (US$3.49/ADR). TSMC raised full-year 2026 revenue growth outlook to >30% in USD terms. North America now 75% of revenue (AI-driven). Source: TSMC Q1 2026 6-K / SEC, 2026-04. *Thesis bearing: Strongly confirms — operating margin expansion to 58.1% (from 50.8% FY2025 avg) as AI-mix rises and Arizona ramp reduces startup losses.*
+
+**ASML High-NA EUV delay — TSMC pushes to 2029:** TSMC has indicated it will delay deployment of ASML's High-NA EUV machines (TWINSCAN EXE:5000) until at least 2029. TSMC can proceed with its A16 (1.6nm) node using conventional EUV optics. High-NA is needed for sub-A16 nodes but is not required for the N2/A16 ramp currently underway. Source: ASML news search, 2026-05-23. *Thesis bearing: Neutral — TSMC's near-term roadmap (N2 through A16) is unaffected; High-NA delay is a 2029+ issue. Directly Challenges [[ASML]] near-term revenue from its highest-margin product line.*
+
+**R&D: $7.91B in FY2025 (+27% YoY):** TSMC's research and development expenses grew 27% to $7.91B in 2025 (from $6.23B in 2024), reflecting intensified investment in GAA transistor architecture (N2) and A16 development. R&D as % of revenue remains ~6.4%. Source: MacroTrends / Statista, 2026-05. *Thesis bearing: Confirms — sustained R&D intensity is the mechanism that maintains TSMC's technology lead vs. Samsung and SMIC.*
+
+**2026 CapEx guidance: $52–56B:** Management guided 2026 capital budget of $52–56B (up from FY2025's $41B), reflecting accelerating N2 and CoWoS capacity buildout plus Arizona Fab 21 Phase 2. This is the CapEx peak the FCF inflection thesis hinges on — once fabs are filled, FCF expands rapidly into the fixed cost base. Source: TSMC Q1 2026 earnings call / SEC 6-K, 2026-04. *Thesis bearing: Confirms — CapEx peak is 2025-2026 as expected; post-peak free cash flow should inflect sharply if revenue grows at guided 30%+ YoY.*
+
+**TSM ADR price context:** TSM closed ~$407 on May 21, 2026 (+46% YTD), $2.05T market cap. Stock already trades above Goldman Sachs' January 2026 ADR implied target of ~$370-375 (NT$2,330 target raised from NT$1,720). Consensus analyst target: $463.45 (17 buys, 2 holds). Source: Various, 2026-05-21.
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips
 - [[NVDA]] — largest AI customer; Blackwell on N4/N3 + CoWoS
-- [[AMD]] — server CPU and AI GPU customer
+- AMD — server CPU and AI GPU customer (not in portfolio; no entity file)
 - [[MRVL]] — custom ASIC co-design; hyperscaler silicon flows through TSMC
 - [[ASML]] — sole EUV supplier; ASML order book predicts TSMC CapEx
 - [[HBM]] — memory stacked via CoWoS; supply affects CoWoS utilization

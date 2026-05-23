@@ -49,6 +49,10 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 
 **TSMC Arizona first fab posts $514M profit in year one; board approved $20B additional capital injection** — Demonstrates TSMC's advanced packaging economics (including CoWoS) are replicating successfully outside Taiwan. Q1 2026 TSMC net income NT$572B (+58.3% YoY), with 66.2% gross margin — driven by a combination of N3/N2 wafer revenue and CoWoS packaging revenue on Blackwell and HBM GPU production. The $20B Arizona capital injection signals TSMC's confidence in U.S.-based advanced packaging demand through at least 2030.
 
+### 2026-05-23 — TSM
+
+**Q1 2026 operating margin 58.1% (up from 50.8% FY2025 avg); 2026 CapEx guided $52-56B for CoWoS and N2 capacity** — The operating margin expansion from 50.8% to 58.1% reflects rising AI-HPC revenue mix (now >75% of revenue from North America) and CoWoS pricing power. The 2026 CapEx guide ($52-56B vs. $41B in FY2025) confirms CoWoS remains an active bottleneck requiring continued capital investment. NVIDIA's Vera Rubin and next-gen HBM4 integration will require TSMC CoWoS for the entire roadmap through at least 2028.
+
 ---
 
 ## Cross-links
