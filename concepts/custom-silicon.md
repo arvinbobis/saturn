@@ -48,6 +48,10 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 ## Dated Intelligence Log
 
+### 2026-05-23 — MRVL
+
+**Stifel: optical interconnect revenue growth revised from 30% to 50% YoY for FY2027; AWS Trainium 3 confirmed in production; XPU-Attach broadening** — Stifel's pre-earnings channel check (PT raised $140→$210) produced the first third-party confirmation that Trainium 3 is actively ramping and that interconnect growth is accelerating. XPU-Attach — Marvell connectivity silicon bundled into hyperscaler custom ASIC deployments — is expanding to programs beyond Amazon, suggesting the custom silicon supply chain attach rate is increasing faster than prior models assumed. If confirmed at May 27 earnings, this 50% interconnect growth guide would meaningfully revise the FY2027 revenue story.
+
 ### 2026-05-22 — MRVL / ALAB
 
 **NVDA invested $2B strategically in Marvell; Amazon Trainium3 (Scorpio X) ramp visible through Astera Labs** — NVDA's $2B stake validates Marvell as the central co-design partner for the custom ASIC wave, not a peripheral player. The Amazon Trainium3 ramp is evidenced by ALAB's revenue growth (+93% YoY Q1 2026) from PCIe connectivity into the Scorpio X cluster. The three-company stack — MRVL (ASIC design) + ALAB (connectivity) + TSM (foundry) — confirms the custom silicon supply chain is scaled and investable. Jensen Huang on Dwarkesh (April 15, 2026) confirmed NVIDIA views custom ASICs as complementary at inference, not competitive at training.

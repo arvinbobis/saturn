@@ -1,14 +1,15 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-23T16:00:00Z",
-  "session_count": 10,
+  "last_run_utc": "2026-05-23T20:00:00Z",
+  "session_count": 11,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "TSM",
+  "last_deep_session": "MRVL",
   "next_deep_session": "NVDA",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (4 days out). Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move. MRVL at ATH ~$191. Prior DCF IV $119.91 (MoS -37.2%, SELL/AVOID). Post-earnings update required: if revenue beats and FY2027 guide raised meaningfully, reassess DCF assumptions and story_narrative. Current MoS requires radical revision to reach HOLD territory.", "detected": "2026-05-22"}
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (4 days out). Consensus $2.40B revenue / $0.79 EPS; options pricing 13% move. MRVL at ATH ~$192. Stifel expects beat-and-raise: optical interconnects 50% YoY FY2027, Trainium 3 in production, XPU-Attach broadening. Post-earnings: re-run DCF and revise story_narrative. Current MoS -37.5% requires meaningful revision to reach HOLD.", "detected": "2026-05-22"},
+    {"ticker": "MU", "event": "price +4.11% on 2026-05-23 ($751). Melius raised PT to $1,100. 1α DRAM chips launched in Virginia. Samsung union vote result due by May 27 — monitor for HBM supply impact.", "detected": "2026-05-23"}
   ],
-  "_event_queue_note": "Session 10 completed TSM DCF (first ever — 10 sessions overdue). TSM IV $384.28, MoS -5.6%, HOLD. Full financials populated from FY2025 6-K filings. TSM removed from event_queue. MRVL earnings May 27 remains as next priority. After MRVL earnings processed, regular rotation resumes at NVDA (next_deep_session). Phase 1b: no relevant podcast episodes found in 14-day window (9%3=0 gate triggered). Phase 1c: gated (9%6=3).",
+  "_event_queue_note": "Session 11: MRVL pre-earnings deep session. Stifel $210 PT — optical 50% YoY FY2027, Trainium 3 in production. MU +4.11% added to event_queue. No DCF run (MRVL DCF ran May 22 — waiting for May 27 earnings). Phase 1b/1c gated (11%3=2, 11%6=5). Next: MRVL earnings on May 27 — post-earnings DCF re-run is the priority action.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-21",

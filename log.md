@@ -10,6 +10,17 @@ Format:
 
 ---
 
+## [2026-05-23 20:00 UTC] session-11
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue (pre-earnings prep, 4 days to May 27)
+Notable: Stifel raised MRVL PT to $210 (+50% from $140), expects "beat-and-raise" — key: optical interconnect FY2027 growth guide revised from 30% to 50% YoY; AWS Trainium 3 in active production; XPU-Attach broadening across hyperscaler programs. MRVL at ATH $192. MU +4.11% to $751 (Melius $1,100 PT; 1α DRAM chips launched in Virginia) — added to event_queue.
+No significant news: TSM (-1.0% to $402.90; Q1 gross margin 66.2% record confirmed), ASML (+2.57% to $1,632.90; UBS top European pick), NVDA (-1.64% to $215.33; Needham $270 PT, $20B CPU potential), ANET (-0.5% to $153.24), ALAB (~flat $309.78).
+DCF run: none (MRVL DCF deferred to post-May 27 earnings)
+Concept pages updated: custom-silicon (Trainium 3 production confirmation, optical 50% YoY revision)
+
+---
+
 ## [2026-05-23 12:00 UTC] session-9
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

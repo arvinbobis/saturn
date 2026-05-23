@@ -202,6 +202,18 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 
 ---
 
+### 2026-05-23
+
+**Stifel raises PT from $140 to $210 — expects "beat-and-raise" on May 27:** Stifel maintained Buy and raised its price target 50% to $210, arguing Marvell will exceed the $2.40B Q1 consensus and guide higher. Key drivers: (1) 1.6T optical deployments accelerating — interconnect revenue now expected to grow **50% YoY in FY2027**, up sharply from Stifel's prior 30% estimate; (2) AWS Trainium 3 (Scorpio X) confirmed in active production ramp; (3) XPU-Attach momentum broadening beyond Amazon to additional hyperscaler programs. Source: Investing.com / Seeking Alpha, 2026-05-22. *Thesis bearing: Confirms — the optical interconnect revision from 30% to 50% YoY and Trainium 3 production confirmation are the first hard third-party data points validating the FY2027 revenue ramp story ahead of May 27 earnings.*
+
+**MRVL hits new ATH ~$192 — up 3% on May 22 analyst wave:** Following the Stifel $210 and Citi $215 upgrades, MRVL closed at approximately $192 — a new all-time high. Stock has rallied ~179% from the March 5 low. Trades at >50× GAAP earnings ahead of binary May 27 event. Source: ForeignPolicyJournal / Investing.com, 2026-05-22. *Thesis bearing: Neutral — ATH ahead of earnings increases downside risk on a miss; execution must match the elevated consensus.*
+
+**Pre-earnings analyst scorecard — all confirmed Buy targets above $195:** Melius $220, Citi $215, Stifel $210, B. Riley $205, BofA $200, Oppenheimer $200, RBC $200, Wells Fargo $195. No Buy-rated analyst below $193. Average street target ~$205+. Source: Various, 2026-05-19–22. *Thesis bearing: Confirms — if earnings confirm the ramp, this repricing significantly narrows the gap between consensus view and our DCF IV of $119.91 from Session 3; a post-earnings DCF re-run is warranted.*
+
+**Taiwan Strait: 26 PLA aircraft near Strait, Liaoning carrier in West Pacific (indirect risk via TSMC dependency):** PLA Liaoning carrier group deployed to West Pacific for live-fire drills; 26 PLA military aircraft detected near Taiwan Strait in a 24-hour period. Trump suggested Taiwan arms sales could be used as a "negotiating chip." No supply chain disruption — elevated but within recent norms (below April's 169/month average). Source: AEI, 2026-05-22. *Thesis bearing: Neutral — MRVL's exposure is indirect (TSMC manufactures its ASICs); elevated geopolitical activity, but no imminent supply risk. Monitor alongside TSM.*
+
+---
+
 ### 2026-05-22
 
 **Analyst target escalation — Citi $215 (from $118), Oppenheimer $200 (from $170), Wells Fargo $195 (from $135):** Three additional major sell-side upgrades, all anchored on NVDA's $81.6B Q1 FY2027 blowout and AWS Trainium custom silicon momentum. Citi's raise from $118 to $215 is the single largest revision — nearly doubling their target — citing Amazon's Trainium deployment and broadening custom silicon tailwinds. Oppenheimer (Outperform) and Wells Fargo (Overweight) also raised, bringing confirmed institutional targets above $200 to: Melius $220, Citi $215, B. Riley $205, BofA $200, Oppenheimer $200, RBC $200. Source: GuruFocus / 247 Wall St. / Investing.com, 2026-05-20–22. *Thesis bearing: Confirms — the sell-side consensus has repriced MRVL's revenue trajectory following NVDA's demand-signal earnings; $200+ targets imply the custom silicon ramp is being underwritten by multiple independent research shops.*
