@@ -175,3 +175,22 @@ Session ran efficiently — NVDA deep session surfaced two actionable findings (
 
 ### Improvement Executed
 None — no 3-session pattern identified. Sessions 11, 12, 13 all Phase Complete across major phases.
+
+## Session 17 — 2026-05-24
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | Markets closed (Sunday; Memorial Day May 25; reopen May 26). Prices unchanged from May 22 close. New finds: NVDA $80B buyback + 2,400% dividend already in entity; ASML UBS €1,900 + India deal already in entity; MU Melius $1,100 PT already in entity. MRVL Celestial AI gap identified → Phase 2. Taiwan Strait: Xi-Trump May 13-15, 169 ADIZ incursions in April, Taiwan defense 780B NTD budget passed. No >3% moves. |
+| 1b (podcasts) | Gated | 17 % 3 = 2 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 17 % 6 = 5 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | MRVL entity: 4 new entries added — Celestial AI $3.25B acquisition (Feb 2 retroactive capture, major gap), Wolfe $210 PT + 32 analyst consensus, Microsoft Maia confirmation, Samsung vote context. Concept: custom-silicon.md updated with Celestial AI optical thesis integration. |
+| 3 (DCF) | Skipped | MRVL DCF ran May 22 (<30 days); earnings May 27 not yet reported; correct skip. Post-earnings re-run queued. |
+| 4 (dashboard) | Complete | For Arvs overwritten; Session 17 notes + history row appended; header updated to Session #17. No price/IV/MoS changes (prices unchanged, no DCF run). |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; Samsung catalyst still future (May 27); concept pages all updated this session or within 2 days; no broken cross-links identified. |
+
+### Diagnosis
+Session value was concentrated in a single gap closure: the Celestial AI $3.25B acquisition (completed Feb 2, 2026) had been missing from the MRVL entity for 3+ months of sessions, despite being Marvell's largest optical acquisition. The gap went undetected because prior sessions focused on analyst PTs and earnings prep rather than doing a comprehensive corporate actions sweep. A retrospective "acquisition audit" for each entity (checking IR press releases directly) would prevent similar gaps.
+
+### Improvement Executed
+None — single-session find, not a 3-session pattern. Will monitor whether retroactive corporate action gaps appear in other entities (potential improvement: add "acquisitions since last entity update" to Phase 2 checklist).

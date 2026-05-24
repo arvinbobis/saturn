@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-24 | Session #16
+Last updated: 2026-05-24 | Session #17
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-24 | Session #16
 
 ### Action Items
 
-1. **MRVL earnings May 27 post-close — primary binary event this week.** Markets reopen May 26 (Tuesday). Consensus $2.40B revenue / $0.79–$0.80 EPS; 13% options move priced; stock at ATH $196. Watch: (a) Q1 FY2027 rev vs. $2.40B; (b) FY2027 guide vs. $11.12B — must raise to sustain ATH; (c) Google TPU+MPU volume timeline; (d) optical interconnect revenue commentary. Run DCF immediately after — current IV $119.91 is pre-guide stale.
-2. **Samsung union vote result also May 27 (10am KST) — 82.86% of members already voted; approval expected.** If approved: 10+ years of Samsung HBM4 production stability, last near-term supply-disruption risk eliminated for the memory supply chain. No action on MU (SELL/AVOID, IV $268 vs. $746 price); structural thesis unchanged.
-3. **AMD confirms TSMC 2nm demand is multi-customer — watch TSM ($405, HOLD, MoS -5.1%).** AMD's $10B+ Taiwan investment and Venice CPUs in production on TSMC 2nm (H2 2026) alongside NVDA GPU confirms leading-edge foundry utilization is broadening beyond NVIDIA alone. Next action point: TSMC May revenue ~June 8–10.
-4. **ANET mildest SELL/AVOID (MoS -17.6%, IV $126.94) — Evercore $200 Outperform reaffirmed May 23.** Entity current; no material new news. Entry only on pullback to $125–130. Next catalyst: Q2 earnings est. August 2026. Monitor: any hyperscaler choosing NVDA Spectrum-X on a greenfield cluster (thesis-breaking event).
-5. **All remaining tickers SELL/AVOID — no trades warranted.** Biggest MoS gaps: MU -64.0% (IV $268 vs. $746), ALAB -63.3% (IV $112 vs. $305). Watch ALAB: RBC raised PT to $250 and Scorpio X switches ramping into Amazon Trainium3 Q3 2026 — entity needs update once MRVL queue clears.
+1. **MRVL earnings May 27 post-close — most critical event; markets reopen May 26 (Tuesday).** Consensus $2.40B / $0.79 EPS; 13% options move priced; stock ATH $196. Watch: (a) Q1 rev vs. $2.40B; (b) FY2027 guide vs. $11.12B — must raise to sustain ATH; (c) Google TPU+MPU volume timeline; (d) optical interconnect revenue commentary post-Celestial AI + Polariton. Run DCF immediately after — current IV $119.91 is pre-earnings stale.
+2. **Samsung union vote result also May 27 (10am KST) — 82.86% turnout, approval expected.** If ratified: decade-long HBM4 production stability at Samsung, last near-term supply-disruption risk removed. No MU action (SELL/AVOID, IV $268 vs. $746); structural thesis unchanged.
+3. **TSM is the only HOLD (MoS -5.1%) — entry range $360–370 on pullback.** AMD Venice CPUs on TSMC 2nm (H2 2026) + NVDA GPU demand confirms leading-edge fab is fully pulled by both the GPU and CPU stacks simultaneously. Next catalyst: May monthly revenue ~June 8–10.
+4. **ANET mildest SELL/AVOID (MoS -17.6%) — entry only on pullback to $125–130.** EBO and XPO optical interconnect MSAs captured (Sessions 16-17); entity current. Next material event: Q2 earnings est. August 2026. Thesis-breaking watch: greenfield AI fabric cluster choosing NVDA Spectrum-X over Arista EOS.
+5. **All remaining tickers SELL/AVOID — no new trades.** Widest gaps: MU -64.0% ($268 vs. $746), ALAB -63.3% ($112 vs. $305). ALAB entity needs update once MRVL queue clears (RBC $250 PT, Scorpio X ramp visible in Trainium3 deployments H2 2026).
 
 ### Key Snippets
 
-- **MRVL earnings and Samsung union vote both land May 27 — the most information-dense day in the portfolio cycle since NVDA Q1 earnings.** MRVL at ATH $196 with 27 analyst Buys; Samsung result could confirm HBM supply chain stability for the next decade.
-- **AMD's $10B+ Taiwan investment puts Venice CPUs on TSMC 2nm — the first HPC product on 2nm.** Combined with NVDA's GPU demand, TSMC's leading-edge fabs are now fully pulled by both the GPU and CPU stack simultaneously.
-- **Mobile DRAM prices +93–98% QoQ in Q2 2026 (TrendForce)** — the memory price surge is system-wide (server DDR5 +58–63%, mobile DRAM +93–98%, NAND +70–75%), confirming the AI capacity reallocation is squeezing all memory categories, not just HBM.
-- **Samsung union ratification vote: 82.86% cast with approval expected** — 80% of voting members are DS semiconductor division employees who benefit most from the 10.5% profit-sharing deal.
-- **Hyperscaler CapEx confirmed at $725B for 2026** (+77% YoY; Amazon $200B, Microsoft $190B, Alphabet $175–185B, Meta $115–135B) with 2027 tracking toward $1T+ (CNBC April 30). The AI buildout pace is accelerating into 2027, not plateauing.
+- **Marvell completed a $3.25B acquisition of Celestial AI (Photonic Fabric™ optical interconnect, Feb 2, 2026) on top of Polariton (April 2026)** — Marvell now owns the most comprehensive optical connectivity IP stack of any fabless chipmaker: SerDes/DSP + Photonic Fabric + plasmonics. This doubles the per-cluster attach value beyond the ASIC co-design fee alone.
+- **MRVL has confirmed co-design relationships at Google (TPU+MPU), Amazon (Trainium), and Microsoft (Maia) — three of four major hyperscalers,** with 32 analyst Buy ratings and a $205+ average street target heading into May 27 earnings. The stock is priced for near-perfect execution.
+- **NVIDIA returned $20B to shareholders in Q1 FY2027 (record single-quarter): $80B buyback authorization + 2,400% dividend raise** — signals Jensen Huang's confidence that AI CapEx and CUDA-based compute demand is durable, not a bubble. $91B Q2 revenue guide stands.
+- **Samsung union vote and MRVL earnings both on May 27** — if both go well (deal ratified + MRVL beats-and-raises), the AI memory + custom silicon supply chain gets simultaneous confidence signals from both sides of the stack.
+- **ASML's $11B India partnership (Tata Electronics, May 16) + UBS €1,900 top-pick reinstatement** — the first major new EUV customer geography since Japan's LSTC. Represents $1–2B in incremental ASML revenue over 3–5 years; structurally broadens ASML's customer base away from TSM/Samsung/SMIC concentration.
 
 ---
 
@@ -96,6 +96,7 @@ Last updated: 2026-05-24 | Session #16
 | MRVL | RBC | $200 | Buy | 2026-05-20 |
 | MRVL | Oppenheimer | $200 | Outperform | 2026-05-20 |
 | MRVL | Wells Fargo | $195 | Overweight | 2026-05-20 |
+| MRVL | Wolfe Research | $210 | Outperform | 2026-05-23 |
 | ANET | Rosenblatt | $210 | Buy | 2026-05-06 |
 | ANET | TD Cowen | $200 | Buy | 2026-05-19 |
 | ANET | Barclays | $195 | Overweight | 2026-05-07 |
@@ -141,6 +142,10 @@ Event-driven: processing event_queue (Q1 2026 earnings review after +3.1% move o
 ### Session 16 (2026-05-24) — Deep: ANET
 
 Rotation-driven (MRVL event deferred — earnings May 27 not yet reported). ANET entity was current through May 23; added May 24 update: Evercore ISI $200 PT reaffirmed, AMD $10B+ Taiwan investment read-through (Venice CPUs on TSMC 2nm confirms AI cluster buildout is multi-vendor). No DCF run (last run May 22, <30 days; no new earnings). Phase 1 surface findings: AMD $10B Taiwan ($10B+ ecosystem investment, Venice on TSMC 2nm, Helios AI rack H2 2026); Samsung union vote at 82.86% turnout with approval expected May 27; mobile DRAM +93–98% QoQ Q2 2026 (TrendForce — broader than previously captured, extends to mobile). Phase 1b (open: 15%3=0): no new semiconductor episodes from target shows (Acquired, ILTB, Odd Lots, Eye on AI) in the last 14 days — third consecutive gate-open session with no finds. Phase 1c gated (15%6=3). Concept updates: dram-cycle.md (mobile DRAM Q2 data), HBM.md (Samsung vote progress). Samsung catalyst row updated to May 27 result date.
+
+### Session 17 (2026-05-24) — Deep: MRVL
+
+Pre-earnings deep session (MRVL event_queue, earnings May 27 post-close not yet reported). Key gap filled: Celestial AI $3.25B acquisition (completed Feb 2, 2026) was entirely absent from the MRVL entity — Photonic Fabric™ optical scale-up interconnect technology, >2× power efficiency vs. copper. Combined with Polariton (April 2026) and legacy SerDes/DSP, Marvell now owns three-layer photonic IP stack — the most comprehensive of any fabless chipmaker. Microsoft Maia confirmed as Marvell co-design (silicon IP + back-end design for Azure AI / OpenAI inference). Wolfe Research adds $210 PT; analyst consensus now 32 Buys (47% Strong Buy). CEO Murphy: "bookings accelerating at record pace." Phase 1b gated (17%3=2); Phase 1c gated (17%6=5). No DCF (earnings in 3 days; post-May 27 re-run queued). Concept updates: custom-silicon.md (Celestial AI optical thesis integration).
 
 ### Session 8 (2026-05-22) — Deep: ALAB
 
@@ -240,3 +245,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 14 | 2026-05-24 | MRVL | event_queue (pre-earnings, 3 days to May 27) | MRVL ATH $196 close; Samsung deal reached May 20 (strike averted); CapEx $1T+ in 2027; no DCF (post-earnings) |
 | 15 | 2026-05-24 | MRVL | event_queue (pre-earnings hold; no new news since Session 14) | TSM entity: TSMC projects $1.5T semi market by 2030; prices updated TSM $405 (-0.6%), MU $746 (-2.7%); ANET Evercore $200 PT added |
 | 16 | 2026-05-24 | ANET | Rotation (MRVL deferred to post-May 27 earnings) | Evercore $200 PT confirmed; AMD $10B Taiwan (Venice on TSMC 2nm, H2 2026); Samsung vote 82.86% cast, result May 27; mobile DRAM +93–98% QoQ (TrendForce) |
+| 17 | 2026-05-24 | MRVL | event_queue (pre-earnings, May 27 in 3 days) | Gap filled: Celestial AI $3.25B acquisition (Feb 2, 2026, Photonic Fabric™); Microsoft Maia confirmed co-design; Wolfe $210 PT, 32 analyst Buys; optical stack now 3-layer (SerDes/DSP + Photonic Fabric + plasmonics) |

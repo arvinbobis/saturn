@@ -1,14 +1,14 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-24T23:59:00Z",
-  "session_count": 16,
+  "last_run_utc": "2026-05-25T00:30:00Z",
+  "session_count": 17,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "ANET",
+  "last_deep_session": "MRVL",
   "next_deep_session": "MRVL",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.40B revenue / $0.79-0.80 EPS; options pricing 13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Sessions 14+15+16: pre-earnings entity confirmed current. Post-earnings priority: re-run DCF and revise story_narrative — current IV $119.91 is pre-guide stale.", "detected": "2026-05-22"}
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.40B revenue / $0.79-0.80 EPS; options pricing 13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210, Wolfe $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Celestial AI $3.25B acquisition (Feb 2, Photonic Fabric) captured Session 17. Sessions 14+15+16+17: pre-earnings entity confirmed current. Post-earnings priority: re-run DCF and revise story_narrative — current IV $119.91 is pre-guide stale.", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "Session 16 (2026-05-24): ANET rotation deep session. MRVL remains in queue (earnings May 27 post-close). Key Phase 1 finds: AMD $10B Taiwan investment (Venice on TSMC 2nm, H2 2026); Samsung union vote 82.86% turnout, result May 27; mobile DRAM +93-98% QoQ Q2 2026 (TrendForce). Phase 1b open (15%3=0): no podcast finds (3rd consecutive gate-open miss). Phase 1c gated (15%6=3). Concept updates: dram-cycle.md, HBM.md. Markets reopen May 26 (Tuesday); MRVL earnings and Samsung vote result both May 27.",
+  "_event_queue_note": "Session 17 (2026-05-24): MRVL pre-earnings deep session. Key gap filled: Celestial AI $3.25B acquisition (Feb 2, 2026) was absent from entity; added alongside Microsoft Maia confirmation and Wolfe $210 PT. Phase 1b gated (17%3=2). Phase 1c gated (17%6=5). No DCF (earnings May 27 post-close, 3 days away). Concept updates: custom-silicon.md. Markets reopen May 26 (Tuesday); MRVL earnings + Samsung vote result both May 27. Next session: post-earnings MRVL DCF.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-21",

@@ -355,3 +355,12 @@ DCF run: none — NVDA last run May 21 (<30 days, no new earnings, no material t
 Concept pages updated: HBM (HBM4 certification delay → Rubin production cut; first Rubin design win is monopoly catalyst)
 Watchlist: none (Phase 1c gated; 13%6=1)
 Podcast: none (Phase 1b gated; 13%3=1)
+
+## [2026-05-25 00:30 UTC] session-17
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue pre-earnings (May 27 post-close, 3 days away)
+Notable: Celestial AI $3.25B acquisition (Photonic Fabric™ optical interconnect, completed Feb 2, 2026) was entirely absent from the MRVL entity — the largest corporate action gap identified in 17 sessions. Combined with Polariton (April 2026), Marvell's optical IP is now a three-layer stack and the most comprehensive of any fabless chipmaker. Microsoft Maia confirmed as Marvell co-design.
+No significant news: TSM, MU, ASML, NVDA, ANET, ALAB (all entities current; prices unchanged, markets closed for weekend + Memorial Day)
+DCF run: none — MRVL earnings May 27 not yet reported; post-earnings DCF queued
+Concept pages updated: custom-silicon.md (Celestial AI optical thesis integration)

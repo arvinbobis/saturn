@@ -60,6 +60,10 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **NVDA invested $2B strategically in Marvell; Amazon Trainium3 (Scorpio X) ramp visible through Astera Labs** — NVDA's $2B stake validates Marvell as the central co-design partner for the custom ASIC wave, not a peripheral player. The Amazon Trainium3 ramp is evidenced by ALAB's revenue growth (+93% YoY Q1 2026) from PCIe connectivity into the Scorpio X cluster. The three-company stack — MRVL (ASIC design) + ALAB (connectivity) + TSM (foundry) — confirms the custom silicon supply chain is scaled and investable. Jensen Huang on Dwarkesh (April 15, 2026) confirmed NVIDIA views custom ASICs as complementary at inference, not competitive at training.
 
+### 2026-05-24 — MRVL
+
+**Marvell's Celestial AI acquisition ($3.25B, Feb 2, 2026) confirms optical interconnect is now inseparable from the custom ASIC thesis** — Custom ASICs designed for inference at hyperscale require optical scale-up interconnects (not just copper) to link chips at 3.2T+ bandwidth. Celestial AI's Photonic Fabric™ + Polariton's plasmonics (April 2026) give Marvell end-to-end optical IP that complements its ASIC design wins. This means Marvell is not just the custom silicon co-designer but the optical connectivity layer that custom silicon clusters require — effectively expanding the per-cluster attach value. The optical moat (Celestial AI + Polariton + legacy SerDes/DSP) is now the second structural choke point in Marvell's business model alongside the ASIC co-design franchise. Confirmed hyperscaler design base now spans Google, Amazon, and Microsoft.
+
 ---
 
 ## Cross-links
