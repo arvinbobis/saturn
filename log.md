@@ -312,3 +312,14 @@ DCF run: TSM — IV $384.28, MoS -5.6%, Rec: HOLD
 Concept pages updated: cowos (TSM Q1 2026 margin expansion + 2026 CapEx guide)
 Podcast: none (gate met, no episodes found)
 Watchlist: none
+
+## [2026-05-24 12:00 UTC] session-13
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA — rotation (MRVL event queue deferred to post-May 27 earnings; next_deep_session now MRVL)
+Notable: Rubin GPU 2026 production cut 25% (2M→1.5M units) due to HBM4 certification delays at SK Hynix and Micron — first Rubin HBM4 design win is the next major MU catalyst; H200 China deliveries remain at zero despite US approval (conflicting jurisdictional requirements frozen the channel); post-Q1 analyst wall: HSBC $325, KeyBanc/DA Davidson/Wedbush $300, Morgan Stanley $285, consensus avg PT $294.
+No significant news: TSM (+0.3%), MU (+1.0%), ASML (flat), MRVL (-0.7%), ANET (+0.5%), ALAB (-2.2%) — all within 3% threshold
+DCF run: none — NVDA last run May 21 (<30 days, no new earnings, no material thesis-change threshold met)
+Concept pages updated: HBM (HBM4 certification delay → Rubin production cut; first Rubin design win is monopoly catalyst)
+Watchlist: none (Phase 1c gated; 13%6=1)
+Podcast: none (Phase 1b gated; 13%3=1)
