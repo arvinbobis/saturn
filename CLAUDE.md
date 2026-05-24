@@ -76,7 +76,9 @@ Search across these sources specifically:
 Search for recent episodes (last 14 days) from these shows mentioning AI chips, semiconductors, or supply chain:
 - Acquired, Invest Like the Best, Odd Lots (Bloomberg), Eye on AI, Dwarkesh Podcast, The MAD Podcast
 
-Search terms: `"Acquired podcast" semiconductor 2026`, `"Invest Like the Best" AI chips`, `"Odd Lots" DRAM OR TSMC OR NVIDIA`, `"Eye on AI" infrastructure`
+Search terms: `"Acquired podcast" semiconductor 2026`, `"Invest Like the Best" AI chips`, `"Odd Lots" DRAM OR TSMC OR NVIDIA`, `"Eye on AI" infrastructure`, `@EyeOnAI podcast semiconductor 2026 site:twitter.com`, `"Chip Chat" OR "Moore's Law Is Dead" podcast semiconductor 2026`
+
+*Self-improvement (Session 16): Added specialist semiconductor show searches after 3 consecutive gate-open sessions with zero finds from mainstream shows. Mainstream shows (Acquired, ILTB, Odd Lots) do not cover semiconductor supply chain at sufficient frequency to be reliable at the current gate cadence.*
 
 If a relevant episode is found:
 1. Note it in `sources/podcasts.md` under Recent Podcast Intelligence (date, show, episode, key finding, ticker impact)

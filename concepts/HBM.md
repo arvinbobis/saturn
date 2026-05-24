@@ -72,6 +72,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **KeyBanc: Rubin GPU 2026 production cut 25% (2M→1.5M units) due to HBM4 certification delays at SK Hynix and Micron** — HBM4 is now the binding supply constraint for NVIDIA's next-generation Rubin platform. Both primary suppliers are still in qualification, which has back-loaded Rubin availability to late 2H 2026 or early 2027. This establishes HBM4 certification as the next major market-moving milestone: whichever supplier (SK Hynix or Micron) achieves first Rubin design win for HBM4 gains ~12–18 months of monopoly revenue at the highest possible ASP before the second supplier qualifies.
 
+### 2026-05-24 (vote update) — Samsung / MU
+
+**Samsung union vote 82.86% cast as of May 24; result announced May 27 (10am KST) — approval highly likely** — High voter turnout (82.86% of 57,290 eligible members through Sunday), driven by DS semiconductor division employees who benefit most from the 10.5% profit-sharing deal. Industry consensus expects ratification. If approved: Samsung HBM4 production at Pyeongtaek and Hwaseong proceeds with labor stability for the multi-year profit-sharing horizon, removing the last near-term HBM supply disruption risk. No impact on Micron's LTA-contracted capacity or pricing — MU is sold out into 2027 regardless of Samsung's production rate.
+
 ---
 
 ## Cross-links

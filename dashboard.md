@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-24 | Session #15
+Last updated: 2026-05-24 | Session #16
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-24 | Session #15
 
 ### Action Items
 
-1. **MRVL earnings May 27 post-close — primary binary event (T-3, markets closed Monday).** Consensus $2.40B rev / $0.79–$0.80 EPS; 13% options move priced; stock at ATH $196. Watch: (a) Q1 FY2027 rev vs. $2.40B; (b) FY2027 guide vs. $11.12B — must raise to sustain ATH; (c) Google TPU+MPU volume timeline; (d) optical interconnect commentary. Run DCF immediately after — current IV $119.91 is stale. Next trading day before earnings: May 26 (Tuesday).
-2. **Samsung union ratification vote closes ~May 26 — deal already reached May 20.** Strike averted; HBM4 production running normally. If ratified: 10 years of labor stability at Samsung fabs; MU structural thesis (LTA-contracted, sold out 2026-2027) unchanged. SELL/AVOID maintained; no trade warranted.
-3. **Watch MU — fell -2.7% on May 22, approaching 3% threshold.** No specific negative catalyst found; likely profit-taking after the prior two-day +6% surge. Structural HBM thesis intact. Add to event_queue if another day of >0.5% selling takes it through $724.
-4. **TSM HOLD at ~$405 — only non-SELL/AVOID position (MoS -5.1%).** TSMC management now projects $1.5T semiconductor market by 2030 with AI+HPC >50% of demand — the biggest forward confirmation of the long-term thesis from the company itself. May revenue due ~June 8-10. No action until then.
-5. **ANET mildest SELL/AVOID (MoS -17.6%, IV $126.94).** Evercore reaffirmed Outperform $200 PT on May 23; consensus ~$184. Entry only on pullback to $125-130 with DCF re-run.
+1. **MRVL earnings May 27 post-close — primary binary event this week.** Markets reopen May 26 (Tuesday). Consensus $2.40B revenue / $0.79–$0.80 EPS; 13% options move priced; stock at ATH $196. Watch: (a) Q1 FY2027 rev vs. $2.40B; (b) FY2027 guide vs. $11.12B — must raise to sustain ATH; (c) Google TPU+MPU volume timeline; (d) optical interconnect revenue commentary. Run DCF immediately after — current IV $119.91 is pre-guide stale.
+2. **Samsung union vote result also May 27 (10am KST) — 82.86% of members already voted; approval expected.** If approved: 10+ years of Samsung HBM4 production stability, last near-term supply-disruption risk eliminated for the memory supply chain. No action on MU (SELL/AVOID, IV $268 vs. $746 price); structural thesis unchanged.
+3. **AMD confirms TSMC 2nm demand is multi-customer — watch TSM ($405, HOLD, MoS -5.1%).** AMD's $10B+ Taiwan investment and Venice CPUs in production on TSMC 2nm (H2 2026) alongside NVDA GPU confirms leading-edge foundry utilization is broadening beyond NVIDIA alone. Next action point: TSMC May revenue ~June 8–10.
+4. **ANET mildest SELL/AVOID (MoS -17.6%, IV $126.94) — Evercore $200 Outperform reaffirmed May 23.** Entity current; no material new news. Entry only on pullback to $125–130. Next catalyst: Q2 earnings est. August 2026. Monitor: any hyperscaler choosing NVDA Spectrum-X on a greenfield cluster (thesis-breaking event).
+5. **All remaining tickers SELL/AVOID — no trades warranted.** Biggest MoS gaps: MU -64.0% (IV $268 vs. $746), ALAB -63.3% (IV $112 vs. $305). Watch ALAB: RBC raised PT to $250 and Scorpio X switches ramping into Amazon Trainium3 Q3 2026 — entity needs update once MRVL queue clears.
 
 ### Key Snippets
 
-- **TSMC now sees a $1.5 trillion semiconductor market by 2030**, with AI and high-performance computing driving more than half of all industry demand — a management-level endorsement of the portfolio's multi-decade AI infrastructure thesis, coming from the single most important company in the supply chain.
-- **MRVL at ATH $196 heading into May 27 earnings.** All 8 major analyst targets are $195–$220 (Melius $220, Citi $215, Stifel $210); options price a 13% move. The make-or-break: does the FY2027 revenue guide exceed $11.12B?
-- **DRAM prices +58-63% QoQ in Q2 2026** — still historically extraordinary even as the +90-95% surge from Q1 moderates. Server RDIMM prices have now overtaken HBM in some segments, confirming the memory supercycle is broad-based across the entire DRAM stack.
-- **Hyperscaler CapEx locked in at ~$700B for 2026** (Amazon $200B, Microsoft $190B, Alphabet $175–185B, Meta $115–135B) with ~75% AI-directed. The buildout is not decelerating heading into 2027.
-- **Markets closed Monday May 25 (US Memorial Day)** — next trading session May 26 (Tuesday), two sessions before MRVL reports. Any pre-earnings analyst commentary or macro shift will surface May 26.
+- **MRVL earnings and Samsung union vote both land May 27 — the most information-dense day in the portfolio cycle since NVDA Q1 earnings.** MRVL at ATH $196 with 27 analyst Buys; Samsung result could confirm HBM supply chain stability for the next decade.
+- **AMD's $10B+ Taiwan investment puts Venice CPUs on TSMC 2nm — the first HPC product on 2nm.** Combined with NVDA's GPU demand, TSMC's leading-edge fabs are now fully pulled by both the GPU and CPU stack simultaneously.
+- **Mobile DRAM prices +93–98% QoQ in Q2 2026 (TrendForce)** — the memory price surge is system-wide (server DDR5 +58–63%, mobile DRAM +93–98%, NAND +70–75%), confirming the AI capacity reallocation is squeezing all memory categories, not just HBM.
+- **Samsung union ratification vote: 82.86% cast with approval expected** — 80% of voting members are DS semiconductor division employees who benefit most from the 10.5% profit-sharing deal.
+- **Hyperscaler CapEx confirmed at $725B for 2026** (+77% YoY; Amazon $200B, Microsoft $190B, Alphabet $175–185B, Meta $115–135B) with 2027 tracking toward $1T+ (CNBC April 30). The AI buildout pace is accelerating into 2027, not plateauing.
 
 ---
 
@@ -66,7 +66,7 @@ Last updated: 2026-05-24 | Session #15
 
 | Ticker | Event | Date | Notes |
 |--------|-------|------|-------|
-| MU | Samsung Union Ratification vote | ~2026-05-26 | Deal reached May 20 (strike averted, 10-yr profit-sharing); ratification vote through May 26; HBM4 production uninterrupted |
+| MU | Samsung Union Vote Result | 2026-05-27 | 82.86% of members have voted as of May 24; result announced May 27 (10am KST); approval expected; HBM4 production uninterrupted |
 | MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B / $0.79 EPS; options pricing 13% move; in event_queue |
 | TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF completed Session 10 (IV $384.28) |
 
@@ -137,6 +137,10 @@ First-ever TSM DCF — 10 sessions overdue. Inputs populated from FY2025 SEC 6-K
 ### Session 9 (2026-05-23) — Deep: ANET
 
 Event-driven: processing event_queue (Q1 2026 earnings review after +3.1% move on May 22). Entity was already comprehensively updated through May 22 from Sessions 4 and 8 — added May 23 update (stock +3.66% to $154.03; NVDA Spectrum-X competitive context confirmed as manageable). No DCF re-run (run May 22, no new earnings data). Schema fix: corrected Q1 2026 YoY growth rate from 27.7% (FY guidance rate, incorrectly labeled) to 35.1% (actual Q1 YoY). Phase 5: TSM added to event_queue at position 0 (null DCF, 9 sessions overdue); TSM.json revenue populated ($122,900M FY2025) and stock price ($407.15). All 4 concept pages received first-ever dated entries (catch-up from Sessions 1–9). MRVL May 27 earnings unchanged as next event. No podcast finds in 14-day window. Macro: Taiwan ADIZ incursions at 169/month in April (below 300/month average since May 2024) — geopolitical risk subdued but present.
+
+### Session 16 (2026-05-24) — Deep: ANET
+
+Rotation-driven (MRVL event deferred — earnings May 27 not yet reported). ANET entity was current through May 23; added May 24 update: Evercore ISI $200 PT reaffirmed, AMD $10B+ Taiwan investment read-through (Venice CPUs on TSMC 2nm confirms AI cluster buildout is multi-vendor). No DCF run (last run May 22, <30 days; no new earnings). Phase 1 surface findings: AMD $10B Taiwan ($10B+ ecosystem investment, Venice on TSMC 2nm, Helios AI rack H2 2026); Samsung union vote at 82.86% turnout with approval expected May 27; mobile DRAM +93–98% QoQ Q2 2026 (TrendForce — broader than previously captured, extends to mobile). Phase 1b (open: 15%3=0): no new semiconductor episodes from target shows (Acquired, ILTB, Odd Lots, Eye on AI) in the last 14 days — third consecutive gate-open session with no finds. Phase 1c gated (15%6=3). Concept updates: dram-cycle.md (mobile DRAM Q2 data), HBM.md (Samsung vote progress). Samsung catalyst row updated to May 27 result date.
 
 ### Session 8 (2026-05-22) — Deep: ALAB
 
@@ -235,3 +239,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 13 | 2026-05-24 | NVDA | rotation (MRVL event deferred to post-May 27 earnings) | Rubin cut 25% (HBM4 shortage); China zero deliveries; analyst wall $285-$325 (consensus $294); no DCF |
 | 14 | 2026-05-24 | MRVL | event_queue (pre-earnings, 3 days to May 27) | MRVL ATH $196 close; Samsung deal reached May 20 (strike averted); CapEx $1T+ in 2027; no DCF (post-earnings) |
 | 15 | 2026-05-24 | MRVL | event_queue (pre-earnings hold; no new news since Session 14) | TSM entity: TSMC projects $1.5T semi market by 2030; prices updated TSM $405 (-0.6%), MU $746 (-2.7%); ANET Evercore $200 PT added |
+| 16 | 2026-05-24 | ANET | Rotation (MRVL deferred to post-May 27 earnings) | Evercore $200 PT confirmed; AMD $10B Taiwan (Venice on TSMC 2nm, H2 2026); Samsung vote 82.86% cast, result May 27; mobile DRAM +93–98% QoQ (TrendForce) |

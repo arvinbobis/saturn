@@ -69,6 +69,10 @@ Track: TrendForce monthly reports on CXMT capacity additions and market share.
 
 **TrendForce: DRAM contract prices +90–95% QoQ in Q1 2026 (record); +58–63% expected in Q2 2026** — Memory makers are reallocating capacity to HBM and server DDR5, driving across-the-board price increases. This is the acute shortage phase of the current cycle, the mirror image of the 2023 trough. Risk to watch: capacity additions from 2024–2025 expansions begin coming online in 2027, which could tighten the supply-demand balance if AI CapEx growth moderates even modestly.
 
+### 2026-05-24 — MU
+
+**TrendForce: Mobile DRAM +93–98% QoQ in Q2 2026; NAND flash +70–75% QoQ** — The memory price surge has extended beyond server DDR5 and HBM into mobile DRAM, which is rising even faster (+93–98% vs. +58–63% for server DDR5). Supplier capacity reallocation to AI/server applications is squeezing mobile DRAM inventory as well — suppliers prefer the higher-ASP AI segments. NAND flash price acceleration (+70–75% in Q2 vs. +60% in Q1) confirms the supply-demand dislocation is system-wide across all memory types. Final Q2 LTA negotiations concluding in May. No meaningful capacity expansion expected until late 2027. Implication: the supply constraint is broad-based, reducing the risk that AI-driven DRAM demand is a narrow niche; it validates MU's full product portfolio (HBM + server DDR5 + mobile) as pricing beneficiaries simultaneously.
+
 ### 2026-05-23 — MU / ASML
 
 **HBM and server DRAM driving Q2 2026 contract price increases; CSPs securing supply via long-term agreements (TrendForce)** — AI server demand is pulling contract prices up across the entire DRAM stack. DDR5 profitability improving as capacity crowd-out from HBM production continues. The gap between HBM3e pricing and server DDR5 is narrowing toward 1–2x by end of 2026 (from 4–5x prior), reflecting DDR5 catching up rather than HBM falling — a bullish data point for the overall DRAM ASP environment.

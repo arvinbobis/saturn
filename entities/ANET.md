@@ -146,6 +146,16 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-24
+
+**Evercore ISI $200 PT reaffirmed (Outperform, May 23):** Evercore ISI reaffirmed its Outperform rating and $200 price target on Arista Networks, citing AI fabric revenue trajectory and data center networking leadership. At $154, ANET trades ~23% below the Evercore target, which aligns with TD Cowen ($200) and Rosenblatt ($210) as the higher end of the analyst range. Source: Market data, 2026-05-23. *Thesis bearing: Neutral — no new thesis signal; analyst confirmation reinforces the valuation gap. SELL/AVOID unchanged at MoS -17.6%.*
+
+**AMD $10B+ Taiwan ecosystem investment — Venice CPUs on TSMC 2nm commencing H2 2026:** AMD announced more than $10B in investments across Taiwan's semiconductor ecosystem (May 21), including EPYC "Venice" server CPUs now in production on TSMC's 2nm process — the first high-performance compute product on 2nm. AMD's Helios AI rack platform (rack-scale AI infrastructure) targets H2 2026 deployment. Source: Focus Taiwan / EE Times, 2026-05-21. *Thesis bearing: Confirms — AMD's 2nm production ramp at TSMC confirms AI cluster compute demand is multi-vendor (NVDA GPU + AMD CPU at scale simultaneously). Every AI cluster deploying both NVDA GPU and AMD Venice CPU requires Arista's spine-leaf ethernet networking fabric. Expands total addressable cluster size beyond NVDA-only deployments.*
+
+**No material new ANET-specific developments since May 23 — entity current:** All active thesis tracks captured in prior entries: (1) XPO + EBO MSA standards participation (optical interconnect positioning); (2) Q1 2026 beat-and-raise ($2.71B revenue, $11.5B FY guidance, $3.5B AI fabric); (3) supply "constrained for next couple of years" but demand "best I have ever seen" (CEO Ullal). Next material event: Q2 2026 earnings (est. August 2026). Key monitor: any greenfield AI fabric decision at a major hyperscaler selecting NVDA Spectrum-X over Arista EOS on a net-new cluster — the only thesis-breaking event; none observed.
+
+---
+
 ### 2026-05-23
 
 **Post-earnings momentum continues, stock +3.66% to $154.03:** ANET rose a second consecutive session to $154.03 with no specific new catalyst identified — the move reflects continued re-rating as the market digests the Q1 beat and $3.5B AI fabric target confirmed in the May 5 earnings call. At $154.03, the live MoS is approximately -17.6% vs. the DCF IV of $126.94 (last run May 22 at $148.59); the SELL/AVOID recommendation is unchanged. The stock has gained +9.7% in two sessions ($140.49 → $154.03). Source: Market data, 2026-05-23. *Thesis bearing: Neutral — price appreciation compresses the margin of safety further but does not alter the underlying AI networking demand trajectory.*

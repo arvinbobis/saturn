@@ -10,6 +10,15 @@ Format:
 
 ---
 
+## [2026-05-24 23:59 UTC] session-16
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ANET — rotation (MRVL deferred pending May 27 earnings)
+Notable: AMD announces $10B+ Taiwan ecosystem investment with Venice CPUs on TSMC 2nm (H2 2026) — first HPC product on 2nm, confirming leading-edge foundry demand is multi-customer beyond NVDA. Samsung union vote 82.86% cast with result May 27 (approval expected). Mobile DRAM prices +93–98% QoQ in Q2 2026 (TrendForce) — memory price surge is system-wide across all categories.
+No significant news: ASML ($1,633 close), NVDA ($215, dividend/buyback already captured), MRVL ($196 ATH pre-earnings), ALAB ($305)
+DCF run: none — all DCFs <30 days; MRVL post-earnings DCF queued
+Concept pages updated: dram-cycle.md (mobile DRAM Q2 data), HBM.md (Samsung vote progress)
+
 ## [2026-05-24 20:00 UTC] session-15
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

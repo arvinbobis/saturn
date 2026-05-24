@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 16 — 2026-05-24
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers; markets closed (Sun/Memorial Day Mon) — May 22 closes carried forward. Key finds: AMD $10B Taiwan (Venice on TSMC 2nm), Samsung vote 82.86% turnout, mobile DRAM +93-98% QoQ (TrendForce), hyperscaler CapEx $725B confirmed, Taiwan Strait subdued (ADIZ incursions declining) |
+| 1b (podcasts) | Partial | Gate met (15 % 3 = 0); searched Acquired, ILTB, Odd Lots, Eye on AI — no episodes from target shows found in 14-day window. Third consecutive gate-open session with no finds. |
+| 1c (scout) | Gated | 15 % 6 = 3 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | ANET entity updated with May 24 entry: Evercore $200 PT, AMD Taiwan read-through, confirmation of no material ANET-specific news since May 23 |
+| 3 (DCF) | Skipped | ANET last DCF May 22 (<30 days); no earnings; no material thesis change; correct skip |
+| 4 (dashboard) | Complete | Header updated (Session #16); For Arvs overwritten; Samsung catalyst updated (May 27 result date); Session 16 notes + history row appended |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue tickers; Samsung catalyst corrected to May 27 result date; concept pages: dram-cycle.md and HBM.md updated this session; no broken cross-links identified |
+
+### Diagnosis
+The primary friction was Phase 1b: the podcast scan gate-open (15%3=0) again returned zero relevant episodes from the target shows, now the third consecutive gate-open session with no finds (sessions 9, 12, 16). The 3-session rule for autonomous improvement is technically met. However, the issue appears to be structural — these large generalist shows (Acquired, Invest Like the Best, Odd Lots) do not cover semiconductor/AI supply chain topics at a frequency that matches this portfolio's quarterly gate. The improvement warranted is search string refinement, not gate frequency change.
+
+### Improvement Executed
+**Podcast search improvement — 3-session rule triggered (sessions 9, 12, 16 all gate-open with no finds).** Adding a dedicated Eye on AI search with the Twitter handle (`@EyeOnAI podcast semiconductor 2026`) and a semiconductor-specialist show search (`"Chip Chat" OR "Moore's Law Is Dead" podcast semiconductor 2026`). The current broad-topic search strings for mainstream shows are producing zero signal at 3x repetition. Edit applied to Phase 1b in CLAUDE.md.
+
+---
+
 ## Session 15 — 2026-05-24
 
 ### Phase Scores
