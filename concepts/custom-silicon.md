@@ -48,6 +48,10 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 ## Dated Intelligence Log
 
+### 2026-05-24 — MRVL
+
+**Custom ASIC revenue scaled from zero to $1.5B in FY2026; management guiding >20% YoY growth in FY2027 and at least doubling in FY2028** — pre-earnings consensus data confirms the custom silicon ramp is now a material revenue line at Marvell, not a future promise. At >$2B projected by FY2029 from NIC and CXL use cases alone, custom silicon is transitioning from a growth driver to Marvell's defining revenue segment. The 3-year trajectory ($0 → $1.5B → $1.8B → $3B+) is the fastest-scaling silicon franchise in the current AI supply chain wave. Amazon Trainium3 (Scorpio X) confirmed in active production ramp; XPU-Attach broadening beyond Amazon. Source: ad-hoc-news.de / Quiverquant, 2026-05-22.
+
 ### 2026-05-23 — MRVL
 
 **Stifel: optical interconnect revenue growth revised from 30% to 50% YoY for FY2027; AWS Trainium 3 confirmed in production; XPU-Attach broadening** — Stifel's pre-earnings channel check (PT raised $140→$210) produced the first third-party confirmation that Trainium 3 is actively ramping and that interconnect growth is accelerating. XPU-Attach — Marvell connectivity silicon bundled into hyperscaler custom ASIC deployments — is expanding to programs beyond Amazon, suggesting the custom silicon supply chain attach rate is increasing faster than prior models assumed. If confirmed at May 27 earnings, this 50% interconnect growth guide would meaningfully revise the FY2027 revenue story.

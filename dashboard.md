@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-24 | Session #13
+Last updated: 2026-05-24 | Session #14
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-24 | Session #13
 
 ### Action Items
 
-1. **Watch MRVL earnings May 27 (post-close, 3 days) — binary event at ~$195.** Consensus $2.40B rev / $0.75 EPS; options pricing 13% move. Must-confirm: (a) optical interconnect FY2027 guide — management confirm 50% YoY?; (b) XPU-attach broadening beyond AWS; (c) FY2027 full-year guide vs. $11.12B consensus. After earnings: re-run DCF immediately — current IV $119.91 is pre-guide and almost certainly stale.
-2. **Watch Samsung union vote result May 27** — 74% turnout in day one signals passage likely. If ACCEPTED: MU speculative premium unwinds, stock drifts; HBM supply thesis unchanged. If REJECTED: 18-day strike resumes, HBM supply tightens (bullish MU). Either way: MU contracted HBM position through 2027 unchanged. SELL/AVOID at -64% MoS — no action either outcome.
-3. **Monitor HBM4 qualification news for Rubin design win** — NVDA cut Rubin 2026 production 25% (2M→1.5M units) due to HBM4 certification delays at SK Hynix and Micron. The first supplier to achieve Rubin HBM4 design win gains ~12-18 months of monopoly revenue at peak ASP. Watch for SK Hynix or Micron qualification announcement — this is the next major MU catalyst.
-4. **TSM HOLD at ~$404 — watch May monthly revenue ~June 8-10.** Only non-SELL position (MoS -4.6%). Jan-Apr 2026 revenue up 29.9% YoY; May figure will confirm Q2 2026 pace. Dividend ex-date June 11. No action until revenue data.
-5. **ANET at ~$154 — mildest SELL/AVOID (MoS -17.2%, IV $126.94).** Recovery from May 5 post-earnings -14% complete. If pullback to $125-130, re-run DCF and evaluate entry. No action now.
+1. **MRVL earnings May 27 post-close — primary binary event (T-3).** Consensus $2.40B rev / $0.79–$0.80 EPS; 13% options move priced; stock at ATH $196. Watch: (a) Q1 FY2027 rev vs $2.40B consensus; (b) FY2027 guide vs $11.12B — must raise to sustain ATH; (c) Google TPU+MPU program volume and timeline; (d) optical interconnect commentary post-Polariton. Run DCF immediately after — current IV $119.91 is pre-earnings stale.
+2. **Samsung union ratification vote closes ~May 26 — deal already reached May 20.** Strike averted; HBM4 production at Samsung's Pyeongtaek and Hwaseong fabs running normally. If ratified: all strike risk gone for 10 years; MU speculative premium fades but structural LTA thesis unchanged. Action: SELL/AVOID maintained; no trade warranted.
+3. **Monitor HBM4 qualification news for Rubin design win** — NVDA cut Rubin 2026 production 25% (2M→1.5M units) due to HBM4 certification delays at SK Hynix and Micron. First supplier to qualify gains ~12-18 months of monopoly revenue at peak ASP. This is the next major MU catalyst.
+4. **TSM HOLD at ~$407 — only non-SELL/AVOID position (MoS -5.6%).** TSMC Arizona fab earned $514M profit in its first full year — geopolitical diversification thesis confirmed economically viable. May revenue data due ~June 8-10; dividend ex-date June 11. No action until revenue data.
+5. **ANET mildest SELL/AVOID (MoS -17.6%, IV $126.94).** Raymond James upgraded to Outperform with $164 PT (May 15); recovery from May 5 -14% post-earnings sell-off is complete at $154. Entry signal only on pullback to $125-130 with DCF re-run.
 
 ### Key Snippets
 
-- **NVDA Rubin GPU production cut 25% (2M→1.5M) due to HBM4 certification delays** — SK Hynix and Micron both still qualifying HBM4 for Rubin; first design win grants monopoly ASP pricing for 12-18 months; this is the next major MU catalyst beyond the already-confirmed HBM3E sold-out-into-2027 thesis.
-- **H200 China deliveries remain at zero** — conflicting US/Beijing rules (US requires chips used "only in China"; Beijing instructs firms to use Nvidia only overseas) have frozen all shipments; semiconductors not on Trump-Xi summit agenda; China revenue recovery cannot be modeled.
-- **Samsung union vote: 74% turnout on day one (vote closes May 27)** — passage now likely; if accepted, MU's supply thesis is further reinforced (Samsung not ramping HBM to compete); MU speculative strike premium fades but structural story unchanged.
-- **ASML CEO: first High-NA EUV products from Intel and SK hynix "within months" (May 19)** — SK hynix is deploying High-NA EUV for HBM production (not TSMC, which defers to 2029); this confirms SK hynix is using maximum capital intensity to extend its HBM process lead.
-- **Hyperscaler CapEx confirmed $725B in 2026 (+77% YoY); Microsoft attributed $25B of its increase to rising memory chip costs** — the entire AI buildout portfolio thesis remains intact; rising memory costs are themselves a signal that HBM pricing power continues.
+- **Samsung reached a deal May 20 — the threatened 18-day chip strike never happened.** Ratification vote runs through May 26; HBM4 memory production at Samsung fabs is normal; the $43B AI memory production risk is resolved. MU structural thesis (LTA-contracted, sold out 2026-2027) is unchanged.
+- **MRVL at all-time high $196 heading into May 27 earnings.** Eight analysts have $195–$220 price targets (Melius $220, Citi $215, Stifel $210); options price 13% move. The make-or-break question: does FY2027 guide exceed $11.12B consensus?
+- **Big Tech AI CapEx expected to exceed $1 trillion in 2027** — up from this year's record $720B. Amazon ($200B), Microsoft ($190B), Alphabet ($185B), Meta ($135B) are all raising 2026 plans; the buildout is accelerating into 2028, not decelerating.
+- **DRAM prices still rising sharply: +58-63% QoQ in Q2 2026** (down from +90-95% in Q1 but still historically exceptional). Microsoft attributed $25B of its $190B 2026 CapEx to rising memory costs — confirming Micron's pricing power.
+- **TSMC Arizona fab made $514M profit in its first full year** — more than all of 2025 combined. Confirms US chip manufacturing is economically viable; reduces geopolitical risk premium on TSM.
 
 ---
 
@@ -32,13 +32,13 @@ Last updated: 2026-05-24 | Session #13
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $404 | +0.3% | $384.28 | -4.6% | **HOLD** | Sole leading-edge foundry; 50.8% FY25 op margin (model: 42%); Q1 2026 gross margin 66.2% record; HPC 61% of wafer revenue | 2026-05-23 |
-| MU     | $760 | +1.0% | $268.33 | -64.3% | SELL/AVOID | HBM supercycle: sold out into 2027 w/ LTAs; Vera Rubin HBM4 shipping; 1α DRAM in Virginia; $100B HBM TAM by 2028 | 2026-05-21 |
-| ASML   | $1,633 | ~flat | $1,122.64 | -31.3% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; CEO says first High-NA chips "within months" (Intel/SK hynix) | 2026-05-22 |
-| NVDA   | $214 | -0.6% | $156.27 | -27.5% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Rubin 25% cut (HBM4 shortage); China zero deliveries | 2026-05-21 |
-| MRVL   | $195 | -0.7% | $119.91 | -38.9% | SELL/AVOID | Custom ASIC co-design; earnings May 27; ATH $196; Citi $215, Melius $220 — $225B Trainium 2 backlog | 2026-05-22 |
-| ANET   | $154 | +0.5% | $126.94 | -17.2% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; Gartner MQ Leader 2026 | 2026-05-22 |
-| ALAB   | $303 | -2.2% | $111.84 | -63.9% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; Q2 guide +15-18% sequential | 2026-05-22 |
+| TSM    | $407 | +1.0% | $384.28 | -5.6% | **HOLD** | Sole leading-edge foundry; 50.8% FY25 op margin (model: 42%); Q1 2026 gross margin 66.2% record; AZ fab $514M yr-1 profit | 2026-05-23 |
+| MU     | $766 | +2.0% | $268.33 | -65.0% | SELL/AVOID | HBM supercycle: sold out into 2027 w/ LTAs; Vera Rubin HBM4 shipping; 1α DRAM in Virginia; $100B HBM TAM by 2028 | 2026-05-21 |
+| ASML   | $1,633 | +2.6% | $1,122.64 | -31.2% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; CEO says first High-NA chips "within months" (Intel/SK hynix) | 2026-05-22 |
+| NVDA   | $215 | -0.6% | $156.27 | -27.3% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Rubin 25% cut (HBM4 shortage); China zero deliveries | 2026-05-21 |
+| MRVL   | $196 | +3.0% | $119.91 | -38.8% | SELL/AVOID | Custom ASIC co-design; earnings May 27; ATH $196 close; Citi $215, Melius $220; custom ASIC $1.5B FY2026 | 2026-05-22 |
+| ANET   | $154 | +3.1% | $126.94 | -17.6% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; Gartner MQ Leader 2026 | 2026-05-22 |
+| ALAB   | $305 | -1.5% | $111.84 | -63.3% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; ATH $315.81 intraday May 22 | 2026-05-22 |
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -66,7 +66,7 @@ Last updated: 2026-05-24 | Session #13
 
 | Ticker | Event | Date | Notes |
 |--------|-------|------|-------|
-| MU | Samsung Union Vote result | 2026-05-27 | Vote runs through May 27; rejection re-ignites strike, bullish MU supply thesis |
+| MU | Samsung Union Ratification vote | ~2026-05-26 | Deal reached May 20 (strike averted, 10-yr profit-sharing); ratification vote through May 26; HBM4 production uninterrupted |
 | MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B / $0.79 EPS; options pricing 13% move; in event_queue |
 | TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF completed Session 10 (IV $384.28) |
 
@@ -100,6 +100,7 @@ Last updated: 2026-05-24 | Session #13
 | ANET | TD Cowen | $200 | Buy | 2026-05-19 |
 | ANET | Barclays | $195 | Overweight | 2026-05-07 |
 | ANET | Morgan Stanley | $180 | Overweight | 2026-05-15 |
+| ANET | Raymond James | $164 | Outperform | 2026-05-15 |
 | ANET | Citi | $176 | Neutral | 2026-05-20 |
 | ALAB | Evercore ISI | $297 | Outperform | 2026-05-22 |
 | ALAB | JPMorgan | $280 | Overweight | 2026-05-19 |
@@ -111,6 +112,10 @@ Last updated: 2026-05-24 | Session #13
 ---
 
 ## Session Notes
+
+### Session 14 (2026-05-24) — Deep: MRVL (pre-earnings, event_queue)
+
+MRVL pre-earnings deep session: entity updated with two new entries — (1) MRVL at new ATH close $196.33 on May 22 (+2.96%), 3 trading days to May 27 binary event; custom ASIC confirmed at $1.5B in FY2026, management guiding >20% YoY in FY2027 and doubling in FY2028; (2) Samsung deal reached May 20 — 18-day strike averted, HBM4 production at normal run rates, ratification vote through May 26. Phase 1a: price corrections applied (TSM $407 +1.0%, MU $766 +2.0%, ASML $1,633 +2.6%, NVDA $215 -0.6%, MRVL $196 +3.0%, ANET $154 +3.1%, ALAB $305 -1.5%). Phase 1b/1c gated (14%3=2, 14%6=2). No DCF run — queued for post-May 27 earnings; current IV $119.91 stale pending guide update. HBM concept page updated (Samsung deal); custom-silicon concept page updated (MRVL $1.5B FY2026). Markets closed May 25 (Memorial Day); next trading day May 26; MRVL earnings May 27. CapEx data point: Big Tech AI spend projected $1T+ in 2027 (up from 2026's record $720B).
 
 ### Session 13 (2026-05-24) — Deep: NVDA (rotation)
 
@@ -223,3 +228,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 11 | 2026-05-23 | MRVL | event_queue (pre-earnings prep, May 27) | Stifel $210; optical 50% YoY FY2027; Trainium 3 in production; ATH $192; MU +4.11% added to queue |
 | 12 | 2026-05-23 | MU | event_queue (price move, 1α Virginia launch, sold out into 2027) | HBM visibility extended to 2027 via LTAs; 1α DRAM in Manassas VA; COHR scouted and added to watchlist; Phase 1b/1c gated open (12%3=0, 12%6=0); no DCF (last run May 21, no new earnings) |
 | 13 | 2026-05-24 | NVDA | rotation (MRVL event deferred to post-May 27 earnings) | Rubin cut 25% (HBM4 shortage); China zero deliveries; analyst wall $285-$325 (consensus $294); no DCF |
+| 14 | 2026-05-24 | MRVL | event_queue (pre-earnings, 3 days to May 27) | MRVL ATH $196 close; Samsung deal reached May 20 (strike averted); CapEx $1T+ in 2027; no DCF (post-earnings) |

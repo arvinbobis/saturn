@@ -64,6 +64,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **HBM sold-out window extended from 2026 into 2027; multi-year LTAs now standard** — all three HBM makers' capacity is now committed through 2027, with customers unable to secure full requirements from any single supplier. The shift from spot/quarterly to 3–5 year LTAs is the structural inflection that eliminates ASP volatility for the contracted window — the single most important distinction between HBM and commodity DRAM that the thesis rests on.
 
+### 2026-05-24 — MU / Samsung
+
+**Samsung deal reached May 20 — 18-day strike averted; HBM4 production at Pyeongtaek and Hwaseong continues at normal run rates** — The 18-day work stoppage (May 21–June 7) that JPMorgan estimated would cause $14–$20.8B in operating profit losses did not occur. Samsung agreed to 10.5% profit-sharing as stock + 1.5% cash for 10 years. Ratification vote through May 26. Near-term HBM supply disruption risk eliminated; Samsung HBM4 supply for NVIDIA Rubin (and competing AI accelerators) uninterrupted. MU's structural advantage via LTA-contracted supply remains intact — Samsung's deal does not accelerate Samsung's HBM4 yield improvement or qualification timeline. Source: Tom's Hardware / abhs.in, 2026-05-20.
+
 ### 2026-05-24 — NVDA
 
 **KeyBanc: Rubin GPU 2026 production cut 25% (2M→1.5M units) due to HBM4 certification delays at SK Hynix and Micron** — HBM4 is now the binding supply constraint for NVIDIA's next-generation Rubin platform. Both primary suppliers are still in qualification, which has back-loaded Rubin availability to late 2H 2026 or early 2027. This establishes HBM4 certification as the next major market-moving milestone: whichever supplier (SK Hynix or Micron) achieves first Rubin design win for HBM4 gains ~12–18 months of monopoly revenue at the highest possible ASP before the second supplier qualifies.

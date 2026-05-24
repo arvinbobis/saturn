@@ -10,6 +10,17 @@ Format:
 
 ---
 
+## [2026-05-24 16:00 UTC] session-14
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue (pre-earnings, 3 days to May 27 Q1 FY2027)
+Notable: Samsung deal reached May 20 (18-day strike averted; HBM4 production at normal rates; ratification vote through May 26); MRVL at ATH close $196.33 (+2.96% on May 22); Big Tech CapEx expected $1T+ in 2027 (up from $720B in 2026); price corrections applied across dashboard (ASML +2.6%, MRVL +3.0%, ANET +3.1%).
+No significant new news: TSM ($407, AZ fab $514M yr-1 profit confirmed), ASML ($1,633), NVDA ($215, H200 China deliveries still zero), ANET ($154), ALAB ($305, ATH $315.81 intraday May 22).
+DCF run: none — MRVL post-earnings DCF queued for Session 15
+Concept pages updated: HBM (Samsung deal — HBM4 production uninterrupted), custom-silicon (MRVL $1.5B FY2026 custom ASIC scale confirmation)
+
+---
+
 ## [2026-05-23 20:00 UTC] session-11
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

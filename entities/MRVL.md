@@ -224,6 +224,14 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 
 ---
 
+### 2026-05-24
+
+**Pre-earnings final read — MRVL closes at ATH $196.33, 3 trading days to May 27:** MRVL closed at $196.33 on Friday May 22, a new all-time high close (+2.96% on the day), extending the pre-earnings rally to ~183% from the March 5 low. All 8 major analyst targets stand at $195–$220. Options continue pricing a ~13% move on earnings day. Pre-earnings consensus: Q1 FY2027 revenue $2.40B / EPS $0.79–$0.80; FY2027 full-year consensus $11.12B (expected to be raised). Custom ASIC business confirmed scaling from zero to $1.5B in FY2026; management has guided >20% YoY growth in FY2027 and at least doubling in FY2028. Source: Investing.com / MarketBeat / ad-hoc-news.de, 2026-05-22. *Thesis bearing: Neutral — stock at ATH heading into binary event; execution must match elevated consensus. DCF re-run queued for post-May 27 data.*
+
+**Samsung deal reached May 20 — 18-day strike averted, HBM4 production uninterrupted (indirect MRVL context):** Samsung Electronics and its union reached a tentative wage agreement on May 20, 2026, one day before the planned 18-day work stoppage (May 21–June 7) that threatened ~$43B in AI memory production. Terms: 10.5% of profits distributed as employee stock + 1.5% cash, 10-year structure. Ratification vote runs through May 26. HBM4 production at Samsung's Pyeongtaek and Hwaseong fabs continues at normal run rates. Source: Tom's Hardware / abhs.in, 2026-05-20. *Thesis bearing: Neutral for MRVL — Samsung does not supply Marvell-designed ASICs; the impact is indirect (AI buildout supply chain intact). For MU's thesis: removes near-term supply disruption premium; structural HBM sold-out thesis via LTAs is unchanged.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume
