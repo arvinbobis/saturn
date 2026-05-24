@@ -151,6 +151,16 @@
 
 ---
 
+### 2026-05-24
+
+**TSMC projects semiconductor market to reach $1.5 trillion by 2030 — AI + HPC >50% of demand:** TSMC management stated the total semiconductor market is expected to surpass $1.5T by 2030, with artificial intelligence and high-performance computing driving more than half of all industry demand. TSM is up approximately 40% in 2026 YTD as investors price in a structurally larger chip market and a deeper TSMC role in its most profitable layers. Source: TheStreet / Bloomberg, 2026-05. *Thesis bearing: Strongly confirms — this management-level forward projection validates the core portfolio thesis. A $1.5T market with TSMC maintaining a 15–20% share implies revenue of $225–300B by 2030 vs. ~$87B in 2025 — roughly 3–3.5× current revenue. The DCF IV of $384 used a 30% revenue CAGR and already conservative margins; this statement from TSMC itself suggests the growth runway is genuine.*
+
+**Bloomberg: investor rotation from TSMC to MediaTek/Samsung as AI rally broadens:** Bloomberg reported that some investors are shifting exposure from TSMC toward MediaTek (AI silicon for edge devices) and Samsung (DRAM/HBM beneficiary), characterizing TSMC as "well-known" while newer AI beneficiaries offer asymmetric upside at lower multiples. TSM closed May 22 at $404.52 (−0.6% on the day). Source: Bloomberg, 2026-05-21. *Thesis bearing: Neutral — sector rotation into second-tier AI beneficiaries is a normal late-cycle market dynamic. Does not change TSMC's fundamental position as sole leading-edge foundry. For this portfolio, TSMC remains the foundational HOLD.*
+
+**Trump Taiwan comment — "cool down" tensions:** In a May 15 interview following the Trump-Xi summit, President Trump urged Taiwan to "cool down" tensions with the PRC and warned against "seeking independence." Taiwan's Mainland Affairs Council reiterated that Taiwan does not need to declare independence and seeks to maintain the status quo. No escalation in military posture. Source: AEI Taiwan Update / Taipei Times, 2026-05-21. *Thesis bearing: Neutral — consistent with the monitored baseline; no acute supply chain risk. The sentiment slightly reduces the "US as Taiwan defender" premium but does not materially alter geopolitical risk assessment for TSMC.*
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips

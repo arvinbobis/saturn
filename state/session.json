@@ -1,14 +1,14 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-24T16:00:00Z",
-  "session_count": 14,
+  "last_run_utc": "2026-05-24T20:00:00Z",
+  "session_count": 15,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
   "last_deep_session": "MRVL",
   "next_deep_session": "MRVL",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (3 days out). Consensus $2.40B revenue / $0.79-0.80 EPS; options pricing 13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Session 14: pre-earnings entity updated (ATH + Samsung deal context). Post-earnings priority: re-run DCF and revise story_narrative — current IV $119.91 is pre-guide stale.", "detected": "2026-05-22"}
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.40B revenue / $0.79-0.80 EPS; options pricing 13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Sessions 14+15: pre-earnings entity confirmed current. Post-earnings priority: re-run DCF and revise story_narrative — current IV $119.91 is pre-guide stale.", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "Session 14: MRVL pre-earnings deep session — entity updated with ATH $196.33 and Samsung deal context. Samsung deal reached May 20 (strike averted); ratification vote through May 26. Big Tech CapEx projected $1T+ in 2027. Markets closed May 25 (Memorial Day); MRVL earnings May 27 post-close. Phase 1b/1c gated (14%3=2, 14%6=2). MRVL stays in event_queue for post-earnings DCF (Session 15).",
+  "_event_queue_note": "Session 15 (2026-05-24): MRVL holding pattern — no new material news found (Session 14 ran same day). TSM entity updated with TSMC $1.5T market forecast by 2030, Bloomberg investor rotation note, Trump Taiwan comment. Prices: TSM $405 (-0.6%), MU $746 (-2.7%). Phase 1b/1c gated (14%3=2, 14%6=2). Self-improvement: added closing-price search guidance to Phase 1a (3-session rule met on price accuracy). Markets closed May 25 (Memorial Day); MRVL earnings May 27 post-close.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-21",

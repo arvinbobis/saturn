@@ -4,6 +4,25 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 15 — 2026-05-24
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | TSM $405 (-0.6%), MU $746 (-2.7%), ASML/NVDA/MRVL/ANET/ALAB flat vs. session 14; macro: $700B hyperscaler CapEx confirmed, Taiwan Strait stable, DRAM +58-63% QoQ Q2 confirmed, TSMC $1.5T market forecast (new); MU -2.7% noted (under 3% threshold, no event_queue addition) |
+| 1b (podcasts) | Gated | 14 % 3 = 2 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 14 % 6 = 2 ≠ 0; correctly skipped |
+| 2 (deep session) | Partial | MRVL confirmed pre-earnings holding pattern — no new material news since Session 14 (same calendar day); TSM entity updated with Phase 1 incidental findings (TSMC $1.5T market forecast, Bloomberg rotation note, Trump Taiwan comment); Evercore $200 ANET PT added to dashboard |
+| 3 (DCF) | Skipped | All DCFs <30 days; no new earnings; correct skip |
+| 4 (dashboard) | Complete | Prices updated; For Arvs overwritten; ANET Evercore PT added; session notes + history row added |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; no stale catalysts; all concept pages <7 days old; all cross-links valid |
+
+### Diagnosis
+Session 15 was the second consecutive same-day session deep-sessioning MRVL pre-earnings (Sessions 14 and 15 both on May 24). The entity was already current and no new MRVL news existed — the deep session was essentially a no-op for MRVL. This is a timing coincidence (4-hour cycle + earnings 3 days out), not a structural bug. The price accuracy pattern continues: MU's session 14 price ($766) differed meaningfully from the May 22 closing price ($745.55) found in session 15 searches — the third consecutive session where a ticker's price diverged between sessions due to intraday vs. closing-price sourcing. This is the 3-session threshold for price accuracy (Sessions 13, 14, 15).
+
+### Improvement Executed
+**Price accuracy — 3-session rule triggered.** Sessions 13, 14, and 15 all identified meaningful discrepancies between dashboard-recorded prices and actual closing prices (ASML +2.6% vs. flat; ANET +3.1% vs. +0.5%; MU $766 vs. $745.55 close). Root cause: search queries return "current price" which can be intraday or stale. Fix applied: added explicit closing-price search guidance to Phase 1a instructions in CLAUDE.md.
+
 **Improvement scope:** Saturn may adjust frequency gates, simplify searches, reorder steps. It may NOT add tickers, change DCF assumptions, remove phases, or alter commit behavior.
 
 ---

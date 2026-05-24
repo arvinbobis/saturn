@@ -10,6 +10,18 @@ Format:
 
 ---
 
+## [2026-05-24 20:00 UTC] session-15
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue (pre-earnings hold; no new material news; Sessions 14+15 same calendar day)
+Notable: TSMC projects $1.5T semiconductor market by 2030 (AI+HPC >50% of demand) — management-level forward statement validating the portfolio thesis. MU closed May 22 at $745.55 (-2.7% from prior session $766); no specific catalyst, approaching 3% threshold but not triggered. ANET Evercore $200 Outperform PT (May 23) added to dashboard.
+No significant new news: ASML ($1,633, High-NA CEO comment already captured), NVDA ($214, $80B buyback already captured), MRVL ($196 ATH, pre-earnings positioning), ANET ($154, Evercore PT new), ALAB ($305).
+DCF run: none — all DCFs <30 days; MRVL post-earnings DCF queued for Session 16
+Concept pages updated: none (all pages updated within 7 days)
+Self-improvement: Phase 1a closing-price search guidance added to CLAUDE.md (3-session rule met on price accuracy pattern, Sessions 13-15)
+
+---
+
 ## [2026-05-24 16:00 UTC] session-14
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

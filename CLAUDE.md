@@ -51,7 +51,7 @@ Each session runs through these phases in order. Stop immediately at any point i
 #### 1a — Price & News (all 7 tickers)
 
 For each of TSM, MU, ASML, NVDA, MRVL, ANET, ALAB:
-1. Search for current price and 1-day % change
+1. Search for closing price and 1-day % change. Use the query "[TICKER] stock closing price [YYYY-MM-DD]" for the most recent trading day. If markets are closed (weekend/US holiday), note the last trading day explicitly and do not treat intraday ranges as the closing price.
 2. Check for news in the last 24 hours
 
 Search across these sources specifically:
