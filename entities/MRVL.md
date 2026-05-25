@@ -238,6 +238,16 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 
 ---
 
+---
+
+### 2026-05-25
+
+**Final pre-earnings positioning — "Switzerland of interconnect" framing + 50+ design win count confirmed:** Ahead of May 27 Q1 FY2027 earnings, analysts are framing Marvell as the "Switzerland of interconnect" — a stack-neutral platform that benefits regardless of which GPU architecture wins. Third-party research counts 50+ active custom AI processor design wins across hyperscalers and AI-native companies. This framing materially reduces the single-customer concentration risk that has been the primary bear thesis; the entity already captures confirmed co-designs at Google (TPU/MPU), Amazon (Trainium/Inferentia), and Microsoft (Maia). Source: GuruFocus / FX Leaders, 2026-05-22–25. *Thesis bearing: Confirms — 50+ design wins and multi-architecture neutrality convert the concentration risk narrative from a structural concern to a transitional one; if May 27 confirms ongoing hyperscaler pipeline depth, the "Switzerland of interconnect" label will stick.*
+
+**Final watch list for May 27 earnings call (post-close):** (1) Q1 FY2027 revenue vs. $2.40B consensus — Stifel expects a beat; (2) FY2027 full-year guide vs. $11.12B consensus — must raise to sustain ATH; (3) AI/Data Center revenue as % of total — expect >70%; (4) Google TPU/MPU co-design volume timeline and any capacity allocation visibility for TSMC production; (5) Optical interconnect revenue trajectory: Celestial AI Photonic Fabric + Polariton plasmonics first combined-product revenue commentary; (6) Management commentary on design win pipeline breadth (any fourth hyperscaler, i.e., Meta MTIA confirmation). Options pricing ~13% move. DCF re-run queued for session 19 post-earnings. Source: Investing.com / Stifel / Seeking Alpha, 2026-05-22–25. *Thesis bearing: Neutral — this is the event; no additional thesis data until the call closes.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume

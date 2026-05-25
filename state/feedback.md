@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 18 — 2026-05-25
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | US markets closed (Memorial Day); last trading day May 22; prices carried forward. Key finds: Samsung TSP packaging slowdown (new HBM4 risk), Iran war helium disruption (TSMC cost headwind), hyperscaler CapEx $725B +77% YoY confirmed, TrendForce Q2 DRAM already in dram-cycle.md from session 17 |
+| 1b (podcasts) | Partial | Gate open (18%3=0); searched Acquired, ILTB, Eye on AI, Odd Lots, Dwarkesh — no qualifying episodes in last 14 days. Fourth consecutive gate-open session with no finds from target shows (sessions 9, 12, 16, 18) |
+| 1c (scout) | Complete | Gate open (18%6=0); LRCX (Lam Research) identified — TSV etch chokepoint for HBM stacking; passes all 3 filters; added to watchlist/LRCX.md and dashboard |
+| 2 (deep session) | Partial | MRVL pre-earnings final: two new entries added ("Switzerland of interconnect" + 50+ design wins; May 27 watch list). No material new news (Memorial Day weekend); entity is as current as possible pre-earnings |
+| 3 (DCF) | Skipped | Correct skip — MRVL earnings May 27 post-close; DCF queued for session 19 |
+| 4 (dashboard) | Complete | Header updated (Session 18); For Arvs overwritten; LRCX added to watchlist section; Session 18 notes + history row appended |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue tickers; all catalysts still valid (Samsung vote + MRVL earnings both May 27); HBM.md updated with Samsung TSP disruption; cowos.md and dram-cycle.md both updated within 3 days; no broken cross-links |
+
+### Diagnosis
+Phase 1b has now produced zero qualifying podcast episodes in 4 consecutive gate-open sessions (9, 12, 16, 18). Session 16 applied a search improvement (added @EyeOnAI Twitter search and "Moore's Law Is Dead" / "Chip Chat" specialist shows). This session still found nothing. The 3-session rule was technically met at session 16 and the improvement was applied — but the improvement (adding more specialist show searches) has not yet resolved the zero-find pattern in session 18. However, one session after an improvement is not sufficient to conclude it failed; session 21 (next gate: 21%3=0) will be the true test of whether the specialist show additions help. No further action warranted this session.
+
+### Improvement Executed
+None — waiting to assess whether session 16's podcast search improvement resolves the zero-find pattern. Session 21 (next gate-open) is the verification point.
+
+---
+
 ## Session 16 — 2026-05-24
 
 ### Phase Scores

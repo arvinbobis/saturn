@@ -364,3 +364,9 @@ Notable: Celestial AI $3.25B acquisition (Photonic Fabric™ optical interconnec
 No significant news: TSM, MU, ASML, NVDA, ANET, ALAB (all entities current; prices unchanged, markets closed for weekend + Memorial Day)
 DCF run: none — MRVL earnings May 27 not yet reported; post-earnings DCF queued
 Concept pages updated: custom-silicon.md (Celestial AI optical thesis integration)
+
+## [2026-05-25 06:00 UTC] session-18
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: MRVL — event_queue pre-earnings final (Memorial Day; markets closed; last trading day May 22) | DCF: none (post-earnings queued) | Concepts: HBM.md | Watchlist: LRCX (new) | Podcast: none (Phase 1b gate open 18%3=0; no qualifying episode found in last 14 days)
+Notable: Samsung TSP packaging workers intentionally slowing operations despite formal strike avoidance — $400K vs $4K bonus disparity creating chronic HBM4 back-end risk; hyperscaler CapEx $725B +77% YoY confirmed (Amazon $200B, Google $175-185B, Microsoft $120B, Meta $115-135B); Iran war → Qatar helium supply disruption pressuring TSMC chemical costs; MRVL "Switzerland of interconnect" framing with 50+ design wins ahead of May 27 Q1 FY2027 earnings.

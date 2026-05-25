@@ -76,6 +76,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **Samsung union vote 82.86% cast as of May 24; result announced May 27 (10am KST) — approval highly likely** — High voter turnout (82.86% of 57,290 eligible members through Sunday), driven by DS semiconductor division employees who benefit most from the 10.5% profit-sharing deal. Industry consensus expects ratification. If approved: Samsung HBM4 production at Pyeongtaek and Hwaseong proceeds with labor stability for the multi-year profit-sharing horizon, removing the last near-term HBM supply disruption risk. No impact on Micron's LTA-contracted capacity or pricing — MU is sold out into 2027 regardless of Samsung's production rate.
 
+### 2026-05-25 — Samsung / MU
+
+**Samsung TSP (Test & Package) division intentional slowdowns threaten HBM4 delivery schedules despite formal strike being averted** — Even though Samsung reached a tentative wage deal on May 20 (10.5% profit-sharing for memory workers), the deal exposed a massive internal bonus disparity: DS memory division workers receive ~$400,000 in performance bonuses while TSP/foundry/non-memory workers received ~$4,000. This disparity is triggering intentional work slowdowns, meeting cancellations, and a "work vacuum" in the TSP packaging division — the exact division responsible for advanced HBM stacking and testing. Tom's Hardware reports that "major AI chip project decisions have come to a complete halt" in the TSP division. Samsung HBM4 delivery risk has NOT been fully eliminated by the strike avoidance; the secondary threat is a protracted internal TSP operational slowdown. If Samsung HBM4 volume is constrained by TSP throughput, SK Hynix and Micron (whose A3 fab runs TSP inline) are direct supply beneficiaries — consistent with MU's HBM4 qualification race for Rubin. Source: Tom's Hardware / Seoul Economic Daily, 2026-05-22–24.
+
 ---
 
 ## Cross-links

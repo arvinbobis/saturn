@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-24 | Session #17
+Last updated: 2026-05-25 | Session #18
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-24 | Session #17
 
 ### Action Items
 
-1. **MRVL earnings May 27 post-close — most critical event; markets reopen May 26 (Tuesday).** Consensus $2.40B / $0.79 EPS; 13% options move priced; stock ATH $196. Watch: (a) Q1 rev vs. $2.40B; (b) FY2027 guide vs. $11.12B — must raise to sustain ATH; (c) Google TPU+MPU volume timeline; (d) optical interconnect revenue commentary post-Celestial AI + Polariton. Run DCF immediately after — current IV $119.91 is pre-earnings stale.
-2. **Samsung union vote result also May 27 (10am KST) — 82.86% turnout, approval expected.** If ratified: decade-long HBM4 production stability at Samsung, last near-term supply-disruption risk removed. No MU action (SELL/AVOID, IV $268 vs. $746); structural thesis unchanged.
-3. **TSM is the only HOLD (MoS -5.1%) — entry range $360–370 on pullback.** AMD Venice CPUs on TSMC 2nm (H2 2026) + NVDA GPU demand confirms leading-edge fab is fully pulled by both the GPU and CPU stacks simultaneously. Next catalyst: May monthly revenue ~June 8–10.
-4. **ANET mildest SELL/AVOID (MoS -17.6%) — entry only on pullback to $125–130.** EBO and XPO optical interconnect MSAs captured (Sessions 16-17); entity current. Next material event: Q2 earnings est. August 2026. Thesis-breaking watch: greenfield AI fabric cluster choosing NVDA Spectrum-X over Arista EOS.
-5. **All remaining tickers SELL/AVOID — no new trades.** Widest gaps: MU -64.0% ($268 vs. $746), ALAB -63.3% ($112 vs. $305). ALAB entity needs update once MRVL queue clears (RBC $250 PT, Scorpio X ramp visible in Trainium3 deployments H2 2026).
+1. **MRVL earnings May 27 post-close — most critical event this week.** Markets reopen Tuesday May 26; earnings post-close Tuesday. Watch: (a) Q1 revenue vs. $2.40B consensus — Stifel expects a beat; (b) FY2027 full-year guide vs. $11.12B — must raise to sustain ATH at $196; (c) Google TPU/MPU volume timeline confirmation; (d) optical interconnect first combined Celestial AI + Polariton revenue commentary. Run DCF in session 19 immediately after — current IV $119.91 is stale.
+2. **Samsung vote result also May 27 (10am KST) — but TSP packaging slowdown is the NEW risk.** Even if the deal is ratified, non-memory workers in Samsung's TSP (test & package) division are intentionally slowing HBM4 back-end processing due to a $400K vs. $4K bonus disparity. Formal vote passing does NOT eliminate HBM4 delivery risk. Watch: any Tom's Hardware / SemiWiki follow-up on TSP production normalcy after May 27 vote.
+3. **TSM: HOLD at current levels; entry range $360–370 on pullback.** Iran-war helium supply disruption is a new headwind — TSMC flagged rising chemical/gas costs for H2 2026. Not thesis-changing, but worth noting in the May monthly revenue (~June 8–10) commentary.
+4. **New watchlist scout: LRCX (Lam Research).** Dominant TSV etch supplier for HBM stacking — gets paid every time Samsung, SK Hynix, or Micron scales HBM4 production, regardless of which GPU architecture wins. Passes all 3 chokepoint filters. Watching — not adding to satellite portfolio yet.
+5. **All tickers still SELL/AVOID except TSM (HOLD) — no new trades.** Session 19 will re-run MRVL DCF post-earnings and potentially begin ALAB and ANET entity updates (both stale since Session 16–17). Widest gaps: MU -64% ($268 vs. $746), ALAB -63% ($112 vs. $305).
 
 ### Key Snippets
 
-- **Marvell completed a $3.25B acquisition of Celestial AI (Photonic Fabric™ optical interconnect, Feb 2, 2026) on top of Polariton (April 2026)** — Marvell now owns the most comprehensive optical connectivity IP stack of any fabless chipmaker: SerDes/DSP + Photonic Fabric + plasmonics. This doubles the per-cluster attach value beyond the ASIC co-design fee alone.
-- **MRVL has confirmed co-design relationships at Google (TPU+MPU), Amazon (Trainium), and Microsoft (Maia) — three of four major hyperscalers,** with 32 analyst Buy ratings and a $205+ average street target heading into May 27 earnings. The stock is priced for near-perfect execution.
-- **NVIDIA returned $20B to shareholders in Q1 FY2027 (record single-quarter): $80B buyback authorization + 2,400% dividend raise** — signals Jensen Huang's confidence that AI CapEx and CUDA-based compute demand is durable, not a bubble. $91B Q2 revenue guide stands.
-- **Samsung union vote and MRVL earnings both on May 27** — if both go well (deal ratified + MRVL beats-and-raises), the AI memory + custom silicon supply chain gets simultaneous confidence signals from both sides of the stack.
-- **ASML's $11B India partnership (Tata Electronics, May 16) + UBS €1,900 top-pick reinstatement** — the first major new EUV customer geography since Japan's LSTC. Represents $1–2B in incremental ASML revenue over 3–5 years; structurally broadens ASML's customer base away from TSM/Samsung/SMIC concentration.
+- **Hyperscaler CapEx confirmed at $725B in 2026 (+77% YoY)** — Amazon $200B, Google $175–185B, Microsoft $120B+, Meta $115–135B. This is the single largest AI infrastructure spending year in history and the demand backstop that underlies every Saturn thesis.
+- **Samsung's TSP packaging workers are intentionally slowing operations despite strike avoidance** — $400,000 bonus for memory workers vs. $4,000 for packaging workers; internal resentment is creating a "work vacuum" in the HBM4 back-end division. This is a new, under-covered risk that the vote result alone won't fix.
+- **MRVL is now described by analysts as the "Switzerland of interconnect" with 50+ custom AI processor design wins** — multi-hyperscaler, multi-architecture neutrality means Marvell benefits whether NVDA, AMD, or custom ASICs win the training/inference layer. Heading into May 27 earnings with 32 Buy ratings, avg street target $205+.
+- **Iran war → helium supply disruption is a slow-burning semiconductor cost headwind.** Qatar, which supplies 30%+ of global helium, has been impacted by Iranian strikes. TSMC, Foxconn, and Infineon have flagged chemical/gas cost pressures. Not an acute supply crisis but a sustained margin headwind for chipmakers through H2 2026.
+- **No podcast intelligence this session** — Phase 1b gate was open (18%3=0) but no target show (Acquired, Invest Like the Best, Eye on AI, Odd Lots, Dwarkesh) published a semiconductor-relevant episode in the last 14 days. Most recent qualifying episode: Odd Lots "Ray Wang on DRAM Prices" from February 16, 2026 (outside window).
 
 ---
 
@@ -114,6 +114,10 @@ Last updated: 2026-05-24 | Session #17
 ---
 
 ## Session Notes
+
+### Session 18 (2026-05-25) — Deep: MRVL (pre-earnings final, event_queue)
+
+US markets closed (Memorial Day). Last trading day May 22. Final pre-earnings update for MRVL before May 27 Q1 FY2027 report. Entity updated with two new entries: (1) "Switzerland of interconnect" framing and 50+ confirmed custom AI processor design wins — multi-hyperscaler neutrality reduces single-customer concentration risk narrative; (2) Final May 27 watch list itemized (Q1 vs. $2.40B, FY2027 guide vs. $11.12B, Google TPU/MPU volume, combined Celestial AI + Polariton optical revenue). Key Phase 1 findings: Samsung TSP packaging workers intentionally slowing operations despite strike avoidance — $400K vs. $4K bonus disparity creating chronic HBM4 back-end risk not eliminated by formal deal ratification; hyperscaler CapEx confirmed $725B +77% YoY (Amazon $200B, Google $175-185B, Microsoft $120B, Meta $115-135B); Iran war → helium supply disruption pressuring TSMC chemical costs (Qatar 30%+ of global supply). Phase 1b open (18%3=0): no qualifying semiconductor podcast episode found in last 14 days from target shows. Phase 1c open (18%6=0): LRCX (Lam Research) scouted — dominant TSV etch for HBM stacking, passes all 3 chokepoint filters; added to watchlist. No DCF run (MRVL earnings post-close May 27; DCF queued for session 19). HBM concept page updated (Samsung TSP disruption). No price changes (markets closed).
 
 ### Session 15 (2026-05-24) — Deep: MRVL (pre-earnings hold, event_queue) + TSM (Phase 1 incidental)
 
@@ -210,6 +214,7 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | Ticker | Company | Choke Point | Source | Status | Added |
 |--------|---------|-------------|--------|--------|-------|
 | COHR | Coherent Corp | Only 6-inch InP wafer fab; optical transceivers required for 400G/800G/1.6T AI DC networking; also supplies ASML EUV laser optics | Phase 1c scan, Session 12 | Watching — research session needed | 2026-05-23 |
+| LRCX | Lam Research | Dominant TSV etch supplier — Through-Silicon Vias are required for every HBM stack (SK Hynix, Samsung, Micron); HBM tool revenue +50% YoY; also critical for 2nm GAA transistors and CoWoS packaging | Phase 1c scan, Session 18 | Watching — compare vs. TEL for TSV share; LRCX vs. AMAT differentiation needed | 2026-05-25 |
 
 *Candidates graduate to full entity when thesis confirmed by 3+ independent sources and Arvs approves.*
 
@@ -246,3 +251,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 15 | 2026-05-24 | MRVL | event_queue (pre-earnings hold; no new news since Session 14) | TSM entity: TSMC projects $1.5T semi market by 2030; prices updated TSM $405 (-0.6%), MU $746 (-2.7%); ANET Evercore $200 PT added |
 | 16 | 2026-05-24 | ANET | Rotation (MRVL deferred to post-May 27 earnings) | Evercore $200 PT confirmed; AMD $10B Taiwan (Venice on TSMC 2nm, H2 2026); Samsung vote 82.86% cast, result May 27; mobile DRAM +93–98% QoQ (TrendForce) |
 | 17 | 2026-05-24 | MRVL | event_queue (pre-earnings, May 27 in 3 days) | Gap filled: Celestial AI $3.25B acquisition (Feb 2, 2026, Photonic Fabric™); Microsoft Maia confirmed co-design; Wolfe $210 PT, 32 analyst Buys; optical stack now 3-layer (SerDes/DSP + Photonic Fabric + plasmonics) |
+| 18 | 2026-05-25 | MRVL | event_queue (pre-earnings final; markets closed Memorial Day) | "Switzerland of interconnect" + 50+ design wins; Samsung TSP packaging slowdown (new HBM risk); LRCX scouted as watchlist; CapEx $725B confirmed; no DCF |
