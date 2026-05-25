@@ -80,6 +80,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **Samsung TSP (Test & Package) division intentional slowdowns threaten HBM4 delivery schedules despite formal strike being averted** — Even though Samsung reached a tentative wage deal on May 20 (10.5% profit-sharing for memory workers), the deal exposed a massive internal bonus disparity: DS memory division workers receive ~$400,000 in performance bonuses while TSP/foundry/non-memory workers received ~$4,000. This disparity is triggering intentional work slowdowns, meeting cancellations, and a "work vacuum" in the TSP packaging division — the exact division responsible for advanced HBM stacking and testing. Tom's Hardware reports that "major AI chip project decisions have come to a complete halt" in the TSP division. Samsung HBM4 delivery risk has NOT been fully eliminated by the strike avoidance; the secondary threat is a protracted internal TSP operational slowdown. If Samsung HBM4 volume is constrained by TSP throughput, SK Hynix and Micron (whose A3 fab runs TSP inline) are direct supply beneficiaries — consistent with MU's HBM4 qualification race for Rubin. Source: Tom's Hardware / Seoul Economic Daily, 2026-05-22–24.
 
+### 2026-05-25 — Samsung / MU
+
+**Samsung DX union court injunction filing adds new procedural uncertainty to May 27 ratification — 87.4% turnout already cast, approval still likely** — Non-semiconductor DX division workers filing injunction at 9am May 26 (Suwon District Court) to halt the ratification vote; their grievance is the 93x bonus disparity ($4,300 DX vs. $400,000+ DS). As of 5:10pm KST May 25, 87.4% of 57,290 eligible voters have already cast ballots — Labor Ministry sides with the DS semiconductor union. Even if injunction succeeds, Samsung TSP packaging division slowdowns (the structural HBM4 supply risk) persist independently of the vote outcome. Micron's LTA-contracted HBM supply through 2027 is unaffected either way. Watch for court ruling May 26 KST morning and final vote result May 27 10am KST.
+
 ---
 
 ## Cross-links

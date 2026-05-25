@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 21 — 2026-05-25
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | Markets closed (Memorial Day); prices unchanged. Key finds: Huawei LogicFolding + Tau Scaling Law (Bloomberg May 25, IEEE ISCAS — SMIC +18%); Samsung DX union injunction filing (May 26 Suwon Court); Taiwan Strait subdued; no new hyperscaler CapEx data |
+| 1b (podcasts) | Partial | Gate open (21%3=0); searched Acquired, ILTB, Odd Lots, Eye on AI, Chip Chat, MLID — zero qualifying episodes in 14-day window. Fifth consecutive gate-open session with no finds. |
+| 1c (scout) | Gated | 21%6=3; correctly skipped |
+| 2 (deep session) | Partial | MRVL event_queue hold — no new pre-earnings content. Supplementary: TSM entity updated (Huawei LogicFolding, Challenges long-term); MU entity updated (Samsung DX injunction, Neutral); ASML entity updated (Huawei EUV bypass claim, Challenges long-term) |
+| 3 (DCF) | Skipped | Correct — all DCFs current (<30 days), no earnings processed, MRVL awaiting May 27 results |
+| 4 (dashboard) | Complete | For Arvs overwritten; Session 21 notes + history row appended; header updated to Session #21 |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue tickers; both catalysts (Samsung vote + MRVL earnings) still future May 27; all concept pages within 14 days; no broken cross-links |
+
+### Diagnosis
+Session's primary friction is the persistent Phase 1b zero-find problem: the session 16 improvement (adding @EyeOnAI Twitter and Chip Chat/MLID specialist show searches) has now produced zero qualifying episodes in both of its post-improvement gate-open sessions (18 and 21). The 3-session rule requires 3 consecutive failures post-improvement before a further change is warranted; session 24 is the definitive test. The Phase 1a finds were genuine and material (Huawei LogicFolding is a thesis-level long-term watch item for TSM and ASML), confirming that the Phase 1a news sweep continues to add value even on market-closed sessions.
+
+### Improvement Executed
+None — post-improvement podcast failure count is 2 of 3 required. Session 24 (next gate-open: 24%3=0) will determine whether a further change is warranted. Candidate improvement if session 24 also fails: raise podcast gate from %3 to %6 (reducing frequency to match the structural low-coverage reality of these shows for semiconductor topics), or switch to direct RSS feed checks rather than web search.
+
+---
+
 ## Session 19 — 2026-05-25
 
 ### Phase Scores

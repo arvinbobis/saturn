@@ -1,7 +1,7 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-25T14:00:00Z",
-  "session_count": 20,
+  "last_run_utc": "2026-05-25T18:00:00Z",
+  "session_count": 21,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
   "last_deep_session": "MRVL",
   "next_deep_session": "ANET",

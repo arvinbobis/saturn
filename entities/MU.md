@@ -195,6 +195,12 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 ---
 
+### 2026-05-25
+
+**Samsung DX union injunction filing — new legal risk layer on May 27 ratification vote:** Samsung's Donghaeng Union (third-largest Samsung union; composed primarily of non-semiconductor Device Experience division employees) announced it will file an injunction at Suwon District Court at 9am on May 26 to halt the ongoing wage deal ratification vote. Grievance: DX workers receive only ~$4,300 under the deal versus $400,000+ for DS (Device Solutions / semiconductor) workers — a 93x disparity. As of 5:10pm KST May 25, combined voter turnout stands at 87.4% of 57,290 eligible members (an extraordinarily high rate, driven by DS workers who benefit most). South Korea's Labor Ministry has sided with the Cho-Kiup Union (DS semiconductor side). Vote window closes 10am KST May 27. Source: Seoul Economic Daily / UPI / Tom's Hardware, 2026-05-25. *Thesis bearing: Neutral to Slightly Challenges — a successful injunction could halt or invalidate the ratification, potentially restarting the 18-day strike timeline. However: (1) with 87.4% of eligible voters already having cast ballots, a court halt would be procedurally unusual and practically difficult to execute before the 10am May 27 close; (2) Labor Ministry support for the DS union side materially reduces injunction likelihood; (3) regardless of the vote outcome, Samsung TSP (Test & Package) division operational slowdowns are already documented (Session 18) — the structural HBM4 delivery risk exists independent of the labor vote; (4) Micron's LTA-contracted HBM supply through 2027 is fully independent of Samsung labor outcomes. This is a watch item for May 26 KST morning; update upon injunction ruling.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC CoWoS packages HBM alongside compute dies; CoWoS capacity is the packaging bottleneck

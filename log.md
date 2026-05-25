@@ -10,6 +10,15 @@ Format:
 
 ---
 
+## [2026-05-25 18:00 UTC] session-21
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL (event_queue pre-earnings hold — earnings May 27 pending) + TSM/MU/ASML supplementary
+Notable: Huawei "LogicFolding" + "Tau Scaling Law" announced at IEEE ISCAS Shanghai (Bloomberg May 25) — claims 1.4nm density by 2031 via SMIC without EUV; SMIC +18%, Hua Hong +20%; TSM and ASML entities updated (Challenges long-term, 3-year TSMC lead intact); Samsung DX Donghaeng Union filing court injunction May 26 to halt ratification vote (87.4% turnout already cast, Labor Ministry backs DS side); MU entity updated.
+No significant news: NVDA ($215), ANET ($154), ALAB ($305), MRVL ($196) — markets closed (Memorial Day May 25)
+DCF run: none — all DCFs current; MRVL post-earnings DCF queued for first session after May 27 close
+Concept pages updated: HBM.md (Samsung DX injunction procedural risk)
+
 ## [2026-05-25 10:00 UTC] session-19
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

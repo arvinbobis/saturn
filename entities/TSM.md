@@ -161,6 +161,12 @@
 
 ---
 
+### 2026-05-25
+
+**Huawei "LogicFolding" + "Tau Scaling Law" — first publicly articulated China path to frontier density without EUV:** Huawei's semiconductor chief He Tingbo announced at IEEE ISCAS (Shanghai, May 25) that HiSilicon developed "LogicFolding" — a dual-layer stacked logic architecture achieving a claimed 55% transistor density increase and 41% power efficiency gain without EUV lithography. The accompanying "Tau Scaling Law" is Huawei's proposed successor to Moore's Law (temporal scaling — optimizing signal speed rather than transistor dimensions). Kirin 2026 chip benchmarked at 238 MTr/mm², rivaling TSMC 3nm density. Long-term claim: 1.4nm-class chips via SMIC by 2031. TSMC plans 1.4nm mass production by 2028 — a 3-year lead maintained. SMIC +18%, Hua Hong +20% on announcement day. Industry analyst reaction: "A stacked/folded design produces effective density gains but does not solve the full process, yield, power, thermal, and device-performance problems associated with true 1.4nm-class manufacturing" (TradingKey). SemiConAlpha: "Desperation, A Genuine Breakthrough Or Both?" Source: Bloomberg / Fortune / Tom's Hardware / CNBC / SemiWiki, 2026-05-25. *Thesis bearing: Challenges (long-duration, speculative) — this is the first credible, publicly articulated path for China to approach frontier node density without EUV; it warrants ongoing tracking as a structural competitive risk. However: (1) current gap is still ~5 years in process nodes; 3-year lead at 1.4nm is intact (TSMC 2028 vs. Huawei/SMIC 2031); (2) yield, reliability, and volume economics at scale remain entirely unproven — announced transistor density does not equal production-grade AI chip performance; (3) TSMC continues advancing to A16 and below, where ASML High-NA EUV widens the gap further; (4) TSMC's customer relationships (NVDA, Apple, AMD, Google) are undisrupted — no customer will risk AI GPU supply chains on an unproven architecture. Nearest-term practical impact: repricing of Chinese foundry equities (SMIC, Hua Hong), not TSMC revenue or earnings. Watch for Q3 2026 Kirin device benchmarks as first real-world validation of LogicFolding performance.*
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips
