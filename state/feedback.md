@@ -236,3 +236,22 @@ Session value was concentrated in a single gap closure: the Celestial AI $3.25B 
 
 ### Improvement Executed
 None — single-session find, not a 3-session pattern. Will monitor whether retroactive corporate action gaps appear in other entities (potential improvement: add "acquisitions since last entity update" to Phase 2 checklist).
+
+## Session 20 — 2026-05-25
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | Markets closed (Memorial Day). Prices confirmed at May 22 close. Key finds: Goldman Sachs $125 MRVL Neutral; DA Davidson $1,000 MU initiating; Samsung vote 74%+ Day 1 turnout; no new Taiwan escalation. |
+| 1b (podcasts) | Gated | 20 % 3 = 2 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 20 % 6 = 2 ≠ 0; correctly skipped |
+| 2 (deep session) | Partial | MRVL entity fully current — no new entity updates needed; light session appropriate given pre-earnings quiet period. Goldman $125 Neutral and DA Davidson $1,000 MU added to dashboard Analyst PTs table. |
+| 3 (DCF) | Skipped | MRVL earnings pending May 27; correct skip. |
+| 4 (dashboard) | Complete | For Arvs overwritten; Session 20 notes + history row appended; Session 18 missing history row retroactively added; header updated to Session #20. |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue tickers; all catalysts future-dated; concept pages current within 2 days; no broken cross-links identified in MRVL entity. |
+
+### Diagnosis
+Session constrained by pre-earnings quiet period: the MRVL entity has been pre-loaded across 7+ sessions and had zero new content today. This is structurally correct — nothing actionable until May 27 results. The one material find (Goldman Sachs $125 Neutral) provides concrete bear-case framing for the binary event.
+
+### Improvement Executed
+None — timing constraint, not a repeating pattern.

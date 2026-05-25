@@ -379,3 +379,14 @@ Concept pages updated: custom-silicon.md (Celestial AI optical thesis integratio
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: MRVL — event_queue pre-earnings final (Memorial Day; markets closed; last trading day May 22) | DCF: none (post-earnings queued) | Concepts: HBM.md | Watchlist: LRCX (new) | Podcast: none (Phase 1b gate open 18%3=0; no qualifying episode found in last 14 days)
 Notable: Samsung TSP packaging workers intentionally slowing operations despite formal strike avoidance — $400K vs $4K bonus disparity creating chronic HBM4 back-end risk; hyperscaler CapEx $725B +77% YoY confirmed (Amazon $200B, Google $175-185B, Microsoft $120B, Meta $115-135B); Iran war → Qatar helium supply disruption pressuring TSMC chemical costs; MRVL "Switzerland of interconnect" framing with 50+ design wins ahead of May 27 Q1 FY2027 earnings.
+
+## [2026-05-25 14:00 UTC] session-20
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue hold (earnings May 27 pending; markets closed Memorial Day)
+Notable: Goldman Sachs $125 Neutral on MRVL (sole non-bull among 33 analysts; bear case: AI spending slowdown or custom-compute market share loss) — the clearest articulation of the May 27 downside scenario; added to dashboard. DA Davidson initiated MU at $1,000 (attribution clarified for May 21 entity entry).
+No significant news: all 7 tickers confirmed at May 22 close; Samsung vote ongoing; no Taiwan escalation on May 25
+DCF run: none — MRVL earnings May 27 post-close not yet reported; post-earnings DCF queued for next session
+Concept pages updated: none (all updated within 2 days)
+Watchlist: none (Phase 1c gated; 20%6=2)
+Podcast: none (Phase 1b gated; 20%3=2)
