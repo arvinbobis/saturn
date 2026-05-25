@@ -227,12 +227,16 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 
 **ANET Arista Networks — >3% move today (+3.1%), flagging for event_queue:** Arista Networks rose +3.08% on May 22 to close at $148.59 (from prior close of ~$140.49). Catalyst: Arista named a Gartner Magic Quadrant Leader for Enterprise LAN, Q1 2026 earnings beat + full-year revenue outlook raised, new ruggedized switch products announced. Zacks downgraded to Hold on May 16 citing valuation, but market focused on the fundamental beat and Gartner recognition. NVDA's entry into Ethernet switching noted as a "real competitive overhang" but not yet impacting results. Source: TradingKey / Zacks, 2026-05-22. *Not an ALAB thesis bearing update — noted here for cross-portfolio awareness; ANET >3% move added to event_queue for next rotation.*
 
+### 2026-05-25
+
+**ESUN competitive risk (Oct 2025 retroactive context) — Arista entering scale-up switching in 2027:** Arista Networks unveiled the ESUN (Ethernet for Scale-Up Networks) initiative at the OCP Global Summit on October 13, 2025. ESUN is an open standard for GPU-to-GPU scale-up networking using Ethernet (vs. NVLink/InfiniBand). Founding members: AMD, Arista, ARM, Broadcom, Cisco, Marvell, Meta, Microsoft, Nvidia, OpenAI, Oracle — now grown to 175+ companies. Arista has stated it will enter scale-up switching with ESUN-compatible products beginning 2027, directly competing with ALAB's Scorpio X scale-up switches. ALAB fell ~15% to ~$168 on October 14, 2025 when Arista published its ESUN blog post; the stock has since tripled to $305+ as Amazon Trainium3 design wins for Scorpio X confirmed hyperscaler lock-in (12–18 month re-qualification cycle). Note: Marvell (ESUN founding member) has SerDes/DSP and optical IP embedded in the ESUN stack — MRVL benefits from the standard regardless of who wins the switch layer. Source: OCP / Arista blogs.arista.com / TipRanks / Seeking Alpha "Why ESUN Could Shake Its Growth", 2025-10–2026-05. *Thesis bearing: Challenges (partially discounted) — Arista's 2027 ESUN switch entry is the primary long-term structural risk to ALAB's Scorpio X total addressable market; the October 2025 stress test (−15%) and recovery to ATH suggests the market has partially discounted this risk on the basis of ALAB's confirmed Amazon design wins. Monitor Arista's FY2027 product roadmap announcements for ESUN switch specifics and timeline acceleration.*
+
 ---
 
 ## Cross-links
 
 - [[NVDA]] — primary indirect customer; Blackwell/Vera Rubin GPU clusters drive ALAB demand
-- [[MRVL]] — overlapping hyperscaler data center exposure; Marvell competes at the custom ASIC level, Astera at the connectivity level
-- [[ANET]] — complementary; Arista handles switching, Astera handles connectivity; both benefit from GPU cluster scale-out
+- [[MRVL]] — overlapping hyperscaler data center exposure; Marvell competes at the custom ASIC level, Astera at the connectivity level; MRVL is also an ESUN founding member
+- [[ANET]] — complementary today (Arista handles scale-out, ALAB handles scale-up connectivity); competitive from 2027 as ESUN scale-up switches enter market
 - [[TSM]] — manufactures Astera's chips on TSMC advanced nodes
 - [[custom-silicon]] — hyperscaler custom ASICs also require high-speed connectivity — both MRVL and ALAB benefit

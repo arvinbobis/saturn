@@ -10,6 +10,15 @@ Format:
 
 ---
 
+## [2026-05-25 10:00 UTC] session-19
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL (event_queue hold — earnings May 27 pending) + ASML/ALAB supplementary
+Notable: ALAB ESUN competitive risk captured retroactively — Arista enters scale-up switching in 2027 via ESUN initiative (175+ companies), caused ALAB −15% in Oct 2025, since recovered to $305+ on Amazon Trainium3 design wins; ASML–Tata Electronics India MoU (May 16) captured — India's first 300mm fab in Dholera, $11B investment, DUV initially.
+No significant news: TSM ($405), MU ($746), NVDA ($215), MRVL ($196), ANET ($154) — markets closed (Memorial Day)
+DCF run: none — MRVL post-earnings DCF queued for Session 20 (after May 27 close)
+Concept pages updated: none (all updated within 2 days)
+
 ## [2026-05-24 23:59 UTC] session-16
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

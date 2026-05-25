@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-25 | Session #18
+Last updated: 2026-05-25 | Session #19
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-25 | Session #18
 
 ### Action Items
 
-1. **MRVL earnings May 27 post-close — most critical event this week.** Markets reopen Tuesday May 26; earnings post-close Tuesday. Watch: (a) Q1 revenue vs. $2.40B consensus — Stifel expects a beat; (b) FY2027 full-year guide vs. $11.12B — must raise to sustain ATH at $196; (c) Google TPU/MPU volume timeline confirmation; (d) optical interconnect first combined Celestial AI + Polariton revenue commentary. Run DCF in session 19 immediately after — current IV $119.91 is stale.
-2. **Samsung vote result also May 27 (10am KST) — but TSP packaging slowdown is the NEW risk.** Even if the deal is ratified, non-memory workers in Samsung's TSP (test & package) division are intentionally slowing HBM4 back-end processing due to a $400K vs. $4K bonus disparity. Formal vote passing does NOT eliminate HBM4 delivery risk. Watch: any Tom's Hardware / SemiWiki follow-up on TSP production normalcy after May 27 vote.
-3. **TSM: HOLD at current levels; entry range $360–370 on pullback.** Iran-war helium supply disruption is a new headwind — TSMC flagged rising chemical/gas costs for H2 2026. Not thesis-changing, but worth noting in the May monthly revenue (~June 8–10) commentary.
-4. **New watchlist scout: LRCX (Lam Research).** Dominant TSV etch supplier for HBM stacking — gets paid every time Samsung, SK Hynix, or Micron scales HBM4 production, regardless of which GPU architecture wins. Passes all 3 chokepoint filters. Watching — not adding to satellite portfolio yet.
-5. **All tickers still SELL/AVOID except TSM (HOLD) — no new trades.** Session 19 will re-run MRVL DCF post-earnings and potentially begin ALAB and ANET entity updates (both stale since Session 16–17). Widest gaps: MU -64% ($268 vs. $746), ALAB -63% ($112 vs. $305).
+1. **MRVL earnings May 27 post-close — most critical event of the week.** Watch: (a) Q1 revenue vs. $2.40B consensus; (b) FY2027 full-year guide vs. $11.12B — must raise to justify ATH at $196; (c) Google TPU/MPU co-design volume and production timeline; (d) first Celestial AI Photonic Fabric + Polariton combined revenue commentary; (e) any fourth hyperscaler (Meta MTIA) confirmation. Options pricing ~14.9% move. Run DCF in Session 20 immediately after — current IV $119.91 is stale.
+2. **Samsung vote closes May 27 KST morning — result expected with Seoul market open.** Approval expected (82.86% of 57,290 eligible voters have already cast ballots; quorum met). Even after ratification: TSP packaging workers' bonus dispute ($400K vs. $4K gap) is a separate chronic risk the vote doesn't resolve. Watch Tom's Hardware for post-vote TSP production normalization.
+3. **ALAB: Monitor ESUN/Arista competitive risk timeline.** Arista enters scale-up switching in 2027 with ESUN products, directly competing with Scorpio X. ALAB's Amazon Trainium3 lock-in (12–18 month re-qualification) provides protection through 2027; not a sell trigger now but watch for Arista product specifics that could accelerate the competitive timeline.
+4. **TSM: HOLD at current levels ($405); entry target $360–370 on any pullback.** May monthly revenue (~June 8–10) is the next hard data point; April NT$410.73B was the second-highest ever. Iran-war helium headwind ongoing but not thesis-changing.
+5. **ASML: New India market confirmed — Tata Electronics MoU (May 16).** DUV equipment initially for Dholera 300mm fab ($11B investment). Long-term relationship; no near-term EUV revenue impact. HOLD view unchanged. Next catalyst: TSMC May revenue and ASML Q2 results (July).
 
 ### Key Snippets
 
-- **Hyperscaler CapEx confirmed at $725B in 2026 (+77% YoY)** — Amazon $200B, Google $175–185B, Microsoft $120B+, Meta $115–135B. This is the single largest AI infrastructure spending year in history and the demand backstop that underlies every Saturn thesis.
-- **Samsung's TSP packaging workers are intentionally slowing operations despite strike avoidance** — $400,000 bonus for memory workers vs. $4,000 for packaging workers; internal resentment is creating a "work vacuum" in the HBM4 back-end division. This is a new, under-covered risk that the vote result alone won't fix.
-- **MRVL is now described by analysts as the "Switzerland of interconnect" with 50+ custom AI processor design wins** — multi-hyperscaler, multi-architecture neutrality means Marvell benefits whether NVDA, AMD, or custom ASICs win the training/inference layer. Heading into May 27 earnings with 32 Buy ratings, avg street target $205+.
-- **Iran war → helium supply disruption is a slow-burning semiconductor cost headwind.** Qatar, which supplies 30%+ of global helium, has been impacted by Iranian strikes. TSMC, Foxconn, and Infineon have flagged chemical/gas cost pressures. Not an acute supply crisis but a sustained margin headwind for chipmakers through H2 2026.
-- **No podcast intelligence this session** — Phase 1b gate was open (18%3=0) but no target show (Acquired, Invest Like the Best, Eye on AI, Odd Lots, Dwarkesh) published a semiconductor-relevant episode in the last 14 days. Most recent qualifying episode: Odd Lots "Ray Wang on DRAM Prices" from February 16, 2026 (outside window).
+- **MRVL enters May 27 earnings with 32 analyst Buy ratings, avg street target $205+, and options pricing a 14.9% move** — the "Switzerland of interconnect" framing (50+ design wins, multi-hyperscaler) is the bull thesis heading into the binary event.
+- **Arista's ESUN caused ALAB to fall 15% to $168 in October 2025; ALAB has since tripled to $305** — Amazon Trainium3 design wins confirm hyperscaler switching cost lock-in; ESUN is the 2027 competitive watch risk, not an immediate threat.
+- **Taiwan Strait elevated: 202 PLA aircraft and 190 naval vessels detected in April, including a carrier transit April 20** — above prior monthly averages (~169/month); US approved $6.58B Taiwan arms sales; no new escalation on May 25 specifically.
+- **ASML signed its first India partnership (Tata Electronics, Dholera, $11B investment) on May 16** — politically backed by PM Modi and Dutch PM Jetten; marks ASML's entry into India's emerging sovereign semiconductor ecosystem.
+- **TrendForce confirms Q2 DRAM +63% QoQ with AI inference offloads broadening demand to server DRAM across all capacities** — the memory supercycle is widening from HBM to standard RDIMM, reinforcing the MU thesis despite the SELL/AVOID DCF signal.
 
 ---
 
@@ -55,9 +55,9 @@ Last updated: 2026-05-25 | Session #18
 
 | Ticker | Coatue Entry | Atreides Entry | Current | vs. Coatue | vs. Atreides |
 |--------|-------------|----------------|---------|------------|--------------|
-| ASML   | $1,321      | —              | $1,592  | +20.5%     | —            |
-| MU     | $338        | $337           | $771    | +128.1%    | +128.8%      |
-| ALAB   | —           | ~$110          | $310    | —          | +181.8%      |
+| ASML   | $1,321      | —              | $1,633  | +23.6%     | —            |
+| MU     | $338        | $337           | $746    | +120.7%    | +121.4%      |
+| ALAB   | —           | ~$110          | $305    | —          | +177.3%      |
 | TSM    | (added Q1 2026) | —          | $407    | —          | —            |
 
 ---
@@ -114,6 +114,10 @@ Last updated: 2026-05-25 | Session #18
 ---
 
 ## Session Notes
+
+### Session 19 (2026-05-25) — Deep: MRVL (event_queue hold, earnings May 27 pending) + ASML/ALAB supplementary
+
+US markets closed (Memorial Day); second session of May 25. MRVL entity current through Session 18 — no new material pre-earnings developments found since this morning. Key Phase 1 finds: (1) ASML–Tata Electronics India MoU (May 16, retroactive capture) added to entity — India's first 300mm fab in Dholera, $11B Tata investment, DUV equipment initially, signed at PM Modi–Dutch PM Jetten diplomatic ceremony; (2) ALAB ESUN competitive risk (Oct 2025, retroactive capture) added to entity — Arista enters scale-up switching in 2027, caused ALAB −15% at announcement, recovered to $305+ on Amazon Trainium3 design wins; cross-link between ANET and ALAB updated to reflect competitive relationship from 2027; (3) Taiwan Strait elevated in April (202 aircraft, 190 naval vessels, carrier transit April 20) — above recent norms; (4) TrendForce Q2 DRAM +63% QoQ confirmed, AI inference broadening to server DRAM. Samsung vote closes May 27 KST; MRVL earnings May 27 post-close. Phase 1b/1c both gated (19%3=1, 19%6=1). No DCF run — Session 20 is post-earnings MRVL DCF.
 
 ### Session 18 (2026-05-25) — Deep: MRVL (pre-earnings final, event_queue)
 
@@ -251,4 +255,5 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 15 | 2026-05-24 | MRVL | event_queue (pre-earnings hold; no new news since Session 14) | TSM entity: TSMC projects $1.5T semi market by 2030; prices updated TSM $405 (-0.6%), MU $746 (-2.7%); ANET Evercore $200 PT added |
 | 16 | 2026-05-24 | ANET | Rotation (MRVL deferred to post-May 27 earnings) | Evercore $200 PT confirmed; AMD $10B Taiwan (Venice on TSMC 2nm, H2 2026); Samsung vote 82.86% cast, result May 27; mobile DRAM +93–98% QoQ (TrendForce) |
 | 17 | 2026-05-24 | MRVL | event_queue (pre-earnings, May 27 in 3 days) | Gap filled: Celestial AI $3.25B acquisition (Feb 2, 2026, Photonic Fabric™); Microsoft Maia confirmed co-design; Wolfe $210 PT, 32 analyst Buys; optical stack now 3-layer (SerDes/DSP + Photonic Fabric + plasmonics) |
+| 19 | 2026-05-25 | MRVL/ASML/ALAB | event_queue hold (MRVL earnings May 27 pending); Phase 1 finds: ASML India MoU, ALAB ESUN risk | ASML Tata India MoU captured; ALAB ESUN competitive context added (Oct 2025, Arista 2027 threat); no DCF |
 | 18 | 2026-05-25 | MRVL | event_queue (pre-earnings final; markets closed Memorial Day) | "Switzerland of interconnect" + 50+ design wins; Samsung TSP packaging slowdown (new HBM risk); LRCX scouted as watchlist; CapEx $725B confirmed; no DCF |

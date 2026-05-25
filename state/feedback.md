@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 19 — 2026-05-25
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | Markets closed (Memorial Day); prices unchanged from May 22 close. Key finds: ASML–Tata India MoU (May 16, retroactive), ALAB ESUN risk (Oct 2025, retroactive), Taiwan Strait elevated in April (202 aircraft, carrier transit), TrendForce Q2 DRAM +63% confirmed |
+| 1b (podcasts) | Gated | 19 % 3 = 1 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 19 % 6 = 1 ≠ 0; correctly skipped |
+| 2 (deep session) | Partial | MRVL event_queue: entity current, no new developments since Session 18 this morning. Supplementary: ASML entity updated (Tata India MoU); ALAB entity updated (ESUN competitive context + ANET cross-link updated to reflect 2027 competitive shift) |
+| 3 (DCF) | Skipped | Correct skip — MRVL earnings May 27 not yet reported; all other DCFs <30 days |
+| 4 (dashboard) | Complete | Header updated (Session #19); For Arvs overwritten; vs. Institutional table corrected (MU $771→$746, ASML $1,592→$1,633, ALAB $310→$305); Session 19 notes + history row appended |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; all concept pages updated within 2 days; MRVL/Samsung catalysts both still future (May 27); no broken cross-links — ANET/ALAB cross-link updated to reflect competitive shift |
+
+### Diagnosis
+Session 19 was the second same-day session (Session 18 also ran May 25), a timing artifact of the 4-hour cycle on a market holiday. MRVL entity was already fully current, making the event_queue deep session a no-op. The session found value by doing retroactive capture on two gap items surfaced in Phase 1a (ASML–Tata India MoU from May 16; ALAB–ESUN risk from Oct 2025) — both were material developments not previously captured. This validates the Phase 1a news sweep even on market-closed days.
+
+### Improvement Executed
+None — no 3-session pattern identified this session. The same-day double-session pattern (Sessions 18+19 on May 25) is a timing coincidence driven by the Memorial Day market closure compressing two 4-hour cycles into non-trading hours; not a structural issue requiring CLAUDE.md changes.
+
+---
+
 ## Session 18 — 2026-05-25
 
 ### Phase Scores

@@ -179,6 +179,10 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 **Completed 9.5% two-day surge (May 20-21) — now at $1,592:** ASML's stock closed at $1,592.00 on May 21 (+3.04% on May 21, +6.19% on May 20), completing a 9.5% two-day gain driven by the NVDA Q1 FY2027 earnings read-through and UBS reinstatement at €1,900 price target (Europe's top semiconductor pick). The two-day move was the largest since the Q1 2026 earnings release. Current price $1,592 is near the 52-week high of $1,603.49. Source: TradingKey, 2026-05-20/21. *Thesis bearing: Confirms — the market is pricing ASML as the primary AI infrastructure equipment beneficiary in Europe; UBS €1,900 target implies ~25% additional upside from current levels at EUR/USD 1.163.*
 
+### 2026-05-25
+
+**ASML–Tata Electronics India MoU (May 16, retroactive capture):** ASML signed a strategic MoU with Tata Electronics on May 16, 2026 to supply lithography systems for India's first commercial 300mm semiconductor fab in Dholera, Gujarat. Tata Electronics plans to invest $11B in the facility. The agreement covers equipment supply, workforce training, local supply chain development, and long-term R&D collaboration; target applications include automotive, mobile devices, and AI chips. The signing was attended by Indian PM Narendra Modi and Dutch PM Rob Jetten — high bilateral political backing. Source: DigiTimes / EE Times / Al Jazeera / EENEWS Europe, 2026-05-16–18. *Thesis bearing: Confirms — ASML is expanding its geographic customer base into India's emerging semiconductor ecosystem; Tata will start at mature nodes (DUV equipment initially), positioning ASML for eventual process-node migration and High-NA discussions over the 5–10 year horizon. Reduces TSMC revenue concentration (~50%+ of EUV) and validates ASML's role as infrastructure for global sovereign semiconductor ambitions.*
+
 ---
 
 ## Cross-links
