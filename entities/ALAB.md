@@ -161,6 +161,10 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 | XPO MSA optical standard adoption | 2026 | Hyperscalers commit to XPO MSA interconnects | Competing standard wins |
 | Revenue growth sustaining >100% YoY | Quarterly | Growth maintained above consensus | Growth decelerates sharply |
 
+| Scorpio X 320 Lane shipping — hyperscaler ramp | 2026 H2 | ALAB confirms ramp to becoming largest product line | Q3 underdelivery vs. consensus |
+| Computex 2026 showcase | 2026-06-02 | First in-person demo of PCIe 6 scale-up optics draws hyperscaler attention | No-show or negative commentary |
+| Q2 2026 earnings | ~Aug 2026 | Revenue >$365M confirms Scorpio X ramp on track | Miss or guide-down |
+
 ### Archived Catalysts
 *(Move here once played out)*
 
@@ -230,6 +234,10 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 ### 2026-05-25
 
 **ESUN competitive risk (Oct 2025 retroactive context) — Arista entering scale-up switching in 2027:** Arista Networks unveiled the ESUN (Ethernet for Scale-Up Networks) initiative at the OCP Global Summit on October 13, 2025. ESUN is an open standard for GPU-to-GPU scale-up networking using Ethernet (vs. NVLink/InfiniBand). Founding members: AMD, Arista, ARM, Broadcom, Cisco, Marvell, Meta, Microsoft, Nvidia, OpenAI, Oracle — now grown to 175+ companies. Arista has stated it will enter scale-up switching with ESUN-compatible products beginning 2027, directly competing with ALAB's Scorpio X scale-up switches. ALAB fell ~15% to ~$168 on October 14, 2025 when Arista published its ESUN blog post; the stock has since tripled to $305+ as Amazon Trainium3 design wins for Scorpio X confirmed hyperscaler lock-in (12–18 month re-qualification cycle). Note: Marvell (ESUN founding member) has SerDes/DSP and optical IP embedded in the ESUN stack — MRVL benefits from the standard regardless of who wins the switch layer. Source: OCP / Arista blogs.arista.com / TipRanks / Seeking Alpha "Why ESUN Could Shake Its Growth", 2025-10–2026-05. *Thesis bearing: Challenges (partially discounted) — Arista's 2027 ESUN switch entry is the primary long-term structural risk to ALAB's Scorpio X total addressable market; the October 2025 stress test (−15%) and recovery to ATH suggests the market has partially discounted this risk on the basis of ALAB's confirmed Amazon design wins. Monitor Arista's FY2027 product roadmap announcements for ESUN switch specifics and timeline acceleration.*
+
+### 2026-05-26
+
+**Scorpio X 320 Lane formally confirmed shipping to hyperscalers; Computex 2026 (June 2-5) upcoming showcase:** Astera Labs issued the official press release (GlobeNewswire, May 5, 2026) confirming the 320 Lane Scorpio X-Series Smart Fabric Switch is now shipping to leading hyperscalers, with production ramp in 2H 2026. Key specs: industry's largest open, memory-semantic fabric switch; hardware-accelerated Hypercast and In-Network Compute engines boosting collective operations by up to 2×; engineered to improve token economics for large-scale AI clusters. The target market: merchant scale-up switch silicon projected to reach $20B by 2030. Astera will showcase the 320 Lane at Computex 2026 (Taipei, June 2-5), alongside first industry demos of PCIe 6 scale-up optics — the first major in-person hyperscaler-facing visibility event for the Scorpio X at full ramp. Source: GlobeNewswire / Investing.com / ServeTheHome, 2026-05-05. *Thesis bearing: Confirms — the formal shipping confirmation and $20B TAM quantification anchor Scorpio X as the company's primary revenue driver through 2030; Computex 2026 will be the first institutional-visibility event for the 320 Lane at production scale, and hyperscaler commentary there will be a leading indicator for Q3 2026 design win momentum.*
 
 ---
 

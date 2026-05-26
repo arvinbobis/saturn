@@ -1,15 +1,15 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-26T14:00:00Z",
-  "session_count": 22,
+  "last_run_utc": "2026-05-26T18:00:00Z",
+  "session_count": 23,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "MRVL",
-  "next_deep_session": "ANET",
-  "_session_22_note": "Session 22 (2026-05-26): First trading day after Memorial Day. MRVL held in event_queue (earnings tonight May 27 post-close). NVDA supplementary update: Jensen Huang China concession + Huawei LogicFolding context. MRVL: Amazon $225B Trainium backlog added. No DCF. Next session (23): post-earnings MRVL DCF is the priority — take MRVL from event_queue, re-run DCF, update story_narrative.",
+  "last_deep_session": "ANET",
+  "next_deep_session": "ALAB",
+  "_session_23_note": "Session 23 (2026-05-26): MRVL held in event_queue (earnings tonight May 27 post-close — cannot run DCF). Fell back to rotation: ANET deep session. Key new data: Q1 10-Q $8.9B non-cancellable purchase commitments (+31% from Q4); 52-week lead times confirmed; 1-2 year supply constraint duration. Anthropic $200B Google Cloud commitment (5yr/5GW) captured. ALAB Computex 2026 (June 2-5) added as upcoming catalyst. Phase 1b gated (23%3=2); Phase 1c gated (23%6=5). No DCF. Next session (24): MRVL post-earnings DCF is the absolute priority — take MRVL from event_queue, search Q1 FY2027 results, update story_narrative, run python3 valuation/dcf_model.py MRVL. Also: Phase 1b gate open (24%3=0) — podcast search required. Phase 1c gated (24%6=0 → open!). Samsung vote result likely announced by next session.",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.41B revenue / $0.80 EPS; options pricing ~13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210, Wolfe $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Celestial AI $3.25B acquisition (Feb 2, Photonic Fabric) captured Session 17. Session 18 pre-earnings final: 50+ design wins, 'Switzerland of interconnect' framing confirmed. Session 20: Goldman Sachs $125 Neutral (sole non-bull); DA Davidson MU $1,000 attribution noted. Post-earnings priority: re-run DCF and revise story_narrative — current IV $119.91 is pre-guide stale.", "detected": "2026-05-22"}
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.41B revenue / $0.80 EPS; options pricing ~13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210, Wolfe $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Session 23: still pending (earnings tonight). Post-earnings priority: search results, update story_narrative, run DCF. Current IV $119.91 is pre-guide stale — expect significant model revision.", "detected": "2026-05-22"}
   ],
-  "_event_queue_note": "Session 20 (2026-05-25, Memorial Day third session): MRVL entity fully current — no new material pre-earnings developments. New analyst PTs added: Goldman Sachs $125 Neutral (sole holdout among 33 analysts; bear case: AI spend slowdown or custom-compute share loss) and DA Davidson MU $1,000 initiating (attribution for May 21 entity entry). Samsung vote result May 27 KST morning; MRVL earnings May 27 post-close. Session 21 = post-earnings MRVL DCF (after results). Markets reopen May 26. Next session: take MRVL from event_queue post-earnings, run DCF, update story_narrative.",
+  "_event_queue_note": "Session 23 (2026-05-26 ~18:00 UTC): MRVL earnings tonight May 27 post-close — cannot process yet. Session 24 must: (1) search MRVL Q1 FY2027 results; (2) update story_narrative in valuation/inputs/MRVL.json; (3) run python3 valuation/dcf_model.py MRVL; (4) update dashboard IV/MoS/Rec; (5) remove MRVL from event_queue. Phase 1b gate OPEN next session (24%3=0). Phase 1c gate OPEN next session (24%6=0).",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-21",

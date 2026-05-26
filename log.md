@@ -408,3 +408,10 @@ Notable: Jensen Huang explicitly confirmed NVIDIA "largely conceded" China AI ch
 No significant news: TSM, ASML, ANET, ALAB (prices carried at May 22 close; first trading day; live data not indexed); Samsung DX injunction filed May 26 to halt wage vote (result pending May 27 KST)
 DCF run: none — MRVL earnings tonight; NVDA within 30 days
 Concept pages updated: custom-silicon (Amazon $225B Trainium backlog)
+
+## [2026-05-26 18:00 UTC] session-23
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: ANET — rotation (MRVL blocked; Q1 FY2027 earnings tonight May 27 post-close) | DCF: none (ANET within 30 days; no new earnings) | Concepts: none (all current) | Watchlist: none (Phase 1c gated; 23%6=5) | Podcast: none (Phase 1b gated; 23%3=2)
+Notable: ANET Q1 10-Q reveals $8.9B non-cancellable purchase commitments (+31% from $6.8B at Q4), 52-week chip lead times confirmed (Co-President Duda), 1-2 year supply constraint duration — commitment scale signals management demand confidence for 2027+, not weakness. Anthropic $200B Google Cloud (5yr/5GW) is largest cloud commitment quantified, adding structural demand context for custom silicon. ALAB Scorpio X 320 Lane shipping; Computex June 2-5 showcase added as catalyst.
+No significant news: TSM (~$403 intraday; absorbed Huawei LogicFolding without selloff), MU ($751 carry), ASML (carry), NVDA (~$217 intraday), MRVL (~$196 pre-earnings), ALAB ($305 from ATH drift)

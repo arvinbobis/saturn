@@ -164,6 +164,12 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-26
+
+**Supply chain commitment escalation — $8.9B non-cancellable purchase commitments, 52-week lead times confirmed:** Q1 2026 10-Q (SEC, March 31, 2026) discloses Arista's non-cancellable purchase commitments jumped from $6.8B at Q4-end to $8.9B (+31% QoQ) — of which $7.6B are due within 12 months and $1.3B extend beyond one year. Co-President Kenneth Duda confirmed in the May 5 earnings call that 52-week chip lead times are now the standard, with reservation requirements extending beyond one year. Management characterizes supply constraints as a "one- to two-year phenomenon," and Arista is absorbing higher procurement costs rather than fully passing them through ("eating a lot of the costs and giving our customers the benefit"). The commitment jump reflects deliberate management decision to lock in supply despite elevated cost, not financial distress. Source: SEC 10-Q (ANET-20260331) / Q1 2026 earnings transcript (Motley Fool / NetworkWorld), 2026-05-05. *Thesis bearing: Neutral — the $8.9B commitment escalation signals management's conviction that demand will persist through 2027–2028, making the multi-year lock-in economically rational; the margin headwind (Citi flagged in May 20 entry) is real but time-bounded, and the commitment itself is a forward demand signal, not weakness.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing

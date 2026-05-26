@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-26 | Session #22
+Last updated: 2026-05-26 | Session #23
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-26 | Session #22
 
 ### Action Items
 
-1. **MRVL earnings tonight (May 27 post-close) — binary event; run DCF immediately after results.** Consensus $2.40B revenue / $0.80 EPS. Watch: (a) revenue vs. $2.40B; (b) FY2027 full-year guide vs. $11.12B — must raise; (c) Amazon Trainium revenue confirmation vs. $225B committed backlog; (d) Google TPU/MPU volume + Celestial AI + Polariton optical combined revenue. Goldman Sachs $125 Neutral is the bear thesis to test; options pricing ~13% move.
-2. **Samsung vote result due May 27 KST morning — DX injunction outcome unknown.** Donghaeng Union filed court injunction May 26 at Suwon District Court to halt wage deal vote; 87.4% of eligible voters already cast ballots; Labor Ministry backs DS (semiconductor) union. If vote ratified: HBM4 production stable (but TSP packaging slowdowns persist per Session 18 — structural bonus disparity remains). If injunction succeeds: procedural restart, 18-day strike risk returns.
-3. **TSM: HOLD at ~$405; watch May 26 session close vs. Huawei LogicFolding reaction.** Huawei's 1.4nm-by-2031 claim (no EUV) caused SMIC +18%, Hua Hong +20% on May 25. Any TSM dip to $370 on sentiment overshoot is a potential entry window — TSMC's 3-year lead and yield/reliability advantage vs. Huawei is structural. May monthly revenue due ~June 8–10.
-4. **NVDA — HOLD current position; China market formally conceded per Jensen Huang.** Post-earnings (May 21 CNBC), Huang said NVIDIA has "largely conceded" China AI chip market to Huawei. DCF already assumed zero China revenue; no model revision needed. Watch: Huawei's domestic AI buildout is now entirely outside NVDA's addressable market; the $91B Q2 guide is ex-China and intact.
-5. **All 6 ex-TSM positions remain SELL/AVOID per DCF; MRVL re-rates post-May 27 earnings.** Re-entry level for ANET: ~$120–125. MRVL DCF ($119.91 IV) is stale and will be re-run next session. If MRVL guides FY2027 >$12B, the re-rated IV may close the gap to current price; the post-earnings DCF is the most important quantitative output in the portfolio right now.
+1. **MRVL earnings TONIGHT (May 27 post-close) — run DCF immediately after results.** Consensus $2.41B revenue / $0.80 EPS. Watch: (a) revenue vs. $2.41B consensus; (b) FY2027 full-year guide vs. $11.12B — must raise to hold ATH; (c) Amazon Trainium confirmation vs. $225B backlog (Wells Fargo forecasts $6B MRVL Trainium revenue in FY2027–28 if confirmed); (d) optical revenue from Celestial AI + Polariton combined; (e) Goldman Sachs $125 bear case (only non-bull among 33 analysts) — if guide disappoints, GS thesis is validated and DCF re-rate is negative. Options pricing ~13% move.
+2. **Samsung union vote result due tomorrow morning (May 27, 10am KST) — watch for HBM4 supply read.** As of May 26, 87.4% of eligible voters have cast ballots; Labor Ministry backs DS semiconductor union; DX division filed injunction May 26 to halt vote. If ratified: formal labor stability for HBM4 production, but TSP packaging slowdowns (bonus disparity $400K vs. $4K) persist independently. If halted by injunction: 18-day strike risk returns for Micron/SK Hynix supply benefit.
+3. **TSM: HOLD at ~$403; May 26 first trading day showed no significant Huawei-driven selloff.** Intraday range $402.86–$410.67 — market absorbed Huawei LogicFolding (SMIC/Hua Hong surged May 25) without a TSM dip. Structural lead intact. TSMC May monthly revenue due ~June 8–10; DCF last run May 23 (IV $384.28, MoS -5.1%).
+4. **ANET: SELL/AVOID per DCF ($126.94 IV); supply chain commitment signals demand durability.** ANET committed $8.9B in non-cancellable supply purchases (up 31% from Q4) with 52-week lead times — management is locking in supply for 1–2 years, which reflects demand confidence not weakness. Re-entry target: ~$120–125. No new catalyst until Q2 earnings (~August 2026).
+5. **ALAB: SELL/AVOID per DCF ($111.84 IV); Computex 2026 (June 2-5) is next catalyst.** Scorpio X 320 Lane now shipping to hyperscalers; $20B merchant switch silicon TAM by 2030. Computex showcase (June 2–5, Taipei) is the first in-person institutional visibility event for the ramp — watch for hyperscaler commentary. Current price ~$305 vs. ATH $315.81 on May 22.
 
 ### Key Snippets
 
-- **Jensen Huang explicitly confirmed NVIDIA has "largely conceded" China AI chip market to Huawei (May 21 CNBC)** — China was once 20% of NVIDIA data center revenue, now essentially zero; Huang told investors to "expect nothing" on China approvals; the DCF already assumed zero China revenue so no model change, but the optionality is gone.
-- **Amazon exited Q1 2026 with $225B in Trainium committed deployments — the largest single backlog quantification for custom silicon in the portfolio** — Wells Fargo forecasts $6B in Marvell Trainium-related revenue per year in FY2027–28; this is committed infrastructure, not guidance, which reframes the MRVL custom silicon thesis from "emerging" to "contracted at scale."
-- **MRVL enters tonight's earnings ($196 ATH close) with 33 analysts bullish vs. Goldman Sachs $125 sole Neutral** — the $11.12B FY2027 consensus and $225B Amazon backlog set an exceptionally high bar; post-earnings DCF re-run will determine if the IV gap closes enough to change the SELL/AVOID recommendation.
-- **Huawei LogicFolding (May 25) was a China semiconductor equity event, not a TSMC threat** — SMIC +18%, Hua Hong +20%; TSMC and ASML reaction on May 26 first trading day unknown at session close; expert consensus: Huawei's 1.4nm claim is 5 years behind TSMC's 2028 target and faces unresolved yield, thermal, and power challenges at scale.
-- **Samsung DX union court injunction (May 26) adds procedural uncertainty to wage deal ratification** — vote closes May 27 10am KST; if vote stands, HBM4 production is formally stabilized; if halted, the 18-day strike risk and TSP packaging slowdowns (captured Session 18) extend indefinitely; result is this session's single biggest pending binary for the MU/TSM supply chain.
+- **MRVL enters tonight's earnings at ~$196 (ATH close) with $225B Amazon Trainium backlog as the most important forward revenue anchor in the portfolio** — Wells Fargo's $6B annual MRVL Trainium-revenue forecast for FY2027–28 would justify a post-earnings re-rating if management confirms the pipeline on tonight's call; the current IV of $119.91 is 8 sessions stale.
+- **ANET committed $8.9B in non-cancellable chip supply purchases (Q1 10-Q, up 31% from $6.8B at Q4)** — co-President Kenneth Duda confirmed 52-week lead times and 1-to-2-year constraint duration; absorbing costs to keep customers is a near-term margin drag, but the commitment scale implies management sees $11.5B+ FY2026 demand as contracted, not speculative.
+- **Anthropic committed $200B to Google Cloud over 5 years for 5 gigawatts of capacity (The Information, May 5)** — largest single cloud infrastructure commitment quantified to date; implies sustained compute demand that flows through TSMC (custom silicon), Marvell (ASIC co-design), and Arista (networking fabric) simultaneously.
+- **ALAB Scorpio X 320 Lane formally shipping to hyperscalers; $20B merchant switch silicon TAM by 2030** — Computex 2026 (June 2–5 Taipei) is the first major in-person showcase; hyperscaler commentary from the event will be an early read on Q3 2026 design-win momentum ahead of August earnings.
+- **TSM absorbed Huawei LogicFolding without meaningful May 26 selloff** — intraday range $402.86–$410.67; TSMC's 3-year lead on 2nm production (vs. Huawei's 1.4nm target by 2031 via SMIC without EUV) remains structurally intact; no thesis revision needed.
 
 ---
 
@@ -32,15 +32,15 @@ Last updated: 2026-05-26 | Session #22
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $405 | N/A* | $384.28 | -5.1% | **HOLD** | Sole leading-edge foundry; 50.8% FY25 op margin (model: 42%); Q1 2026 gross margin 66.2% record; AZ fab $514M yr-1 profit | 2026-05-23 |
-| MU     | $751 | N/A* | $268.33 | -64.0% | SELL/AVOID | HBM supercycle: sold out into 2027 w/ LTAs; Vera Rubin HBM4 shipping; 1α DRAM in Virginia; $100B HBM TAM by 2028 | 2026-05-21 |
-| ASML   | $1,633 | N/A* | $1,122.64 | -31.2% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; CEO says first High-NA chips "within months" (Intel/SK hynix) | 2026-05-22 |
-| NVDA   | $215 | N/A* | $156.27 | -27.3% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Rubin 25% cut (HBM4 shortage); Huang concedes China to Huawei | 2026-05-21 |
-| MRVL   | $196 | N/A* | $119.91 | -38.8% | SELL/AVOID | Custom ASIC co-design; earnings TONIGHT May 27; $225B AWS Trainium backlog; NVIDIA $2B NVLink Fusion partner | 2026-05-22 |
-| ANET   | $154 | N/A* | $126.94 | -17.6% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; Gartner MQ Leader 2026 | 2026-05-22 |
-| ALAB   | $305 | N/A* | $111.84 | -63.3% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; ATH $315.81 intraday May 22 | 2026-05-22 |
+| TSM    | $403† | ~-0.4% | $384.28 | -4.7% | **HOLD** | Sole leading-edge foundry; 50.8% FY25 op margin (model: 42%); Q1 2026 gross margin 66.2% record; AZ fab $514M yr-1 profit | 2026-05-23 |
+| MU     | $751 | — | $268.33 | -64.0% | SELL/AVOID | HBM supercycle: sold out into 2027 w/ LTAs; Vera Rubin HBM4 shipping; 1α DRAM in Virginia; $100B HBM TAM by 2028 | 2026-05-21 |
+| ASML   | $1,633 | — | $1,122.64 | -31.2% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; CEO says first High-NA chips "within months" (Intel/SK hynix) | 2026-05-22 |
+| NVDA   | $217† | ~+0.9% | $156.27 | -27.9% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Rubin 25% cut (HBM4 shortage); Huang concedes China to Huawei | 2026-05-21 |
+| MRVL   | $196 | ~flat | $119.91 | -38.8% | SELL/AVOID | Custom ASIC co-design; earnings TONIGHT May 27; $225B AWS Trainium backlog; NVIDIA $2B NVLink Fusion partner | 2026-05-22 |
+| ANET   | $154 | ~flat | $126.94 | -17.6% | SELL/AVOID | AI networking backbone; Q1 42.7% GAAP op margin; AI fabric $3.5B FY2026; $8.9B supply commitments signal demand confidence | 2026-05-22 |
+| ALAB   | $305 | ~-3.4%‡ | $111.84 | -63.3% | SELL/AVOID | PCIe/CXL AI connectivity; Amazon Trainium3 Scorpio X ramp; Q1 $308M +93% YoY; 320 Lane now shipping; Computex Jun 2-5 | 2026-05-22 |
 
-*\*N/A = first trading day since Memorial Day (May 26); May 26 closing prices not yet indexed at session time. All prices are May 22 close carried forward.*
+*†Intraday estimate May 26 — not confirmed close. MU, ASML carried at May 22 close (—). ‡ALAB May 25 close vs. May 22 ATH (3-day drift; no single-day event).*
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -68,8 +68,9 @@ Last updated: 2026-05-26 | Session #22
 
 | Ticker | Event | Date | Notes |
 |--------|-------|------|-------|
-| MU | Samsung Union Vote Result | 2026-05-27 | 87.4% turnout as of May 25; DX union filed injunction May 26 to halt vote; result announced May 27 10am KST; approval likely but injunction outcome unknown |
-| MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.40B / $0.80 EPS; $225B AWS Trainium backlog; options pricing 13% move; in event_queue; DCF re-run queued post-earnings |
+| MU | Samsung Union Vote Result | 2026-05-27 | 87.4% turnout as of May 26; DX union injunction filed (Suwon District Court); result announced May 27 10am KST; TSP packaging slowdown persists regardless of vote outcome |
+| MRVL | Q1 FY2027 Earnings | 2026-05-27 | Consensus $2.41B / $0.80 EPS; $225B AWS Trainium backlog; options pricing 13% move; in event_queue; DCF re-run queued post-earnings |
+| ALAB | Computex 2026 Showcase | 2026-06-02 | First in-person demo of 320 Lane Scorpio X + PCIe 6 optics; leading hyperscaler visibility event; early read on Q3 design-win pipeline |
 | TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; DCF completed Session 10 (IV $384.28) |
 
 ---
@@ -118,6 +119,10 @@ Last updated: 2026-05-26 | Session #22
 ---
 
 ## Session Notes
+
+### Session 23 (2026-05-26) — Deep: ANET (rotation; MRVL blocked pending tonight's earnings)
+
+MRVL remains first in event_queue (earnings May 27 post-close not yet released — DCF cannot run). Fell back to rotation: ANET deep session. Key Phase 1 finds: TSM intraday ~$403 (no Huawei-driven selloff; day range $402.86–$410.67); NVDA intraday ~$217 (near flat); MRVL ~$196 (pre-earnings flat); ALAB May 25 close $305 (−3.4% from May 22 ATH $315.81, no news catalyst — drift); Samsung vote still pending (closes May 27 10am KST; TSP packaging slowdown independent of vote outcome). New: Anthropic $200B Google Cloud commitment (5 years, 5GW capacity — largest single cloud infrastructure commitment quantified). Phase 1b gated (23%3=2). Phase 1c gated (23%6=5). Phase 2 (ANET): added Q1 10-Q supply chain commitment detail — $8.9B non-cancellable purchase commitments (up from $6.8B at Q4-end, +31%); 52-week lead times confirmed by Co-President Kenneth Duda; management characterizes as 1–2 year phenomenon; absorbing costs ("eating a lot of the costs") rather than fully passing through. Thesis bearing: Neutral — commitment scale signals demand confidence for 2027+. Phase 5 catch-up: ALAB entity updated with Scorpio X 320 Lane formal shipping note ($20B TAM by 2030) + Computex 2026 (June 2-5) added to Upcoming Catalysts. No DCF run. No concept page changes.
 
 ### Session 22 (2026-05-26) — Deep: MRVL (event_queue hold, earnings tonight) + NVDA supplementary
 
@@ -277,3 +282,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 20 | 2026-05-25 ~14:00 | MRVL | event_queue hold; markets closed; final pre-earnings sweep | Goldman Sachs $125 Neutral added (sole bear in 33 analysts); DA Davidson $1,000 MU attribution; no DCF; earnings May 27 |
 | 18 | 2026-05-25 | MRVL | event_queue (pre-earnings final; markets closed Memorial Day) | "Switzerland of interconnect" + 50+ design wins; Samsung TSP packaging slowdown (new HBM risk); LRCX scouted as watchlist; CapEx $725B confirmed; no DCF |
 | 22 | 2026-05-26 | MRVL (hold) + NVDA supplementary | event_queue hold (earnings tonight); first trading day since MDY | Amazon $225B Trainium backlog (Wells Fargo); Jensen Huang "concedes China AI chip market to Huawei" added to NVDA; custom-silicon concept updated; no DCF |
+| 23 | 2026-05-26 | ANET | rotation (MRVL blocked — earnings tonight May 27 post-close) | ANET $8.9B supply commitments (up 31% QoQ) + 52-week lead times confirmed from Q1 10-Q; Anthropic $200B Google Cloud (5yr/5GW); ALAB Computex Jun 2-5 added as catalyst; no DCF |
