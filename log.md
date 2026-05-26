@@ -10,6 +10,15 @@ Format:
 
 ---
 
+## [2026-05-27 02:00 UTC] session-25
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ALAB — rotation (MRVL blocked pending post-close earnings tonight May 27)
+Notable: Marvell launched 260-lane PCIe 6.0 Switch for AI scale-up (March 2026) — first current, shipping competitor to ALAB's Scorpio X 320-lane; MRVL CEO Murphy keynotes Computex June 2 on "AI Scaling Depends on Connectivity." TSMC April revenue $12.6B (+17.5% YoY), second-highest ever. Hyperscaler CapEx 2026 confirmed $690-725B. Samsung vote result due this morning (not yet known at session time).
+No significant news: MU ($746 flat), NVDA ($215 flat), MRVL ($196 ATH pre-earnings), ANET ($138 flat), ALAB ($305 flat) — all <1% moves
+DCF run: none — ALAB last run May 22 (<30 days, no earnings); MRVL awaiting tonight's results
+Concept pages updated: none (all within 14-day window)
+
 ## [2026-05-25 18:00 UTC] session-21
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 25 — 2026-05-27
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers: prices flat (<1%). Key finds: TSMC April revenue $12.6B (+17.5% YoY); hyperscaler CapEx $690-725B confirmed; Samsung union vote pending this morning; MRVL at ATH $196.33 heading into earnings. |
+| 1b (podcasts) | Gated | 25%6=1 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 25%6=1 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | ALAB rotation session. Key new finding: Marvell 260-lane PCIe 6.0 switch (March 2026) and CEO Computex keynote June 2 — current shipping competitor to Scorpio X; ALAB entity updated with Challenges thesis bearing. |
+| 3 (DCF) | Skipped | Correct — ALAB DCF run May 22 (<30 days, no new earnings); MRVL awaiting tonight's results |
+| 4 (dashboard) | Complete | Prices updated; For Arvs overwritten; Session 25 notes + history row appended; header updated |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; Samsung/MRVL catalysts still pending today; concept pages within 14 days; no broken cross-links |
+
+### Diagnosis
+Session ran cleanly. The dominant friction remains MRVL in event_queue — now 3+ sessions of holding pattern (Sessions 14-25, across multiple session numbers, all blocked by May 27 earnings). This is not a structural flaw; it is a legitimate pre-earnings deferral with a hard resolution event tonight. Once MRVL earnings are released (post-close tonight), Session 26 must run DCF immediately to break the queue. The ALAB rotation session produced a genuine finding (Marvell 260-lane switch / Computex keynote) that was not previously captured in the entity.
+
+### Improvement Executed
+None — no 3-session pattern identified requiring CLAUDE.md changes. The podcast gate is already at %6 from Session 24's autonomous improvement. The MRVL holding-pattern sessions are not a systematic problem; they reflect the correct behavior of deferring a DCF until actual earnings data is available.
+
+---
+
 ## Session 21 — 2026-05-25
 
 ### Phase Scores
