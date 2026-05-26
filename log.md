@@ -415,3 +415,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: ANET — rotation (MRVL blocked; Q1 FY2027 earnings tonight May 27 post-close) | DCF: none (ANET within 30 days; no new earnings) | Concepts: none (all current) | Watchlist: none (Phase 1c gated; 23%6=5) | Podcast: none (Phase 1b gated; 23%3=2)
 Notable: ANET Q1 10-Q reveals $8.9B non-cancellable purchase commitments (+31% from $6.8B at Q4), 52-week chip lead times confirmed (Co-President Duda), 1-2 year supply constraint duration — commitment scale signals management demand confidence for 2027+, not weakness. Anthropic $200B Google Cloud (5yr/5GW) is largest cloud commitment quantified, adding structural demand context for custom silicon. ALAB Scorpio X 320 Lane shipping; Computex June 2-5 showcase added as catalyst.
 No significant news: TSM (~$403 intraday; absorbed Huawei LogicFolding without selloff), MU ($751 carry), ASML (carry), NVDA (~$217 intraday), MRVL (~$196 pre-earnings), ALAB ($305 from ATH drift)
+
+## [2026-05-26 22:00 UTC] session-24
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: ANET — event-driven (price -10.7% from May 22; MRVL still blocked, earnings tonight May 27 post-close) | DCF: none (ANET within 30 days; no new earnings) | Concepts: HBM.md, dram-cycle.md | Watchlist: none (Phase 1c open, no new candidates) | Podcast: none (Phase 1b open, zero finds — 6th consecutive)
+Notable: ANET Rec upgraded from SELL/AVOID to HOLD at $137.53 (MoS -7.7%); JPMorgan conference: 54% actual shipment growth vs 35.1% headline revenue — demand exceeds supply. Micron CEO confirms filling only 50-67% of customer demand; first ever 5-year strategic LTA signed — peak HBM thesis confirmation. TSMC employees threatening Samsung-style strike over 15% bonus cut (no formal union; near-term risk low). Self-improvement: Phase 1b gate changed % 3 → % 6 (6 consecutive gate-open zero-find sessions).
+No significant news: TSM (~$404), ASML ($1,633 carry), NVDA (~$215), MRVL (~$195 pre-earnings), ALAB (~$305)

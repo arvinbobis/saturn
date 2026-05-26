@@ -71,7 +71,7 @@ Search across these sources specifically:
 
 #### 1b — Podcast & Long-Form Intelligence Scan
 
-**Frequency gate: run only if `session_count % 3 == 0`.** Skip silently if not — no note needed.
+**Frequency gate: run only if `session_count % 6 == 0`.** Skip silently if not — no note needed.
 
 Search for recent episodes (last 14 days) from these shows mentioning AI chips, semiconductors, or supply chain:
 - Acquired, Invest Like the Best, Odd Lots (Bloomberg), Eye on AI, Dwarkesh Podcast, The MAD Podcast
@@ -79,6 +79,8 @@ Search for recent episodes (last 14 days) from these shows mentioning AI chips, 
 Search terms: `"Acquired podcast" semiconductor 2026`, `"Invest Like the Best" AI chips`, `"Odd Lots" DRAM OR TSMC OR NVIDIA`, `"Eye on AI" infrastructure`, `@EyeOnAI podcast semiconductor 2026 site:twitter.com`, `"Chip Chat" OR "Moore's Law Is Dead" podcast semiconductor 2026`
 
 *Self-improvement (Session 16): Added specialist semiconductor show searches after 3 consecutive gate-open sessions with zero finds from mainstream shows. Mainstream shows (Acquired, ILTB, Odd Lots) do not cover semiconductor supply chain at sufficient frequency to be reliable at the current gate cadence.*
+
+*Self-improvement (Session 24): Changed gate from `% 3` to `% 6` — after 6 consecutive gate-open sessions (including 3 since the Session 16 specialist-show addition) with zero qualifying podcast finds, reducing search frequency to match the actual episode publication rate of relevant specialist shows.*
 
 If a relevant episode is found:
 1. Note it in `sources/podcasts.md` under Recent Podcast Intelligence (date, show, episode, key finding, ticker impact)

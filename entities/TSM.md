@@ -167,6 +167,14 @@
 
 ---
 
+### 2026-05-26
+
+**TSMC employee bonus cut 15% despite 58% profit jump — Samsung-style strike threat emerging:** Reports emerged May 25–26 that TSMC will cut employee performance bonuses by 15% despite a record Q1 2026 net profit of NT$572.5B (+58% YoY) and revenue +35% YoY. Employees are calling for union formation and threatening Samsung-style strikes, arguing their compensation share has declined as profits soared. Employees note TSMC's profits have roughly tripled since 2021 while the bonus pool as a percentage of profits has shrunk. TSMC's response (as of May 26): promises "faster bonus growth in 2026" — a reactive concession. Key structural difference vs. Samsung: TSMC has NO formal labor union, making coordinated strike action significantly harder to organize and execute. The Samsung precedent resolved in a $26.6B performance-bonus pool deal; TSMC's total 2025 net income was ~NT$1.18T (~$37B), so a comparable resolution at similar percentages would be costly but manageable. Source: BusinessToday / WCCFtech / Tweaktown / Digitimes, 2026-05-25–26. *Thesis bearing: Challenges (low probability, long lead time) — TSMC has no union structure and no history of labor action; the practical probability of a coordinated factory shutdown is very low near-term. However, this is a new risk vector to monitor: (1) if employees begin organizing a formal union (unprecedented at TSMC), the timeline to a potential strike extends to 12–24 months; (2) TSMC management's bonus cut rationale is unclear given record profitability — mismanagement of employee relations creates retention and morale risk for a company whose value rests on a ~65,000-person highly skilled workforce; (3) watch for any escalation from social media threats to formal union applications. Baseline recommendation unchanged: HOLD.*
+
+**Taiwan overtakes India in global stock market cap — TSMC the primary driver:** Taiwan's total equity market capitalization reached $4.95T as of May 26, 2026, surpassing India to become the world's fifth-largest market (behind US, China, Japan, Hong Kong), powered by TSMC's relentless share price appreciation. NVIDIA is set to supplant Apple as TSMC's largest customer in 2026, with NVIDIA projected to generate $33B in TSMC revenue (~22% of total) vs. Apple's projected $27B (~18%). This concentration of AI chip demand at the top of TSMC's customer roster increases revenue visibility and margin quality. Source: Bloomberg, 2026-05-26. *Thesis bearing: Confirms — TSMC becoming the backbone of a $4.95T market reflects institutional recognition of its foundational role; the NVDA #1 customer transition is a demand-quality upgrade (AI chips command higher ASPs and CoWoS fees than consumer electronics).*
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips

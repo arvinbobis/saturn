@@ -316,3 +316,22 @@ Session friction: MRVL has been in event_queue for 8 consecutive sessions withou
 
 ### Improvement Executed
 None — no 3-session pattern triggered. Session 24 Phase 1b will be gate-open (24%3=0): the next podcast gate is also a Phase 1c gate (24%6=0), making session 24 the first double-gate session in the wiki. If podcast finds are still zero after session 24, the 3-consecutive-gate-zero pattern will be met and a gate frequency change to %6 will be warranted.
+
+## Session 24 — 2026-05-26
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; ANET $137.53 (-3.0%/day, -10.7% from May 22); MU CEO 50-67% demand fill + first 5-yr LTA; TSMC bonus cut employee strike threat; Taiwan overtook India in market cap |
+| 1b (podcasts) | Complete/gate open | Gate open (24%6=0 post-improvement); zero qualifying episodes — 6th consecutive zero |
+| 1c (scout) | Complete/gate open | Gate open (24%6=0); no new candidates; power infrastructure flagged as next bottleneck |
+| 2 (deep session) | Complete | ANET JPMorgan comments captured; MoS -17.6% to -7.7%; Rec SELL/AVOID to HOLD |
+| 3 (DCF) | Skipped | Correct — ANET DCF May 22, no new earnings |
+| 4 (dashboard) | Complete | Prices, ANET Rec, For Arvs overwrite, session notes/history |
+| 5 (lint) | Complete | Concept pages current; no stale catalysts; self-improvement executed |
+
+### Diagnosis
+MRVL has been in event_queue for 9 consecutive sessions. Resolves tomorrow. Most significant finding: ANET crossed SELL/AVOID to HOLD on price compression alone (-10.7%); JPMorgan actual shipment growth ~54% YoY confirms demand thesis intact. Phase 1b zero-find pattern triggered 3-session rule.
+
+### Improvement Executed
+Phase 1b frequency gate changed from `session_count % 3 == 0` to `session_count % 6 == 0` — 6 consecutive gate-open sessions with zero qualifying podcast finds (3 after Session 16 specialist-show improvement). Target shows do not publish semiconductor supply chain content at the implied frequency. CLAUDE.md updated in place.

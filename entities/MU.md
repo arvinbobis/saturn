@@ -201,6 +201,14 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 ---
 
+### 2026-05-26
+
+**HBM4 in high-volume production for NVIDIA Vera Rubin — first 5-year strategic customer agreement signed:** Micron has begun high-volume shipments of HBM4 (36GB 12H stacks) designed for NVIDIA's Vera Rubin platform, the successor to Blackwell. Separately, Micron has signed its first-ever five-year strategic customer agreement — a structural departure from the industry's historically quarterly/annual contract cadence. This multi-year LTA locks in pricing and volume commitments that eliminate a core component of the memory cycle's historical volatility. Micron's entire 2026 HBM4 production capacity is committed under binding contracts. CEO Sanjay Mehrotra stated Micron is currently fulfilling only 50–67% of key customers' medium-term demand — a supply-constrained, not demand-constrained, position. Source: Digitimes / evertiq / SimplyWallSt / StocksFoundry, 2026-04–05. *Thesis bearing: Strongly confirms — the 5-year LTA is the single most structurally significant development in MU's history as a public company: it represents a customer willingness to commit to long planning horizons for memory, validating the "HBM breaks the commodity cycle" thesis. The 50–67% demand fill rate confirms structural undersupply, not excess inventory risk. This combination — sold out for 2026, first 5-year LTA, Vera Rubin design win — represents peak thesis confirmation as of Q2 2026.*
+
+**Samsung union vote result pending (May 27, 10am KST) — MU supply unaffected either way:** The Samsung DS semiconductor union ratification vote closes May 27 at 10am KST, with 87.4% turnout already cast as of May 25. If ratified: Samsung HBM4 production at Pyeongtaek proceeds without formal labor disruption, but TSP packaging division slowdowns (the $400K vs. $4K bonus disparity) persist independently. If blocked by DX division injunction (Suwon District Court, filed May 26 KST morning): 18-day strike risk potentially restarts. In both scenarios, Micron's LTA-contracted HBM supply through 2027 is entirely independent of Samsung labor outcomes — MU is the supply beneficiary of any Samsung disruption and is unaffected by Samsung supply recovery. Source: Seoul Economic Daily / UPI, 2026-05-25–26. *Thesis bearing: Neutral — structural MU supply advantage vs. Samsung is confirmed regardless of vote outcome.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC CoWoS packages HBM alongside compute dies; CoWoS capacity is the packaging bottleneck
