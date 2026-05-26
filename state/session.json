@@ -1,10 +1,11 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-25T18:00:00Z",
-  "session_count": 21,
+  "last_run_utc": "2026-05-26T14:00:00Z",
+  "session_count": 22,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
   "last_deep_session": "MRVL",
   "next_deep_session": "ANET",
+  "_session_22_note": "Session 22 (2026-05-26): First trading day after Memorial Day. MRVL held in event_queue (earnings tonight May 27 post-close). NVDA supplementary update: Jensen Huang China concession + Huawei LogicFolding context. MRVL: Amazon $225B Trainium backlog added. No DCF. Next session (23): post-earnings MRVL DCF is the priority — take MRVL from event_queue, re-run DCF, update story_narrative.",
   "event_queue": [
     {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.41B revenue / $0.80 EPS; options pricing ~13% move. ATH $196.33 close (May 22). Citi $215, Melius $220, Stifel $210, Wolfe $210. Custom ASIC $1.5B in FY2026, guiding >20% YoY FY2027, doubling FY2028. Celestial AI $3.25B acquisition (Feb 2, Photonic Fabric) captured Session 17. Session 18 pre-earnings final: 50+ design wins, 'Switzerland of interconnect' framing confirmed. Session 20: Goldman Sachs $125 Neutral (sole non-bull); DA Davidson MU $1,000 attribution noted. Post-earnings priority: re-run DCF and revise story_narrative — current IV $119.91 is pre-guide stale.", "detected": "2026-05-22"}
   ],

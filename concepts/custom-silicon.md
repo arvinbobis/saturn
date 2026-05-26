@@ -64,6 +64,10 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **Marvell's Celestial AI acquisition ($3.25B, Feb 2, 2026) confirms optical interconnect is now inseparable from the custom ASIC thesis** — Custom ASICs designed for inference at hyperscale require optical scale-up interconnects (not just copper) to link chips at 3.2T+ bandwidth. Celestial AI's Photonic Fabric™ + Polariton's plasmonics (April 2026) give Marvell end-to-end optical IP that complements its ASIC design wins. This means Marvell is not just the custom silicon co-designer but the optical connectivity layer that custom silicon clusters require — effectively expanding the per-cluster attach value. The optical moat (Celestial AI + Polariton + legacy SerDes/DSP) is now the second structural choke point in Marvell's business model alongside the ASIC co-design franchise. Confirmed hyperscaler design base now spans Google, Amazon, and Microsoft.
 
+### 2026-05-26 — MRVL
+
+**Amazon $225B Trainium commitment backlog (exiting Q1 2026 calendar) is the largest single-customer quantification of custom silicon demand to date** — Wells Fargo's May 20 channel check revealed Amazon had $225B in committed Trainium deployments exiting Q1 2026. At Marvell's estimated revenue share per cluster, this underpins Wells Fargo's $6B annual Trainium-related revenue forecast for FY2027 and FY2028. The $225B figure reframes the custom silicon thesis from "emerging" to "committed infrastructure program at scale." This is not CapEx guidance; it is committed deployment — meaning the silicon co-design work (Marvell), manufacturing (TSMC), and connectivity (Astera Labs) are already contracted downstream. Custom silicon is no longer a thesis about what hyperscalers might do; it is now quantifiably underwritten.
+
 ---
 
 ## Cross-links

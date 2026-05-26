@@ -180,6 +180,14 @@ Source: CNBC / Quiver Quantitative / StockTitan / Motley Fool Transcript, 2026-0
 
 ---
 
+### 2026-05-26
+
+**Jensen Huang formally concedes China AI chip market to Huawei (May 21 CNBC interview):** In a post-earnings CNBC interview on May 21, Jensen Huang stated NVIDIA has "largely conceded" the China advanced AI chip market to Huawei. China had historically represented ~20% of NVIDIA's data center revenue; that contribution has effectively gone to zero. Huang said Huawei had "a record year and will likely have an extraordinary year coming up," and that NVIDIA had advised investors to "expect nothing" on China approvals. Note the reversal from May 18: at the Trump-Xi summit, Huang had expressed optimism about China opening; the May 21 post-earnings framing is materially more pessimistic. The $H200 zero-delivery situation (captured May 24) confirmed the mechanism; this is Huang confirming the outcome. Source: CNBC, 2026-05-21. *Thesis bearing: Challenges — explicit CEO confirmation of China market concession removes the optionality previously captured in the May 18 entry. China revenue recovery is no longer a near-term scenario per NVIDIA's own guidance. The DCF already assumes zero China contribution; this is consistent with the model. Key risk: Huawei's domestic AI infrastructure growth (accelerating per LogicFolding announcement May 25) is now entirely outside NVIDIA's addressable market.*
+
+**Huawei LogicFolding first trading day — context for May 26 open:** Huawei's May 25 LogicFolding/Tau Scaling Law announcement (1.4nm-class chips by 2031 via SMIC, no EUV required) was announced while US markets were closed for Memorial Day. Jensen Huang's "largely conceded China" statement (May 21) combined with Huawei's May 25 claim creates a two-sided narrative for May 26: SMIC +18%, Hua Hong +20% on Huawei announcement, while NVIDIA's China revenue is zero. Net impact on NVDA: the LogicFolding claim is a China market dynamic, not a global one. NVIDIA's $91B Q2 guide is sourced from US, European, and non-Chinese hyperscalers. Huawei's 2031 timeline vs. TSMC's 2028 1.4nm mass production leaves the western hyperscaler opportunity entirely intact. Source: CNBC / Bloomberg, 2026-05-21/25. *Thesis bearing: Neutral for NVDA global thesis — Huawei's gains in China are in a market NVDA has already ceded; the Q2 $91B guide and $225B+ hyperscaler CapEx commitments remain intact outside China.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS

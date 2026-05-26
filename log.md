@@ -399,3 +399,12 @@ DCF run: none — MRVL earnings May 27 post-close not yet reported; post-earning
 Concept pages updated: none (all updated within 2 days)
 Watchlist: none (Phase 1c gated; 20%6=2)
 Podcast: none (Phase 1b gated; 20%3=2)
+
+## [2026-05-26 14:00 UTC] session-22
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue hold (earnings tonight May 27 post-close; entity current through May 25)
+Notable: Jensen Huang explicitly confirmed NVIDIA "largely conceded" China AI chip market to Huawei (May 21 CNBC — retroactive NVDA entity capture); Amazon $225B Trainium committed deployment backlog confirmed via Wells Fargo (retroactive MRVL entity capture) — largest single-customer quantification of custom silicon demand to date.
+No significant news: TSM, ASML, ANET, ALAB (prices carried at May 22 close; first trading day; live data not indexed); Samsung DX injunction filed May 26 to halt wage vote (result pending May 27 KST)
+DCF run: none — MRVL earnings tonight; NVDA within 30 days
+Concept pages updated: custom-silicon (Amazon $225B Trainium backlog)

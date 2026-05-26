@@ -248,6 +248,14 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 
 ---
 
+### 2026-05-26
+
+**Amazon $225B Trainium commitment backlog — first quantified forward revenue anchor for MRVL custom ASIC:** Wells Fargo (May 20, 2026) reported that Amazon exited Q1 calendar 2026 with $225 billion in committed Trainium deployments — the first large, specific backlog figure attached to Amazon's AI infrastructure program. Marvell supplies the silicon IP and co-designs the Trainium/Inferentia custom ASICs under multi-year contracts. Wells Fargo forecasts Trainium-related revenue for Marvell at ~$6B in each of 2027 and 2028, with potential to double if per-unit pricing moves higher. The $225B figure also implies gigawatt-scale AI cluster deployments through 2029 — sustained demand for MRVL's optical interconnect and custom XPU products alongside the compute silicon. Source: Wells Fargo analyst note / 247 Wall St. / Investing.com, 2026-05-20. *Thesis bearing: Confirms — this is the first concrete backlog figure quantifying the scale of Amazon's Trainium commitment; $6B in annual MRVL revenue from a single hyperscaler partner alone would justify a substantial re-rating if confirmed on May 27 earnings call.*
+
+**Pre-earnings hold — entity current through May 25; earnings tonight (May 27 post-close):** No new material pre-earnings developments on May 26. MRVL closed at ATH $196.33 on May 22; first trading day May 26 (Memorial Day ended). Consensus Q1 FY2027: $2.40B revenue / $0.80 EPS; options pricing ~13% move. Event queue item held for post-earnings processing — DCF re-run and story_narrative revision queued for next session. Source: MarketBeat / consensus tracking, 2026-05-26. *Thesis bearing: Neutral — earnings event is the signal; no pre-close data to move the thesis.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume

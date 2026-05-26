@@ -276,3 +276,22 @@ Session constrained by pre-earnings quiet period: the MRVL entity has been pre-l
 
 ### Improvement Executed
 None — timing constraint, not a repeating pattern.
+
+## Session 22 — 2026-05-26
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | First trading day after Memorial Day. Prices carried from May 22 close — May 26 live data not yet indexed. Key finds: Jensen Huang "largely conceded China AI chip market to Huawei" (May 21 CNBC); Amazon $225B Trainium backlog (Wells Fargo, May 20); Samsung DX injunction filed May 26; Huawei LogicFolding TSM/ASML reaction on May 26 unquantified. |
+| 1b (podcasts) | Gated | 22 % 3 = 1 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 22 % 6 = 4 ≠ 0; correctly skipped |
+| 2 (deep session) | Partial | MRVL held in event_queue (earnings tonight post-close; entity current through May 25). Added one new MRVL entry: Amazon $225B Trainium backlog. NVDA supplementary: Jensen Huang China concession + Huawei LogicFolding context. |
+| 3 (DCF) | Skipped | MRVL earnings not yet released; NVDA last run May 21 (<30 days, no new earnings). Correct skip. |
+| 4 (dashboard) | Complete | Prices updated with May 22 close + N/A flag. For Arvs overwritten. Session 22 notes + history row appended. Catalysts updated. |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; all concept pages updated within 3 days; Samsung/MRVL catalysts future-dated. |
+
+### Diagnosis
+Session value was moderate: first trading day after Memorial Day, but May 26 live prices were unavailable at session time. Most significant finds were retrospective captures: Jensen Huang's "largely conceded China" statement (May 21) had not been in the NVDA entity despite being a major CEO statement on the single largest bear case (China revenue). The Amazon $225B Trainium backlog quantification from Wells Fargo (May 20) was also missing and is the most concrete forward revenue anchor for MRVL to date. Both gaps were closed this session. Tomorrow's MRVL earnings are the highest-priority event in the portfolio.
+
+### Improvement Executed
+None — no 3-session pattern triggered. Continuing to monitor podcast gate performance (6th session without a qualifying find when open; Sessions 24 threshold for gate frequency adjustment).
