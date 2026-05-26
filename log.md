@@ -431,3 +431,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: ANET — event-driven (price -10.7% from May 22; MRVL still blocked, earnings tonight May 27 post-close) | DCF: none (ANET within 30 days; no new earnings) | Concepts: HBM.md, dram-cycle.md | Watchlist: none (Phase 1c open, no new candidates) | Podcast: none (Phase 1b open, zero finds — 6th consecutive)
 Notable: ANET Rec upgraded from SELL/AVOID to HOLD at $137.53 (MoS -7.7%); JPMorgan conference: 54% actual shipment growth vs 35.1% headline revenue — demand exceeds supply. Micron CEO confirms filling only 50-67% of customer demand; first ever 5-year strategic LTA signed — peak HBM thesis confirmation. TSMC employees threatening Samsung-style strike over 15% bonus cut (no formal union; near-term risk low). Self-improvement: Phase 1b gate changed % 3 → % 6 (6 consecutive gate-open zero-find sessions).
 No significant news: TSM (~$404), ASML ($1,633 carry), NVDA (~$215), MRVL (~$195 pre-earnings), ALAB (~$305)
+
+## [2026-05-26 18:00 UTC] session-26
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: MU — event-driven (price +18% to $894, UBS PT $535→$1,625 +204%, $1T market cap milestone) | DCF: MU — IV $442.63 (MoS -50.5%) SELL/AVOID | Concepts: HBM.md, dram-cycle.md | Watchlist: none (Phase 1c gated; 26%6=2) | Podcast: none (Phase 1b gated; 26%6=2)
+Notable: Micron crossed $1 trillion market cap for the first time (+18% to $894) — UBS raised PT from $535 to $1,625 (+204%), citing HBM ASP model raised to +50% YoY and LTAs with NVIDIA through 2029; our conservative DCF gives IV $442.63 (MoS -50.5%), reflecting cycle mean-reversion assumptions vs. UBS's structural franchise pricing. ANET price corrected from stale $137.53 to actual May 26 close $158.68 (MoS -20.0%, SELL/AVOID — session 24's HOLD was based on wrong price). MRVL at ATH ~$212 (+7.7%) heading into tonight's Q1 FY2027 post-close earnings.
+No significant news: ASML (Amsterdam -2.8% EUR, ~$1,600 USD est), NVDA (~$215 est flat), TSM ($404.52 -0.6%), Samsung vote result pending

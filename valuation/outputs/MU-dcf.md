@@ -1,38 +1,38 @@
 # DCF Valuation — MU
 
-*Generated: 2026-05-21 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
+*Generated: 2026-05-26 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
 
 ## 🔴 Decision: SELL / AVOID
 
 | Metric | Value |
 |---|---|
-| **Intrinsic Value** | **$268.33** |
-| Current Price | $744.68 |
-| Margin of Safety | **-64.0%** |
-| Enterprise Value | $291,809M |
-| PV Stage 1 FCFFs | $131,536M |
-| PV Terminal Value | $160,272M |
-| Terminal Value (undiscounted) | $446,708M |
-| WACC (high growth) | 10.79% |
-| WACC (stable) | 9.34% |
-| Stable ROIC | 17.60% |
-| Stable Reinvestment Rate | 17.0% |
+| **Intrinsic Value** | **$442.63** |
+| Current Price | $894.00 |
+| Margin of Safety | **-50.5%** |
+| Enterprise Value | $486,766M |
+| PV Stage 1 FCFFs | $234,199M |
+| PV Terminal Value | $252,567M |
+| Terminal Value (undiscounted) | $704,747M |
+| WACC (high growth) | 10.81% |
+| WACC (stable) | 9.35% |
+| Stable ROIC | 19.71% |
+| Stable Reinvestment Rate | 15.2% |
 | R&D Capitalized | $10,820M |
 | Adj. EBIT addition (R&D cap) | $340M |
 
 ## Story → Numbers
 
-> Micron is in an HBM-driven profit supercycle: Q2 FY2026 revenue $23.86B with 75% gross margins and $16.1B operating income — the highest-margin quarter in company history. Q3 FY2026 guided at $33.5B with ~81% gross margins and $19.15 EPS. HBM is sold out through calendar 2026 at contracted pricing. Micron began shipping HBM4 for NVIDIA's Vera Rubin platform in May 2026, qualifying alongside SK Hynix at the start of the next HBM generation. The Samsung strike catalyst was averted on May 21 (tentative deal, member vote May 22–27) — removing a near-term supply disruption but not changing Micron's contracted position. Structural demand is confirmed: NVDA Q1 FY2027 $81.6B revenue (+85%), Q2 guide $91B, hyperscaler capex $725B for 2026. CXMT remains a medium-term risk to standard DRAM pricing, but HBM allocation (contracted, not spot) provides insulation. DCF inputs are peak-cycle — the model should be read as a high-case valuation; cycle-normalized inputs would produce a lower IV. The core thesis question: can HBM contracted revenue prevent a FY2023-magnitude trough from recurring? Evidence as of Q2 FY2026 strongly suggests yes.
+> Micron has crossed $1 trillion market capitalization on May 26, 2026 — the market's endorsement that HBM has broken the commodity DRAM cycle. UBS raised its PT from $535 to $1,625 on May 26, projecting EPS >$100 through 2029 on the basis of: (1) HBM ASP model raised to +50% YoY (vs prior +35%), (2) 5-year LTAs with NVIDIA locking pricing through 2029, (3) 2026 HBM4 capacity fully sold out under binding contracts, (4) CEO confirms filling only 50-67% of customer demand. Q2 FY2026 actual: $23.86B revenue, 74.4% gross margin, $12.20 non-GAAP EPS. Q3 FY2026 guided: $33.5B revenue, ~81% gross margin, $19.15 non-GAAP EPS — a single quarter that exceeds FY2024 full-year revenue. HBM4 is in high-volume production for Vera Rubin. Memory market 30-50% undersupplied through 2027 (Mizuho). DRAM Q1 2026: +90-95% QoQ; Q2 2026: +58-63% QoQ. NAND +70-75% QoQ. Samsung union vote ratification expected (result May 27). CXMT is the medium-term structural risk to standard DRAM; HBM allocation (contracted, not spot) is insulated. DCF base is TTM incorporating Q3 guidance ($80.2B) — the model starts from a higher base but still applies mean reversion to 38% EBIT margins. The core thesis has been structurally confirmed: HBM LTAs through 2029 prevent a FY2023-style trough. The risk is that today's contracted prices become tomorrow's oversupply when 2027-2028 capacity expansions come online.
 
 ## Assumptions & Justifications
 
 | Input | Value | Story Justification |
 |---|---|---|
-| Revenue CAGR (high growth) | 10.0% | 10% CAGR from a $58.1B TTM peak-cycle base (vs. prior assumption of 20% from a ~$25B normalized base — effectively similar absolute growth). Starting from peak makes the CAGR appear conservative but reflects that some years (standard DRAM cycle trough) will be below current levels. $58.1B TTM → $150B in year 10 at 10% CAGR. Bull case 15%: $235B. Bear case 5%: $95B. The 10% reflects HBM secular growth + DRAM cycles averaging out. Consensus FY2026 annualized run-rate approaches $90–100B — year 10 at $150B implies only moderate growth from the annualized 2026 peak. |
-| Target EBIT margin | 35.0% | 35% target EBIT margin by year 10 vs. current TTM ~49% (peak-cycle). Historical cycle average: ~15–20% operating margin. HBM structural uplift expected to raise the normalized floor to 30–35%. 35% is optimistic mid-case; bear case 20% would be standard DRAM without HBM structural support. Transition from 49% to 35% over 10 years models the natural cycle normalization from current peak. |
+| Revenue CAGR (high growth) | 10.0% | 10% CAGR from updated $80.2B TTM base (incorporating Q3 FY2026 guidance of $33.5B). Q3 FY2026 annualizes to $134B run rate — starting from $80.2B TTM with 10% CAGR reaches $208B in year 10. Bull case 15%: $325B. Bear case 5%: $131B. The 10% reflects HBM secular growth + DRAM cycles averaging out from a structurally higher base than pre-HBM. UBS projects $160B+ revenue by 2029 (3 years), implying ~26% CAGR near-term then moderation — our 10% over 10 years is conservative but consistent with a model that prices in eventual cycle normalization. |
+| Target EBIT margin | 38.0% | 38% target EBIT margin by year 10 (raised from 35% — structural HBM LTA evidence justifies a higher normalized floor). Q3 FY2026 guided at ~75-78% non-GAAP EBIT margin. GAAP normalization and cycle troughs will reduce this significantly; 38% represents structural HBM uplift (above pre-HBM 15-20% cycle average) with 2-3 cycles of mean reversion. Bear case 25% (no HBM structural support) and bull case 45% (LTAs sustain super-margins into the 2030s). |
 | High growth years | 10 | 10 years — captures 2–3 standard DRAM cycles plus HBM4 → HBM5 generation transition. At year 10, Micron should have cycled through at least one major trough and recovered. Long enough to assess whether HBM has structurally raised the floor. |
 | Stable growth rate | 3.0% | 3% terminal growth — global memory market long-run growth rate. Bit demand grows ~20–30% per year but ASP deflation partially offsets; nominal revenue growth tracks ~3–5% GDP-aligned. Conservative 3% for terminal. |
-| Stable EBIT margin | 25.0% | 25% stable EBIT margin at terminal — mid-cycle normalized with HBM providing structural uplift vs. pre-HBM cycle average of 15–20%. If HBM4/5 maintains ASP premium and contracted pricing, 25% is achievable through cycles. Without HBM, 15–18% would be the correct stable margin. |
+| Stable EBIT margin | 28.0% | 28% stable EBIT margin at terminal (raised from 25% — consistent with structural HBM floor thesis). At terminal, HBM4/5/6 pricing remains at premium to standard DRAM; contracted pricing mechanisms established in 2025-2026 are the structural anchor. Without HBM, 15-18% would be the correct stable margin. If HBM LTAs fully normalize memory to a more utility-like contract model, 28-35% is achievable through cycles. |
 | Sales/Capital (high) | 0.70x | 0.7x sales-to-capital — memory manufacturing is extremely capital-intensive (CHIPS Act notwithstanding). New fabs cost $10–15B each; DRAM node transitions require significant CapEx. 0.7x means for every $1 of incremental revenue, Micron needs to deploy $1.43 of capital. Reflects the fab-heavy model. |
 | Sales/Capital (stable) | 0.80x | 0.8x slight improvement as existing HBM fabs mature and utilization improves. Idaho expansion and NY fab come online through 2027–2030; after that, maintenance CapEx is lower than greenfield. |
 | Beta (high growth) | 1.30 | 1.3 — memory stocks carry 30–50% more volatility than the market. DRAM cycles cause 60–70% peak-to-trough stock drawdowns. HBM structural improvement reduces cycle severity but doesn't eliminate it. 1.3 reflects ongoing commodity DRAM exposure plus HBM growth-stock premium. |
@@ -43,29 +43,29 @@
 
 | Item | Value ($M) |
 |---|---|
-| Reported Revenue | 58,100 |
-| Reported EBIT | 28,300 |
+| Reported Revenue | 80,200 |
+| Reported EBIT | 50,000 |
 | R&D Adj. to EBIT | 340 |
-| Adjusted EBIT | 28,640 |
-| CapEx | 14,500 |
-| D&A | 8,400 |
-| ΔWorking Capital | 3,500 |
-| FCFF (Year 0) | 15,263 |
+| Adjusted EBIT | 50,340 |
+| CapEx | 18,000 |
+| D&A | 9,500 |
+| ΔWorking Capital | 4,000 |
+| FCFF (Year 0) | 31,459 |
 
 ## Year-by-Year FCF Projection
 
 | Year | Revenue ($M) | EBIT Margin | NOPAT ($M) | Reinvestment ($M) | FCFF ($M) | PV ($M) |
 |---|---|---|---|---|---|---|
-| 1 | 63,910 | 47.9% | 26,920 | 8,300 | 18,620 | 16,806 |
-| 2 | 70,301 | 46.4% | 28,727 | 9,130 | 19,597 | 15,965 |
-| 3 | 77,331 | 45.0% | 30,627 | 10,043 | 20,584 | 15,135 |
-| 4 | 85,064 | 43.6% | 32,620 | 11,047 | 21,573 | 14,316 |
-| 5 | 93,571 | 42.1% | 34,705 | 12,152 | 22,553 | 13,509 |
-| 6 | 102,928 | 40.7% | 36,881 | 13,367 | 23,513 | 12,712 |
-| 7 | 113,220 | 39.3% | 39,144 | 14,704 | 24,440 | 11,926 |
-| 8 | 124,542 | 37.9% | 41,492 | 16,174 | 25,318 | 11,151 |
-| 9 | 136,997 | 36.4% | 43,918 | 17,792 | 26,126 | 10,386 |
-| 10 | 150,696 | 35.0% | 46,414 | 19,571 | 26,844 | 9,631 |
+| 1 | 88,220 | 60.3% | 46,806 | 11,457 | 35,349 | 31,902 |
+| 2 | 97,042 | 57.8% | 49,372 | 12,603 | 36,769 | 29,947 |
+| 3 | 106,746 | 55.3% | 51,982 | 13,863 | 38,119 | 28,019 |
+| 4 | 117,421 | 52.9% | 54,621 | 15,250 | 39,372 | 26,117 |
+| 5 | 129,163 | 50.4% | 57,268 | 16,774 | 40,494 | 24,242 |
+| 6 | 142,079 | 47.9% | 59,898 | 18,452 | 41,446 | 22,392 |
+| 7 | 156,287 | 45.4% | 62,482 | 20,297 | 42,185 | 20,568 |
+| 8 | 171,916 | 43.0% | 64,983 | 22,327 | 42,656 | 18,770 |
+| 9 | 189,107 | 40.5% | 67,359 | 24,559 | 42,800 | 16,996 |
+| 10 | 208,018 | 38.0% | 69,561 | 27,015 | 42,546 | 15,248 |
 
 ## Sensitivity — Intrinsic Value per Share
 
@@ -73,11 +73,11 @@
 
 | Revenue CAGR | WACC ~8% | WACC ~10% | WACC ~12% |
 |---|---|---|---|
-| 8% | $656 | $292 | $182 |
-| 12% | $871 | $357 | $208 |
-| 16% | $1,161 | $444 | $241 |
-| 20% | $1,552 | $558 | $283 |
-| 25% | $2,227 | $753 | $353 |
+| 8% | $1,056 | $478 | $302 |
+| 12% | $1,405 | $590 | $349 |
+| 16% | $1,878 | $738 | $411 |
+| 20% | $2,512 | $933 | $489 |
+| 25% | $3,609 | $1,263 | $618 |
 
 ---
 *Inputs: `valuation/inputs/MU.json` — populate from earnings + web search.*

@@ -1,18 +1,20 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-27T02:00:00Z",
-  "session_count": 25,
+  "last_run_utc": "2026-05-26T18:00:00Z",
+  "session_count": 26,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "ALAB",
-  "next_deep_session": "TSM",
-  "_session_25_note": "Session 25 (2026-05-27): MRVL still in event_queue (earnings post-close TONIGHT May 27 — earnings not yet released at session time). ALAB processed as Phase 2 rotation session (next_deep_session). Key findings: (1) Marvell launched industry-first 260-lane PCIe 6.0 Switch for AI scale-up (March 2026) — first current, shipping competitor to ALAB's Scorpio X 320-lane; (2) MRVL CEO Matt Murphy keynoting Computex June 2 on 'The Future of AI Scaling Depends on Connectivity' — first head-to-head in-person showcase vs. ALAB; (3) TSMC April 2026 revenue $12.6B (+17.5% YoY), second-highest ever, YTD +29.9%; (4) Hyperscaler CapEx 2026 $690-725B confirmed; (5) Samsung union vote result due 10am KST today — not yet announced at session time. All prices flat (<1%). No DCF run. Phases 1b/1c gated (25%6=1). Next session (26): ABSOLUTE PRIORITY: MRVL Q1 FY2027 earnings — search results FIRST; update story_narrative in valuation/inputs/MRVL.json; run python3 valuation/dcf_model.py MRVL; update dashboard IV/MoS/Rec/Story/Last DCF; remove MRVL from event_queue. Also check Samsung union vote final result. Computex Jun 1-5 commentary will be live — check NVDA (Jensen keynote Jun 1), MRVL (Murphy keynote Jun 2), and ALAB (Scorpio X demo) developments.",
+  "last_deep_session": "MU",
+  "next_deep_session": "ASML",
+  "_session_26_note": "Session 26 (2026-05-26): MU event-driven deep session — price +18% to $894 ($1 trillion market cap milestone). UBS raised PT from $535 to $1,625 (+204%, largest absolute-dollar PT raise in semiconductor analyst history), citing HBM ASP model raised to +50% YoY and LTAs with NVIDIA through 2029. DCF updated: TTM revenue $80.2B (Q3 FY2026 guidance $33.5B incorporated), TTM EBIT ~$50B, target margin 38%, stable margin 28%. New IV: $442.63 (MoS -50.5%), SELL/AVOID — up from $268.33 on higher base but still deeply overvalued vs. UBS's $1,625 structural franchise case. ANET price corrected from stale $137.53 to actual May 26 close $158.68 (MoS -20.0%, SELL/AVOID). MRVL at ATH ~$212 (+7.7%, pre-earnings PT raises from Stifel/Citi) heading into post-close Q1 FY2027 earnings. Samsung union vote result closed 10am KST (01:00 UTC) — expected approval not yet confirmed. Phases 1b/1c gated (26%6=2). Session 27 ABSOLUTE PRIORITY: (1) Search MRVL Q1 FY2027 actual results FIRST; (2) update story_narrative in valuation/inputs/MRVL.json; (3) run python3 valuation/dcf_model.py MRVL; (4) update dashboard IV/MoS/Rec/Story/Last DCF; (5) remove MRVL from event_queue. Also confirm Samsung vote final result. Computex Jun 1-5 commencing soon — check NVDA (Jensen Jun 1), MRVL (Murphy Jun 2), ALAB (Scorpio X demo).",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Q1 FY2027 earnings on 2026-05-27 (post-close). Consensus $2.41B revenue / $0.80 EPS; options pricing ~13% move. ATH $196.33 close (May 22). Current IV $119.91 is pre-earnings stale. Post-earnings: search results, update story_narrative in MRVL.json, run python3 valuation/dcf_model.py MRVL, update dashboard IV/MoS/Rec/Story/Last DCF, remove from queue.", "detected": "2026-05-22"}
+    {"ticker": "MRVL", "event": "Q1 FY2027 earnings post-close May 27. Results not yet indexed at session 26 close. MRVL at ATH ~$212 (+7.7% on May 26). Consensus $2.41B revenue / $0.80 EPS. Options pricing ~13% move. Session 27: search actual results, update story_narrative in MRVL.json, run python3 valuation/dcf_model.py MRVL, update dashboard IV/MoS/Rec/Story/Last DCF, remove from queue.", "detected": "2026-05-22"},
+    {"ticker": "ALAB", "event": "price +4.4% to $320.39 on May 26 (sector tailwind from MU $1T milestone). MoS updated to -65.1% at actual price. DCF within 30 days (last run May 22). Computex June 2-5 Scorpio X demo is the key near-term catalyst. No DCF re-run required unless thesis changes at Computex.", "detected": "2026-05-26"},
+    {"ticker": "ANET", "event": "price +3.19% to $158.68 on May 26 (actual confirmed close; prior sessions used stale $137.53). MoS corrected to -20.0% → SELL/AVOID (prior HOLD recommendation was based on wrong price). DCF last run May 22. No re-run required; price correction captured in dashboard.", "detected": "2026-05-26"}
   ],
-  "_event_queue_note": "Session 25 (2026-05-27): MRVL earnings post-close tonight — still cannot process. Rotation processed ALAB (deep session), advancing next_deep_session to TSM. Session 26 MUST process MRVL immediately: (1) search Q1 FY2027 actual results; (2) update story_narrative + financials in valuation/inputs/MRVL.json; (3) run python3 valuation/dcf_model.py MRVL; (4) update dashboard IV/MoS/Rec/Story/Last DCF; (5) remove MRVL from event_queue.",
+  "_event_queue_note": "Session 26: MU processed (event: +18% price move, UBS PT $1,625). MRVL remains first (earnings tonight, result not yet indexed). ALAB and ANET added for price moves >3% on May 26. Session 27 must process MRVL (earnings now released post-session 26 close). Next_deep_session set to ASML (next in rotation after MU). After MRVL processed in session 27, advance to ALAB or ANET in queue, then rotation resumes at ASML.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
-    "MU":   "2026-05-21",
+    "MU":   "2026-05-26",
     "ASML": "2026-05-22",
     "NVDA": "2026-05-21",
     "MRVL": "2026-05-22",

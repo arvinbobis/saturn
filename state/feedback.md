@@ -356,3 +356,21 @@ MRVL has been in event_queue for 9 consecutive sessions. Resolves tomorrow. Most
 
 ### Improvement Executed
 Phase 1b frequency gate changed from `session_count % 3 == 0` to `session_count % 6 == 0` — 6 consecutive gate-open sessions with zero qualifying podcast finds (3 after Session 16 specialist-show improvement). Target shows do not publish semiconductor supply chain content at the implied frequency. CLAUDE.md updated in place.
+## Session 26 — 2026-05-26
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | MU +18% to $894 ($1T cap), MRVL +7.7%, ALAB +4.4%, ANET +3.19%; TSM -0.6%; ASML/NVDA estimated; Samsung vote pending; TrendForce DRAM Q2 +58-63% confirmed |
+| 1b (podcasts) | Gated | 26%6=2 ≠ 0 |
+| 1c (scout) | Gated | 26%6=2 ≠ 0 |
+| 2 (deep session) | Complete | MU — UBS PT $1,625, $1T milestone, entity updated with 3 new developments, concept pages updated |
+| 3 (DCF) | Complete | MU DCF re-run: IV $442.63 (MoS -50.5%) SELL/AVOID; TTM updated to $80.2B, target margin raised to 38% |
+| 4 (dashboard) | Complete | All 7 prices updated; MU IV/MoS/Rec/Story; ANET price corrected; For Arvs overwritten; catalysts updated |
+| 5 (lint) | Complete | All concept pages current; all cross-links verified; catalysts updated (Samsung vote removed, Computex events added, MU Q3 added) |
+
+### Diagnosis
+Significant single-session event: MU +18% and $1T market cap required immediate event-driven deep session. ANET price was confirmed wrong from prior sessions ($137.53 stale vs. $158.68 actual) — sessions 22-24 used incorrect price data, invalidating the HOLD recommendation. Price data quality is the most significant friction this session. MRVL earnings are the immediate next priority.
+
+### Improvement Executed
+None — no 3-session pattern triggered. ANET price error was a one-session data quality issue, not a structural search problem. The fundamental issue is that May 26 prices were not indexed during May 26 sessions (22-24), which ran before the confirmed close data was available. No process change warranted; the fix is temporal (next-session price verification).
