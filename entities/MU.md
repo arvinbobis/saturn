@@ -215,6 +215,10 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 **Samsung union vote — result expected May 27 (closes 10am KST):** As of this session, the Samsung DS union ratification vote closed May 27 at 10am KST (01:00 UTC). With 87.4% turnout already cast by May 25, approval was the consensus expectation. DX division injunction attempt (Suwon District Court, filed May 26 KST) did not appear to halt the vote given Labor Ministry support for the DS union and near-complete balloting. Result not yet indexed in this session's searches. Source: Seoul Economic Daily / UPI, 2026-05-25-26. *Thesis bearing: Neutral — Micron's LTA-contracted HBM supply through 2027 is independent of Samsung labor outcomes; either outcome (approval or rejection) confirms MU's contracted position is unchanged.*
 
+### 2026-05-27
+
+**MU extended to $962.50 (+7.4%) — $1T market cap holding, Samsung union deal removes overhang:** MU continued its surge on May 27, rising from $895.88 (May 26 close) to $962.50 (+7.4%), extending the two-day gain to +29% from ~$746 pre-UBS upgrade. The Samsung union ratification vote was expected to close May 27 at 10am KST — with passage expected, HBM4 production continuity at Samsung's Pyeongtaek and Hwaseong fabs is maintained. Market cap now ~$1.01T. MoS vs. DCF IV $442.63: -54.0% (worsened from -50.5% two sessions ago). MU remains SELL/AVOID but the HBM LTA franchise thesis continues to strengthen. Source: Benzinga / Micron stock data, 2026-05-27. *Thesis bearing: Confirms (thesis) / Challenges (valuation) — the continued post-upgrade momentum confirms the market is repricing MU from cyclical DRAM to structural HBM platform; however, MoS deepening to -54% at current price means the stock is pricing in the most optimistic LTA scenario. Q3 FY2026 earnings (~June/July) are the next major catalyst to confirm whether the $33.5B quarterly guidance holds.*
+
 ---
 
 ## Cross-links

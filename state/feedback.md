@@ -395,3 +395,39 @@ Significant single-session event: MU +18% and $1T market cap required immediate 
 
 ### Improvement Executed
 None — no 3-session pattern triggered. ANET price error was a one-session data quality issue, not a structural search problem. The fundamental issue is that May 26 prices were not indexed during May 26 sessions (22-24), which ran before the confirmed close data was available. No process change warranted; the fix is temporal (next-session price verification).
+## Session 27 — 2026-05-27
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers; MRVL +5.12% (ATH $206.38); MU +18% (UBS); NVDA -0.5%; ALAB -0.5%; TSM +1.2%; ASML/ANET ~flat |
+| 1b (podcasts) | Gated | 27%6=3 ≠ 0 |
+| 1c (scout) | Gated | 27%6=3 ≠ 0 |
+| 2 (deep session) | Complete | MRVL — XConn gap ($540M, Feb 2026), Celestial AI gap ($3.25B, Feb 2026), CoWoS 4× expansion, ALAB Northland downgrade |
+| 3 (DCF) | Complete | MRVL DCF: IV $119.30 (MoS -42.2%, SELL/AVOID) |
+| 4 (dashboard) | Complete | All 7 prices; MRVL IV/MoS; For Arvs overwritten; catalysts updated |
+| 5 (lint) | Complete | Cross-links verified; CoWoS concept updated |
+
+### Diagnosis
+Session 27 misattributed MRVL's after-hours reaction as "+13-15% on May 27 Q1 FY2027 results" when the Stocktwits/TIKR headlines were actually referencing the March 2026 Q4 FY2026 event ("Solid Q1 Guidance"). This type of headline ambiguity — where "Q1 guidance" refers to guidance *for* Q1 issued at Q4 results, not results *of* Q1 — caused the error. Session 28 corrected this. No structural search pattern change needed.
+
+### Improvement Executed
+None — one-time headline misread, not a structural search problem.
+## Session 28 — 2026-05-27
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 prices confirmed; MU +7.4% to $962; ASML -2.7% (MATCH Act); MRVL +7.1% regular session; NVLink Fusion ($2B NVDA investment) surfaced as major gap |
+| 1b (podcasts) | Gated | 27%6=3 ≠ 0 |
+| 1c (scout) | Gated | 27%6=3 ≠ 0 |
+| 2 (deep session) | Complete | MRVL — Q1 FY2027 actuals confirmed (EPS $0.80, rev ~$2.40B); NVLink Fusion retroactive fill; joint Computex keynote June 2 |
+| 3 (DCF) | Complete | MRVL DCF re-run: IV $119.16 (MoS -44.5%, SELL/AVOID) |
+| 4 (dashboard) | Complete | All 7 prices updated; MRVL IV/MoS updated; For Arvs overwritten; catalysts updated; Session 28 notes + history row |
+| 5 (lint) | Complete | Cross-links verified (HBM false positive from case-sensitivity); concept page (custom-silicon) updated; ASML MATCH Act entity filled |
+
+### Diagnosis
+MRVL actual Q1 FY2027 revenue number was difficult to cleanly index (results released post-market, search engines showed inconsistent figures ranging from $1.41B to $2.40B). The best-available triangulation (multiple sources agreeing on EPS $0.80 beat by $0.01, revenue "beat consensus") points to approximately $2.40B at the guidance midpoint. This is a recurring pattern: post-market earnings results in the first 2 hours are not reliably indexed. No structural fix possible — this is a web indexing lag issue.
+
+### Improvement Executed
+None — no 3-session pattern triggered for this friction type.

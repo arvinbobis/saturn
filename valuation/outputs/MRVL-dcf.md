@@ -6,14 +6,14 @@
 
 | Metric | Value |
 |---|---|
-| **Intrinsic Value** | **$119.30** |
-| Current Price | $206.38 |
-| Margin of Safety | **-42.2%** |
-| Enterprise Value | $100,332M |
-| PV Stage 1 FCFFs | $10,370M |
-| PV Terminal Value | $89,963M |
-| Terminal Value (undiscounted) | $277,206M |
-| WACC (high growth) | 11.91% |
+| **Intrinsic Value** | **$119.16** |
+| Current Price | $214.59 |
+| Margin of Safety | **-44.5%** |
+| Enterprise Value | $100,206M |
+| PV Stage 1 FCFFs | $10,363M |
+| PV Terminal Value | $89,843M |
+| Terminal Value (undiscounted) | $277,007M |
+| WACC (high growth) | 11.92% |
 | WACC (stable) | 9.76% |
 | Stable ROIC | 55.44% |
 | Stable Reinvestment Rate | 5.4% |
@@ -22,7 +22,7 @@
 
 ## Story → Numbers
 
-> Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the emerging full-stack connectivity platform for AI data centers. Google (inference TPU + Memory Processing Unit, ~2M units planned), Amazon (Trainium/Inferentia; Wells Fargo forecasts $6B/yr MRVL revenue from $225B committed Trainium backlog), and Microsoft (Maia) co-design AI chips with Marvell as the engineering intermediary. FY2026 revenue hit $8.2B (+42% YoY); custom ASIC revenue scaled from $0 to $1.5B in FY2026, guiding >20% YoY growth in FY2027. Q1 FY2027 reported post-close May 27 — stock surged 13–15% after hours on a beat (actual numbers pending confirmation). Three acquisition layers deepen the connectivity moat: Celestial AI ($3.25B, Feb 2026: Photonic Fabric optical scale-up), Polariton Technologies (April 2026: plasmonics for co-packaged optics), and XConn Technologies ($540M, Feb 10, 2026: PCIe 6 + CXL 3.1 switches competing directly with Astera Labs Scorpio X). 50+ confirmed custom AI chip design wins across hyperscalers and AI-native companies. Hyperscaler CapEx $725B in 2026 (+77% YoY) directly funds Marvell's design backlog. Northland downgraded ALAB (no PT) citing CY2027 hyperscaler cash constraints — this 2027 risk applies to MRVL equally; monitor. Bears: Goldman Sachs $125 (sole bear in 33 analysts), Northland's 2027 spending slowdown thesis. Risk: CAGR relies on sustained hyperscaler ASIC expansion and on-time delivery of 50+ design win programs through FY2028–2029.
+> Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the full-stack connectivity platform for AI data centers. Google (inference TPU + Memory Processing Unit, ~2M units planned), Amazon (Trainium/Inferentia; Wells Fargo forecasts $6B/yr MRVL revenue from $225B committed backlog), and Microsoft (Maia) co-design chips with Marvell as engineering intermediary. FY2026 revenue hit $8.2B (+42% YoY); Q1 FY2027 confirmed beat: EPS $0.80 (beat $0.79), revenue ~$2.40B at guidance midpoint; FY2027 reaffirmed approaching $11B, FY2028 ~$15B. Three acquisitions deepen the moat: Celestial AI ($3.25B, Feb 2026: Photonic Fabric), Polariton Technologies (April 2026: plasmonics), XConn Technologies ($540M, Feb 10, 2026: PCIe 6+CXL 3.1 switches vs. ALAB Scorpio X). NVIDIA invested $2B in Marvell (March 31, 2026) via NVLink Fusion — Marvell custom XPUs now integrate into NVIDIA rack-scale AI architecture, expanding addressable market to include NVIDIA-centric infrastructure. Jensen Huang and Matt Murphy deliver joint Computex keynote June 2 titled 'The Future of AI Depends on Connectivity' — first joint stage appearance since NVLink Fusion announced. 50+ confirmed custom AI chip design wins. Hyperscaler CapEx $725B in 2026 (+77% YoY). Bears: Goldman $125 solo bear, 2027 hyperscaler cash constraint risk (Northland); this 2027 risk applies equally to MRVL. CAGR relies on sustained hyperscaler ASIC programs through FY2028-2029.
 
 ## Assumptions & Justifications
 
@@ -58,14 +58,14 @@
 |---|---|---|---|---|---|---|
 | 1 | 10,244 | -2.0% | -182 | 1,024 | -1,206 | -1,078 |
 | 2 | 12,805 | 1.8% | 208 | 1,280 | -1,073 | -856 |
-| 3 | 16,006 | 5.6% | 804 | 1,601 | -797 | -569 |
+| 3 | 16,006 | 5.6% | 804 | 1,601 | -797 | -568 |
 | 4 | 20,007 | 9.3% | 1,684 | 2,001 | -317 | -202 |
-| 5 | 25,009 | 13.1% | 2,955 | 2,501 | 454 | 259 |
+| 5 | 25,009 | 13.1% | 2,955 | 2,501 | 454 | 258 |
 | 6 | 31,261 | 16.9% | 4,755 | 3,126 | 1,629 | 829 |
 | 7 | 39,077 | 20.7% | 7,272 | 3,908 | 3,364 | 1,530 |
-| 8 | 48,846 | 24.4% | 10,749 | 4,885 | 5,864 | 2,384 |
-| 9 | 61,058 | 28.2% | 15,510 | 6,106 | 9,405 | 3,416 |
-| 10 | 76,322 | 32.0% | 21,981 | 7,632 | 14,348 | 4,657 |
+| 8 | 48,846 | 24.4% | 10,749 | 4,885 | 5,864 | 2,382 |
+| 9 | 61,058 | 28.2% | 15,510 | 6,106 | 9,405 | 3,414 |
+| 10 | 76,322 | 32.0% | 21,981 | 7,632 | 14,348 | 4,654 |
 
 ## Sensitivity — Intrinsic Value per Share
 
@@ -74,10 +74,10 @@
 | Revenue CAGR | WACC ~8% | WACC ~10% | WACC ~12% |
 |---|---|---|---|
 | 8% | $270 | $66 | $31 |
-| 12% | $382 | $91 | $41 |
+| 12% | $383 | $91 | $41 |
 | 16% | $538 | $124 | $54 |
 | 20% | $749 | $169 | $71 |
-| 25% | $1,118 | $248 | $102 |
+| 25% | $1,119 | $248 | $102 |
 
 ---
 *Inputs: `valuation/inputs/MRVL.json` — populate from earnings + web search.*

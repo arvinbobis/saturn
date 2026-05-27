@@ -445,3 +445,12 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: MRVL — event-driven (Q1 FY2027 earnings post-close tonight; XConn $540M acquisition gap filled after 26 sessions) | DCF: MRVL — IV $119.30 (MoS -42.2%) SELL/AVOID | Concepts: cowos.md (TSMC 4× CoWoS expansion, $56B capex, NVDA pre-committed >50% through 2027), custom-silicon.md (XConn PCIe 6/CXL 3.1 extends MRVL connectivity stack) | Watchlist: none (Phase 1c gated; 27%6=3) | Podcast: none (Phase 1b gated; 27%6=3)
 Notable: MRVL Q1 FY2027 earnings reported post-close — stock surged 13–15% after hours per TIKR/Stocktwits; actual numbers not yet indexed (Session 28 to capture). XConn Technologies ($540M, PCIe 6 + CXL 3.1 switches) was a 26-session entity gap now filled — directly competes with ALAB Scorpio X. TSMC committed $56B capex for 4× CoWoS expansion (35K→130K WPM). Northland downgraded ALAB to Market Perform (no PT, from $225 Outperform), citing 2027 hyperscaler cash-constraint risk.
 No significant news: MU (~$894 est flat), ASML (~$1,633 est flat), NVDA (~$215 est flat)
+
+## [2026-05-27 22:30 UTC] session-28
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — Q1 FY2027 actuals confirmed (event_queue priority)
+Notable: NVIDIA invested $2B in Marvell via NVLink Fusion (March 31, 2026) — a major entity gap filled; this converts MRVL from a pure custom-silicon alternative to NVIDIA into a certified NVIDIA ecosystem partner, doubling the addressable TAM. Q1 FY2027: EPS $0.80 (beat), rev ~$2.40B at guidance midpoint; after-hours settled $214.59 (+7% net, not 13-15% as Session 27 estimated — that was the March Q4 FY2026 event). Jensen Huang + Matt Murphy confirmed for joint Computex keynote June 2. ASML -2.7% on MATCH Act (US DUV servicing ban proposal). MU extended to $962.50 (+7.4%, two-day gain +29%).
+No significant news: ANET (quiet, -0.4%)
+DCF run: MRVL — IV $119.16, MoS -44.5%, Rec: SELL/AVOID
+Concept pages updated: custom-silicon (NVLink Fusion converts MRVL TAM)

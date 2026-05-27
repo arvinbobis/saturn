@@ -72,11 +72,15 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **Amazon $225B Trainium commitment backlog (exiting Q1 2026 calendar) is the largest single-customer quantification of custom silicon demand to date** — Wells Fargo's May 20 channel check revealed Amazon had $225B in committed Trainium deployments exiting Q1 2026. At Marvell's estimated revenue share per cluster, this underpins Wells Fargo's $6B annual Trainium-related revenue forecast for FY2027 and FY2028. The $225B figure reframes the custom silicon thesis from "emerging" to "committed infrastructure program at scale." This is not CapEx guidance; it is committed deployment — meaning the silicon co-design work (Marvell), manufacturing (TSMC), and connectivity (Astera Labs) are already contracted downstream. Custom silicon is no longer a thesis about what hyperscalers might do; it is now quantifiably underwritten.
 
+### 2026-05-27 — MRVL (Session 28)
+
+**NVIDIA $2B investment in Marvell via NVLink Fusion (March 31, 2026) converts the custom silicon thesis from zero-sum to additive** — NVLink Fusion allows Marvell custom XPUs to integrate directly into NVIDIA GPU-centric racks, with NVIDIA's Vera CPU, ConnectX NICs, BlueField DPUs, and Spectrum-X switches supporting the combined system. This means hyperscalers no longer have to choose between NVIDIA GPUs or Marvell custom ASICs — they can run both in the same rack. For the custom silicon thesis, this is material: the TAM is no longer capped by what hyperscalers choose to migrate away from NVIDIA; it expands to include mixed workloads in NVIDIA-infrastructure clusters. NVIDIA investing $2B validates that custom silicon at hyperscale is a permanent feature, not an experiment. Q1 FY2027 confirmed (May 27): EPS $0.80, revenue ~$2.40B, FY2027 approaching $11B, FY2028 ~$15B. Source: NVIDIA Newsroom / Marvell IR, 2026-03-31; Earnings: Investing.com, 2026-05-27.
+
 ---
 
 ## Cross-links
 
-- [[MRVL]] — primary beneficiary; co-designs hyperscaler custom ASICs
+- [[MRVL]] — primary beneficiary; co-designs hyperscaler custom ASICs; NVLink Fusion + NVIDIA $2B investment
 - [[TSM]] — manufactures all custom silicon; additive demand on top of NVIDIA/AMD wafers
-- [[NVDA]] — threatened at inference; maintains training dominance via CUDA
+- [[NVDA]] — NVLink Fusion: now a partner, not just a competitor at inference; maintains training dominance via CUDA
 - [[ANET]] — custom silicon clusters still need networking infrastructure; Arista benefits
