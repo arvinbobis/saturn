@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 27 — 2026-05-27
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers: TSM ~$409 (range $402-410), ALAB $318.72 confirmed, MU ~$894 est, others estimated. MRVL Q1 FY2027 reported post-close (13–15% AH surge, exact numbers not indexed yet). Hyperscaler CapEx $725B +77% confirmed. TSMC 4× CoWoS expansion ($56B capex) confirmed. Northland downgraded ALAB. |
+| 1b (podcasts) | Gated | 27%6=3 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 27%6=3 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | MRVL event-driven. Entity updated: XConn $540M acquisition (26-session gap filled), post-earnings headline, CoWoS/Vera Rubin context, Northland ALAB downgrade, hyperscaler CapEx confirmation. CoWoS and custom-silicon concept pages updated. |
+| 3 (DCF) | Complete | MRVL DCF run. IV $119.30 (MoS -42.2%, SELL/AVOID). Stock price updated to $206.38 (May 26 confirmed close). Story narrative updated with XConn, post-earnings state, Northland risk. Note: TTM revenue still FY2026 annual ($8.2B); update to TTM+Q1FY27 in Session 28 once actuals indexed. |
+| 4 (dashboard) | Complete | For Arvs overwritten; Portfolio Snapshot MRVL row updated (IV/MoS/Rec/Story/Last DCF); price estimates updated for all 7; ALAB Northland PT added; MRVL catalyst row updated to REPORTED; Session 27 notes + history row appended; header updated |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; MRVL catalyst row updated; CoWoS and custom-silicon updated; HBM and dram-cycle within 14 days (last entry 2026-05-26); cross-links verified (HBM reference in entities → concepts/HBM.md exists; no broken links) |
+
+### Diagnosis
+Primary friction: MRVL Q1 FY2027 actual numbers (revenue, EPS, Q2 guidance) not yet indexed — earnings call at 1:45 PM PT today is too fresh for search indexing. This is a timing constraint, not a search strategy problem. The correct response is to keep MRVL in event_queue for Session 28. Secondary finding: XConn acquisition ($540M, Feb 10, 2026) was absent from 26 sessions — a significant entity gap filled this session via a broader search that surfaced the BusinessWire conference call announcement mentioning "Celestial AI and XConn Technologies." No systemic fix needed for this type of omission.
+
+### Improvement Executed
+None — no 3-session pattern identified. Podcast gate already at %6 (changed Session 24). XConn gap was a research omission now corrected, not a structural process problem.
+
+---
+
 ## Session 25 — 2026-05-27
 
 ### Phase Scores

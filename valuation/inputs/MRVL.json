@@ -1,8 +1,8 @@
 {
   "_comment": "Damodaran FCFF inputs for Marvell Technology (MRVL). Amounts in USD millions.",
-  "_last_updated": "2026-05-22",
-  "_data_source": "FY2026 annual results (year ended Jan 31, 2026). SEC 8-K filed March 5, 2026. Balance sheet data from MarketBeat/search. R&D history from SEC filings.",
-  "_note": "MRVL fiscal year ends January. FY2026 = Feb 2025 – Jan 2026. GAAP EBIT is deeply negative due to acquired intangibles amortization (~$639M) and large SBC. R&D capitalization partially offsets. Non-GAAP operating margin was 35%.",
+  "_last_updated": "2026-05-27",
+  "_data_source": "FY2026 annual results (year ended Jan 31, 2026). SEC 8-K filed March 5, 2026. Balance sheet data from MarketBeat/search. R&D history from SEC filings. Q1 FY2027 actual numbers pending Session 28 (reported post-close May 27 but not yet indexed). NOTE: include XConn $540M acquisition (completed Feb 10, 2026) in debt/equity treatment if available.",
+  "_note": "MRVL fiscal year ends January. FY2026 = Feb 2025 – Jan 2026. GAAP EBIT is deeply negative due to acquired intangibles amortization (~$639M) and large SBC. R&D capitalization partially offsets. Non-GAAP operating margin was 35%. Stock surged 13-15% after Q1 FY2027 earnings (May 27 post-close) per TIKR/Stocktwits; actual Q1 numbers TBD Session 28.",
 
   "ticker": "MRVL",
 
@@ -18,7 +18,7 @@
   "non_operating_assets_usd_m": 0,
   "minority_interests_usd_m": 0,
   "shares_outstanding_m": 874,
-  "current_stock_price": 177.95,
+  "current_stock_price": 206.38,
 
   "rd_expense_usd_m": 2075,
   "rd_history_usd_m": [1424, 1784, 1896, 1950],
@@ -39,7 +39,7 @@
   "sales_to_capital_ratio_high": 2.0,
   "sales_to_capital_ratio_stable": 2.2,
 
-  "story_narrative": "Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute. Google (inference TPU + Memory Processing Unit, ~2M units planned), Amazon (Trainium/Inferentia ramp at AWS), and others co-design AI chips with Marvell as the engineering intermediary. FY2026 revenue hit $8.2B (+42% YoY), with data center as the dominant segment. NVIDIA's Q1 FY2027 beat ($81.6B revenue, +85% YoY, $91B Q2 guidance) confirms the AI infrastructure buildout is not decelerating — hyperscaler CapEx is tracking $600-700B in 2026, directly funding Marvell's design backlog. NVIDIA's own $2B strategic investment in Marvell validates the custom silicon and optical connectivity thesis. Multiple sell-side analysts have targets above $200 (Citi $215, Melius $220, B. Riley $205, RBC $200). Q1 FY2027 earnings on May 27 are the near-term catalyst — consensus expects $2.40B revenue and raised FY2027 guidance above $11.12B. The Polariton Technologies acquisition (April 2026) deepens optical IP for co-packaged optics. Risk: custom ASIC program timing slippage, Broadcom competition, NVDA maintaining inference dominance longer than expected.",
+  "story_narrative": "Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the emerging full-stack connectivity platform for AI data centers. Google (inference TPU + Memory Processing Unit, ~2M units planned), Amazon (Trainium/Inferentia; Wells Fargo forecasts $6B/yr MRVL revenue from $225B committed Trainium backlog), and Microsoft (Maia) co-design AI chips with Marvell as the engineering intermediary. FY2026 revenue hit $8.2B (+42% YoY); custom ASIC revenue scaled from $0 to $1.5B in FY2026, guiding >20% YoY growth in FY2027. Q1 FY2027 reported post-close May 27 — stock surged 13–15% after hours on a beat (actual numbers pending confirmation). Three acquisition layers deepen the connectivity moat: Celestial AI ($3.25B, Feb 2026: Photonic Fabric optical scale-up), Polariton Technologies (April 2026: plasmonics for co-packaged optics), and XConn Technologies ($540M, Feb 10, 2026: PCIe 6 + CXL 3.1 switches competing directly with Astera Labs Scorpio X). 50+ confirmed custom AI chip design wins across hyperscalers and AI-native companies. Hyperscaler CapEx $725B in 2026 (+77% YoY) directly funds Marvell's design backlog. Northland downgraded ALAB (no PT) citing CY2027 hyperscaler cash constraints — this 2027 risk applies to MRVL equally; monitor. Bears: Goldman Sachs $125 (sole bear in 33 analysts), Northland's 2027 spending slowdown thesis. Risk: CAGR relies on sustained hyperscaler ASIC expansion and on-time delivery of 50+ design win programs through FY2028–2029.",
   "story_revenue_cagr": "25% reflects rapid ramp of confirmed custom ASIC programs (Google TPU+MPU, Amazon Trainium) compounding through FY2027-FY2030, then moderating. FY2027 consensus at $11.12B implies +35% growth in year 1 — front-loaded. 25% average over 10 years requires sustained hyperscaler ASIC momentum and new design wins.",
   "story_target_margin": "32% target EBIT margin (on GAAP+R&D-cap basis). GAAP EBIT is currently distorted by large SBC and acquired intangibles amortization (~$639M/yr from Inphi/Cavium acquisitions). Non-GAAP operating margin is already 35% in FY2026. As AI data center mix grows and legacy enterprise/carrier declines, GAAP margin expands toward target. 32% is achievable if SBC normalizes as a % of revenue as the company matures.",
   "story_growth_years": "10 years — custom ASIC program cycles are 2–3 years each; multiple hyperscaler programs staggered. Google TPU+MPU + Amazon Trainium + new wins (Microsoft, Meta) staggered through FY2028-FY2032.",

@@ -53,6 +53,10 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 
 **Q1 2026 operating margin 58.1% (up from 50.8% FY2025 avg); 2026 CapEx guided $52-56B for CoWoS and N2 capacity** — The operating margin expansion from 50.8% to 58.1% reflects rising AI-HPC revenue mix (now >75% of revenue from North America) and CoWoS pricing power. The 2026 CapEx guide ($52-56B vs. $41B in FY2025) confirms CoWoS remains an active bottleneck requiring continued capital investment. NVIDIA's Vera Rubin and next-gen HBM4 integration will require TSMC CoWoS for the entire roadmap through at least 2028.
 
+### 2026-05-27 — TSM / NVDA
+
+**TSMC targeting 4x CoWoS capacity expansion: ~35,000 WPM (late 2024) → 120,000–140,000 WPM by end 2026; NVIDIA pre-committed >50% through 2027** — Jensen Huang flew to Taipei on May 23 specifically to secure production commitments from TSMC Chairman C.C. Wei for Vera Rubin. The bottleneck is packaging (CoWoS), not silicon fabrication. TSMC has committed $56B capex to expand CoWoS for the Rubin era. NVIDIA's Vera Rubin NVL72 is the first GPU platform to use CoWoS-L (the latest long-reach variant) alongside 8-layer HBM4 on TSMC N3P (3nm) — every one of these chips requires TSMC CoWoS packaging. Jensen declared Vera Rubin "the largest product launch probably in the history of Taiwan." The CoWoS constraint is now a KNOWN, QUANTIFIED bottleneck: TSMC is executing the largest advanced packaging capacity ramp in semiconductor history, and supply remains tighter than demand through 2026. Source: TechTimes / NVIDIA Blog / FinancialContent, 2026-05-24. — This confirms CoWoS is the single point of constraint for the entire Blackwell→Rubin transition; every custom ASIC (Marvell, Google TPU, Amazon Trainium) and every NVIDIA GPU requires CoWoS capacity. The 4x expansion is bullish for TSMC revenue per wafer and confirms TSMC's structural pricing power in advanced packaging through 2028.
+
 ---
 
 ## Cross-links

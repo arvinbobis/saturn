@@ -438,3 +438,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: MU — event-driven (price +18% to $894, UBS PT $535→$1,625 +204%, $1T market cap milestone) | DCF: MU — IV $442.63 (MoS -50.5%) SELL/AVOID | Concepts: HBM.md, dram-cycle.md | Watchlist: none (Phase 1c gated; 26%6=2) | Podcast: none (Phase 1b gated; 26%6=2)
 Notable: Micron crossed $1 trillion market cap for the first time (+18% to $894) — UBS raised PT from $535 to $1,625 (+204%), citing HBM ASP model raised to +50% YoY and LTAs with NVIDIA through 2029; our conservative DCF gives IV $442.63 (MoS -50.5%), reflecting cycle mean-reversion assumptions vs. UBS's structural franchise pricing. ANET price corrected from stale $137.53 to actual May 26 close $158.68 (MoS -20.0%, SELL/AVOID — session 24's HOLD was based on wrong price). MRVL at ATH ~$212 (+7.7%) heading into tonight's Q1 FY2027 post-close earnings.
 No significant news: ASML (Amsterdam -2.8% EUR, ~$1,600 USD est), NVDA (~$215 est flat), TSM ($404.52 -0.6%), Samsung vote result pending
+
+## [2026-05-27 18:00 UTC] session-27
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: MRVL — event-driven (Q1 FY2027 earnings post-close tonight; XConn $540M acquisition gap filled after 26 sessions) | DCF: MRVL — IV $119.30 (MoS -42.2%) SELL/AVOID | Concepts: cowos.md (TSMC 4× CoWoS expansion, $56B capex, NVDA pre-committed >50% through 2027), custom-silicon.md (XConn PCIe 6/CXL 3.1 extends MRVL connectivity stack) | Watchlist: none (Phase 1c gated; 27%6=3) | Podcast: none (Phase 1b gated; 27%6=3)
+Notable: MRVL Q1 FY2027 earnings reported post-close — stock surged 13–15% after hours per TIKR/Stocktwits; actual numbers not yet indexed (Session 28 to capture). XConn Technologies ($540M, PCIe 6 + CXL 3.1 switches) was a 26-session entity gap now filled — directly competes with ALAB Scorpio X. TSMC committed $56B capex for 4× CoWoS expansion (35K→130K WPM). Northland downgraded ALAB to Market Perform (no PT, from $225 Outperform), citing 2027 hyperscaler cash-constraint risk.
+No significant news: MU (~$894 est flat), ASML (~$1,633 est flat), NVDA (~$215 est flat)
