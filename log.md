@@ -445,3 +445,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: MRVL — event-driven (Q1 FY2027 earnings post-close tonight; XConn $540M acquisition gap filled after 26 sessions) | DCF: MRVL — IV $119.30 (MoS -42.2%) SELL/AVOID | Concepts: cowos.md (TSMC 4× CoWoS expansion, $56B capex, NVDA pre-committed >50% through 2027), custom-silicon.md (XConn PCIe 6/CXL 3.1 extends MRVL connectivity stack) | Watchlist: none (Phase 1c gated; 27%6=3) | Podcast: none (Phase 1b gated; 27%6=3)
 Notable: MRVL Q1 FY2027 earnings reported post-close — stock surged 13–15% after hours per TIKR/Stocktwits; actual numbers not yet indexed (Session 28 to capture). XConn Technologies ($540M, PCIe 6 + CXL 3.1 switches) was a 26-session entity gap now filled — directly competes with ALAB Scorpio X. TSMC committed $56B capex for 4× CoWoS expansion (35K→130K WPM). Northland downgraded ALAB to Market Perform (no PT, from $225 Outperform), citing 2027 hyperscaler cash-constraint risk.
 No significant news: MU (~$894 est flat), ASML (~$1,633 est flat), NVDA (~$215 est flat)
+
+## [2026-05-27 22:00 UTC] session-28
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: MRVL — event-driven (Q1 FY2027 actuals confirmed from SEC 8-K: $2.418B +28%, EPS $0.80; Q2 guide $2.7B +35%; FY2027 ~$11B raised; FY2028 first-time mgmt guidance $15B) | DCF: MRVL — IV $126.75 (MoS -40.9%) SELL/AVOID (TTM revenue updated to $8,722M) | Concepts: custom-silicon.md (FY2028 $15B guidance is first management-endorsed multi-year custom ASIC revenue commitment) | Watchlist: none (Phase 1c gated; 28%6=4) | Podcast: none (Phase 1b gated; 28%6=4)
+Notable: MRVL FY2028 first-time management guidance of $15B (~40% YoY from $11B FY2027) is the session's standout finding — converts the custom silicon thesis from analyst-modeled to management-underwritten. ASML -2.7% today with CEO still unable to confirm 2026 revenue growth — most concerning near-term narrative in the portfolio. NVDA Computex GTC Taipei keynote June 1 tonight (US time); Session 29 priority.
+No significant news: ANET ($158.01, -0.4%), ALAB ($320.98, +0.7%)

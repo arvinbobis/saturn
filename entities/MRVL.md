@@ -3,7 +3,7 @@
 > The primary co-designer of custom AI ASICs for hyperscalers —
 > the company that enables Google, Amazon, Microsoft, and Meta to reduce their NVIDIA dependency.
 
-*Last updated: 2026-05-20 | Wisesheets data as of: not yet pulled*
+*Last updated: 2026-05-27 | Wisesheets data as of: not yet pulled*
 
 ---
 
@@ -57,6 +57,21 @@ Beyond custom AI ASICs, Marvell sells programmable networking chips (Teralynx, P
 | CapEx | — | — | **$354** |
 | D&A (PP&E) | — | — | **~$374** |
 
+### Quarterly Revenue (USD millions)
+
+| Quarter | Revenue | YoY | Notes |
+|---|---|---|---|
+| Q1 FY2026 (May 2025) | $1,891 | — | Estimated (FY2026 total minus Q2-Q4) |
+| Q2 FY2026 (Aug 2025) | $2,010 | +58% | |
+| Q3 FY2026 (Nov 2025) | $2,075 | +37% | Record at time |
+| Q4 FY2026 (Jan 2026) | $2,219 | +22% | Record at time |
+| **Q1 FY2027 (Apr 2026)** | **$2,418** | **+28%** | **Beat guide $2.40B by $18M; new record** |
+
+**Management Guidance (from Q1 FY2027 earnings call, 2026-05-27):**
+- Q2 FY2027: $2.7B midpoint (±5%); +35% YoY
+- FY2027 full year: >30% YoY, approaching ~$11B (raised from ~$10B prior); Q4 FY2027 exit >$3B
+- FY2028 first-time guidance: ~$15B (~40% YoY)
+
 ### Balance Sheet (as of January 31, 2026)
 
 | Metric | Value |
@@ -104,11 +119,10 @@ FY2026 summary: Data Center is the dominant segment, driving the +42% YoY total 
 
 | Catalyst | Expected Timing | Status |
 |---|---|---|
-| Q1 FY2027 Earnings (May 27) | 2026-05-27 | 5 days out; consensus $2.40B revenue; options price ~13% move |
-| Google inference TPU + MPU program confirmation | May 27 earnings call | Watch for volume timeline and production schedule |
-| FY2027 guidance raise | May 27 earnings call | Consensus $11.12B; management expected to raise above this |
-| Trainium volume ramp visibility | H2 2026 | AWS deployment scale-out; cited by Wells Fargo as key driver |
-| Co-packaged optics revenue (post-Polariton) | 2026-2027 | Integration timeline unclear; watch R&D commentary |
+| Computex keynote — CEO Matt Murphy | 2026-06-02 | "The Future of AI Scaling Depends on Connectivity"; post-earnings product showcase; first head-to-head with ALAB Scorpio X |
+| Trainium volume ramp visibility | H2 2026 | AWS deployment scale-out; $225B committed backlog; WF forecasts $6B/yr MRVL revenue |
+| Co-packaged optics revenue (Celestial AI + Polariton) | FY2028 | Integration of 3 photonic IP layers; first combined-product revenue commentary expected FY2028 |
+| XConn PCIe 6 / CXL 3.1 design wins | FY2028 | Revenue ~$100M FY2028; Scorpio X head-to-head ongoing at Computex |
 
 ### Archived Catalysts
 
@@ -117,6 +131,7 @@ FY2026 summary: Data Center is the dominant segment, driving the +42% YoY total 
 | NVIDIA $2B strategic investment in MRVL | March 2026 | Confirmed; validates optical + custom silicon thesis |
 | AMD 13F stake disclosure | 2026-05-13 | MRVL +10% on day; both NVDA and AMD invested = ecosystem validation |
 | NVDA Q1 FY2027 earnings read-through | 2026-05-20 | NVDA +85% YoY revenue confirms AI buildout acceleration; MRVL continued rally |
+| Q1 FY2027 Earnings | 2026-05-27 | Revenue $2.418B (+28% YoY, beat guide by $18M); EPS $0.80 (beat $0.79 est.); Q2 guide $2.7B (+35%); FY2027 raised to ~$11B; FY2028 first-time guide ~$15B |
 
 ---
 
@@ -265,6 +280,18 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 **NVIDIA Vera Rubin uses TSMC CoWoS-L + 8-layer HBM4 for first time — TSMC packaging bottleneck now the AI supply chain constraint, not silicon:** Jensen Huang (arrived Taipei May 23) is meeting TSMC Chairman C.C. Wei to secure CoWoS production commitments for Vera Rubin. The constraint is packaging, not silicon — TSMC is scaling CoWoS from ~35,000 WPM (late 2024) to 120,000–140,000 WPM by end 2026 (nearly 4×). TSMC has committed $56B capex toward this expansion. NVIDIA has pre-committed >50% of TSMC's CoWoS capacity through 2027. The Vera Rubin NVL72 includes 36 Vera CPUs + 72 Rubin GPUs on TSMC N3P, CoWoS-L, with 8-layer HBM4 — the first GPU platform to use HBM4. Jensen called it "the largest product launch probably in the history of Taiwan." Source: TechTimes / NVIDIA Blog / FinancialContent, 2026-05-24. *Thesis bearing: Confirms — Marvell's custom ASICs are all manufactured at TSMC using the same CoWoS capacity; the capacity expansion that enables Vera Rubin also unlocks the next generation of custom ASIC designs (Google inference TPU, Trainium successor). TSMC CoWoS bottleneck remains through 2026, confirming the manufacturing choke point thesis across both NVDA and custom silicon programs.*
 
 **Northland downgrades ALAB to Market Perform (no PT) on 2027 hyperscaler spending risk — indirect MRVL read-through:** Northland Capital Markets downgraded Astera Labs from Outperform to Market Perform on May 26, citing: (1) P/E 204 (stretched valuation); (2) hyperscalers could become cash-constrained by CY2027, with datacenter spending potentially declining; and (3) XConn (now Marvell) PCIe 6 switches sampling creates direct competition. ALAB fell ~3.8% on May 27 morning. MRVL's XConn acquisition positions it to capture PCIe/CXL connectivity revenue ALAB currently holds. Source: Northland Capital / Investing.com / Daily Political, 2026-05-26. *Thesis bearing: Neutral — the hyperscaler cash constraint risk for 2027 applies equally to MRVL (custom ASIC revenues follow CapEx). The competitive displacement story is a medium-term (FY2028) event, not near-term.*
+
+---
+
+### 2026-05-27 (Session 28 — Q1 FY2027 Actuals)
+
+**Q1 FY2027 results confirmed: Revenue $2.418B (+28% YoY), non-GAAP EPS $0.80 — beat-and-raise.** Actual numbers now indexed from SEC 8-K filed May 27, 2026. Revenue beat the $2.40B guidance midpoint by $18M and the +27% YoY consensus. Non-GAAP EPS of $0.80 beat the $0.79 estimate. This is a new quarterly revenue record. Source: Marvell Technology 8-K / SEC EDGAR, 2026-05-27. *Thesis bearing: Confirms — first hard earnings confirmation of the FY2027 revenue ramp; management delivered on Q1 within range and is now guiding Q2 and full year materially higher.*
+
+**Q2 FY2027 guidance: $2.7B midpoint (+35% YoY).** The $2.7B Q2 midpoint (±5%) implies $150M above Q1's $2.418B — sequential acceleration consistent with data center segment ramping through the year. +35% YoY growth in Q2 accelerates from Q1's +28%, driven by continued hyperscaler ASIC ramp and expanding optical connectivity shipments. Source: Marvell investor call / 8-K, 2026-05-27. *Thesis bearing: Confirms — sequential acceleration in Q2 guidance is strong signal that the custom ASIC production ramp (Trainium, Google TPU, XPU programs) is expanding, not plateauing.*
+
+**FY2027 guidance raised to ~$11B; FY2028 first-time management guidance: ~$15B (+40% YoY).** Management raised FY2027 revenue outlook to "approach ~$11B" (>30% YoY from $8.195B FY2026), up from the prior ~$10B implied guidance. This means management crossed the $11B threshold that was previously only an analyst consensus estimate. FY2028 guidance of ~$15B is the first formal management long-range guidance — +36% from $11B FY2027. Q4 FY2027 exit rate guided >$3B (quarterly). Data center segment: >$6B in FY2026 (+46% YoY), expected +40% FY2027, +50% FY2028. Custom ASIC: $1.5B FY2026 (doubled YoY), >20% FY2027, at least doubling FY2028 (>$3B). Source: Marvell earnings call / TIKR analyst summary, 2026-05-27. *Thesis bearing: Strongly Confirms — this is the most important single data point in the MRVL entity. First-time management FY2028 guidance of $15B puts a number on what was previously analyst conjecture. Custom ASIC revenue doubling again in FY2028 (to >$3B) confirms the Google+Amazon+Microsoft programs are tracking to volume. The 10-year DCF CAGR assumption of 25% is now supported by management's own 2-year roadmap showing 34-36% YoY growth.*
+
+**Stock price context: AH ~$214.59 (down from AH high ~$220, regular session close ~$208).** Stock traded up ahead of earnings (closed regular session ~$208 after a 10% pre-earnings run) and initially surged to ~$220–222 AH on the beat. Has since settled to $214.59 AH (-3% from AH peak) as the market digested that FY2027 guidance of ~$11B, while raised from mgmt's implicit ~$10B, was broadly in line with analyst consensus ($11.12B). The beat was clean but not dramatically above the elevated buy-side bar. Source: CNBC / Investing.com, 2026-05-27. *Thesis bearing: Neutral — the AH retreat from $220 to $214 suggests the guidance didn't provide a new upside surprise versus what the most optimistic analysts had already modeled. This is consistent with the stock having run 183% since March 5 — much of the good news was pre-discounted.*
 
 ---
 

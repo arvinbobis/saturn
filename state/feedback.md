@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 28 — 2026-05-27
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers: TSM $412.32 (+1.9%), MU $915.69 (+2.4%), ASML $1,587.29 (-2.7%), NVDA $213.95 (-0.5%), MRVL AH $214.59 (+3.9% AH), ANET $158.01 (-0.4%), ALAB $320.98 (+0.7%). MRVL Q1 FY2027 actuals indexed from 8-K. ASML CEO "cannot confirm 2026 growth" — key threat. TrendForce Q2 DRAM +58-63% QoQ confirmed. NVDA Computex June 1 tonight. |
+| 1b (podcasts) | Gated | 28%6=4 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 28%6=4 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | MRVL — Q1 actuals captured ($2.418B, EPS $0.80), Q2 guide ($2.7B), FY2027 raised (~$11B), FY2028 first-time guidance ($15B). Entity updated with quarterly table, guidance detail, and actuals entry. Financials table updated. Custom-silicon concept page updated. |
+| 3 (DCF) | Complete | MRVL DCF re-run: TTM $8,722M, IV $126.75, MoS -40.9%, SELL/AVOID. MoS improved marginally from -42.2% to -40.9%. |
+| 4 (dashboard) | Complete | For Arvs overwritten; Portfolio Snapshot: all 7 prices updated, MRVL IV/MoS/Rec/Story updated; institutional entry table updated; MRVL catalyst row updated to COMPLETE; Session 28 notes + history row appended; header updated |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; no stale catalysts; concept pages within 14 days (all updated May 25-27); cross-links verified OK |
+
+### Diagnosis
+Session ran cleanly — primary task (MRVL actuals capture + DCF re-run) completed efficiently. MRVL SEC 8-K indexed within the session window, unlike Session 27 where the call was too fresh. FY2028 $15B management guidance was the material new finding not in prior sessions. No friction points.
+
+### Improvement Executed
+None — no 3-session pattern identified. Session ran to plan.
+
+---
+
 ## Session 27 — 2026-05-27
 
 ### Phase Scores

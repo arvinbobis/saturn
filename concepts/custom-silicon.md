@@ -72,6 +72,10 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **Amazon $225B Trainium commitment backlog (exiting Q1 2026 calendar) is the largest single-customer quantification of custom silicon demand to date** — Wells Fargo's May 20 channel check revealed Amazon had $225B in committed Trainium deployments exiting Q1 2026. At Marvell's estimated revenue share per cluster, this underpins Wells Fargo's $6B annual Trainium-related revenue forecast for FY2027 and FY2028. The $225B figure reframes the custom silicon thesis from "emerging" to "committed infrastructure program at scale." This is not CapEx guidance; it is committed deployment — meaning the silicon co-design work (Marvell), manufacturing (TSMC), and connectivity (Astera Labs) are already contracted downstream. Custom silicon is no longer a thesis about what hyperscalers might do; it is now quantifiably underwritten.
 
+### 2026-05-27 — MRVL
+
+**Q1 FY2027 actuals confirm custom ASIC ramp on track: $2.418B (+28% YoY); FY2028 management guidance $15B is the first formal multi-year revenue commitment from any custom silicon co-designer** — Marvell's Q1 FY2027 result ($2.418B revenue, $0.80 non-GAAP EPS) beat estimates and management raised FY2027 to ~$11B (from ~$10B) and gave first-time FY2028 guidance of ~$15B (~40% YoY). Custom ASIC revenue alone guided to at least 2× in FY2028 (>$3B from $1.5B FY2026). Data center segment expected +50% YoY in FY2028. This is the first time a co-designer has given management-endorsed multi-year revenue guidance anchored to custom silicon programs — converting the custom silicon thesis from analyst-modeled to management-underwritten. The $15B FY2028 target implies Marvell's custom ASIC + connectivity business is on track to exceed $6B by FY2028, validating the hyperscaler co-design franchise thesis across 3 confirmed programs (Google, Amazon, Microsoft). Source: Marvell 8-K / earnings call, 2026-05-27.
+
 ---
 
 ## Cross-links

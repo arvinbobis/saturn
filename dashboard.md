@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-27 | Session #27
+Last updated: 2026-05-27 | Session #28
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-27 | Session #27
 
 ### Action Items
 
-1. **MRVL Q1 FY2027 beat — stock surged 13–15% after hours (~$233–237 est.). Session 28 PRIORITY:** Capture actual Q1 revenue vs. $2.40B guidance, EPS vs. $0.79 est., Q2 FY2027 guidance, and FY2027 full-year guidance raise (vs. prior ~$11B). Update MRVL.json TTM revenue, re-run DCF with actuals. Also note XConn PCIe 6/CXL 3.1 switch competitive dynamic vs. ALAB heading into Computex June 2-5.
-2. **NVDA Computex keynote June 1 (Mon 11am Taipei time) — single most important event for 3 tickers.** Jensen Huang confirming Vera Rubin production timeline (cut from 2M to 1.5M units due to HBM4 shortage). Watch: (a) CoWoS-L allocation from TSMC ($56B capex expansion announced, 4× to 130K WPM); (b) Vera Rubin ship date vs. prior calendar; (c) MRVL CEO Murphy keynotes June 2 post-earnings — head-to-head with ALAB Scorpio X at first Computex since both PCIe 6 switch products are shipping.
-3. **ALAB Northland downgrade to Market Perform (no PT, from $225 Outperform) — first step-down from unanimous bull camp.** Rationale: P/E 204 + hyperscalers may become cash-constrained by CY2027, with datacenter spending potentially declining. ALAB at $318 (-0.5% May 27). Still 19 buy/7 hold/0 sell. Do not add at current valuation. Watch June 2-5 Computex Scorpio X demo — if MRVL XConn wins hyperscaler designs first, ALAB's moat narrows meaningfully.
-4. **TSMC committed $56B capex for CoWoS 4× expansion (35K → 130K WPM by year-end); NVDA pre-committed >50% of capacity through 2027.** May monthly revenue (~June 8) will confirm whether April's $12.6B pace (+17.5% YoY, 2nd-highest ever) sustained through Q2. TSM at ~$409 today (up from $404.52 May 26, +1.2%). HOLD unchanged; MoS -5.6%.
-5. **MU: SELL/AVOID at $894 (MoS -50.5%). All 7 positions remain SELL/AVOID.** Do not add. Q3 FY2026 actuals due ~June/July — if $33.5B guidance + 81% gross margin confirmed, consider CAGR raise from 10% → 12-15% in next DCF. Otherwise hold current IV $442.63.
+1. **MRVL Q1 FY2027 actuals confirmed: revenue $2.418B (+28%), EPS $0.80, Q2 guide $2.7B, FY2028 management guidance $15B (first-ever).** DCF re-run: IV $126.75, MoS -40.9%, SELL/AVOID. Stock settled at $214.59 AH — below the $220 AH peak — because $11B FY2027 guide was already in analyst consensus. Do not add. Watch Computex June 2 (Matt Murphy keynote) for Google TPU/MPU volume update and Scorpio X vs. XConn competitive clarity.
+2. **NVDA Computex GTC Taipei keynote June 1, 11am Taipei time (tonight US time Sunday ~10pm ET).** Watch: (a) Vera Rubin NVL72 production timeline update — prior guidance was 1.5M units (cut from 2M due to HBM4 shortage); (b) CoWoS-L allocation from TSMC's 4× ramp; (c) N1X ARM laptop chip reveal (MediaTek partnership, 20-core ARM + Blackwell GPU, targets 150M/yr laptop market). Session 29 priority: NVDA deep session after keynote.
+3. **ASML -2.7% today; CEO cannot confirm 2026 revenue growth; multiple -3-5% sessions in May.** Stock at $1,587.29 vs. IV $1,122.64 (MoS -29.3%). The 2026 flat growth warning is thesis-challenging — ASML's near-term demand depends on China tool replacement and High-NA ramp timing; both are impaired. Do not add. Re-run DCF after Q2 results if guidance formally cuts below €36B floor.
+4. **TSM +1.9% today ($412.32). April revenue $12.6B confirmed (2nd-highest ever); Q2 2026 guide $39-40B.** May revenue due ~June 8 — will confirm whether AI demand sustained through Q2. MoS -6.8%, HOLD — the only non-SELL/AVOID position in the portfolio.
+5. **MU $915.69 (+2.4%); IV $442.63; MoS -51.7% SELL/AVOID.** Q3 FY2026 guided $33.5B (81% GM) due ~June 25 — if confirmed, consider raising CAGR from 10% to 12-15% in next DCF. TrendForce: Q2 DRAM contract prices +58-63% QoQ. UBS PT $1,625. Do not add until DCF re-run post-Q3 actuals.
 
 ### Key Snippets
 
-- **Marvell surged 13–15% after hours tonight on a Q1 FY2027 beat** — actual numbers still being indexed (conf. call replay June 2), but this is the largest post-earnings reaction in the portfolio this cycle; at pre-earnings $206, an estimated after-hours close of $233–237 implies MoS worsens from -42% to ~-49% vs. IV $119.
-- **TSMC is executing the most aggressive packaging capacity ramp in semiconductor history:** CoWoS from 35,000 to 130,000 WPM (4×) by year-end, with NVIDIA pre-committed to >50% of supply through 2027 — the AI supply chain bottleneck is conclusively confirmed to be packaging, not silicon fabrication.
-- **Hyperscaler CapEx at $725B in 2026 (+77% YoY, ~$450B AI-specific)** — Amazon $200B, Google $175-185B, Microsoft $120B, Meta $125-145B; Amazon at risk of negative free cash flow in 2026; Northland now flagging 2027 spending pullback risk.
-- **MRVL's XConn acquisition ($540M, Feb 10, 2026) was missing from the entity for 26 sessions** — XConn's PCIe 6 + CXL 3.1 switches directly compete with Astera Labs Scorpio X; Marvell now covers the full AI connectivity stack (custom ASIC + photonics + PCIe/CXL switches).
-- **Northland downgraded ALAB from Outperform to Market Perform** — removed $225 PT, no new PT; cited valuation (P/E 204) and risk that hyperscalers become cash-constrained by 2027; first analyst to step back from the consensus bull camp in 3 months.
+- **MRVL gave first-ever management FY2028 revenue guidance of $15B ($11B in FY2027) — converts custom silicon from analyst conjecture to management-endorsed roadmap;** DCF IV only $126.75 because GAAP EBIT is deeply negative from acquisition amortization and the model prices almost entirely on terminal value.
+- **ASML CEO "cannot confirm 2026 revenue growth" is the weakest narrative in the current portfolio:** four -3-5% down sessions in May, analyst downgrade to Hold (May 8), 1,700 management cuts, and no U.S.-China tech breakthrough at the Trump-Xi summit — the EUV monopoly is intact but near-term demand is soft.
+- **TrendForce Q2 2026 DRAM contract prices +58-63% QoQ** confirms the structural memory re-rating thesis; HBM4 mass production focus with HBM4e sampling in 2H 2026 and mass production 2027 — extends the HBM pricing tailwind beyond FY2026 for Micron.
+- **NVDA N1X ARM laptop chip expected at Computex June 1** — 20-core ARM CPU + Blackwell GPU (6,144 CUDA), co-developed with MediaTek, targeting Intel/AMD/Qualcomm in 150M unit/year laptop market; extends CUDA moat to edge but revenue meaningful only in 2027+.
+- **TSM April 2026 revenue $12.6B (+17.5% YoY), YTD +29.9%; Q2 2026 guided $39-40B** — the foundry's own Q2 guide range implies the AI CapEx wave has now fully translated into wafer demand, validating the portfolio thesis at the manufacturing layer.
 
 ---
 
@@ -32,15 +32,15 @@ Last updated: 2026-05-27 | Session #27
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | ~$409 est | +1.2% est | $384.28 | -6.5% | **HOLD** | Sole leading-edge foundry; $56B CoWoS expansion (4× to 130K WPM); NVDA pre-committed >50% capacity through 2027; April rev $12.6B (+17.5% YoY, 2nd-highest) | 2026-05-23 |
-| MU     | ~$894 est | ~flat est | $442.63 | -50.5% | SELL/AVOID | HBM LTA franchise: $1T market cap milestone; UBS PT $1,625; Q3 FY2026 guided $33.5B (81% GM); 5-year LTA with NVIDIA; HBM4 shortage limiting Rubin ramp | 2026-05-26 |
-| ASML   | ~$1,633 est | ~flat est | $1,122.64 | -31.2% | SELL/AVOID | Only EUV supplier; High-NA deferred to 2029 at TSMC; UBS raised PT to €1,900; India Tata MoU (DUV first); CoWoS expansion drives DUV demand for packaging | 2026-05-22 |
-| NVDA   | ~$215 est | ~flat est | $156.27 | -27.3% | SELL/AVOID | CUDA-moated AI GPU; $81.62B Q1 +85% YoY; $91B Q2 guide; Vera Rubin NVL72 (CoWoS-L + HBM4 first use); Jensen keynotes Computex Jun 1 | 2026-05-21 |
-| MRVL   | ~$210 est | +1.8% est | $119.30 | -42.2% | SELL/AVOID | Q1 FY2027 just reported post-close; stock +13–15% AH; XConn ($540M) adds PCIe 6/CXL vs. ALAB; $225B AWS Trainium backlog; full photonic stack | 2026-05-27 |
-| ANET   | ~$159 est | ~flat est | $126.94 | -20.1% | SELL/AVOID | AI networking backbone; May 26 close $158.68 confirmed; JPMorgan: 54% shipment growth; $8.9B non-cancel commitments; $3.5B AI fabric FY2026 | 2026-05-22 |
-| ALAB   | $318.72 | -0.5% | $111.84 | -64.9% | SELL/AVOID | PCIe/CXL AI connectivity; Scorpio X 320 Lane shipping; Northland downgrade (Market Perform, no PT — 2027 spending risk + valuation); MRVL XConn direct competitor | 2026-05-22 |
+| TSM    | $412.32 | +1.9% | $384.28 | -6.8% | **HOLD** | Sole leading-edge foundry; $56B CoWoS 4× expansion (35K→130K WPM); April rev $12.6B (+17.5% YoY, 2nd-highest ever); Q2 guide $39-40B | 2026-05-23 |
+| MU     | $915.69 | +2.4% | $442.63 | -51.7% | SELL/AVOID | HBM structural re-rating: $1T market cap; UBS PT $1,625; Q3 FY2026 guided $33.5B (81% GM); 5-yr LTA with NVIDIA; TrendForce Q2 DRAM +58-63% QoQ | 2026-05-26 |
+| ASML   | $1,587.29 | -2.7% | $1,122.64 | -29.3% | SELL/AVOID | Only EUV supplier; CEO "cannot confirm 2026 growth"; High-NA deferred to 2029 at TSMC; four -3-5% down sessions in May; UBS PT €1,900 | 2026-05-22 |
+| NVDA   | $213.95 | -0.5% | $156.27 | -27.0% | SELL/AVOID | CUDA-moated AI GPU; $81.6B Q1 (+85%); $91B Q2 guide; Vera Rubin NVL72 (CoWoS-L + HBM4 first use); N1X ARM laptop chip reveal at Computex Jun 1 | 2026-05-21 |
+| MRVL   | $214.59 AH | +3.9% AH | $126.75 | -40.9% | SELL/AVOID | Q1 FY2027: $2.418B (+28%), EPS $0.80; Q2 guide $2.7B (+35%); FY2027 ~$11B; FY2028 mgmt guide ~$15B; DCF updated with Q1 actuals | 2026-05-27 |
+| ANET   | $158.01 | -0.4% | $126.94 | -19.7% | SELL/AVOID | AI networking backbone; $8.9B non-cancel commitments; 52-wk leads; JPMorgan: 54% shipment growth; $3.5B AI fabric FY2026; Computex not a direct catalyst | 2026-05-22 |
+| ALAB   | $320.98 | +0.7% | $111.84 | -65.1% | SELL/AVOID | PCIe/CXL AI connectivity; Scorpio X 320 Lane shipping; Northland downgrade (Market Perform, no PT — 2027 spending risk + valuation); MRVL XConn direct competitor | 2026-05-22 |
 
-*May 27 prices: TSM est. ~$409 (range $402.86–$410.67, opened $409.43, prev close $404.52); ALAB $318.72 confirmed; MRVL ~$210 est. pre-earnings close (after-hours surged 13–15% post Q1 FY2027 beat, est. ~$233–237). May 26 confirmed closes: MU ~$894 (+18%), ANET $158.68 (+3.19%), MRVL ~$206.38 (+5.12%). ASML ~$1,633 est., NVDA ~$215 est. (both May 22 last confirmed). Carry forward IV/MoS/Rec from last DCF if not re-run this session.*
+*May 27 prices (Session 28): TSM $412.32 (range $410.07–$416.49); MU $915.69 (intraday high $985.00, range $901.88–$985.00); ASML $1,587.29 (prev close $1,632.03, -2.7%); NVDA $213.95 (range $212.00–$218.36); MRVL regular session ~$208.26, AH $214.59 after Q1 FY2027 beat (settled from AH high ~$220.91); ANET $158.01 (prev $158.68, -0.4%); ALAB $320.98 (prev $318.72, +0.7%). MRVL IV/MoS/Rec updated this session (DCF re-run with Q1 FY2027 actuals: TTM revenue $8,722M). Carry forward IV/MoS/Rec from last DCF for all other tickers.*
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -57,10 +57,10 @@ Last updated: 2026-05-27 | Session #27
 
 | Ticker | Coatue Entry | Atreides Entry | Current | vs. Coatue | vs. Atreides |
 |--------|-------------|----------------|---------|------------|--------------|
-| ASML   | $1,321      | —              | $1,633  | +23.6%     | —            |
-| MU     | $338        | $337           | $746    | +120.7%    | +121.4%      |
-| ALAB   | —           | ~$110          | $305    | —          | +177.3%      |
-| TSM    | (added Q1 2026) | —          | $407    | —          | —            |
+| ASML   | $1,321      | —              | $1,587  | +20.1%     | —            |
+| MU     | $338        | $337           | $916    | +171.0%    | +171.8%      |
+| ALAB   | —           | ~$110          | $321    | —          | +191.8%      |
+| TSM    | (added Q1 2026) | —          | $412    | —          | —            |
 
 ---
 
@@ -68,7 +68,7 @@ Last updated: 2026-05-27 | Session #27
 
 | Ticker | Event | Date | Notes |
 |--------|-------|------|-------|
-| MRVL | Q1 FY2027 Earnings — REPORTED | 2026-05-27 | Beat consensus (actual numbers pending indexing); stock +13–15% AH; Session 28 to capture actual Q1 revenue/EPS, Q2 guidance, FY2027 raise |
+| MRVL | Q1 FY2027 Earnings — COMPLETE | 2026-05-27 | $2.418B (+28%, beat guide $18M); EPS $0.80; Q2 guide $2.7B (+35%); FY2027 ~$11B; FY2028 mgmt guide ~$15B; AH $214.59; DCF IV $126.75 |
 | NVDA | Computex Keynote — Jensen Huang | 2026-06-01 | Vera Rubin roadmap update; HBM4 supply timeline; expect Rubin production cut context (2M→1.5M units from HBM4 shortage) |
 | MRVL | Computex Keynote — Matt Murphy | 2026-06-02 | Post-earnings product showcase; "The Future of AI Scaling Depends on Connectivity"; first head-to-head with ALAB Scorpio X |
 | ALAB | Computex 2026 Showcase | 2026-06-02 | 320 Lane Scorpio X + PCIe 6 optics demo; critical for hyperscaler design-win pipeline confirmation |
@@ -123,6 +123,10 @@ Last updated: 2026-05-27 | Session #27
 ---
 
 ## Session Notes
+
+### Session 28 (2026-05-27) — Deep: MRVL (event_queue: Q1 FY2027 actuals confirmed)
+
+MRVL Q1 FY2027 actuals captured from SEC 8-K (filed May 27): revenue $2.418B (+28% YoY, beat $2.40B guidance by $18M), non-GAAP EPS $0.80 (beat $0.79 est.). Q2 FY2027 guided $2.7B (+35% YoY). FY2027 raised to "approaching ~$11B" from prior ~$10B implied. FY2028 first-time management guidance: ~$15B (~40% YoY) — the most important single new data point, converting the custom silicon thesis from analyst-modeled to management-endorsed. DCF re-run with TTM revenue $8,722M (Q2+Q3+Q4 FY2026 + Q1 FY2027): **IV $126.75, MoS -40.9%, SELL/AVOID** (up from IV $119.30). Stock settled at AH $214.59 after retreating from $220 AH peak — the $11B FY2027 guide was already in analyst consensus ($11.12B), so no fresh upside surprise at the elevated bar. Custom-silicon concept page updated with FY2028 guidance significance. Phase 1a: ASML -2.7% (CEO still "cannot confirm 2026 growth"; multiple -3-5% sessions in May — most concerning near-term trend in portfolio); MU $915.69 (+2.4%, TrendForce Q2 DRAM +58-63% confirms structural re-rating); TSM $412.32 (+1.9%); NVDA $213.95 (-0.5%, Computex June 1 tonight). Phase 1b/1c gated (28%6=4).
 
 ### Session 27 (2026-05-27) — Deep: MRVL (event_queue: Q1 FY2027 earnings post-close tonight)
 
@@ -307,3 +311,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 25 | 2026-05-27 ~02:00 | ALAB | rotation (MRVL blocked — earnings post-close tonight May 27) | MRVL 260-lane PCIe 6.0 switch (Mar 2026) competes directly with Scorpio X; MRVL CEO keynoting Computex June 2; TSMC April $12.6B revenue; Samsung vote result today; prices flat; no DCF |
 | 26 | 2026-05-26 | MU | price +18% to $894, UBS PT $535→$1,625, $1T market cap | DCF IV $442.63 (MoS -50.5%) SELL/AVOID; ANET price corrected stale $137.53→actual $158.68 (MoS -20.0% SELL/AVOID); MRVL ATH ~$212 tonight's earnings |
 | 27 | 2026-05-27 | MRVL | Q1 FY2027 earnings post-close; XConn ($540M) gap filled | DCF IV $119.30 (MoS -42.2%) SELL/AVOID; Q1 beat: stock +13–15% AH; XConn PCIe 6/CXL switch competes with ALAB; TSMC CoWoS 4× expansion ($56B capex); ALAB Northland downgrade |
+| 28 | 2026-05-27 | MRVL | Q1 FY2027 actuals indexed from SEC 8-K | DCF IV $126.75 (MoS -40.9%) SELL/AVOID; $2.418B (+28%); EPS $0.80; Q2 $2.7B guide; FY2028 mgmt guide $15B (first-ever); ASML -2.7% (CEO 2026 growth warning — most concerning near-term); NVDA Computex Jun 1 tonight |
