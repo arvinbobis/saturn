@@ -1,18 +1,17 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-05-27T22:00:00Z",
-  "session_count": 28,
+  "last_run_utc": "2026-05-28T18:00:00Z",
+  "session_count": 29,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "MRVL",
+  "last_deep_session": "NVDA",
   "next_deep_session": "ASML",
-  "_session_28_note": "Session 28 (2026-05-27): MRVL Q1 FY2027 actuals captured from SEC 8-K. Revenue $2.418B (+28% YoY, beat $2.40B guide by $18M); non-GAAP EPS $0.80 (beat $0.79). Q2 FY2027 guided $2.7B (+35%). FY2027 raised to ~$11B (>30% YoY, from ~$10B prior). FY2028 first-time management guidance: ~$15B (~40% YoY). DCF re-run (TTM $8,722M): IV $126.75, MoS -40.9%, SELL/AVOID. MRVL event removed from queue (actuals confirmed). ASML -2.7% (CEO cannot confirm 2026 growth — notable). MU $915.69 (+2.4%). TSM $412.32 (+1.9%). NVDA $213.95 (-0.5%). NVDA Computex GTC Taipei keynote June 1 (tonight US time). Phases 1b/1c gated (28%6=4). Next session priority: NVDA post-Computex deep session.",
+  "_session_29_note": "Session 29 (2026-05-28): NVDA pre-Computex deep session. (1) NVIDIA to invest $150B annually in Taiwan; groundbroke 'Constellation' HQ in Taipei (4,000 employees by 2030); (2) Jensen Huang private dinner with TSMC Chairman C.C. Wei to lock in CoWoS-L capacity for Vera Rubin — NVIDIA holds ~60% global CoWoS capacity; (3) Jensen Huang confirmed special guest at MRVL Computex June 2 keynote — NVLink Fusion $2B partnership showcase reframes custom silicon as ecosystem integration, not NVIDIA substitution; (4) Computex June 1 preview: Dynamo 1.0 GA, N1X ARM laptop chip, Vera Rubin NVL72 deep-dive; (5) NVIDIA foresees $3-4T annual AI infra by 2030. ASML supplementary: CEO confirms first High-NA EUV chips 'within months' (May 19). MRVL supplementary: Jensen keynote confirmation captured. No DCF (NVDA last run May 21, <30 days). Phases 1b/1c gated (29%6=5). ANET event removed from queue (no action required). NVDA event updated to post-June-1-keynote pending. Next session priority: post-June-1 NVDA keynote deep session.",
   "event_queue": [
-    {"ticker": "NVDA", "event": "Computex June 1 (Mon) Jensen Huang GTC Taipei keynote 11am Taipei time. Key signals: Vera Rubin NVL72 production timeline update (prior: 2M→1.5M cut from HBM4 shortage), CoWoS-L allocation from TSMC 4× ramp, N1X ARM laptop chip reveal. Session 29: update NVDA entity after keynote.", "detected": "2026-05-27"},
-    {"ticker": "ALAB", "event": "Northland downgrade to Market Perform (May 26, no PT). Computex June 2-5 Scorpio X demo vs. MRVL XConn PCIe 6 switch — first head-to-head. Session 29/30: update ALAB entity after Computex. No DCF re-run until Computex outcome known.", "detected": "2026-05-26"},
-    {"ticker": "MRVL", "event": "Computex June 2 Matt Murphy keynote ('The Future of AI Scaling Depends on Connectivity'). Post-earnings product showcase; first head-to-head with ALAB at Computex. Watch for Google TPU/MPU volume update and any 4th hyperscaler (Meta MTIA) confirmation.", "detected": "2026-05-27"},
-    {"ticker": "ANET", "event": "price +3.19% to $158.68 on May 26 (actual confirmed close; prior sessions used stale $137.53). MoS -19.7% SELL/AVOID. DCF last run May 22 (<30 days). No re-run required; price correction captured in dashboard.", "detected": "2026-05-26"}
+    {"ticker": "NVDA", "event": "Computex June 1 (Mon) Jensen Huang GTC Taipei keynote 11am Taipei time — Session 29 pre-Computex update complete. Session 30 priority: capture keynote output. Key watch: Vera Rubin NVL72 production volume guidance (1.5M units); Dynamo 1.0 GA details; N1X ARM laptop chip (MediaTek); CoWoS capacity commentary.", "detected": "2026-05-27"},
+    {"ticker": "MRVL", "event": "Computex June 2 joint keynote: Matt Murphy + Jensen Huang ('The Future of AI Depends on Connectivity'). NVLink Fusion showcase; Google TPU/MPU volume update; 4th hyperscaler (Meta MTIA) confirmation; Scorpio X vs. XConn head-to-head. Session 30: update MRVL entity after keynote.", "detected": "2026-05-27"},
+    {"ticker": "ALAB", "event": "Northland downgrade to Market Perform (May 26, no PT). Computex June 3 press conference + Scorpio X live demo (10-11am Taipei). Head-to-head vs. MRVL XConn PCIe 6 switch. Session 30/31: update ALAB entity after Computex outcome.", "detected": "2026-05-26"}
   ],
-  "_event_queue_note": "Session 28: MRVL actuals confirmed and DCF re-run complete — MRVL earnings item removed. MRVL Computex June 2 added as new item. NVDA Computex June 1 remains top priority for Session 29. ALAB Computex/Northland held until June 2-5 outcome. ANET no action required (carried). After NVDA + ALAB Computex processed, resume ASML rotation.",
+  "_event_queue_note": "Session 29: NVDA pre-Computex update complete; June 1 keynote still pending (Session 30). MRVL event updated with Jensen Huang joint keynote confirmation. ALAB event held for June 3 Computex demo. ANET event removed (no action required — price correction captured). After Computex cycle (June 1-5) processed, resume ASML rotation.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-26",

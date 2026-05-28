@@ -452,3 +452,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: MRVL — event-driven (Q1 FY2027 actuals confirmed from SEC 8-K: $2.418B +28%, EPS $0.80; Q2 guide $2.7B +35%; FY2027 ~$11B raised; FY2028 first-time mgmt guidance $15B) | DCF: MRVL — IV $126.75 (MoS -40.9%) SELL/AVOID (TTM revenue updated to $8,722M) | Concepts: custom-silicon.md (FY2028 $15B guidance is first management-endorsed multi-year custom ASIC revenue commitment) | Watchlist: none (Phase 1c gated; 28%6=4) | Podcast: none (Phase 1b gated; 28%6=4)
 Notable: MRVL FY2028 first-time management guidance of $15B (~40% YoY from $11B FY2027) is the session's standout finding — converts the custom silicon thesis from analyst-modeled to management-underwritten. ASML -2.7% today with CEO still unable to confirm 2026 revenue growth — most concerning near-term narrative in the portfolio. NVDA Computex GTC Taipei keynote June 1 tonight (US time); Session 29 priority.
 No significant news: ANET ($158.01, -0.4%), ALAB ($320.98, +0.7%)
+
+## [2026-05-28 18:00 UTC] session-29
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: NVDA — event-driven (event_queue: pre-Computex intelligence sweep; June 1 keynote pending) | DCF: none (NVDA <30 days from May 21 run) | Concepts: cowos.md (NVIDIA ~60% CoWoS capacity lock), HBM.md (HBM4 26% of Vera Rubin rack cost; Samsung as 2nd supplier), custom-silicon.md (NVLink Fusion reframes custom silicon as NVIDIA ecosystem integration) | Watchlist: none (Phase 1c gated; 29%6=5) | Podcast: none (Phase 1b gated; 29%6=5)
+Notable: NVIDIA to invest $150B annually in Taiwan (up from $10-15B in 2020-2021); Jensen Huang private dinner with TSMC Chairman C.C. Wei to lock CoWoS-L capacity for Vera Rubin; Jensen Huang confirmed as special guest at MRVL Computex June 2 keynote — NVLink Fusion $2B partnership reframes custom silicon as NVIDIA ecosystem integration, not substitution; NVIDIA foresees $3-4T annual AI infrastructure by 2030.
+No significant news: MU (~$920 flat), ANET (~$157 flat), ALAB (~$321 flat)

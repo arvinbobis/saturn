@@ -295,6 +295,12 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 
 ---
 
+### 2026-05-28
+
+**Jensen Huang confirmed as special guest at Computex June 2 keynote — "The Future of AI Depends on Connectivity":** NVIDIA CEO Jensen Huang will appear alongside Marvell CEO Matt Murphy at the June 2 Computex keynote (10:30am, Taipei Nangang Exhibition Center Hall 2). The joint presentation will showcase the NVIDIA-Marvell NVLink Fusion partnership — announced March 2026 and backed by a $2B NVIDIA investment — which integrates Marvell's custom XPUs and scale-up networking into NVIDIA's AI factory and AI-RAN ecosystem. The keynote will cover: (1) NVLink Fusion technical integration, enabling Marvell-designed chips to connect natively into NVIDIA infrastructure; (2) joint AI data center interconnect blueprint for hyperscaler deployments; (3) NVIDIA Aerial AI-RAN (5G/6G telecom-to-AI infrastructure transformation). This is the first time NVIDIA's CEO has appeared as a dedicated joint-keynote guest for a fabless competitor/partner — an extraordinary signal of partnership depth. Source: PR Newswire / Marvell.com / BigGo Finance, 2026-05-27–28. *Thesis bearing: Strongly Confirms — Jensen Huang sharing a stage with Matt Murphy positions Marvell as the primary non-NVIDIA silicon architecture inside NVIDIA's ecosystem. NVLink Fusion is a strategic bet that custom ASICs (Google TPU, Amazon Trainium, Microsoft Maia) should connect to NVIDIA infrastructure rather than replace it — and Marvell is the connectivity backbone that makes that happen. This is the clearest validation yet that Marvell is not an NVIDIA competitor but an NVIDIA ecosystem partner.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume

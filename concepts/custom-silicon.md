@@ -76,11 +76,15 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **Q1 FY2027 actuals confirm custom ASIC ramp on track: $2.418B (+28% YoY); FY2028 management guidance $15B is the first formal multi-year revenue commitment from any custom silicon co-designer** — Marvell's Q1 FY2027 result ($2.418B revenue, $0.80 non-GAAP EPS) beat estimates and management raised FY2027 to ~$11B (from ~$10B) and gave first-time FY2028 guidance of ~$15B (~40% YoY). Custom ASIC revenue alone guided to at least 2× in FY2028 (>$3B from $1.5B FY2026). Data center segment expected +50% YoY in FY2028. This is the first time a co-designer has given management-endorsed multi-year revenue guidance anchored to custom silicon programs — converting the custom silicon thesis from analyst-modeled to management-underwritten. The $15B FY2028 target implies Marvell's custom ASIC + connectivity business is on track to exceed $6B by FY2028, validating the hyperscaler co-design franchise thesis across 3 confirmed programs (Google, Amazon, Microsoft). Source: Marvell 8-K / earnings call, 2026-05-27.
 
+### 2026-05-28 — MRVL / NVDA
+
+**NVLink Fusion changes the thesis frame: custom silicon is no longer a substitute for NVIDIA — it integrates into NVIDIA** — The June 2 Computex keynote (Jensen Huang + Matt Murphy, joint) revealing NVLink Fusion details marks a paradigm shift in the custom silicon thesis. Prior framing: hyperscaler custom ASICs (Trainium, TPU, Maia) are an alternative to buying NVIDIA GPUs — a substitution risk for NVDA. New framing: custom ASICs designed by Marvell connect natively into NVIDIA AI factory infrastructure via NVLink Fusion — making NVIDIA the connective layer, not the displaced vendor. NVIDIA's $2B investment in Marvell and CEO's joint keynote appearance signals that NVIDIA views Marvell-backed custom silicon as an ecosystem expansion, not a threat. For the portfolio: this is net positive for both MRVL (validated as NVIDIA ecosystem partner) and NVDA (extends CUDA/NVLink connective standard to heterogeneous silicon). The custom silicon threat to NVDA is now more nuanced — inference diversification is real, but training and scale-up connectivity remains NVIDIA-anchored. Source: PR Newswire / Marvell.com, 2026-05-28.
+
 ---
 
 ## Cross-links
 
 - [[MRVL]] — primary beneficiary; co-designs hyperscaler custom ASICs
 - [[TSM]] — manufactures all custom silicon; additive demand on top of NVIDIA/AMD wafers
-- [[NVDA]] — threatened at inference; maintains training dominance via CUDA
+- [[NVDA]] — threatened at inference; maintains training dominance via CUDA; NVLink Fusion makes custom silicon NVIDIA-compatible rather than NVIDIA-competing
 - [[ANET]] — custom silicon clusters still need networking infrastructure; Arista benefits

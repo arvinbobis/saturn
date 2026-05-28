@@ -416,3 +416,22 @@ Significant single-session event: MU +18% and $1T market cap required immediate 
 
 ### Improvement Executed
 None — no 3-session pattern triggered. ANET price error was a one-session data quality issue, not a structural search problem. The fundamental issue is that May 26 prices were not indexed during May 26 sessions (22-24), which ran before the confirmed close data was available. No process change warranted; the fix is temporal (next-session price verification).
+
+## Session 29 — 2026-05-28
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; NVDA $212.60 (-0.6%), ASML ~$1,626 (+2.4% EUR recovery), MRVL ~$210 (post-earnings range), MU ~$920, TSM ~$412 (carry), ANET ~$157, ALAB ~$321; key findings: NVIDIA $150B Taiwan investment, Jensen Huang-CC Wei dinner, NVLink Fusion $2B MRVL partnership, $3-4T AI infra 2030 forecast |
+| 1b (podcasts) | Gated | 29%6=5 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 29%6=5 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | NVDA entity updated with 5 pre-Computex developments; MRVL + ASML supplementary updates; CoWoS, HBM, custom-silicon concept pages updated |
+| 3 (DCF) | Skipped | Correct — NVDA DCF ran May 21 (<30 days); no new earnings data; Computex keynote June 1 not yet occurred |
+| 4 (dashboard) | Complete | Prices updated; MRVL Q1 catalyst removed; For Arvs overwritten; catalysts updated; session notes + history appended |
+| 5 (lint) | Complete | MRVL Q1 COMPLETE catalyst row removed (outcome noted in session notes); ANET event removed from queue; concept pages within 14-day window; no broken cross-links detected |
+
+### Diagnosis
+Clean session with high-value pre-Computex intelligence. Primary friction: price data for some tickers (MRVL, TSM, ANET, ALAB) was estimated rather than confirmed for May 28 close — this is a recurring issue when the session runs before close data is fully indexed. NVDA close was precisely confirmed ($212.60); others were estimated from ranges and prior data. No structural problem.
+
+### Improvement Executed
+None — no 3-session pattern triggered. Price estimation issue is a session-timing artifact that resolves in next session's Phase 1a. No CLAUDE.md change warranted.

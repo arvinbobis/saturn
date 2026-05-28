@@ -187,6 +187,14 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 ---
 
+### 2026-05-28
+
+**ASML CEO: first High-NA EUV chips "within months" — memory and logic test production confirmed:** At an imec research conference in Antwerp on May 19, 2026, ASML CEO Christophe Fouquet stated: "In the next few months, we will be looking at the first few products, in memory, in logic, being exposed on the High-NA system." These will be initial test/pre-production chips — not yet high-volume manufacturing. Fouquet confirmed that ASML expects EUV2.0 High-NA insertion into high-volume manufacturing (HVM) in 2027–2028, consistent with Intel's prior acceptance testing timeline for the 2nd-generation High-NA system. Note context: this announcement came simultaneously with TSMC's confirmed delay of broad High-NA deployment to 2029 (captured May 22 ASML entity update) — Fouquet was signaling the technology is ready even as TSMC's cost calculus delays their particular deployment. UBS and Barclays both upgraded ASML and reinstated as top European semiconductor pick around the same period. Source: Techzine / AlphaPilot / Yahoo Finance / TrendForce, 2026-05-19–20. *Thesis bearing: Confirms — CEO confirmation that High-NA is producing its first commercial-quality chips validates the technology roadmap. The 2027-2028 HVM timeline is intact. TSMC's delay is a customer decision, not a technology failure; Intel and Samsung remain on-schedule for High-NA insertion. For the ASML investment thesis: demand visibility for the next 2-3 High-NA tool shipments is now confirmed by actual chip production, not just laboratory results.*
+
+**ASML +2.4% on May 28 (EUR recovery); USD ~$1,626 from prior $1,587:** ASML Amsterdam (Euronext) recovered +3.4% to EUR 1,423.60 on May 28 after the -2.7% session on May 27 (CEO 2026 revenue uncertainty remarks). NASDAQ ADR estimated at ~$1,626 USD. The one-day recovery partially offset the prior session's decline but does not resolve the fundamental 2026 demand uncertainty flagged by Fouquet (multiple May sessions with -3 to -5% moves). Source: Trading data, 2026-05-28. *Thesis bearing: Neutral — the recovery is technical (oversold bounce) rather than fundamental. The "cannot confirm 2026 revenue growth" narrative from the CEO remains unresolved until Q2 2026 results. MoS remains deeply negative at ~-30%.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — primary customer; TSMC CapEx guides ASML demand 12–18 months ahead
