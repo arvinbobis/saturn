@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-05-29 | Session #32
+Last updated: 2026-05-29 | Session #33
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-05-29 | Session #32
 
 ### Action Items
 
-1. **NVDA June 1 keynote TONIGHT (10pm Manila / 11am Taipei).** Run Session 33 immediately after. Capture: Vera Rubin NVL72 official production volume guidance; N1X official specs + TSMC node confirmation; Dynamo 1.0 GA details; any "surprise product" beyond N1X. MediaTek pulled from keynote — NVIDIA has full stage.
-2. **MRVL dropped -9% to ~$201 on May 28 post-earnings "sell the news" (from $221).** HSBC Buy $300 PT added same day. June 2 joint keynote with Jensen is the next real catalyst. Do not buy the dip — MoS -37.2%, still SELL/AVOID. Wait for keynote outcome.
-3. **TSM: HOLD (-6.7% MoS).** May monthly revenue ~June 8 — will confirm Q2 trajectory. No action needed until then.
-4. **MU crossed $1 trillion market cap; closed $928.41; intraday ATH $985; UBS $1,625 PT.** Still SELL/AVOID at -52.3% MoS. Monitor — next catalyst Q3 FY2026 earnings ~June 25.
-5. **All 6 SELL/AVOID positions: no action until Computex cycle plays out (June 1-3).** ALAB June 3 live demo is the final event of the cycle.
+1. **NVDA Computex GTC Taipei June 1 keynote (Monday), 11am Taipei / 10pm Manila.** Run Session 34 immediately after — capture: N1X official specs + TSMC node, Dynamo 1.0 GA, any "surprise product" Jensen hinted (second half "very busy — Grace Blackwell, Vera Rubin, and a surprise"), Vera CPU availability/pricing update.
+2. **MRVL June 2 Computex joint keynote with Jensen Huang (NVLink Fusion showcase).** No action until keynote processed. MRVL recovered to $206 from -9% low; MoS -38.5%, SELL/AVOID. Watch for any new Google TPU / Amazon MPU volume numbers on June 2.
+3. **ALAB new 52-week high $354.53; NVIDIA NVLink Fusion ecosystem partner confirmed.** ALAB now inside NVIDIA AI factory as the PCIe/CXL connectivity layer for hybrid racks — thesis upgraded. Still SELL/AVOID at -68.4% MoS. Computex June 3 Scorpio X live demo is the next catalyst.
+4. **TSM tightening: $424.34 → MoS -9.4%, approaching HOLD→SELL boundary (-10% for low-uncertainty tickers).** May revenue due ~June 8 — if confirmed above ~NT$420B, a DCF re-run may be warranted. No action before June 8.
+5. **All 6 SELL/AVOID positions: hold through Computex cycle (June 1–3) before any re-evaluation.** None have crossed BUY or WAIT threshold. Mildest SELL is TSM at -9.4%.
 
 ### Key Snippets
 
-- **MRVL -9% post-earnings despite $2.7B Q2 guide beat and FY2028 $15B management guidance intact** — pure "sell the news" after 183% rally since March 5; June 2 NVDA joint keynote is the real next catalyst, not the earnings beat.
-- **MU crossed $1T market cap (May 26), UBS PT raised to $1,625 from $535 — "AI-native infrastructure giant" reframing; $985 intraday ATH on May 28** — 50–67% of HBM demand still unmet; Saturn DCF says $442 IV → SELL/AVOID regardless.
-- **NVIDIA taking full June 1 Computex stage after MediaTek pulled — N1X ARM laptop chip (TSMC N3P, 20-core ARM + RTX 5070-class GPU) extends CUDA moat to 150M/year laptop market** — near-term revenue modest; long-run CUDA lock-in expansion is the prize.
-- **Hyperscaler CapEx confirmed $700–725B in 2026 (+77% YoY), 75% AI-specific; Amazon $200B, Microsoft $190B, Alphabet $175–185B, Meta $125–145B** — no deceleration signals; supports entire portfolio demand thesis.
-- **Taiwan Strait calmer: PLA ADIZ incursions lower than 2025 average; cross-strait tourist exchanges restarting** — geopolitical risk downgraded from elevated to stable; no supply chain threat signals.
+- **ALAB +51% in 6 days to $354 52-week high; confirmed NVIDIA NVLink Fusion connectivity partner** — ALAB is now inside the NVIDIA AI factory for hybrid-rack PCIe/CXL connectivity (non-NVIDIA XPUs interfacing NVIDIA infrastructure), making it complementary to MRVL rather than head-to-head.
+- **TSM +3% from last session carry to $424; MoS now -9.4%, narrowest gap to SELL/AVOID in portfolio** — the only HOLD position is tightening; May monthly revenue (~June 8) is the key checkpoint.
+- **NVDA Computex June 1: Jensen teased "a surprise new product" beyond Vera Rubin and N1X** — the Rubin platform's six chips (Vera CPU, Rubin GPU, NVLink 6 Switch, ConnectX-9 SuperNIC, BlueField-4 DPU, Spectrum-6) were confirmed at CES; Computex is for the full datacenter showcase + the surprise.
+- **MRVL recovery to $206 from $191 intraday low post-earnings; June 2 NVLink Fusion keynote is the real re-rating event** — earnings beat was sold (-9%); the strategic NVIDIA co-endorsement on June 2 is what the market needs to see.
+- **Hyperscaler CapEx confirmed $725B 2026; Microsoft now specifically $190B (highest individual guide)** — no deceleration across Big Four through Q1 2026; entire portfolio demand thesis intact.
 
 ---
 
@@ -32,15 +32,15 @@ Last updated: 2026-05-29 | Session #32
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | ~$412 | ~flat | $384.28 | -6.7% | **HOLD** | Sole leading-edge foundry; NVIDIA $150B/yr Taiwan commitment + Jensen-CC Wei dinner locks in CoWoS for Vera Rubin; April rev $12.6B (+17.5% YoY); May rev due ~Jun 8 | 2026-05-23 |
-| MU     | $928.41 | +3.6% | $442.63 | -52.3% | SELL/AVOID | HBM4 in HVM for Vera Rubin; $1T market cap crossed May 26; $985 intraday ATH; UBS PT $1,625; Q3 FY2026 ~June 25; 5-yr LTA; fills only 50-67% of demand | 2026-05-26 |
-| ASML   | ~$1,597 | ~flat | $1,122.64 | -29.7% | SELL/AVOID | Only EUV supplier; full 2029 TSMC roadmap (A12/A13) skips High-NA; Intel 14A + SK Hynix HBM4 are High-NA customers; Low-NA €36-40B FY2026 floor intact | 2026-05-22 |
-| NVDA   | $212.66 | +0.8% | $156.27 | -26.5% | SELL/AVOID | CUDA-moated AI GPU; $81.6B Q1 (+85%); $91B Q2 guide; N1X ARM laptop chip (TSMC N3P) June 1 reveal; Vera CPU x86 challenger; Vera Rubin 1.5M units 2H 2026 | 2026-05-21 |
-| MRVL   | ~$201 | -9.0% | $126.75 | -37.2% | SELL/AVOID | Q1 FY2027: $2.418B (+28%), EPS $0.80; Q2 guide $2.7B; FY2028 mgmt $15B; Jun 2 keynote with Jensen Huang; NVLink Fusion; HSBC Buy $300 PT; post-earnings sell-off | 2026-05-27 |
-| ANET   | ~$158 | ~flat | $126.94 | -19.6% | SELL/AVOID | AI networking backbone; $8.9B non-cancel commitments; 52-wk leads; joined EBO optical MSA May 12; $3.5B AI fabric FY2026; XPO liquid-cooled optics | 2026-05-22 |
-| ALAB   | ~$322 | ~-1.0% | $111.84 | -65.3% | SELL/AVOID | PCIe/CXL AI connectivity; Scorpio X 320 Lane shipping; Computex Jun 3 live demo; Northland downgrade (Market Perform); MRVL XConn direct competitor | 2026-05-22 |
+| TSM    | $424.34 | +0.38% | $384.28 | -9.4% | **HOLD** | Sole leading-edge foundry; NVIDIA $150B/yr Taiwan commitment locks in CoWoS for Vera Rubin; April rev $12.6B (+17.5% YoY); May rev due ~Jun 8; MoS narrowing | 2026-05-23 |
+| MU     | $928.41 | ~flat | $442.63 | -52.3% | SELL/AVOID | HBM4 in HVM for Vera Rubin; $1T market cap crossed May 26; $985 intraday ATH; UBS PT $1,625; Q3 FY2026 ~June 25; 5-yr LTA; fills only 50-67% of demand | 2026-05-26 |
+| ASML   | $1,605.60 | +0.48% | $1,122.64 | -30.1% | SELL/AVOID | Only EUV supplier; full 2029 TSMC roadmap (A12/A13) skips High-NA; Intel 14A + SK Hynix HBM4 are High-NA customers; Low-NA €36-40B FY2026 floor intact | 2026-05-22 |
+| NVDA   | $212.66 | ~flat | $156.27 | -26.5% | SELL/AVOID | CUDA-moated AI GPU; $81.6B Q1 (+85%); $91B Q2 guide; six Rubin platform chips confirmed; N1X ARM laptop + Vera CPU; June 1 keynote + "surprise product" pending | 2026-05-21 |
+| MRVL   | $206.04 | +2.7% | $126.75 | -38.5% | SELL/AVOID | Q1 FY2027: $2.418B (+28%), EPS $0.80; Q2 $2.7B; FY2028 mgmt $15B; recovering from -9% post-earnings low; Jun 2 NVLink Fusion keynote with Jensen Huang | 2026-05-27 |
+| ANET   | $158.01 | ~flat | $126.94 | -19.7% | SELL/AVOID | AI networking backbone; $8.9B non-cancel commitments; 52-wk leads; joined EBO optical MSA May 12; $3.5B AI fabric FY2026; ESUN 2027 scale-up switch coming | 2026-05-22 |
+| ALAB   | $353.86 | +8.8% | $111.84 | -68.4% | SELL/AVOID | PCIe/CXL AI connectivity; NVLink Fusion ecosystem partner (hybrid rack connectivity for non-NVIDIA XPUs); Scorpio X 320 Lane shipping; 10 hyperscaler engagements; Jun 3 Computex demo | 2026-05-22 |
 
-*May 28–29 prices (Session 32): TSM ~$412 (May 26 confirmed close; no May 28 quote available, carry forward; ~flat); MU $928.41 (May 28 close confirmed, +3.6% from $895.88 prior close; $985 intraday ATH); ASML ~$1,597 (May 27 close; ~flat carry); NVDA $212.66 (May 28, +0.8%); MRVL ~$201 (May 28 intraday $191.84–$202.30, -9.0% from $221 May 27 close; post-earnings "sell the news"); ANET ~$158 (May 27 carry, ~flat); ALAB ~$322 (May 28, ~-1.0%). MoS updated for MRVL (-37.2%), NVDA (-26.5%), ASML (-29.7%), TSM (-6.7%), ANET (-19.6%), ALAB (-65.3%). No DCF re-run (all within 30-day window; no new earnings).*
+*May 28–29 prices (Session 33): TSM $424.34 (May 28 confirmed, +0.38% from May 27; MoS narrowed to -9.4%); MU $928.41 (May 28 unchanged from session 32); ASML $1,605.60 (May 28, +0.48%); NVDA $212.66 (May 28, ~flat); MRVL $206.04 (May 28 recovery, +2.7% from session 32's $201 carry; range was $191.84–$202.30 during May 28 trading); ANET $158.01 (May 27–28, flat); ALAB $353.86 (May 28, +8.8% from $325.33 close May 27; new 52-wk high $354.53). MoS updated: TSM -9.4% (approaching SELL/AVOID threshold), MRVL -38.5%, ASML -30.1%, ALAB -68.4%. No DCF re-run (all within 30-day window; no new earnings this session).*
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -123,6 +123,10 @@ Last updated: 2026-05-29 | Session #32
 ---
 
 ## Session Notes
+
+### Session 33 (2026-05-29) — Deep: ALAB (event_queue; NVDA/MRVL Computex keynotes June 1/2 pending)
+
+NVDA Computex June 1 and MRVL June 2 keynotes remain upcoming; processed ALAB as first actionable event_queue item. Key new finding: **ALAB confirmed as NVIDIA NVLink Fusion ecosystem partner** for hybrid-rack custom connectivity — ALAB's PCIe/CXL retimers and Scorpio X switches enable non-NVIDIA XPUs (Trainium, TPU, Maia) to interface with NVIDIA AI factory infrastructure at multi-TB/s throughput. This is a thesis upgrade: ALAB is no longer competing at the edge of the NVIDIA ecosystem but is embedded inside it, complementary to MRVL rather than directly opposed. ALAB surged to a new 52-week high of $354.53 (+8.8% on May 28; 51% 6-day rally; $56B market cap); MoS deepens to -68.4% — SELL/AVOID. Pipeline disclosed: 10 hyperscaler engagements, "couple" of design wins expected by year-end 2026 (revenue in 2027). TSM price corrected from stale $412 carry to $424.34 (MoS tightens to -9.4%, approaching the -10% HOLD→SELL threshold for low-uncertainty tickers). MRVL recovered to $206 from -9% earnings-day low. Phase 1b/1c gated (33%6=3). No DCF run. Custom-silicon concept page updated with ALAB NVLink Fusion entry.
 
 ### Session 32 (2026-05-29) — Deep: NVDA (event_queue; Computex June 1 keynote imminent)
 
@@ -333,3 +337,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 30 | 2026-05-28 | ASML | rotation (Computex June 1-3 pending; all 3 queue items pre-event) | TSMC A12/2029 confirmed without High-NA (extends prior A13 finding; full 2029 roadmap High-NA-free); GEV scouted; ANET EBO MSA captured; no DCF (<30d) |
 | 31 | 2026-05-28 | NVDA | event_queue (Computex June 1 pre-event; Vera CPU standalone CPU announcement) | Vera CPU 88 Olympus ARM cores, Oracle "hundreds of thousands" pre-commitment; MRVL price corrected $209→$221 (+6.1%); HSBC MRVL Buy $300 PT; TSM 52-wk high on Taiwan exchange; no DCF (<30d) |
 | 32 | 2026-05-29 | NVDA | event_queue (Computex June 1 keynote imminent; N1X pre-reveal; MediaTek pulled from keynote slot) | N1X ARM laptop chip confirmed TSMC N3P; MRVL -9% "sell the news" to $201 (FY2028 $15B intact); MU $1T market cap + $985 ATH + UBS $1,625; hyperscaler CapEx $725B confirmed; no DCF (<30d) |
+| 33 | 2026-05-29 | ALAB | event_queue (NVDA/MRVL keynotes June 1/2 pending; ALAB +8.8% + NVLink Fusion confirmed) | ALAB NVLink Fusion NVIDIA ecosystem partner for hybrid-rack connectivity; $353.86 52-wk high; 10 hyperscaler engagements; TSM $424.34 (MoS -9.4% tightening); MRVL recovery to $206; custom-silicon concept updated |

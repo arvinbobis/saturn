@@ -10,6 +10,15 @@ Format:
 
 ---
 
+## [2026-05-29 10:00 UTC] session-33
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ALAB — event_queue (NVDA Computex June 1 and MRVL June 2 keynotes still pending; ALAB processed as first actionable item; +8.8% price move + NVLink Fusion partner confirmed)
+Notable: ALAB confirmed as NVIDIA NVLink Fusion ecosystem connectivity partner for hybrid racks — non-NVIDIA XPUs (Trainium, TPU, Maia) now interface with NVIDIA AI factory via ALAB PCIe/CXL connectivity; 10 hyperscaler engagements with "couple" design wins targeted by year-end; $353.86 new 52-wk high, 51% 6-day rally, $56B market cap. TSM price corrected from stale $412 carry to $424.34 (MoS tightens to -9.4%). MRVL recovered to $206 from -9% post-earnings low.
+No significant news: MU ($928 flat), NVDA ($212 flat), ASML ($1,605 +0.5%), ANET ($158 flat)
+DCF run: none — ALAB last run May 22 (<30 days, no earnings; NVLink Fusion confirms thesis but doesn't change financial inputs)
+Concept pages updated: custom-silicon.md (ALAB NVLink Fusion hybrid-rack connectivity thesis entry)
+
 ## [2026-05-27 02:00 UTC] session-25
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

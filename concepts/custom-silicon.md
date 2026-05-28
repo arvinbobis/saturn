@@ -80,11 +80,16 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **NVLink Fusion changes the thesis frame: custom silicon is no longer a substitute for NVIDIA — it integrates into NVIDIA** — The June 2 Computex keynote (Jensen Huang + Matt Murphy, joint) revealing NVLink Fusion details marks a paradigm shift in the custom silicon thesis. Prior framing: hyperscaler custom ASICs (Trainium, TPU, Maia) are an alternative to buying NVIDIA GPUs — a substitution risk for NVDA. New framing: custom ASICs designed by Marvell connect natively into NVIDIA AI factory infrastructure via NVLink Fusion — making NVIDIA the connective layer, not the displaced vendor. NVIDIA's $2B investment in Marvell and CEO's joint keynote appearance signals that NVIDIA views Marvell-backed custom silicon as an ecosystem expansion, not a threat. For the portfolio: this is net positive for both MRVL (validated as NVIDIA ecosystem partner) and NVDA (extends CUDA/NVLink connective standard to heterogeneous silicon). The custom silicon threat to NVDA is now more nuanced — inference diversification is real, but training and scale-up connectivity remains NVIDIA-anchored. Source: PR Newswire / Marvell.com, 2026-05-28.
 
+### 2026-05-28 — ALAB
+
+**Astera Labs joins NVIDIA NVLink Fusion ecosystem as connectivity layer for hybrid racks — custom silicon clusters now require ALAB as much as MRVL** — With the NVLink Fusion partnership, ALAB is no longer a peripheral connectivity supplier sitting outside the AI factory ecosystem. ALAB's PCIe/CXL retimers and Scorpio X switches enable non-NVIDIA XPUs (Amazon Trainium, Google TPU, Microsoft Maia) to interconnect with NVIDIA AI factory infrastructure at multi-TB/s throughput. This means every custom silicon cluster built on NVLink Fusion requires both MRVL (custom XPU co-design + optical scale-up) and ALAB (PCIe/CXL retimers and switches). The supply chain attach expands: instead of one company capturing the custom silicon connectivity, two satellite positions (MRVL + ALAB) each serve a distinct layer of the same cluster. Combined with 10 active hyperscaler engagements and the confirmed Amazon Trainium3 Scorpio X design win, ALAB is now structurally embedded in the custom silicon infrastructure wave, not merely an adjacency to it.
+
 ---
 
 ## Cross-links
 
-- [[MRVL]] — primary beneficiary; co-designs hyperscaler custom ASICs
+- [[MRVL]] — primary co-design beneficiary; MRVL designs custom ASICs and provides optical scale-up interconnect
+- [[ALAB]] — PCIe/CXL connectivity layer for hybrid racks in NVIDIA NVLink Fusion ecosystem; enables non-NVIDIA XPUs to interface with NVIDIA AI factory
 - [[TSM]] — manufactures all custom silicon; additive demand on top of NVIDIA/AMD wafers
 - [[NVDA]] — threatened at inference; maintains training dominance via CUDA; NVLink Fusion makes custom silicon NVIDIA-compatible rather than NVIDIA-competing
 - [[ANET]] — custom silicon clusters still need networking infrastructure; Arista benefits

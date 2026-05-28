@@ -4,6 +4,25 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 33 — 2026-05-29
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers: TSM $424.34 (+0.38%), MU $928.41 (~flat), ASML $1,605.60 (+0.48%), NVDA $212.66 (~flat), MRVL $206.04 (+2.7% recovery from -9% low), ANET $158.01 (~flat), ALAB $353.86 (+8.8%, 52-wk high). Hyperscaler CapEx $725B confirmed unchanged. Taiwan Strait no escalation. TSMC May revenue not yet released (~June 8). |
+| 1b (podcasts) | Gated | 33%6=3 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 33%6=3 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | ALAB — processed from event_queue (NVDA/MRVL keynotes June 1/2 still pending — correctly deferred). Key new findings: NVLink Fusion ecosystem partner confirmed; 10 hyperscaler engagements; 52-wk high $354.53; Q2 guidance precision. Entity updated with 4 new dated entries. |
+| 3 (DCF) | Skipped | Correct — ALAB last run May 22 (<30 days); NVLink Fusion is business thesis confirmation, not a financial input change; price move only deepens SELL/AVOID. |
+| 4 (dashboard) | Complete | For Arvs overwritten; Portfolio Snapshot: all 7 prices updated, MoS recalculated; Session 33 notes + history row appended; header updated |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; no stale catalysts (all June 1-25 upcoming); custom-silicon concept page updated; cross-links verified: ALAB ↔ [[custom-silicon]] ↔ [[ALAB]] ✓ |
+
+### Diagnosis
+Session ran cleanly. The key structural friction remains the Computex cycle (NVDA June 1 / MRVL June 2 / ALAB June 3) — three consecutive event_queue items that cannot be processed until each keynote occurs. The correct response is to continue deferring those events and process other material that has emerged (ALAB NVLink Fusion being the most significant this session). This is not a process problem; it is a scheduling constraint with a hard resolution window over June 1-3.
+
+### Improvement Executed
+None — no 3-session pattern identified. The Computex-deferral pattern spans 2 sessions so far (32 and 33); if sessions 34 and 35 also have keynotes not yet fully captured, it may be worth adding a note to the prompt about how to handle pending live-event queue items. Not yet at the 3-session threshold.
+
 ## Session 28 — 2026-05-27
 
 ### Phase Scores
