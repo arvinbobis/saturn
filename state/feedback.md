@@ -475,3 +475,23 @@ Session ran cleanly with one meaningful correction: session 30 had an intraday M
 
 ### Improvement Executed
 None — no 3-session pattern triggered. Note: all three sessions today (29, 30, 31) covered NVDA-adjacent pre-Computex material. The next 1-2 sessions should aggressively capture NVDA Computex keynote output (June 1) and then immediately rotate through MRVL and ALAB for Computex June 2-3 outcomes.
+
+## Session 32 — 2026-05-29
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | TSM ~$412 (flat carry), MU $928.41 (+3.6%, $985 intraday ATH, $1T market cap crossed May 26), ASML ~$1,597 (flat carry), NVDA $212.66 (+0.8%), MRVL ~$201 (-9.0% post-earnings sell-off), ANET ~$158 (flat), ALAB ~$322 (-1.0%). Hyperscaler CapEx $700-725B confirmed. Taiwan Strait calm. DRAM Q2 +58-63% confirmed. |
+| 1b (podcasts) | Gated | 32%6=2 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 32%6=2 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | NVDA — MediaTek keynote slot pull + N1X TSMC N3P spec captured. MRVL supplementary: post-earnings -9% + HSBC $300 PT. Both entities updated with 2026-05-29 sections. |
+| 3 (DCF) | Skipped | Correctly skipped — all tickers within 30-day window, no new earnings |
+| 4 (dashboard) | Complete | For Arvs overwritten; Portfolio Snapshot: all 7 prices/1D%/MoS updated; Session 32 notes + history row appended; header updated |
+| 5 (lint) | Partial | No null DCFs; no zero-revenue; no stale catalysts (all June events still pending); cross-links spot-checked OK. Concept pages: HBM.md updated (MU $1T milestone); custom-silicon.md and cowos.md current through session 31 — no new entries needed this session. |
+| 6 (feedback + commit) | Complete | This entry + commit pending |
+
+### Diagnosis
+Session ran cleanly. Main value-adds: MediaTek keynote slot pull (confirmed NVIDIA full June 1 stage for N1X), MRVL -9% post-earnings context, MU $1T market cap milestone. The "sell the news" pattern across NVDA (post-$91B guide), MU (post-UBS upgrade), and MRVL (post-earnings beat) is a consistent market dynamic this earnings season — worth noting as portfolio context. No 3-session pattern friction identified.
+
+### Improvement Executed
+None — no recurring 3-session issue. Session 33 must capture the actual NVDA June 1 keynote output immediately after the event. Priority: Vera Rubin NVL72 production volume guidance, N1X official specs, Dynamo 1.0 GA, any surprise product announcement.

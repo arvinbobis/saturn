@@ -204,6 +204,14 @@ Source: CNBC / Quiver Quantitative / StockTitan / Motley Fool Transcript, 2026-0
 
 ---
 
+### 2026-05-29
+
+**MediaTek abruptly pulled from Computex keynote slot — NVIDIA commands full June 1 stage for N1X ARM chip reveal:** MediaTek was originally scheduled to share a keynote slot at Computex 2026 but was abruptly removed, handing NVIDIA undivided stage time at the June 1 GTC Taipei keynote. The development is understood as NVIDIA asserting full control of the N1X debut — the ARM-based laptop SoC co-developed with MediaTek targeting the 150M/year laptop market. Confirmed spec additions: TSMC N3P node (most advanced 3nm variant, same family as Vera Rubin's compute dies), TDP range 65–120W, up to 128GB LPDDR5x-8533. First devices targeted October 2026 (limited OEM availability); broad availability early 2027. Jensen Huang specifically teased the second half as "very busy — Grace Blackwell, Vera Rubin, and a surprise new product." Source: WCCFTech / Igor's Lab / Notebookcheck / Tom's Guide, 2026-05-28. *Thesis bearing: Confirms — NVIDIA commanding the full Computex June 1 stage for N1X signals a CEO-priority corporate announcement, not a peripheral product debut. The N1X extends CUDA from datacenter into the 150M/year laptop TAM; every N1X device becomes a native CUDA environment for local AI inference. TSMC N3P demand: N1X creates a dedicated consumer-market N3P demand stream from NVIDIA, supplementing Vera Rubin's CoWoS-N3P demand — two separate demand vectors on the same high-ASP node.*
+
+**Pre-Computex stock context — NVDA $212.66 (+0.8%) on May 28; MRVL -9% "sell the news" flags risk:** NVDA closed at approximately $212.66 on May 28, mildly positive ahead of the June 1 keynote. Market context: MRVL fell ~9% on May 28 despite a clean Q1 FY2027 beat and FY2028 $15B management guidance — classic "sell the news" after a 183% run since March 5. The same pattern was observed after NVDA's own $91B Q2 guide (muted after-hours reaction). With NVDA in a $208–$214 consolidation range entering June 1, the "sell the news" dynamic post-Computex is a meaningful near-term risk for the stock. The DCF IV remains $156.27; Computex product reveals do not change the near-term revenue trajectory. Source: Price data / Investing.com, 2026-05-28. *Thesis bearing: Neutral — stock in holding pattern ahead of the catalytic event; valuation assessment unchanged.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS

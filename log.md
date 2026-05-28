@@ -473,3 +473,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: NVDA — event-driven (event_queue: Computex June 1 pre-event; Vera CPU standalone datacenter CPU capture) | DCF: none (NVDA <30 days from May 21 run) | Concepts: cowos.md (Oracle "hundreds of thousands" Vera CPU pre-commitment = new CPU-side CoWoS-L demand per NVL72 rack) | Watchlist: none (Phase 1c gated; 31%6=1) | Podcast: none (Phase 1b gated; 31%6=1)
 Notable: NVIDIA Vera CPU — 88 Olympus ARM cores, 1.5× vs x86, Phoronix "fastest Arm Linux processor in 22 years," Oracle pre-committed "hundreds of thousands" before June 1 launch; NVIDIA entering $15B+ datacenter CPU market (Intel Xeon/AMD EPYC) simultaneously with Vera Rubin GPU launch. Phase 1 correction: MRVL actual May 27 close $221 (+6.1%), not session 30's $209 estimate; HSBC upgraded MRVL to Buy $300 PT.
 No significant news: TSM (52-wk high on Taiwan exchange), ASML (carry), MU (carry), ANET (carry), ALAB (carry)
+
+## [2026-05-29 06:00 UTC] session-32
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: NVDA — event-driven (event_queue: Computex June 1 keynote imminent; MediaTek pulled from keynote slot — NVIDIA takes full June 1 stage for N1X ARM chip debut) | DCF: none (NVDA <30 days from May 21 run) | Concepts: HBM.md (MU $1T market cap + UBS $1,625 PT confirms HBM supercycle institutional adoption) | Watchlist: none (Phase 1c gated; 32%6=2) | Podcast: none (Phase 1b gated; 32%6=2)
+Notable: MRVL -9% post-earnings "sell the news" to ~$201 (Q1 FY2027 beat, $2.7B Q2 guide, FY2028 $15B management guidance all intact); MU crossed $1T market cap with $985 intraday ATH and UBS $1,625 PT; N1X ARM laptop chip confirmed on TSMC N3P — extends CUDA moat to 150M/yr laptop market; Computex June 1-3 cycle starts tomorrow.
+No significant news: TSM (~$412 flat), ASML (~$1,597 flat), ANET (~$158 flat)
