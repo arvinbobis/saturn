@@ -61,6 +61,10 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 
 **Jensen Huang-C.C. Wei dinner confirms NVIDIA holds ~60% of all TSMC CoWoS capacity (~595K wafers in 2026); $150B annual Taiwan investment announced** — NVIDIA has committed to ~60% of TSMC's global CoWoS capacity for 2026, specifically ~510,000 CoWoS-L wafers for Blackwell/Rubin NVL72 production. Jensen Huang's private dinner with TSMC Chairman C.C. Wei (and 8 TSMC SVPs) was focused on securing capacity commitments for Vera Rubin before the June 1 Computex announcement. Jensen simultaneously announced $150B/year in total Taiwan investment (wafers, CoWoS, supply chain). CoWoS-L remains the most advanced variant — Vera Rubin is the first GPU to require it alongside HBM4. With TSMC targeting 120-140K WPM by end-2026 (from 35K WPM), and NVIDIA pre-committed to >50% of that capacity, the remaining ~60K WPM must absorb ALL other AI chip demand (AMD, custom ASICs, HPC). — CoWoS is the quantified chokepoint; NVIDIA's dominance of that chokepoint is both a structural moat and a supply constraint on competitors' ramp trajectories.
 
+### 2026-05-28 — NVDA (Session 31)
+
+**Oracle commits to "hundreds of thousands" of Vera CPUs for 2H 2026; Vera Rubin NVL72 (36 Vera CPUs + 72 Rubin GPUs per rack) adds CPU-side CoWoS demand on top of GPU** — Each Vera Rubin NVL72 rack requires CoWoS-L packaging for both the 72 Rubin GPU dies AND the 36 Vera CPU dies. Oracle's public pre-commitment of "hundreds of thousands" of Vera CPUs before the June 1 Computex launch is the first hyperscaler commitment translating to CoWoS demand beyond just GPU packaging. If Oracle deploys 200K+ Vera Rubin NVL72 racks (using hundreds of thousands of Vera CPUs), the CoWoS-L wafer requirement is proportionally larger than GPU-only deployments. This expands the CoWoS addressable demand per rack vs. prior Blackwell-only deployments — reinforcing TSMC's 4× capacity expansion thesis (35K → 130K WPM by end-2026).
+
 ---
 
 ## Cross-links

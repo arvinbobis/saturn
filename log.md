@@ -466,3 +466,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: ASML — rotation (Computex June 1-3 events pending; all 3 queue items pre-event; ASML chosen as next rotation ticker) | DCF: none (<30 days from May 22 run) | Concepts: none | Watchlist: GEV (GE Vernova — AI datacenter power grid chokepoint; $163B backlog; sold out through 2028) | Podcast: none (gate open 30%6=0; zero relevant episodes found in last 14 days)
 Notable: TSMC's complete 2029 roadmap (including new A12 "1.2nm" node) confirmed without High-NA EUV — extending the prior A13 capture and closing the loop on TSMC's planning horizon through 2029; ASML's highest-ASP segment (€350-400M/unit) is now delayed to 2030+ for its largest customer (~50% of EUV shipments). ANET EBO optical MSA (May 12) captured as supplementary. Prices: TSM ~$409 (-0.8%), MU $928.41 (+1.4%), ASML ~$1,627 (+3.4% EUR), NVDA ~$215 (+1.1%), MRVL ~$209 (+0.6%), ANET ~$158 (~flat), ALAB ~$325 (+1.4%).
 No significant news: NVDA (Computex June 1 still pending), MRVL (June 2 keynote pending), ALAB (June 3 demo pending)
+
+## [2026-05-29 02:00 UTC] session-31
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: NVDA — event-driven (event_queue: Computex June 1 pre-event; Vera CPU standalone datacenter CPU capture) | DCF: none (NVDA <30 days from May 21 run) | Concepts: cowos.md (Oracle "hundreds of thousands" Vera CPU pre-commitment = new CPU-side CoWoS-L demand per NVL72 rack) | Watchlist: none (Phase 1c gated; 31%6=1) | Podcast: none (Phase 1b gated; 31%6=1)
+Notable: NVIDIA Vera CPU — 88 Olympus ARM cores, 1.5× vs x86, Phoronix "fastest Arm Linux processor in 22 years," Oracle pre-committed "hundreds of thousands" before June 1 launch; NVIDIA entering $15B+ datacenter CPU market (Intel Xeon/AMD EPYC) simultaneously with Vera Rubin GPU launch. Phase 1 correction: MRVL actual May 27 close $221 (+6.1%), not session 30's $209 estimate; HSBC upgraded MRVL to Buy $300 PT.
+No significant news: TSM (52-wk high on Taiwan exchange), ASML (carry), MU (carry), ANET (carry), ALAB (carry)

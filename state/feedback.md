@@ -456,3 +456,22 @@ Session ran cleanly. Primary friction: Phase 1b gate-open with zero finds for th
 
 ### Improvement Executed
 None — 3-session rule not yet triggered for podcast zero-finds (sessions 24 and 30 are the first two consecutive gate-open zeros under the %6 gate). Will track session 36 to determine if further gate adjustment is warranted.
+
+## Session 31 — 2026-05-28
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | MRVL price correction captured (+6.1% to $221); HSBC $300 PT new; TSM 52-wk high; NVDA Vera CPU news |
+| 1b (podcasts) | Gated | 31%6=1 |
+| 1c (scout) | Gated | 31%6=1 |
+| 2 (deep session) | Complete | NVDA Vera CPU standalone datacenter CPU entry added |
+| 3 (DCF) | Skipped | All tickers within 30-day window; no new earnings |
+| 4 (dashboard) | Complete | For Arvs overwritten; prices corrected; HSBC PT added; session notes and history appended |
+| 5 (lint) | Complete | No null DCFs; no zero revenues; no stale catalysts (all future); concept pages current; cross-links intact |
+
+### Diagnosis
+Session ran cleanly with one meaningful correction: session 30 had an intraday MRVL estimate ($209) that diverged from the actual May 27 close ($221). This is a recurring theme — intraday session data vs. confirmed closing data creates single-session lag. The Vera CPU standalone CPU story was a new angle not captured in sessions 29-30 despite covering the same date's NVDA pre-Computex news. Sessions 29, 30, and 31 all ran on May 28 — same-day triple coverage of pre-Computex NVDA material means some redundancy across sessions is expected but also reveals marginal new information per incremental session.
+
+### Improvement Executed
+None — no 3-session pattern triggered. Note: all three sessions today (29, 30, 31) covered NVDA-adjacent pre-Computex material. The next 1-2 sessions should aggressively capture NVDA Computex keynote output (June 1) and then immediately rotate through MRVL and ALAB for Computex June 2-3 outcomes.
