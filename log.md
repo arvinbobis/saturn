@@ -459,3 +459,10 @@ Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
 Deep: NVDA — event-driven (event_queue: pre-Computex intelligence sweep; June 1 keynote pending) | DCF: none (NVDA <30 days from May 21 run) | Concepts: cowos.md (NVIDIA ~60% CoWoS capacity lock), HBM.md (HBM4 26% of Vera Rubin rack cost; Samsung as 2nd supplier), custom-silicon.md (NVLink Fusion reframes custom silicon as NVIDIA ecosystem integration) | Watchlist: none (Phase 1c gated; 29%6=5) | Podcast: none (Phase 1b gated; 29%6=5)
 Notable: NVIDIA to invest $150B annually in Taiwan (up from $10-15B in 2020-2021); Jensen Huang private dinner with TSMC Chairman C.C. Wei to lock CoWoS-L capacity for Vera Rubin; Jensen Huang confirmed as special guest at MRVL Computex June 2 keynote — NVLink Fusion $2B partnership reframes custom silicon as NVIDIA ecosystem integration, not substitution; NVIDIA foresees $3-4T annual AI infrastructure by 2030.
 No significant news: MU (~$920 flat), ANET (~$157 flat), ALAB (~$321 flat)
+
+## [2026-05-28 22:00 UTC] session-30
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: ASML — rotation (Computex June 1-3 events pending; all 3 queue items pre-event; ASML chosen as next rotation ticker) | DCF: none (<30 days from May 22 run) | Concepts: none | Watchlist: GEV (GE Vernova — AI datacenter power grid chokepoint; $163B backlog; sold out through 2028) | Podcast: none (gate open 30%6=0; zero relevant episodes found in last 14 days)
+Notable: TSMC's complete 2029 roadmap (including new A12 "1.2nm" node) confirmed without High-NA EUV — extending the prior A13 capture and closing the loop on TSMC's planning horizon through 2029; ASML's highest-ASP segment (€350-400M/unit) is now delayed to 2030+ for its largest customer (~50% of EUV shipments). ANET EBO optical MSA (May 12) captured as supplementary. Prices: TSM ~$409 (-0.8%), MU $928.41 (+1.4%), ASML ~$1,627 (+3.4% EUR), NVDA ~$215 (+1.1%), MRVL ~$209 (+0.6%), ANET ~$158 (~flat), ALAB ~$325 (+1.4%).
+No significant news: NVDA (Computex June 1 still pending), MRVL (June 2 keynote pending), ALAB (June 3 demo pending)

@@ -435,3 +435,24 @@ Clean session with high-value pre-Computex intelligence. Primary friction: price
 
 ### Improvement Executed
 None — no 3-session pattern triggered. Price estimation issue is a session-timing artifact that resolves in next session's Phase 1a. No CLAUDE.md change warranted.
+
+---
+
+## Session 30 — 2026-05-28
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers: TSM ~$409 (-0.8%), MU $928.41 (+1.4%), ASML ~$1,627 (+3.4% EUR confirmed), NVDA ~$215 (+1.1%), MRVL ~$209 (+0.6%), ANET ~$158 (~flat), ALAB ~$325 (+1.4%). Hyperscaler CapEx $700B confirmed; TrendForce Q2 DRAM +58-63% QoQ confirmed; Taiwan Strait elevated but steady (169 ADIZ incursions April, lower cadence); TSMC Europe Symposium today (no new announcements). |
+| 1b (podcasts) | Partial | Gate open (30%6=0); searched all target shows; zero relevant episodes in last 14 days. Second consecutive gate-open zero under the %6 gate (sessions 24 and 30). Not yet 3-session pattern — no CLAUDE.md change. |
+| 1c (scout) | Complete | Gate open (30%6=0); GEV (GE Vernova) scouted — passes all 3 thesis filters; watchlist/GEV.md created; dashboard watchlist updated. |
+| 2 (deep session) | Complete | ASML rotation: captured TSMC A12 (2029) confirmed without High-NA EUV (A12 is most advanced TSMC disclosed node); TSMC Europe Symposium (no new findings). ANET supplementary: EBO MSA May 12 captured + price recovery to SELL/AVOID. |
+| 3 (DCF) | Skipped | Correct — all tickers <30 days from last run; no new earnings; TSMC A12 finding extends prior A13 entry but not a standalone thesis reversal warranting re-run. |
+| 4 (dashboard) | Complete | All 7 prices updated; ASML Story updated to reflect A12/A13 finding; For Arvs overwritten; GEV added to watchlist; Session 30 notes + history row appended; header updated to Session #30. |
+| 5 (lint) | Partial | Null DCF: all covered. Zero-revenue: all populated. Stale catalysts: Computex events (June 1/2/3) still ahead — not stale. Concept staleness: all pages updated within last 3 days (cowos, HBM, custom-silicon in session 29; dram-cycle in session 26). Cross-links: ANET entity new entries added without broken links; ASML cross-links intact. |
+
+### Diagnosis
+Session ran cleanly. Primary friction: Phase 1b gate-open with zero finds for the second time under the %6 gate — the specialist shows (Chip Chat, Moore's Law is Dead) found but covered x86/gaming, not AI supply chain. This is a signal worth monitoring for the 3-session rule. Phase 2 ASML update was focused: the A12 High-NA-free confirmation extends the existing A13 entry in a meaningful way.
+
+### Improvement Executed
+None — 3-session rule not yet triggered for podcast zero-finds (sessions 24 and 30 are the first two consecutive gate-open zeros under the %6 gate). Will track session 36 to determine if further gate adjustment is warranted.

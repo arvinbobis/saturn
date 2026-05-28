@@ -195,6 +195,14 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 ---
 
+### 2026-05-28 (Session 30)
+
+**TSMC A12 node (2029) confirmed without High-NA EUV — entire 2029 roadmap is High-NA-free:** TSMC's North America Technology Symposium (May 14, 2026) confirmed that both A13 ("1.3nm-class") and A12 ("1.2nm-class") — the most advanced nodes TSMC has publicly disclosed, both targeted for production by 2029 — will not use ASML's High-NA EUV lithography. A13 is an optical shrink of A14 using Low-NA EUV + multi-patterning; A12 deploys Super Power Rail backside power delivery with continued Low-NA patterning. This extends the already-captured A16 deferral (2027) and A13 (2029) finding: TSMC's complete published roadmap through 2029 — N2U (2028), A16 (2027), A14 (2027), A13 (2029), A12 (2029) — explicitly bypasses High-NA EUV. ASML's confirmed High-NA customers through 2029 remain Intel (14A/18A, 2027-2028), SK Hynix (HBM4), and Samsung. Source: TrendForce, 2026-04-23; Tom's Hardware, 2026-04-23; WCCFTech, 2026-04-23; DQIndia, 2026-04-23. *Thesis bearing: Challenges (medium-term) — TSMC represents ~50% of ASML's EUV shipments; its full avoidance of High-NA through its most advanced planned 2029 node pushes the highest-ASP segment (€350-400M/unit vs. €150-200M standard EUV) to 2030+ for the world's largest chipmaker. The €36-40B FY2026 Low-NA demand floor is intact, but the compounding growth premium in current valuations (at MoS -30%+) relied partly on TSMC High-NA ramp starting 2027-2028 — that timeline is now definitively broken for TSMC. Intel 14A and SK Hynix HBM4 partially compensate, but Intel foundry volumes are a fraction of TSMC's.*
+
+**TSMC 2026 Europe Technology Symposium (May 28, Amsterdam):** TSMC hosted ~800 attendees at the Hilton Amsterdam Airport Schiphol for its Europe-leg Technology Symposium. Covered: 3nm, 2nm, A16/A14 process roadmap, 3DFabric/CoWoS/InFO packaging advances, and specialty technology breakthroughs (ultra-low power, RF, embedded memory). No new announcements identified beyond what was disclosed at the North America Symposium (May 14). Source: imec / TSMC event page, 2026-05-28. *Thesis bearing: Neutral — routine roadmap review; no new upside or downside.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — primary customer; TSMC CapEx guides ASML demand 12–18 months ahead

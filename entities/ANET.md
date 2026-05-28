@@ -174,6 +174,14 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-28 (Session 30 supplementary)
+
+**ANET joins Expanded Beam Optical (EBO) MSA for AI datacenter interconnects (May 12 retroactive capture):** Arista joined a new multi-source agreement (MSA) coalition for expanded beam optical (EBO) technology on May 12, 2026. The EBO MSA includes 3M (lead coordinator), AMD, Amphenol, Arista, Cisco, Meta, Molex, Oracle, TE Connectivity, and others. EBO uses beam collimation optics to eliminate the polished end-face requirement of traditional MPO/MTP fiber connectors, addressing contamination and misalignment in ultra-high-density AI datacenter racks. This is Arista's second optical MSA of 2026 (separate from the XPO MSA for 12.8T liquid-cooled modules, launched at OFC March 2026). Source: 3M press release / Convergedigest / SDxCentral, 2026-05-12. *Thesis bearing: Confirms — EBO participation positions Arista at the forefront of two competing next-generation AI datacenter optical standards (XPO for bandwidth density, EBO for reliability in dense deployments). Arista's role in standards-setting reduces the risk of being bypassed by a competing vendor's proprietary optical system; ANET is building ecosystem lock-in one MSA at a time.*
+
+**Price recovery to ~$158 (May 26-28); Rec reverts to SELL/AVOID:** ANET recovered from the May 22-26 decline ($154 → $137.53) and has returned to ~$158 by May 27-28. At $158, MoS = (IV $126.94 − $158) / $158 = -19.7%, which crosses back above the SELL/AVOID threshold (-10% for low-uncertainty names). The Rec reverts to SELL/AVOID from HOLD (HOLD was only valid near $137.53 on May 26). Source: Market data, 2026-05-27. *Thesis bearing: Neutral — price-only move; business fundamentals and AI networking demand trajectory unchanged.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing
