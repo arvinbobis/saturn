@@ -217,6 +217,14 @@ Micron won NVIDIA Blackwell HBM3E design certification — its first time at the
 
 ---
 
+### 2026-05-29
+
+**Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT):** Micron officially scheduled Q3 FY2026 results for June 24, approximately one week earlier than analyst estimates of "late June." Q3 FY2026 covers the March–May 2026 quarter; consensus ~$33.5B (guided by management). Post-earnings DCF re-run queued. Source: StockTitan / Micron IR, 2026-05. *Thesis bearing: Neutral — confirmed date; no content change to the thesis. June 24 is the next binary event for MU.*
+
+**HBM-vs-DDR5 price premium narrowing to 1-2x by end-2026 — DDR5 catching up from below:** TrendForce (March 31, 2026 report, color since applied) projects the HBM price premium over server DDR5 will compress from a current ~4-5x to approximately 1-2x by end-2026. The mechanism: conventional DRAM prices rising faster than LTA-locked HBM under multi-year contracts, closing the gap from the DDR5 side. This does NOT signal HBM ASP decline — absolute HBM4 prices under LTA remain structurally elevated per UBS's +50% YoY model through 2029. Source: TrendForce, 2026-03-31 / May context. *Thesis bearing: Neutral to confirms — broad memory market strength (conventional DRAM catching up to HBM pricing level) validates the systemic undersupply thesis; UBS $1,625 PT already incorporates elevated HBM ASPs independent of the relative premium.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC CoWoS packages HBM alongside compute dies; CoWoS capacity is the packaging bottleneck

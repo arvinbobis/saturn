@@ -514,3 +514,23 @@ Session ran cleanly. Main value-adds: MediaTek keynote slot pull (confirmed NVID
 
 ### Improvement Executed
 None — no recurring 3-session issue. Session 33 must capture the actual NVDA June 1 keynote output immediately after the event. Priority: Vera Rubin NVL72 production volume guidance, N1X official specs, Dynamo 1.0 GA, any surprise product announcement.
+
+## Session 34 — 2026-05-29
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; key corrections: ALAB close $349.08 (not $353.86 intraday); ANET close ~$154.50 (not $158 May 27 carry); MU Q3 earnings confirmed June 24 |
+| 1b (podcasts) | Gated | 34%6=4 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 34%6=4 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | NVDA — pre-Computex intelligence; "biggest product ramp in history" quote + $200B CPU TAM China framing added to entity |
+| 3 (DCF) | Skipped | Correctly skipped — NVDA last run May 21 (8 days); no new earnings; June 1 keynote pending |
+| 4 (dashboard) | Complete | For Arvs overwritten; prices corrected (ALAB, ANET); MU earnings date updated; Session 34 notes + history appended |
+| 5 (lint) | Partial | No null DCFs; no zero revenues; MU Q3 earnings date corrected in Upcoming Catalysts; concept pages checked (cowos.md through May 28 — current); cross-links intact |
+| 6 (feedback + commit) | Complete | This entry + commit follows |
+
+### Diagnosis
+The most significant friction this session was price data correction — intraday vs. close discrepancies carried from session 33 (ALAB $353.86 vs. $349.08 actual close; ANET $158.01 vs. $154.50 actual close). This is the second session with this issue (session 26 also corrected ANET from $137.53 stale to actual). No 3-session pattern yet, but approaching threshold.
+
+### Improvement Executed
+None — 2-session pattern, not yet 3. Flag for session 35: if intraday-vs-close discrepancy appears again, trigger the improvement (add explicit note to Phase 1a search instructions to specifically request "closing price, not intraday high/low").

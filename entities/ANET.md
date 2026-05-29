@@ -182,6 +182,14 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-29
+
+**ANET May 28 confirmed close ~$154.50 (-2.2% from May 27's $158.01); MoS corrects to -17.8%:** Arista pulled back ~$3.50 on May 28 as margin headwind sentiment continued (supply chain cost absorption flagged by Citi in May). No specific negative catalyst; continuation of the "margin anxiety" narrative from the May 5 earnings-driven selloff. At $154.50, MoS = (IV $126.94 − $154.50) / $154.50 = -17.8% — tighter than the -19.7% at $158 but still SELL/AVOID. Source: Market data / Motley Fool, 2026-05-28. *Thesis bearing: Neutral — price-only move; Q1 2026 revenue $2.709B (+35.1% YoY), full-year $11.5B guide, and $3.5B AI fabric target are unchanged. Actual shipment growth 54% YoY per JPMorgan conference.*
+
+**Arista named Leader in 2026 Gartner Magic Quadrant for Enterprise Wired and Wireless LAN:** Arista received the 2026 Gartner Magic Quadrant Leader designation for enterprise networking — a recognition that reinforces EOS software platform stickiness in enterprise (complementary to the hyperscaler AI fabric thesis). The MQ designation increases the switching cost at the enterprise level and supports the long-term ANET moat beyond hyperscaler AI networking. Source: StockTitan, 2026-05. *Thesis bearing: Confirms — incremental moat expansion; Gartner Leader status compounds EOS lock-in across enterprise and hyperscaler segments.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing
