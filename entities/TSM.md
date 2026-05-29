@@ -175,6 +175,14 @@
 
 ---
 
+### 2026-05-29
+
+**TSMC CoWoS yield reaches 98%, capacity target refined to 127,000 WPM by end-2026:** Digitimes (May 14–15, 2026) reported TSMC's CoWoS advanced packaging yield has hit 98% as capacity scales from ~35,000 WPM (late 2024) toward ~127,000 WPM by year-end 2026. NVIDIA holds >50% of that capacity; Broadcom and AMD are secondary beneficiaries. A 98% yield is a mature-production milestone: near-elimination of packaging defects means effective deliverable output is close to theoretical nameplate capacity. Source: Digitimes, 2026-05-14–15. *Thesis bearing: Confirms — at 98% yield, the 4× CoWoS capacity expansion (35K→127K WPM) translates to nearly 4× usable output, not a ramp-discounted figure. TSMC's 2026 AI packaging revenue is now bounded by capacity addition rate alone, confirming the bottleneck release is running on schedule and revenue recognition is predictable.*
+
+**US autonomous vessel "Lightfish" completes first-ever autonomous Taiwan Strait transit (May 28):** A US unmanned surface vessel named "Lightfish" successfully completed an autonomous transit of the Taiwan Strait on May 28, 2026 — the first publicly confirmed autonomous USV passage through these waters — enhancing maritime domain awareness and PLA naval detection capability. Taiwan Strait context for May: 4 Chinese "joint combat readiness patrols," Xi-Trump summit (May 13–15, no major Taiwan agreements), Taiwan 780B NTD defense budget passed May 8. Source: Taiwan News, 2026-05-28. *Thesis bearing: Neutral — improved US surveillance is constructive for early warning but does not change the fundamental TSMC geopolitical risk baseline. May 2026 pattern: normalized pressure, not pre-conflict posture. No changes to HOLD recommendation on geopolitical grounds.*
+
+---
+
 ## Cross-links
 
 - [[MU]] — HBM supply; CoWoS connects HBM to TSMC-packaged AI chips

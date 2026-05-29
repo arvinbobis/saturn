@@ -498,3 +498,13 @@ Notable: Jensen Huang confirmed Vera Rubin is "biggest product ramp in computer 
 No significant news: ASML (stable; UBS €1,900 PT from May 20 unchanged)
 DCF run: none — NVDA <30d, no new earnings, June 1 keynote pending
 Concept pages updated: none (cowos.md through May 28 current; no new CoWoS data beyond prior session)
+
+## [2026-05-29 18:30 UTC] session-35
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA + TSM supplementary — event_queue (NVDA keynote June 1 still pending; pre-keynote data sweep); TSM added for CoWoS yield milestone
+Notable: TSMC CoWoS yield hit 98% with 127K WPM capacity target refined (Digitimes May 14-15); hyperscaler CapEx composition shift — 60%+ on power/electricity (not chips) means NVIDIA demand bounded by energy infrastructure, not budget cycles; MRVL price corrected to $201 regular close (session 34 carried $206.04 AH peak); TSM MoS tightens to -9.6% (0.4% above SELL threshold); US autonomous vessel completed first Taiwan Strait autonomous transit (May 28).
+No significant news: MU, ASML, ANET, ALAB (all pre-Computex holding patterns)
+DCF run: none — all tickers within 30-day window, no new earnings
+Concept pages updated: cowos.md (98% yield + 127K WPM entry)
+Self-improvement: CLAUDE.md Phase 1a updated with >1% price verification rule (3-session threshold met: sessions 26, 34, 35)

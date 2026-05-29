@@ -534,3 +534,23 @@ The most significant friction this session was price data correction — intrada
 
 ### Improvement Executed
 None — 2-session pattern, not yet 3. Flag for session 35: if intraday-vs-close discrepancy appears again, trigger the improvement (add explicit note to Phase 1a search instructions to specifically request "closing price, not intraday high/low").
+
+## Session 35 — 2026-05-29
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; confirmed May 28 closes. NVDA corrected $212.66→$214.28; MRVL corrected $206.04→$201 (AH peak vs. regular close); TSM corrected $424.34→$425.00; ANET minor correction to $154.06. Hyperscaler CapEx (60%+ on power), Taiwan Strait (Lightfish USV), TrendForce DRAM, CoWoS yield all searched. |
+| 1b (podcasts) | Gated | 35%6=5 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 35%6=5 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | NVDA entity: hyperscaler CapEx power insight added (session 35 continuation of May 29 section). TSM entity: new May 29 section — CoWoS yield 98% + 127K WPM capacity target + Lightfish Taiwan Strait transit. |
+| 3 (DCF) | Skipped | Correctly skipped — all tickers within 30-day window, no new earnings |
+| 4 (dashboard) | Complete | For Arvs overwritten; Portfolio Snapshot all 7 prices corrected; footnote updated; Session 35 notes + history row appended; header updated |
+| 5 (lint) | Complete | No null DCFs; no zero revenues; no stale catalysts (all future); concept pages: cowos.md updated (98% yield entry), dram-cycle.md and custom-silicon.md and HBM.md all within 14-day window. Cross-links spot-checked intact. |
+| 6 (feedback + commit) | Complete | Self-improvement executed (see below); this entry + commit follows |
+
+### Diagnosis
+Third consecutive session (26, 34, 35) with intraday-vs-close price discrepancy requiring correction. Session 34 feedback explicitly flagged this as the trigger threshold for improvement. Root cause: search results sometimes return AH peak prices or prior-day intraday ranges labeled as "close." The issue recurs because the query template alone is insufficient to distinguish regular-session close from AH/premarket data.
+
+### Improvement Executed
+3-session rule met (sessions 26, 34, 35 all required intraday-vs-close corrections). Edited CLAUDE.md Phase 1a to add: "Price verification: If a search result price differs from the prior session's carried price by >1%, verify before using it: confirm the result is the regular-session close, not an intraday high/low or after-hours price. Note the basis of any correction in the dashboard table footnote." Change logged in session notes. *Self-improvement (Session 35): Added >1% price verification rule to Phase 1a after 3 consecutive sessions with intraday-vs-close discrepancies causing dashboard corrections.*

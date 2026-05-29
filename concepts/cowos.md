@@ -65,6 +65,10 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 
 **Oracle commits to "hundreds of thousands" of Vera CPUs for 2H 2026; Vera Rubin NVL72 (36 Vera CPUs + 72 Rubin GPUs per rack) adds CPU-side CoWoS demand on top of GPU** — Each Vera Rubin NVL72 rack requires CoWoS-L packaging for both the 72 Rubin GPU dies AND the 36 Vera CPU dies. Oracle's public pre-commitment of "hundreds of thousands" of Vera CPUs before the June 1 Computex launch is the first hyperscaler commitment translating to CoWoS demand beyond just GPU packaging. If Oracle deploys 200K+ Vera Rubin NVL72 racks (using hundreds of thousands of Vera CPUs), the CoWoS-L wafer requirement is proportionally larger than GPU-only deployments. This expands the CoWoS addressable demand per rack vs. prior Blackwell-only deployments — reinforcing TSMC's 4× capacity expansion thesis (35K → 130K WPM by end-2026).
 
+### 2026-05-29 — TSM
+
+**TSMC CoWoS yield at 98% as capacity scales toward 127,000 WPM by end-2026 (Digitimes May 14–15)** — Mature production yield means the 4× expansion from 35K WPM (late 2024) delivers near-4× usable output with minimal defect discount; bottleneck release is now a capacity-addition story, not a yield-improvement story; at 98% yield, TSMC CoWoS revenue is predictable per wafer of installed capacity.
+
 ---
 
 ## Cross-links
