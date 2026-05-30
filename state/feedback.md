@@ -554,3 +554,22 @@ Third consecutive session (26, 34, 35) with intraday-vs-close price discrepancy 
 
 ### Improvement Executed
 3-session rule met (sessions 26, 34, 35 all required intraday-vs-close corrections). Edited CLAUDE.md Phase 1a to add: "Price verification: If a search result price differs from the prior session's carried price by >1%, verify before using it: confirm the result is the regular-session close, not an intraday high/low or after-hours price. Note the basis of any correction in the dashboard table footnote." Change logged in session notes. *Self-improvement (Session 35): Added >1% price verification rule to Phase 1a after 3 consecutive sessions with intraday-vs-close discrepancies causing dashboard corrections.*
+
+## Session 36 — 2026-05-30
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; TSM/NVDA/MRVL/ANET/ALAB confirmed; MU and ASML May 29 closes not fully indexed (carried with notes) |
+| 1b (podcasts) | Complete/Gated-open | 36%6=0, gate open; searched 4 queries; zero qualifying episodes found |
+| 1c (scout) | Complete | 36%6=0, gate open; two candidates found (ASX, Qnity/Q) — both pass 3-filter thesis; watchlist stubs created |
+| 2 (deep session) | Complete | NVDA (event_queue first item); new May 30 entry added — MGX Showcase + May 29 close; ALAB EY award added; ANET price update added |
+| 3 (DCF) | Skipped | No earnings, no null DCF, no 30-day gap — correctly skipped |
+| 4 (dashboard) | Complete | Prices, MoS, For Arvs, watchlist rows, session notes, session history all updated |
+| 5 (lint) | Complete | No stale catalysts; concept pages all within 14 days (cowos updated this session); no broken cross-links |
+
+### Diagnosis
+MU and ASML May 29 closes were not fully indexed (Saturday session; price data indexing lag). MU carried from May 28 with explicit note; ASML estimated from EUR close (+0.73%). This is a recurring pattern on weekend sessions when the prior Friday's close hasn't propagated to all search indices by Saturday morning. Not actionable as a CLAUDE.md change — simply a data timing issue.
+
+### Improvement Executed
+None — no 3-session pattern met. The Saturday-session price indexing lag is expected, not a pattern requiring process change. Session scoring: all phases Complete or appropriately Skipped.

@@ -251,6 +251,12 @@ CXL memory pooling has been "next year" for several years. If hyperscaler adopti
 
 **Q2 2026 guidance precision ($355–$365M, non-GAAP EPS $0.68–$0.70):** The Q1 2026 earnings call (May 5, 2026) provided a precise Q2 2026 guide of $355–$365M (vs. the entity's "up to $365M" carrying figure) and non-GAAP EPS $0.68–$0.70 (consensus expected $0.62, implying further beat potential). Q1 actuals confirmed: $308.4M revenue (+93% YoY, +14% QoQ), non-GAAP EPS $0.61 (vs. $0.54 estimate), GAAP gross margin 76.3%, non-GAAP operating margin 36.2%. Scorpio X-Series 320-lane is in initial production volumes with full ramp in 2H 2026. PCIe Gen 6 contributed >1/3 of Q1 revenue. Source: Astera Labs 8-K / Motley Fool earnings transcript, 2026-05-05. *Thesis bearing: Confirms — Q1 beat-and-raise pattern with NVLink Fusion partnership announced concurrently is the combination driving pre-Computex re-rating.*
 
+### 2026-05-30
+
+**EY World Entrepreneur of the Year 2026 — ALAB CEO + co-founders win global award (Monaco, May 29):** Astera Labs CEO Jitendra Mohan, along with co-founders Sanjay Gajendra and Casey Morrison, won the EY World Entrepreneur of the Year 2026 award in Monaco on May 29, 2026. ALAB reached $1B in revenue and a ~$60B market cap in the context of this award, per Fortune reporting. The recognition highlights Astera as the Silicon Valley breakthrough company of the AI infrastructure cycle. Source: Fortune / EY, 2026-05-29. *Thesis bearing: Neutral (brand signal) — the award validates the management team's execution but does not change the valuation assessment. At IV $111.84 vs. $341.71 close (MoS -67.3%), SELL/AVOID is unchanged.*
+
+**ALAB May 29 close $341.71 (-2.1%) — Computex June 3 demo press conference in 4 days:** ALAB pulled back -2.1% from $349.08 on May 28 to $341.71 on May 29 (range $329.61–$351.90). No specific catalyst; mild pre-Computex profit-taking across AI names. The June 3 press conference + Scorpio X 320-lane live demo at TaiNEX 1 Room 303 (10–11am Taipei) is the next binary event: any confirmed hyperscaler design win beyond Amazon Trainium3 would be material. Source: Market data, 2026-05-29. *Thesis bearing: Neutral — price move only; business trajectory unchanged.*
+
 ---
 
 ## Cross-links

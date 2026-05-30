@@ -190,6 +190,12 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-30
+
+**ANET May 29 close $155.27 (+0.79%) — AI networking demand unchanged; 2026 AI revenue guidance $3.25–3.5B:** ANET closed at $155.27 on May 29 (+0.79% from $154.06). No new specific catalyst; mild recovery from "margin anxiety" selling. AI networking revenue guidance for 2026 stands at $3.25–3.5B (raised from $2.75B at Q1 earnings May 5), representing 83%+ growth in AI revenue year-over-year. Actual shipment growth of 54% YoY (per JPMorgan conference) confirms demand outpaces headline revenue recognition. At $155.27, live MoS = -18.2% vs. DCF IV $126.94 — SELL/AVOID. Source: Market data / Q1 2026 earnings, 2026-05-29. *Thesis bearing: Neutral — AI networking demand trajectory and the $3.25–3.5B 2026 guide are unchanged.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing

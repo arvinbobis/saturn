@@ -69,6 +69,10 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 
 **TSMC CoWoS yield at 98% as capacity scales toward 127,000 WPM by end-2026 (Digitimes May 14–15)** — Mature production yield means the 4× expansion from 35K WPM (late 2024) delivers near-4× usable output with minimal defect discount; bottleneck release is now a capacity-addition story, not a yield-improvement story; at 98% yield, TSMC CoWoS revenue is predictable per wafer of installed capacity.
 
+### 2026-05-30 — NVDA
+
+**Jensen Huang explicitly confirms NVIDIA will double Vera Rubin production capacity in 2026 (MGX Showcase, Taipei, May 29)** — CEO-level public confirmation of "doubling capacity" in 2026 for Vera Rubin aligns with the 35K→127K WPM trajectory for TSMC CoWoS-L; implies that from the ~63K WPM current run-rate, TSMC must add another ~64K WPM by year-end to satisfy NVIDIA's commitment alone; at NVIDIA's >50% capacity lock-in, all remaining AI chip demand (AMD, custom ASICs, HPC) must share the other ~63K WPM — CoWoS remains the binding supply constraint for the entire AI chip ecosystem through 2026.
+
 ---
 
 ## Cross-links

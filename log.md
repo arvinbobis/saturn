@@ -508,3 +508,14 @@ No significant news: MU, ASML, ANET, ALAB (all pre-Computex holding patterns)
 DCF run: none — all tickers within 30-day window, no new earnings
 Concept pages updated: cowos.md (98% yield + 127K WPM entry)
 Self-improvement: CLAUDE.md Phase 1a updated with >1% price verification rule (3-session threshold met: sessions 26, 34, 35)
+
+## [2026-05-30 08:00 UTC] session-36
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA — event_queue (Computex June 1 GTC Taipei keynote pending; pre-keynote MGX Showcase recap)
+Notable: Jensen Huang at May 29 MGX Showcase confirmed NVIDIA will double Vera Rubin production capacity in 2026 and toasted 150 ecosystem partners ("You're so rich now"); TSM pulled back to $419.39 (-1.28%), easing MoS from -9.6% to -8.4% with 1.6% HOLD buffer; two new watchlist candidates added: ASX (world's largest OSAT, $7B CapEx, advanced packaging gatekeeper) and Qnity/Q (DuPont semiconductor materials spinoff, ~$5B 2026 guidance, up 90% YTD).
+No significant news: ASML (price estimate only; EUR +0.73%), MU (May 29 close not fully indexed)
+DCF run: none — all tickers within 30-day window, no new earnings released
+Concept pages updated: cowos.md (Vera Rubin capacity doubling — CEO confirmation at MGX event, May 29)
+Watchlist additions: ASX (OSAT), Q (Qnity Electronics semiconductor materials)
+Podcast: none qualifying found (36%6=0 gate open; searched; zero finds)

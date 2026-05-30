@@ -218,6 +218,14 @@ Source: CNBC / Quiver Quantitative / StockTitan / Motley Fool Transcript, 2026-0
 
 ---
 
+### 2026-05-30
+
+**NVIDIA MGX Ecosystem Showcase (May 29, Taipei) — 150 partners, Vera Rubin capacity doubling, "$150B/year" reaffirmed:** At the pre-Computex NVIDIA AI Factory MGX Ecosystem Showcase in Taipei on May 29, Jensen Huang toasted Taiwan's supply chain with "You're so rich now" and provided an ecosystem growth update: NVIDIA now has 150 global partners (up from ~10 "many years ago" and ~50 five years ago). Critically, Huang explicitly confirmed NVIDIA will double Vera Rubin production capacity in 2026 to support the ramp, with Taiwan at the center of that capacity expansion. The $150B/year Taiwan investment commitment was reiterated and quantified as covering TSMC wafers, CoWoS, MediaTek co-design, and supply chain partners. The event set the stage for the June 1 GTC Taipei keynote (11am Taipei, global livestream). Source: Digitimes / CNBC / Reuters, 2026-05-29. *Thesis bearing: Confirms — the explicit "doubling capacity in 2026" statement from the CEO at the point of capacity negotiation is the highest-confidence forward signal available. For [[cowos]]: TSMC CoWoS-L must double to meet this commitment; the 127K WPM target (from 35K WPM) captures approximately 2× additional capacity from current ~63K WPM run-rate, consistent with Jensen's "doubling" framing. Every one of the 150 ecosystem partners depends on the NVIDIA AI factory stack — the ecosystem is now too large to unwind without disrupting the entire AI infrastructure build-out.*
+
+**NVDA May 29 close: $211.14 (-1.47%) — minor weekend pullback ahead of June 1 keynote:** NVDA slipped to $211.14 on Friday May 29 from $214.28 prior close (-$3.14, -1.47%). No specific negative catalyst; consistent with light profit-taking into a weekend with a major catalyst pending. At $211.14, live MoS = -26.0% vs. DCF IV $156.27 — SELL/AVOID unchanged. The pre-keynote trading range ($208–$214) remains intact. The pattern is similar to the muted $91B guide reaction (May 21 AH): the market is waiting to see whether the June 1 keynote delivers surprises materially above the already-leaked N1X + Vera Rubin + Dynamo 1.0 package. Source: Market data, 2026-05-29. *Thesis bearing: Neutral — valuation assessment unchanged; business momentum entering June 1 keynote is the strongest in NVIDIA's history.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS
