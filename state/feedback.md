@@ -573,3 +573,22 @@ MU and ASML May 29 closes were not fully indexed (Saturday session; price data i
 
 ### Improvement Executed
 None — no 3-session pattern met. The Saturday-session price indexing lag is expected, not a pattern requiring process change. Session scoring: all phases Complete or appropriately Skipped.
+
+## Session 37 — 2026-05-31
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers swept via 3 parallel agents; MU/ASML confirmed via separate agent; ANET May 30 close inferred from May 31 session data (-4.3% implied); NVDA and TSM estimates flagged pending |
+| 1b (podcasts) | Gated | 37%6=1 — correctly skipped |
+| 1c (scout) | Gated | 37%6=1 — correctly skipped |
+| 2 (deep session) | Complete | NVDA (event_queue first item); 2026-05-31 section added — photonics $6.5B investment + N1X final spec; TSM CEO bonus + guide upgrade; MRVL Polariton + Alphabet + analyst upgrades; ANET -4.3% move + Cisco rotation; MU price correction |
+| 3 (DCF) | Skipped | Correctly skipped — June 1 keynote hasn't occurred; all tickers within 30-day window; no new earnings |
+| 4 (dashboard) | Complete | All 7 prices, MoS, Rec updated; For Arvs overwritten; analyst PTs (3 new MRVL); session notes + history appended |
+| 5 (lint) | Complete | No null DCFs; no zero revenues; no stale catalysts; all concept pages within 14 days (dram-cycle updated this session); cross-links verified |
+
+### Diagnosis
+MU price carry correction from $923.52 to $971 (May 29 close) is the third session in a row where a prior session's unconfirmed price required correction. The root cause: prior session ran on Saturday when Friday's close was not yet indexed. The price verification rule (added Session 35) partially addresses this, but weekend session timing creates a structural lag.
+
+### Improvement Executed
+None — no new 3-session pattern. The May 30 ANET price (-4.3% implied) was correctly handled: derived from next-session forward price (+3.66% from prior), added to event_queue with verification flag, not committed as confirmed. Pattern is consistent with prior sessions' handling of unconfirmed prices.

@@ -519,3 +519,14 @@ DCF run: none — all tickers within 30-day window, no new earnings released
 Concept pages updated: cowos.md (Vera Rubin capacity doubling — CEO confirmation at MGX event, May 29)
 Watchlist additions: ASX (OSAT), Q (Qnity Electronics semiconductor materials)
 Podcast: none qualifying found (36%6=0 gate open; searched; zero finds)
+
+## [2026-05-31 08:00 UTC] session-37
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA — event_queue (Computex June 1 GTC Taipei keynote TODAY; final pre-keynote sweep)
+Notable: NVIDIA's $6.5B photonics investment (CNBC May 29) is the most significant new finding — $2B each into Lumentum, Coherent, and Marvell for optical interconnect inside AI factories; ANET fell implied -4.3% on May 30 as Cisco gained +32% vs ANET -10% in May (competitive rotation), added to event_queue; MU price corrected from $923.52 carry to actual $971 May 29 close (+5.1%).
+No significant news: ALAB (-0.2%, no new catalysts), ASML (-0.2%, no new breaking news May 30)
+DCF run: none — June 1 keynote pending; all tickers within 30-day window
+Concept pages updated: dram-cycle.md (TrendForce Q2 2026 DRAM +58-63% conventional, +93-98% mobile — structural undersupply through late 2027)
+Watchlist additions: none (Phase 1c gated)
+Podcast: none (Phase 1b gated, 37%6=1)

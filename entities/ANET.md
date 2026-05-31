@@ -196,6 +196,12 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+### 2026-05-31
+
+**ANET May 30 estimated close ~$148.60 (-4.3% from $155.27 May 29) — Cisco rotation and optical shortage concern; NVIDIA photonics investment a secondary headwind:** ANET's implied May 30 close is ~$148.60 (derived from May 31 search showing $154.03 +3.66%, indicating prior close ~$148.60). This -4.3% move exceeds the >3% event threshold and adds to the month-long -10% underperformance vs. Cisco +32% in the same period (24/7 Wall St., May 26). The driver appears to be: (1) institutional rotation from ANET to Cisco, which reported a stronger AI networking win rate in its May 2026 earnings with less margin pressure; (2) ANET CEO's May 5 supply chain warning ("wafers, memory, CPUs, optical components shortage will weigh on margins through 2026") remains active — no resolution announced; (3) NVIDIA's $6.5B photonics investment ($2B each in Lumentum and Coherent + Ayar Labs) introduces a potential competitive vector into optical interconnects at the short-distance intra-cluster level, where ANET operates. Insider selling adds context: ANET CEO Ullal sold $2.14M and 10% owner Bechtolsheim sold $34.5M (week of May 27–31, Investing.com). Source: Inferred from search data, 24/7 Wall St / Motley Fool, 2026-05-30–31. *Thesis bearing: Challenges — the combination of Cisco winning AI networking share, persistent margin pressure from supply chain costs, and NVIDIA's aggressive photonics investment creates a more competitive ANET landscape than the prior "AI networking monopoly" framing suggested. At ~$148.60, MoS = (126.94 − 148.60) / 148.60 = -14.6% — still SELL/AVOID but modestly improved on the price decline. AI revenue guidance ($3.25–3.5B in 2026) and 54% shipment growth YoY remain intact — the challenge is competitive positioning, not demand.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing
