@@ -100,6 +100,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **Micron crosses $1 trillion market cap (May 26); UBS $1,625 PT (largest absolute-dollar semi analyst upgrade in history); $985 intraday ATH on May 28 — HBM supercycle thesis adopted by mainstream institutional consensus** — Micron reached $1T market cap on May 26, 2026, driven by UBS analyst Timothy Arcuri raising his PT from $535 to $1,625 (+204%) and reframing Micron as an "AI-native infrastructure giant" rather than a cyclical memory maker. Key arguments: (1) 60–70% of server DRAM volumes now locked in 3–5 year LTAs — Nvidia-like earnings visibility through 2029; (2) Micron can only fill 50–67% of key customers' HBM demand; (3) AI DRAM demand is qualitatively different from consumer cycles — capex-committed, opaque to spot markets, growing faster than capacity. Stock hit $985 intraday on May 28 (new ATH), closing at $928.41 (+3.6% on the day, +194% YTD). The $1T valuation is a structural inflection signal: Micron is now priced as a durable AI infrastructure company, not a commodity memory maker — the same reframing the thesis predicted in 2025. The Saturn DCF IV is $442.63 (SELL/AVOID), reflecting the model's mean-reversion assumptions; the delta between $442 and $928 represents the market pricing the supercycle durably through 2029+.
 
+### 2026-06-01 — NVDA
+
+**Vera Rubin NVL72 in full production confirmed (GTC Taipei): 288GB HBM4 per Rubin GPU; 20.7TB HBM4 per NVL72 rack (72 GPUs × 288GB); production ramp active H2 2026** — Jensen Huang's confirmation that Vera Rubin NVL72 is in full production locks in HBM4 demand at scale. Each NVL72 rack carries 72 Rubin GPUs × 288GB HBM4 = 20,736GB (20.7TB) per rack. SK Hynix holds ~70% of Vera Rubin HBM4 allocation; Samsung added as second supplier; Micron targeted for Rubin CPX (mid-tier). HBM4 demand from Vera Rubin is no longer speculative — it is executing against binding supply agreements. NVLink-C2C at 1.8 TB/s makes high-bandwidth memory mandatory at this compute density; no viable alternative to HBM at Rubin power envelope.
+
 ---
 
 ## Cross-links

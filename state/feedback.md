@@ -592,3 +592,22 @@ MU price carry correction from $923.52 to $971 (May 29 close) is the third sessi
 
 ### Improvement Executed
 None — no new 3-session pattern. The May 30 ANET price (-4.3% implied) was correctly handled: derived from next-session forward price (+3.66% from prior), added to event_queue with verification flag, not committed as confirmed. Pattern is consistent with prior sessions' handling of unconfirmed prices.
+
+## Session 38 — 2026-06-01
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; GTC keynote news captured; ANET price corrected |
+| 1b (podcasts) | Gated | 38%6=2 |
+| 1c (scout) | Gated | 38%6=2 |
+| 2 (deep session) | Complete | NVDA GTC Taipei keynote captured; entity updated with 5 new items |
+| 3 (DCF) | Skipped | Conditions not met: no earnings, <30 days since May 21 run, keynote confirms thesis (no change) |
+| 4 (dashboard) | Complete | Prices, For Arvs, catalysts, session notes, history all updated |
+| 5 (lint) | Complete | Zero-revenue: none. Stale catalyst: NVDA Jun 1 marked complete. ANET false trigger removed from queue. Concept pages current (updated this session). |
+
+### Diagnosis
+The ANET event queue trigger (session 37: -4.3% to $148.60) was a false alarm corrected this session. This is the second session in a row where an unconfirmed price estimate from a weekend session required correction at the next session. The pattern: weekend sessions derive prices from forward-looking signals (next-session premarket/intraday), then the Monday session confirms the correct close. No structural fix warranted — the existing price verification footnote handles this; the error was caught cleanly.
+
+### Improvement Executed
+None — the ANET false trigger is the same category as the MU price carry correction noted in session 37. Two sessions is not yet three (3-session rule not met). Monitoring.

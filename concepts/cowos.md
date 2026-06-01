@@ -73,6 +73,10 @@ TSMC responded with aggressive CoWoS capacity expansion in 2024–2025. Track wh
 
 **Jensen Huang explicitly confirms NVIDIA will double Vera Rubin production capacity in 2026 (MGX Showcase, Taipei, May 29)** — CEO-level public confirmation of "doubling capacity" in 2026 for Vera Rubin aligns with the 35K→127K WPM trajectory for TSMC CoWoS-L; implies that from the ~63K WPM current run-rate, TSMC must add another ~64K WPM by year-end to satisfy NVIDIA's commitment alone; at NVIDIA's >50% capacity lock-in, all remaining AI chip demand (AMD, custom ASICs, HPC) must share the other ~63K WPM — CoWoS remains the binding supply constraint for the entire AI chip ecosystem through 2026.
 
+### 2026-06-01 — NVDA
+
+**Vera Rubin NVL72 confirmed in full production at GTC Taipei keynote; CoWoS-L demand active at maximum volume entering H2 2026** — Jensen Huang confirmed Vera Rubin NVL72 is in full production and shipping H2 2026. Each NVL72 rack (36 Vera CPUs + 72 Rubin GPUs) requires CoWoS-L packaging for both GPU and CPU dies — dual CoWoS-L demand per rack vs. Blackwell GPU-only. At NVIDIA's >50% CoWoS capacity commitment and ~127K WPM TSMC target by year-end, the Vera Rubin ramp is now actively consuming capacity. "Full production" designation means CoWoS-L demand is no longer forward-looking — it is executing now against the 150+ Taiwan ecosystem partner network Jensen described.
+
 ---
 
 ## Cross-links

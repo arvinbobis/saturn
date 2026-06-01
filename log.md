@@ -530,3 +530,14 @@ DCF run: none — June 1 keynote pending; all tickers within 30-day window
 Concept pages updated: dram-cycle.md (TrendForce Q2 2026 DRAM +58-63% conventional, +93-98% mobile — structural undersupply through late 2027)
 Watchlist additions: none (Phase 1c gated)
 Podcast: none (Phase 1b gated, 37%6=1)
+
+## [2026-06-01 08:00 UTC] session-38
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA — event_queue (GTC Taipei June 1 keynote captured)
+Notable: NVIDIA officially launched the N1X ARM laptop chip (MediaTek co-dev, TSMC N3P, 6,144 CUDA cores = RTX 5070 Ti-class, 128GB LPDDR5X; OEMs Dell/Lenovo/ASUS/MSI/Surface) and confirmed Vera Rubin NVL72 in full production shipping H2 2026 — "largest product launch in history of Taiwan"; analyst PT consensus raised to ~$268 post-keynote but stock remained muted/range-bound. ANET session 37 price trigger corrected: actual May 30 close was ~$155.26, not $148.60 (-4.3% was a data error); ANET event removed from queue; June 1 ANET intraday $159.80 (+2.93%), MoS corrects to -20.6% SELL/AVOID.
+No significant news: MU (carry), ASML (carry), MRVL (carry — June 2 keynote tomorrow)
+DCF run: none — keynote confirms thesis (no earnings, <30 days since May 21 NVDA DCF)
+Concept pages updated: cowos.md (Vera Rubin full production — CoWoS-L executing now), HBM.md (288GB HBM4/GPU in production; 20.7TB per NVL72 rack)
+Watchlist additions: none (Phase 1b/1c gated, 38%6=2)
+Podcast: none (Phase 1b gated)
