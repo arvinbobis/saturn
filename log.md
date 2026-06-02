@@ -541,3 +541,14 @@ DCF run: none — keynote confirms thesis (no earnings, <30 days since May 21 NV
 Concept pages updated: cowos.md (Vera Rubin full production — CoWoS-L executing now), HBM.md (288GB HBM4/GPU in production; 20.7TB per NVL72 rack)
 Watchlist additions: none (Phase 1b/1c gated, 38%6=2)
 Podcast: none (Phase 1b gated)
+
+## [2026-06-02 08:00 UTC] session-39
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep: MRVL — event_queue (Computex June 2 keynote: Jensen Huang + Matt Murphy confirmed NVLink Fusion live)
+Notable: FY2028 guidance corrected $15B→$16.5B; Google 4-partner chip supply chain (35M TPUs by 2028); MU broke $1,000 (+7.9%); DCF IV $126.67 MoS -42.2% SELL/AVOID
+No significant news: ASML (carry), NVDA (post-keynote settle), ANET (carry), TSM (carry)
+DCF run: MRVL — IV $126.67, MoS -42.2%, Rec: SELL/AVOID
+Concept pages updated: custom-silicon.md
+Watchlist additions: none (Phase 1b/1c gated, 39%6=3)
+Podcast: none (Phase 1b gated)

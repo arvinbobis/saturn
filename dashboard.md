@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-06-01 | Session #38
+Last updated: 2026-06-02 | Session #39
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-06-01 | Session #38
 
 ### Action Items
 
-1. **MRVL June 2 keynote (TOMORROW — 10:30am Taipei / 9:30am Manila) — Jensen Huang + Matt Murphy on "The Future of AI Depends on Connectivity."** NVLink Fusion B showcase; watch for Google TPU volume numbers, Alphabet custom chip confirmation, head-to-head Marvell XConn vs. ALAB Scorpio X framing. MRVL at $205, DCF IV $127 (MoS -38.2%). No position change; keynote is the next valuation input.
-2. **ALAB June 3 press conference + Scorpio X 320-lane live demo (Wednesday 10–11am Taipei, TaiNEX 1 Room 303).** First public head-to-head vs. MRVL's 260-lane XConn switch. Watch for design-win announcements beyond Trainium3. ALAB at $342.85, DCF IV $112 (MoS -67.4%). SELL/AVOID.
-3. **TSM: ex-dividend $0.955 on June 11 — hold through ex-date.** May revenue release ~June 8 (next decision point). TSM at $419.23 (June 1 intraday), MoS -8.3% HOLD. Price near May ATH; CEO raised full-year guide to "above 30% USD." No action before May revenue data.
-4. **ANET price correction: May 30 close was ~$155 (NOT the -4.3% estimated in session 37). June 1 intraday $159.80 (+2.93%).** ANET MoS worsens to -20.6% at current price (from session 37's -14.6%). SELL/AVOID restored. ANET event queue trigger was a false alarm — remove. No action needed.
-5. **MU: wait for June 24 earnings.** TrendForce Q2 DRAM +58-63% confirms supply thesis intact. MU at $964.75, DCF IV $442 (MoS -54.1%). RSI elevated; $1,000 psychological resistance. No action before June 24.
+1. **ALAB June 3 press conference + Scorpio X 320-lane live demo TOMORROW (10–11am Taipei / 9–10am Manila, TaiNEX 1 Room 303).** First public head-to-head vs. MRVL's 260-lane XConn. Watch for hyperscaler design-win announcements beyond Trainium3. ALAB at $341, DCF IV $112 (MoS -67.4%). SELL/AVOID.
+2. **MU broke $1,000 — up ~$76 (+7.9%) since session 38 to ~$1,041.** Market cap crossed $1 trillion (May 26). TrendForce Q2 DRAM pricing continuing upward into Q3/Q4. Wait for June 24 earnings — no action before then. DCF IV $442 (MoS -54.1%). SELL/AVOID.
+3. **TSM: May revenue release ~June 8 — next valuation input.** Hold through ex-dividend $0.955 (ex-date June 11). TSM at ~$418, MoS -8.5% — HOLD; the only non-SELL position. No action before May revenue data.
+4. **MRVL Computex keynote COMPLETE. FY2028 guidance corrected $15B → $16.5B.** Stock rallied to $219 (+7% from $205 session 38 carry) on Computex momentum. DCF IV $126.67, MoS -42.2% — SELL/AVOID confirmed. Watch for Google MPU/inference TPU contract announcement (in talks, not signed).
+5. **All 6 non-TSM positions are SELL/AVOID. No entries recommended.** Mildest: TSM (HOLD, -8.5% MoS). Next valuation triggers: ALAB demo (June 3), TSM revenue (June 8), MU earnings (June 24).
 
 ### Key Snippets
 
-- **NVIDIA N1X officially launched (GTC Taipei, June 1):** 20-core ARM CPU + Blackwell 6,144-CUDA GPU + 128GB LPDDR5X-8533 in a laptop. OEMs: Dell, Lenovo, ASUS, MSI, Microsoft Surface. 180–200 AI TOPS. CUDA comes to 150M+/year laptop market for the first time — PyTorch, llama.cpp run natively without recompilation. Ships holiday 2026.
-- **Vera Rubin NVL72 confirmed in full production (Jensen keynote June 1):** 72 Rubin GPUs, 288GB HBM4 each, 10× faster/cheaper than H100, ships H2 2026. "Largest product launch in the history of Taiwan" — 2 million parts, 150 Taiwan ecosystem partners. Jensen confirmed doubling Vera Rubin production capacity in 2026.
-- **ANET false trigger resolved:** Session 37 estimated ANET May 30 close at $148.60 (-4.3% — incorrect). June 1 intraday $159.80 (+2.93%); prior close was ~$155.26, not $148.60. Event queue entry was based on a price data error. MoS corrects to -20.6% SELL/AVOID (worsened vs. session 37).
-- **NVIDIA $100B/year Taiwan investment; Constellation campus opening ~2030 (~4,000 employees).** Annual Taiwan spend up from $10-15B five years ago. Taiwan supply chain dependency is now quantified and structural — reinforces CoWoS and TSM thesis durability.
-- **NVDA stock reaction to GTC keynote: muted.** Stock stayed range-bound $210–$215 despite N1X launch + Vera Rubin production confirmation. Analyst consensus PT raised to ~$268 post-keynote. Market has fully priced the confirmed roadmap — no new upside surprise vs. pre-leaked content.
+- **MU broke $1,000 and crossed $1 trillion market cap (first time ever).** Up 304% YTD per FX Leaders. Analysts: UBS $1,625 PT, Raymond James $1,100, DA Davidson $1,000. All HBM2026 production sold out via long-term agreements. June 24 earnings is the next catalyst.
+- **Marvell Computex keynote confirmed live NVLink Fusion integration.** Jensen Huang + Matt Murphy jointly demonstrated Marvell custom XPUs embedded in NVIDIA AI factory — custom silicon clusters now have a live NVIDIA-standard reference architecture using Marvell silicon.
+- **Google assembling 4-partner chip supply chain (Broadcom training, MediaTek inference, Marvell MPU/TPU in talks, Intel infra) targeting 35 million TPU units by 2028** — an 8× ramp from 4.3M in 2026. This is the clearest confirmation that custom silicon is volume-production, not just R&D.
+- **Hyperscaler CapEx 2026: Amazon + Google + Microsoft + Meta = $725 billion (+77% YoY), 75% directed at AI infrastructure.** Each dollar funds the buildout that pays all 7 positions — foundry (TSM), memory (MU), lithography (ASML), GPUs (NVDA), custom ASICs (MRVL), networking (ANET), connectivity (ALAB).
+- **MRVL FY2028 guidance corrected to $16.5B (not $15B).** At $219/share, Saturn DCF IV is $126.67 (MoS -42.2%). Gap between institutional PTs ($240–$300) and Saturn IV ($127) is the widest in the portfolio — market pricing in growth optionality the model conservatively discounts.
 
 ---
 
@@ -32,15 +32,15 @@ Last updated: 2026-06-01 | Session #38
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $419.23† | +1.5%† | $384.28 | -8.3% | **HOLD** | Sole leading-edge foundry; CoWoS 98% yield + 127K WPM by year-end; CEO C.C. Wei raised FY2026 guide to "above 30% USD"; ex-div $0.955 Jun 11; May rev due ~Jun 8 | 2026-05-23 |
-| MU     | $964.75† | -0.6%* | $442.63 | -54.1% | SELL/AVOID | HBM4 in HVM for Vera Rubin; corrected May 29 close $971 (+5.1% from $923.52 carry); RSI overbought (CNBC May 30); Q3 FY2026 June 24; 5-yr LTA; fills 50-67% of demand | 2026-05-26 |
-| ASML   | $1,613.17 | -0.2% | $1,122.64 | -30.4% | SELL/AVOID | Only EUV supplier; High-NA first products "within months" (TrendForce May 20); 60+ unit 2026 target; TSMC full 2029 roadmap skips High-NA; Low-NA €36-40B floor intact | 2026-05-22 |
-| NVDA   | $212.49† | +0.6%† | $156.27 | -26.4% | SELL/AVOID | CUDA-moated AI GPU; Q1 $81.6B (+85%); Q2 guide $91B; N1X ARM laptop launched (June 1); Vera Rubin NVL72 in full production H2 2026; $6.5B photonics bet; Constellation campus Taiwan | 2026-05-21 |
-| MRVL   | $205.00 | +0.1% | $126.75 | -38.2% | SELL/AVOID | Q1 FY2027: $2.418B (+28%), EPS $0.80; Q2 $2.7B; FY2028 mgmt $15B; $2B NVDA investment; Polariton acquisition; Alphabet custom chip talks; Jun 2 keynote with Jensen Huang | 2026-05-27 |
-| ANET   | $159.80† | +2.93%† | $126.94 | -20.6% | SELL/AVOID | AI networking; $8.9B non-cancel commitments; Gartner MQ Leader 2026; FY2026 raised to $11.5B (Q1: $2.71B +35%); May 30 close was ~$155 (session 37 -4.3% trigger was a data error) | 2026-05-22 |
-| ALAB   | $342.85† | -0.5%† | $111.84 | -67.4% | SELL/AVOID | PCIe/CXL AI connectivity; NVLink Fusion ecosystem partner; Scorpio X 320 Lane; EY Entrepreneur of Year 2026; Q2 guide $355-365M; Jun 3 Computex press conference + demo | 2026-05-22 |
+| TSM    | $418.45† | -0.2%† | $384.28 | -8.5% | **HOLD** | Sole leading-edge foundry; CoWoS 98% yield + 127K WPM by year-end; CEO raised FY2026 guide to "above 30% USD"; ex-div $0.955 Jun 11; May rev due ~Jun 8 | 2026-05-23 |
+| MU     | $1,040.92† | +7.9%† | $442.63 | -57.5% | SELL/AVOID | HBM4 in HVM for Vera Rubin; broke $1,000 + $1T market cap (Jun 1); sold out HBM 2026 via LTAs; DRAM Q3/Q4 pricing continuing up; Q3 FY2026 earnings June 24 | 2026-05-26 |
+| ASML   | $1,612.76† | ~0%† | $1,122.64 | -30.4% | SELL/AVOID | Only EUV supplier; High-NA first products "within months"; 60+ unit 2026 target; TSMC full 2029 roadmap skips High-NA; Low-NA €36-40B floor intact | 2026-05-22 |
+| NVDA   | $214.58† | +1.0%† | $156.27 | -27.2% | SELL/AVOID | CUDA-moated AI GPU; Q1 $81.6B (+85%); Q2 guide $91B; N1X ARM laptop launched (June 1); Vera Rubin NVL72 full production H2 2026; NVLink Fusion: MRVL as ecosystem partner | 2026-05-21 |
+| MRVL   | $219.26† | +7.0%† | $126.67 | -42.2% | SELL/AVOID | Computex June 2: Jensen+Murphy confirmed NVLink Fusion live; FY2028 guide $16.5B (corrected from $15B); Google 4-partner TPU supply chain (35M by 2028); Q2 $2.7B; 18 cloud design wins | 2026-06-02 |
+| ANET   | $159.80† | ~0%† | $126.94 | -20.6% | SELL/AVOID | AI networking; $8.9B non-cancel commitments; Gartner MQ Leader 2026; FY2026 raised to $11.5B (Q1: $2.71B +35%); ANET June 2 price unconfirmed; carry from session 38 | 2026-05-22 |
+| ALAB   | $341.02† | -0.5%† | $111.84 | -67.5% | SELL/AVOID | PCIe/CXL AI connectivity; NVLink Fusion ecosystem partner; Scorpio X 320 Lane; EY Entrepreneur of Year 2026; Q2 guide $355-365M; Jun 3 Computex press conference + demo TOMORROW | 2026-05-22 |
 
-*Session 38, 2026-06-01 (Monday): TSM $419.23 intraday (-1.31% from open; est. 1D% ~+1.5% from May 30 ~$412.91 carry) — June 1 close not yet confirmed; ex-div $0.955 ex-date Jun 11. ANET $159.80 intraday (+2.93%) — session 37 estimate of $148.60 (-4.3%) was a data error; actual May 30 close ~$155.26 (flat vs. May 29 $155.27); ANET event queue trigger removed. ALAB $342.85 confirmed May 29 close (prior carry $341.02 was low-confidence; corrected upward). NVDA $212.49 pre-keynote carry (May 30 est.); GTC Taipei keynote confirmed June 1 but close not yet indexed. ASML $1,613.17 carry (May 29 confirmed). MRVL $205.00 carry. MU $964.75 carry (May 30 est.). MoS changes from Session 37: TSM -8.3% (was -6.9%; price rose to $419.23 from $412.91 est.), ANET -20.6% (was -14.6%; corrected price $159.80 vs. false $148.60), ALAB -67.4% (was -67.2%; price corrected to $342.85). No DCF re-run this session (NVDA last DCF May 21 = 11 days; keynote confirmed thesis, no earnings).*
+*Session 39, 2026-06-02 (Tuesday): MRVL $219.26 June 1 confirmed close (from $205.00 session 38 carry = +7.0%; Computex keynote anticipation rally). MRVL DCF re-run: IV $126.67, MoS -42.2% (worsened from -38.2% at $205). MU ~$1,040.92 June 1 trading (from $964.75 carry = +7.9%; broke $1,000 / $1T market cap). TSM $418.45 May 29 confirmed close (from $419.23 intraday est.; -0.2%). NVDA ~$214.58 June 2 intraday open (from $212.49 = +1.0%). ASML ~$1,612.76 carry (June 2 close unconfirmed; ~0%). ANET ~$159.80 carry (June 2 close unconfirmed; ~0%). ALAB $341.02 May 31 confirmed close (from $342.85 = -0.5%). vs. Institutional Entry table: MU updated to $1,041 (+208% vs. Coatue $338). MoS note: all prices with † are estimated or carried — June 2 closing prices not fully indexed at session time.*
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -58,7 +58,7 @@ Last updated: 2026-06-01 | Session #38
 | Ticker | Coatue Entry | Atreides Entry | Current | vs. Coatue | vs. Atreides |
 |--------|-------------|----------------|---------|------------|--------------|
 | ASML   | $1,321      | —              | $1,613  | +22.1%     | —            |
-| MU     | $338        | $337           | $965    | +185.5%    | +186.3%      |
+| MU     | $338        | $337           | $1,041  | +208.0%    | +208.9%      |
 | ALAB   | —           | ~$110          | $341    | —          | +210.0%      |
 | TSM    | (added Q1 2026) | —          | $413    | —          | —            |
 
@@ -69,7 +69,7 @@ Last updated: 2026-06-01 | Session #38
 | Ticker | Event | Date | Notes |
 |--------|-------|------|-------|
 | NVDA | GTC Taipei Keynote ✓ | 2026-06-01 | COMPLETE — N1X launched (Dell/Lenovo/ASUS/MSI/Surface OEMs); Vera Rubin NVL72 confirmed full production H2 2026; Constellation campus announced; analyst PT consensus $268 post-keynote |
-| MRVL / NVDA | Computex Joint Keynote — Matt Murphy + Jensen Huang | 2026-06-02 | "The Future of AI Depends on Connectivity"; NVLink Fusion showcase; Google TPU volume; MRVL head-to-head vs. ALAB Scorpio X |
+| MRVL / NVDA | Computex Joint Keynote ✓ | 2026-06-02 | COMPLETE — Jensen+Murphy confirmed NVLink Fusion live integration; Marvell custom XPUs embedded in NVIDIA AI factory; FY2028 $16.5B confirmed; Google 4-partner supply chain (Broadcom/MediaTek/Marvell/Intel); no new signed contracts announced |
 | ALAB | Computex 2026 Press Conference + Demo | 2026-06-03 | 320 Lane Scorpio X live demo, 10–11am Taipei; PCIe 6 optics; critical for hyperscaler design-win pipeline |
 | TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; May result confirms Q2 AI demand trajectory |
 | MU | Q3 FY2026 Earnings | 2026-06-24 | Confirmed date (StockTitan/Micron IR); 2:30pm MT. Consensus ~$33.5B (guided); 81% gross margin guidance; post-earnings DCF re-run planned |
@@ -104,6 +104,9 @@ Last updated: 2026-06-01 | Session #38
 | MRVL | HSBC | $300 | Buy (↑ from Hold) | 2026-05-27 |
 | MRVL | Benchmark | $275 | Buy (new) | 2026-05-27 |
 | MRVL | JPMorgan | $240 | Overweight (↑ from $135) | 2026-05-27 |
+| MRVL | BofA | $240 | Buy (↑) | 2026-05-28 |
+| MRVL | Raymond James | $235 | Outperform (↑) | 2026-05-28 |
+| MRVL | Rosenblatt | $240 | Buy (↑) | 2026-05-28 |
 | MRVL | Wolfe Research | $210 | Outperform | 2026-05-23 |
 | MRVL | Goldman Sachs | $125 | Neutral | 2026-05-13 |
 | MU | DA Davidson | $1,000 | Buy | 2026-05-01 |
@@ -125,6 +128,10 @@ Last updated: 2026-06-01 | Session #38
 ---
 
 ## Session Notes
+
+### Session 39 (2026-06-02) — Deep: MRVL (event_queue: Computex June 2 keynote — Jensen+Murphy NVLink Fusion CONFIRMED)
+
+MRVL Computex June 2 keynote completed: Jensen Huang and Matt Murphy jointly demonstrated NVLink Fusion integration on stage at Taipei Nangang Exhibition Center, confirming Marvell custom XPUs embedded in NVIDIA AI factory ecosystem. **Key correction this session: MRVL FY2028 management guidance is $16.5B (not $15B as recorded in Session 28)** — confirmed by Sherwood News, TIKR, Seeking Alpha, and the Motley Fool Q1 FY2027 earnings transcript; this was a Session 28 data error. Google's 4-partner chip supply chain formalized (Broadcom for Sunfish training TPU, MediaTek for Zebrafish inference chip at 20-30% lower cost, Marvell in talks for MPU + inference TPU, Intel for Xeon/infra); Google targeting 35M TPU units by 2028 (8× from 4.3M in 2026). MRVL stock June 1 close $219.26 (+7.0% from $205 session 38 carry). DCF re-run with updated price: **IV $126.67, MoS -42.2%, SELL/AVOID** (worsened from -38.2% at $205). MU broke $1,000 and $1T market cap (+7.9% from $964.75 carry) — added MoS note to event queue watch for June 24 earnings acceleration. Concept pages updated: custom-silicon.md (Computex NVLink Fusion, Google 4-partner, FY2028 correction). Phase 1b/1c gated (39%6=3).
 
 ### Session 38 (2026-06-01) — Deep: NVDA GTC Taipei keynote capture (event_queue; June 1 keynote COMPLETED)
 
@@ -367,3 +374,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 36 | 2026-05-30 | NVDA | event_queue (June 1 keynote 12h away; MGX Showcase recap; ASX + Qnity scouted; TSM MoS eases to -8.4%) | Jensen 150 partners + Vera Rubin doubling confirmed; ALAB EY award; hyperscaler CapEx $650-700B (4 cos); no DCF |
 | 37 | 2026-05-31 | NVDA | event_queue (June 1 keynote TODAY; pre-keynote final sweep) | $6.5B NVIDIA photonics bet (CNBC May 29) + N1X final spec; MRVL Polariton + Alphabet talks; ANET -4.3% (Cisco rotation); MU price corrected ($971 May 29 close); TrendForce Q2 DRAM +58-63%; no DCF |
 | 38 | 2026-06-01 | NVDA | event_queue (GTC Taipei June 1 keynote CAPTURED) | N1X launched (MediaTek, TSMC N3P; 6,144 CUDA; Dell/Lenovo/ASUS/MSI/Surface OEMs); Vera Rubin NVL72 full production H2 2026 confirmed; Constellation campus; ANET price correction ($159.80, not $148.60 — trigger removed); analyst PT consensus $268; no DCF |
+| 39 | 2026-06-02 | MRVL | event_queue (Computex June 2 keynote — Jensen+Murphy NVLink Fusion) | DCF IV $126.67 (MoS -42.2%) SELL/AVOID; FY2028 corrected $15B→$16.5B; Google 4-partner TPU supply chain (35M by 2028); MU broke $1,000 (+7.9%); custom-silicon concept page updated |

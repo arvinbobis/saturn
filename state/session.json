@@ -1,23 +1,23 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-06-01T08:00:00Z",
-  "session_count": 38,
+  "last_run_utc": "2026-06-02T08:00:00Z",
+  "session_count": 39,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "NVDA",
-  "next_deep_session": "MRVL",
-  "_session_38_note": "Session 38 (2026-06-01, Monday): NVDA GTC Taipei keynote captured. Key findings: (1) N1X ARM laptop chip officially launched — MediaTek co-development, TSMC N3P, 20-core ARM CPU + 6,144 Blackwell CUDA cores (RTX 5070 Ti-equivalent), 128GB LPDDR5X-8533, 180-200 AI TOPS. OEM partners: ASUS ProArt, Microsoft Surface, Dell XPS, Lenovo (Legion 7/Yoga/IdeaPad), MSI. Ships holiday 2026. CUDA on consumer laptops for first time. (2) Vera Rubin NVL72 confirmed in full production, shipping H2 2026. 36 Vera CPUs + 72 Rubin GPUs, 288GB HBM4/GPU, 1.8 TB/s NVLink-C2C, 10x perf/watt vs H100. Jensen: 'largest product launch in history of Taiwan' — 2M parts, 150 Taiwan ecosystem partners. COMPUTEX 2026 Best Choice Golden Award. (3) Constellation campus (Taipei HQ, ~4,000 employees, opens ~2030). NVIDIA $100B/yr Taiwan spend. (4) TI+NVIDIA robotics partnership. (5) Analyst consensus PT post-keynote ~$268; stock muted/range-bound. PRICE CORRECTION: ANET session 37 -4.3% trigger ($148.60 est.) was a data error. Actual May 30 close ~$155.26; June 1 intraday $159.80 (+2.93%). ANET event removed from queue. Phase 1b/1c gated (38%6=2). No DCF (NVDA last run May 21, 11 days; keynote confirms, does not change, the story). Concept pages updated: cowos.md, HBM.md.",
+  "last_deep_session": "MRVL",
+  "next_deep_session": "ANET",
+  "_session_39_note": "Session 39 (2026-06-02, Tuesday): MRVL Computex June 2 keynote captured. Key findings: (1) Jensen Huang + Matt Murphy confirmed NVLink Fusion live integration on stage — Marvell custom XPUs embedded in NVIDIA AI factory ecosystem; custom silicon clusters now have a live NVIDIA-standard reference architecture using Marvell silicon. (2) FY2028 guidance corrected from $15B → $16.5B — confirmed via Sherwood News, TIKR, Seeking Alpha, Motley Fool transcript; Session 28 recorded incorrect figure. (3) Google assembling 4-partner chip supply chain: Broadcom (Sunfish training), MediaTek (Zebrafish inference, 20-30% cheaper), Marvell (in talks: MPU + inference TPU), Intel (infra); Google projects 4.3M TPUs 2026 → 35M by 2028. Marvell not yet contracted for Google inference program. (4) MU broke $1,000 and $1T market cap on June 1 (+7.9% from $964.75 carry). DRAM Q3/Q4 pricing trend continuing upward per TrendForce. Hyperscaler CapEx $725B in 2026 (+77% YoY). DCF re-run for MRVL: IV $126.67, MoS -42.2% SELL/AVOID (worsened from -38.2% at $205). Concept pages updated: custom-silicon.md. Phase 1b/1c gated (39%6=3). MRVL event processed and removed from queue.",
   "event_queue": [
-    {"ticker": "MRVL", "event": "Computex June 2 joint keynote: Matt Murphy + Jensen Huang (10:30am Taipei, Nangang Exhibition Center) — 'The Future of AI Depends on Connectivity.' NVLink Fusion showcase; XConn vs ALAB head-to-head framing. Session 39: capture keynote outcome, update MRVL entity. Context: Polariton acquisition + Alphabet custom chip talks. Watch for Google TPU volume numbers and any Alphabet custom chip confirmation.", "detected": "2026-05-27"},
-    {"ticker": "ALAB", "event": "Computex June 3 press conference + Scorpio X 320-lane live demo (10-11am Taipei, TaiNEX 1 Room 303). Actual May 29 close $342.85 (corrected from $341.02 estimate). Session 39/40: capture demo outcome and hyperscaler design win announcements beyond Trainium3. First public head-to-head with MRVL XConn 260-lane switch.", "detected": "2026-05-26"},
-    {"ticker": "MU", "event": "Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT). DCF re-run queued for post-earnings session. Prior DCF: IV $442.63, MoS -54.1%. TrendForce Q2 DRAM +58-63% confirms thesis. No deep session before June 24.", "detected": "2026-05-29"}
+    {"ticker": "ALAB", "event": "Computex June 3 press conference + Scorpio X 320-lane live demo (10-11am Taipei, TaiNEX 1 Room 303). Session 40: capture demo outcome, hyperscaler design-win announcements beyond Trainium3, and first public head-to-head with MRVL XConn 260-lane switch. Price: $341.02 (May 31 close).", "detected": "2026-05-26"},
+    {"ticker": "MU", "event": "Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT). DCF re-run queued post-earnings. Prior DCF: IV $442.63, MoS -57.5% at $1,040 (corrected from -54.1% at $965). MU broke $1,000 + $1T market cap June 1. TrendForce Q2 DRAM +58-63% confirms thesis; Q3/Q4 pricing still rising. No deep session before June 24.", "detected": "2026-05-29"},
+    {"ticker": "TSM", "event": "May monthly revenue release ~June 8. April was NT$410.73B (+17.5% YoY), 2nd-highest ever. May result confirms Q2 AI demand trajectory. Also: ex-dividend $0.955 ex-date June 11.", "detected": "2026-06-02"}
   ],
-  "_event_queue_note": "Session 38: NVDA GTC Taipei keynote captured and removed from queue. ANET event removed — session 37 -4.3% trigger was a data error (actual May 30 close ~$155.26, not $148.60). Session 39 = MRVL June 2 keynote (tomorrow). Session 40 = ALAB June 3 demo. TSM May revenue ~June 8. MU June 24 earnings.",
+  "_event_queue_note": "Session 39: MRVL Computex keynote captured and removed from queue. TSM May revenue ~June 8 added as new event. Rotation now: next_deep_session = ANET (after MRVL processed). Session 40 = ALAB June 3 demo (first in queue). If ALAB demo runs June 3 session, Session 41 = MU watch, Session 42 = TSM May revenue (if not yet processed).",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-26",
     "ASML": "2026-05-22",
     "NVDA": "2026-05-21",
-    "MRVL": "2026-05-27",
+    "MRVL": "2026-06-02",
     "ANET": "2026-05-22",
     "ALAB": "2026-05-22"
   }

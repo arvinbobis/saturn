@@ -1,20 +1,20 @@
 # DCF Valuation — MRVL
 
-*Generated: 2026-05-27 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
+*Generated: 2026-06-02 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
 
 ## 🔴 Decision: SELL / AVOID
 
 | Metric | Value |
 |---|---|
-| **Intrinsic Value** | **$126.75** |
-| Current Price | $214.59 |
-| Margin of Safety | **-40.9%** |
-| Enterprise Value | $106,840M |
-| PV Stage 1 FCFFs | $11,219M |
-| PV Terminal Value | $95,621M |
-| Terminal Value (undiscounted) | $294,820M |
+| **Intrinsic Value** | **$126.67** |
+| Current Price | $219.26 |
+| Margin of Safety | **-42.2%** |
+| Enterprise Value | $106,768M |
+| PV Stage 1 FCFFs | $11,215M |
+| PV Terminal Value | $95,552M |
+| Terminal Value (undiscounted) | $294,707M |
 | WACC (high growth) | 11.92% |
-| WACC (stable) | 9.76% |
+| WACC (stable) | 9.77% |
 | Stable ROIC | 55.44% |
 | Stable Reinvestment Rate | 5.4% |
 | R&D Capitalized | $5,771M |
@@ -22,13 +22,13 @@
 
 ## Story → Numbers
 
-> Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the emerging full-stack connectivity platform for AI data centers. Q1 FY2027 actuals (2026-05-27): $2.418B revenue (+28% YoY, beat $2.40B guide), non-GAAP EPS $0.80 (beat $0.79). Q2 FY2027 guided $2.7B (+35% YoY). FY2027 management guidance raised to ~$11B (>30% YoY from $8.195B FY2026). FY2028 first-time management guidance: ~$15B (~40% YoY); Q4 FY2027 exit >$3B. Custom ASIC: $1.5B FY2026 (2× YoY), guided >20% FY2027, at least doubling FY2028 (>$3B). Confirmed co-designers: Google (inference TPU + MPU, ~2M units), Amazon (Trainium/Inferentia; Wells Fargo forecasts $6B/yr from $225B committed backlog), Microsoft (Maia). 50+ active design wins. Three acquisition layers deepen connectivity moat: Celestial AI ($3.25B, Feb 2026: Photonic Fabric), Polariton (April 2026: plasmonics), XConn ($540M, Feb 2026: PCIe 6 + CXL 3.1). Hyperscaler CapEx $725B in 2026 (+77% YoY) directly funds MRVL design backlog. NVDA invested $2B (March 2026). AH stock at $214.59 after Q1 beat — settled from $220 AH peak as $11B FY2027 guide was in line with $11.12B analyst consensus. Risk: Northland flags CY2027 hyperscaler cash constraints (applies equally to MRVL); Goldman sole bear at $125 PT.
+> Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the emerging full-stack connectivity platform for AI data centers. Q1 FY2027 actuals (2026-05-27): $2.418B revenue (+28% YoY, beat $2.40B guide), non-GAAP EPS $0.80 (beat $0.79). Q2 FY2027 guided $2.7B (+35% YoY). FY2027 management guidance ~$11B (>30% YoY). FY2028 management guidance $16.5B (~50% YoY — corrected from $15B; confirmed Sherwood/TIKR/Seeking Alpha). Q4 FY2027 exit >$3B. Custom ASIC: $1.5B annual run rate FY2026 (18 cloud-provider design wins), >$3B FY2028. Confirmed/active: Google (inference TPU + MPU talks; 4-partner supply chain with Broadcom/MediaTek/Marvell/Intel; 35M Google TPUs by 2028), Amazon (Trainium; Wells Fargo $6B/yr from $225B backlog), Microsoft (Maia). Three connectivity acquisition layers: Celestial AI ($3.25B Photonic Fabric), Polariton (plasmonics), XConn ($540M PCIe 6/CXL 3.1). June 2 Computex: Jensen Huang + Matt Murphy jointly confirmed NVLink Fusion integration — Marvell custom XPUs embedded in NVIDIA AI factory ecosystem. Hyperscaler CapEx $725B 2026 (+77% YoY). NVDA $2B invested March 2026. Stock June 1 close $219.26. MoS -42.2% at $219.26 — SELL/AVOID. Risk: Northland flags CY2027 hyperscaler cash constraints; Goldman sole bear at $125 PT; Google MPU/inference TPU talks not yet contracted.
 
 ## Assumptions & Justifications
 
 | Input | Value | Story Justification |
 |---|---|---|
-| Revenue CAGR (high growth) | 25.0% | 25% reflects rapid ramp confirmed by Q1 FY2027 actuals and management's own FY2028 roadmap ($15B). Year 1 (FY2027) tracking +34%, Year 2 (FY2028) guided +36% — front-loaded above the 10-year average, then decelerating as hyperscaler ASIC market matures. 25% 10-year average requires sustained program wins and on-time delivery through FY2028–2032. |
+| Revenue CAGR (high growth) | 25.0% | 25% reflects rapid ramp confirmed by Q1 FY2027 actuals and management's own FY2028 roadmap ($16.5B — corrected from $15B). Year 1 (FY2027) tracking ~$11B (+26%), Year 2 (FY2028) guided $16.5B (+50%) — front-loaded well above the 10-year average; model is conservative vs. management trajectory in years 1–3. 25% 10-year average requires sustained program wins through FY2030+. FY2028 $16.5B implies ~$4.1B avg quarterly revenue — requires meaningful sequential ramp from Q4 FY2027 exit >$3B. |
 | Target EBIT margin | 32.0% | 32% target EBIT margin (on GAAP+R&D-cap basis). GAAP EBIT is currently distorted by large SBC and acquired intangibles amortization (~$639M/yr from Inphi/Cavium acquisitions). Non-GAAP operating margin is already 35% in FY2026. As AI data center mix grows and legacy enterprise/carrier declines, GAAP margin expands toward target. 32% is achievable if SBC normalizes as a % of revenue as the company matures. |
 | High growth years | 10 | 10 years — custom ASIC program cycles are 2–3 years each; multiple hyperscaler programs staggered. Google TPU+MPU + Amazon Trainium + new wins (Microsoft, Meta) staggered through FY2028-FY2032. |
 | Stable growth rate | 3.0% | 3% stable growth. Custom ASIC is not commodity; Marvell maintains design relationships but must re-win each generation. Long-term growth tied to AI infrastructure buildout durability. |
@@ -61,11 +61,11 @@
 | 3 | 17,035 | 5.8% | 892 | 1,704 | -811 | -578 |
 | 4 | 21,294 | 9.6% | 1,832 | 2,129 | -297 | -189 |
 | 5 | 26,617 | 13.3% | 3,186 | 2,662 | 525 | 299 |
-| 6 | 33,272 | 17.0% | 5,103 | 3,327 | 1,776 | 904 |
-| 7 | 41,590 | 20.8% | 7,778 | 4,159 | 3,619 | 1,646 |
-| 8 | 51,987 | 24.5% | 11,473 | 5,199 | 6,274 | 2,549 |
-| 9 | 64,984 | 28.3% | 16,528 | 6,498 | 10,030 | 3,641 |
-| 10 | 81,230 | 32.0% | 23,394 | 8,123 | 15,271 | 4,953 |
+| 6 | 33,272 | 17.0% | 5,103 | 3,327 | 1,776 | 903 |
+| 7 | 41,590 | 20.8% | 7,778 | 4,159 | 3,619 | 1,645 |
+| 8 | 51,987 | 24.5% | 11,473 | 5,199 | 6,274 | 2,548 |
+| 9 | 64,984 | 28.3% | 16,528 | 6,498 | 10,030 | 3,640 |
+| 10 | 81,230 | 32.0% | 23,394 | 8,123 | 15,271 | 4,951 |
 
 ## Sensitivity — Intrinsic Value per Share
 
@@ -75,8 +75,8 @@
 |---|---|---|---|
 | 8% | $287 | $70 | $33 |
 | 12% | $407 | $96 | $43 |
-| 16% | $572 | $132 | $57 |
-| 20% | $797 | $180 | $76 |
+| 16% | $573 | $132 | $57 |
+| 20% | $798 | $180 | $76 |
 | 25% | $1,191 | $264 | $108 |
 
 ---

@@ -84,6 +84,14 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **Astera Labs joins NVIDIA NVLink Fusion ecosystem as connectivity layer for hybrid racks — custom silicon clusters now require ALAB as much as MRVL** — With the NVLink Fusion partnership, ALAB is no longer a peripheral connectivity supplier sitting outside the AI factory ecosystem. ALAB's PCIe/CXL retimers and Scorpio X switches enable non-NVIDIA XPUs (Amazon Trainium, Google TPU, Microsoft Maia) to interconnect with NVIDIA AI factory infrastructure at multi-TB/s throughput. This means every custom silicon cluster built on NVLink Fusion requires both MRVL (custom XPU co-design + optical scale-up) and ALAB (PCIe/CXL retimers and switches). The supply chain attach expands: instead of one company capturing the custom silicon connectivity, two satellite positions (MRVL + ALAB) each serve a distinct layer of the same cluster. Combined with 10 active hyperscaler engagements and the confirmed Amazon Trainium3 Scorpio X design win, ALAB is now structurally embedded in the custom silicon infrastructure wave, not merely an adjacency to it.
 
+### 2026-06-02 — MRVL
+
+**Computex keynote confirmed NVLink Fusion live integration; Google assembles 4-partner chip supply chain at 35M unit scale by 2028** — Two major concept-level developments on June 2: (1) The Jensen Huang / Matt Murphy Computex keynote publicly demonstrated Marvell's NVLink Fusion integration — converting the March $2B NVIDIA investment into a live technical reference for hyperscale deployments. Every new custom AI silicon cluster adopting NVIDIA as the connective fabric now has a live Marvell blueprint. (2) The Next Web reports Google has formalized a four-partner chip supply chain: Broadcom (Sunfish training TPU), MediaTek (Zebrafish inference, 20-30% cheaper), Marvell (in talks: MPU + inference TPU), Intel (Xeon). Google projects 4.3M TPU shipments in 2026 → 35M by 2028 — an 8× ramp. At 35M units, even a minority Marvell program would represent billions of dollars in custom ASIC revenue. This is the clearest single data point confirming that custom silicon is not a niche trend but a volume production reality scaling at GPU-comparable rates. Source: Marvell.com / The Next Web, 2026-06-02.
+
+### 2026-06-02 — MRVL
+
+**FY2028 guidance corrected to $16.5B — faster than model implies in years 1–2** — Marvell's actual Q1 FY2027 earnings call guidance for FY2028 was $16.5B (not $15B as initially recorded). This means management is guiding ~50% YoY growth in FY2028, well above the Saturn DCF model's 25% 10-year CAGR. The model is conservative vs. management trajectory for years 1–3; the 25% long-run average reflects expected deceleration in years 4–10 as the custom ASIC market matures. Custom ASIC revenue: $1.5B annual run rate in FY2026, must double to $3B+ in FY2028 per management. Source: Sherwood News / TIKR / Seeking Alpha, confirmed 2026-06-02.
+
 ---
 
 ## Cross-links
