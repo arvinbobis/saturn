@@ -92,6 +92,14 @@ Custom ASIC design cycles: 18–24 months from design kickoff to first silicon; 
 
 **FY2028 guidance corrected to $16.5B — faster than model implies in years 1–2** — Marvell's actual Q1 FY2027 earnings call guidance for FY2028 was $16.5B (not $15B as initially recorded). This means management is guiding ~50% YoY growth in FY2028, well above the Saturn DCF model's 25% 10-year CAGR. The model is conservative vs. management trajectory for years 1–3; the 25% long-run average reflects expected deceleration in years 4–10 as the custom ASIC market matures. Custom ASIC revenue: $1.5B annual run rate in FY2026, must double to $3B+ in FY2028 per management. Source: Sherwood News / TIKR / Seeking Alpha, confirmed 2026-06-02.
 
+### 2026-06-02 — MRVL
+
+**Jensen Huang calls MRVL "the next trillion-dollar company" — institutional validation raises floor price for custom silicon connectivity franchise** — MRVL surged +32.52% (biggest single-day gain ever) as Jensen Huang publicly endorsed Marvell at Computex, citing connectivity chips as essential infrastructure for AI data centers coordinating across thousands of chips. While not a DCF-relevant fundamental change, the CEO of the world's most valuable semiconductor company publicly anointing a co-design partner as "the next trillion-dollar company" creates durable institutional floor-price awareness. At $290.79, MRVL market cap is ~$253B — still ~4× below a $1T valuation. For the custom silicon concept: this validates that the co-design + connectivity layer is seen by NVIDIA itself as a parallel trillion-dollar infrastructure stack, not a zero-sum threat. Source: CNBC, 2026-06-02.
+
+### 2026-06-03 — ALAB
+
+**ALAB Computex: UALink support + CXL KV Cache second hyperscaler win + NVLink Fusion custom design win — connectivity layer now fully stack-agnostic** — Three material custom silicon disclosures from ALAB at Computex June 3: (1) Intelligent Connectivity Platform now formally integrates UALink™ alongside NVLink Fusion, PCIe, CXL, and Ethernet — ALAB becomes the only AI fabric provider certified for both NVIDIA (NVLink Fusion) and AMD/non-NVIDIA (UALink) ecosystems; (2) second custom CXL KV Cache design win with a new hyperscaler (unnamed), chips shipping 2027 — first CXL custom silicon win beyond Amazon, directly validating the 2027+ CXL memory pooling thesis; (3) NVLink Fusion custom silicon design win with NVIDIA + a hyperscaler, targeting hybrid rack deployments. Combined with the Amazon Trainium3 Scorpio X win, ALAB now has at least three separate custom silicon programs in progress across hyperscalers — ahead of management's year-end guidance of "a couple." UALink support is the single most important strategic disclosure: it confirms ALAB is not a captive NVIDIA ecosystem vendor but a neutral AI connectivity infrastructure company that gets paid regardless of which GPU architecture wins. Source: Astera Labs IR, 2026-06-03.
+
 ---
 
 ## Cross-links

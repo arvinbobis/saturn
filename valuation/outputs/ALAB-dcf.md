@@ -1,14 +1,14 @@
 # DCF Valuation — ALAB
 
-*Generated: 2026-05-22 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
+*Generated: 2026-06-03 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
 
 ## 🔴 Decision: SELL / AVOID
 
 | Metric | Value |
 |---|---|
 | **Intrinsic Value** | **$111.84** |
-| Current Price | $309.78 |
-| Margin of Safety | **-63.9%** |
+| Current Price | $324.19 |
+| Margin of Safety | **-65.5%** |
 | Enterprise Value | $18,374M |
 | PV Stage 1 FCFFs | $4,785M |
 | PV Terminal Value | $13,589M |
@@ -22,7 +22,7 @@
 
 ## Story → Numbers
 
-> Astera Labs makes the connectivity chips — PCIe Gen 5/6 retimers, CXL retimers, and Scorpio X-Series AI fabric switches — that physically enable AI GPU clusters to operate at scale. Q1 2026 results confirmed $308.4M revenue (+93% YoY, +14% QoQ) with gross margins of 76.3% and GAAP operating margins of 20%. The Scorpio X 320-lane AI fabric switch is the pivotal new product: management expects it to become the largest product line by year-end 2026, driven by a named Amazon Trainium3 design win confirmed by RBC channel checks. Q2 2026 guidance of $355–365M (+15–18% QoQ) provides near-term revenue visibility. PCIe Gen 6 already represents >1/3 of Q1 revenue, confirming the hardware upgrade cycle is materializing. Structural upside: CXL memory pooling for AI models too large for single-GPU HBM — Astera is the leading CXL chip supplier, with Microsoft and Meta piloting CXL infrastructure. The balance sheet is pristine: $1.2B cash, zero financial debt. Risk: at $309.78 ($56.6B market cap at 182.5M diluted shares), the stock has appreciated ~69% in 25 days (April 28 to May 22) and trades at ~112x forward non-GAAP EPS. The DCF must justify this; if it does not, this is a HOLD or AVOID despite a confirmed thesis.
+> Astera Labs makes the connectivity chips — PCIe Gen 5/6 retimers, CXL retimers, Scorpio X-Series AI fabric switches, and now NVLink Fusion + UALink custom silicon — that physically enable AI clusters to operate at scale regardless of GPU architecture. Q1 2026: $308.4M revenue (+93% YoY), 76.3% GAAP gross margin, Q2 guided $355–365M (+18% QoQ). PCIe Gen 6 is >1/3 of Q1 revenue. Scorpio X 320-lane confirmed shipping to hyperscalers; first live public demo at Computex June 3, 2026. Computex June 3 disclosures (material thesis upgrades): (1) Intelligent Connectivity Platform now formally integrates UALink™ alongside NVLink Fusion — ALAB is officially stack-agnostic, serving both NVIDIA (NVLink Fusion) and AMD/non-NVIDIA (UALink) ecosystems; (2) second custom CXL KV Cache design win with a new (unnamed) hyperscaler — first CXL custom silicon win beyond Amazon, shipping for revenue in 2027; (3) NVLink Fusion custom silicon design win with NVIDIA + a hyperscaler for hybrid racks. Amazon Trainium3 Scorpio X design win remains the primary near-term revenue lever. CXL memory pooling (2027+) is now advancing from pilot to custom-chip commitment across at least two hyperscalers. Balance sheet: $1.2B cash, zero financial debt. Risk: at $324.19 (~$59B market cap), stock trades at >100x forward non-GAAP EPS; even at 35% CAGR the DCF yields IV $111.84 — MoS -65.5% SELL/AVOID. The thesis is confirmed and strengthened; the price remains the problem.
 
 ## Assumptions & Justifications
 

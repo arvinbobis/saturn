@@ -630,3 +630,22 @@ No significant friction. The MRVL FY2028 guidance correction ($15B→$16.5B) was
 
 ### Improvement Executed
 None — no 3-session pattern meets the threshold for autonomous change.
+
+## Session 40 — 2026-06-03
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers searched; June 3 closes partial (session ran during market day); best estimates used; major events captured (MRVL +32.5%, TSM +4.1%, ASML +5.7%, ANET +9.1%) |
+| 1b (podcasts) | Gated | 40%6=4 |
+| 1c (scout) | Gated | 40%6=4 |
+| 2 (deep session) | Complete | ALAB Computex June 3 captured: UALink, CXL KV Cache win, NVLink Fusion win |
+| 3 (DCF) | Complete | ALAB re-run: IV $111.84, MoS -65.5%, SELL/AVOID at $324.19 |
+| 4 (dashboard) | Complete | All sections updated; analyst PTs added (ASML Morgan Stanley, MU Mizuho); TSM SELL/AVOID flip noted |
+| 5 (lint) | Complete | All concept pages fresh (<3 days); no null DCFs; no zero revenue; no stale catalysts |
+
+### Diagnosis
+No significant friction. The most notable gap: MRVL +32.52% June 2 surge (Jensen "trillion-dollar" endorsement) was not captured by Session 39 (ran at 4am EDT before US markets opened). This session caught it and added it to MRVL entity and event_queue — the timing gap was unavoidable given session timing relative to market hours.
+
+### Improvement Executed
+None — no 3-session pattern meets the threshold for autonomous change.

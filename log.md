@@ -552,3 +552,14 @@ DCF run: MRVL — IV $126.67, MoS -42.2%, Rec: SELL/AVOID
 Concept pages updated: custom-silicon.md
 Watchlist additions: none (Phase 1b/1c gated, 39%6=3)
 Podcast: none (Phase 1b gated)
+
+## [2026-06-03 08:00 UTC] session-40
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ALAB — event_queue (Computex June 3 press conference)
+Notable: Jensen Huang called MRVL "the next trillion-dollar company" at Computex June 2 (+32.52% MRVL, biggest single-day gain ever); ALAB Computex June 3 confirmed UALink support (stack-agnostic — NVLink Fusion + UALink), CXL KV Cache 2nd hyperscaler design win, NVLink Fusion custom design win — all 3 material thesis upgrades; all 7 positions now SELL/AVOID (TSM crossed -10% MoS at $435.63).
+No significant news: —
+DCF run: ALAB — IV $111.84, MoS -65.5%, Rec: SELL/AVOID
+Concept pages updated: custom-silicon.md (MRVL Jensen trillion-dollar + ALAB UALink/CXL/NVLink wins)
+Podcast: none (gated)
+Watchlist: none (gated)

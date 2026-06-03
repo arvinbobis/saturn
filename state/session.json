@@ -1,17 +1,19 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-06-02T08:00:00Z",
-  "session_count": 39,
+  "last_run_utc": "2026-06-03T08:00:00Z",
+  "session_count": 40,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "MRVL",
+  "last_deep_session": "ALAB",
   "next_deep_session": "ANET",
-  "_session_39_note": "Session 39 (2026-06-02, Tuesday): MRVL Computex June 2 keynote captured. Key findings: (1) Jensen Huang + Matt Murphy confirmed NVLink Fusion live integration on stage — Marvell custom XPUs embedded in NVIDIA AI factory ecosystem; custom silicon clusters now have a live NVIDIA-standard reference architecture using Marvell silicon. (2) FY2028 guidance corrected from $15B → $16.5B — confirmed via Sherwood News, TIKR, Seeking Alpha, Motley Fool transcript; Session 28 recorded incorrect figure. (3) Google assembling 4-partner chip supply chain: Broadcom (Sunfish training), MediaTek (Zebrafish inference, 20-30% cheaper), Marvell (in talks: MPU + inference TPU), Intel (infra); Google projects 4.3M TPUs 2026 → 35M by 2028. Marvell not yet contracted for Google inference program. (4) MU broke $1,000 and $1T market cap on June 1 (+7.9% from $964.75 carry). DRAM Q3/Q4 pricing trend continuing upward per TrendForce. Hyperscaler CapEx $725B in 2026 (+77% YoY). DCF re-run for MRVL: IV $126.67, MoS -42.2% SELL/AVOID (worsened from -38.2% at $205). Concept pages updated: custom-silicon.md. Phase 1b/1c gated (39%6=3). MRVL event processed and removed from queue.",
+  "_session_40_note": "Session 40 (2026-06-03, Wednesday): ALAB Computex June 3 press conference captured. Three thesis upgrades: (1) UALink support formally disclosed — ALAB is stack-agnostic (NVLink Fusion + UALink); (2) CXL KV Cache design win with second, unnamed hyperscaler (ships 2027) — first CXL custom win beyond Amazon; (3) NVLink Fusion custom design win with NVIDIA + hyperscaler. DCF re-run: IV $111.84, MoS -65.5% SELL/AVOID at $324.19. MRVL entity updated with Jensen 'next trillion-dollar company' endorsement (+32.52% on June 2 to $290.79, not captured by Session 39 which ran 4am EDT pre-market). All 7 positions now SELL/AVOID — TSM crossed -10% MoS threshold at $435.63 June 2 close (+4.1% from carry). Price moves: TSM +4.1%, ASML +5.7%, ANET +9.1% all added to event_queue. MRVL +32.52% added to event_queue for DCF re-run at new price. Custom-silicon concept page updated. Phase 1b/1c gated (40%6=4).",
   "event_queue": [
-    {"ticker": "ALAB", "event": "Computex June 3 press conference + Scorpio X 320-lane live demo (10-11am Taipei, TaiNEX 1 Room 303). Session 40: capture demo outcome, hyperscaler design-win announcements beyond Trainium3, and first public head-to-head with MRVL XConn 260-lane switch. Price: $341.02 (May 31 close).", "detected": "2026-05-26"},
-    {"ticker": "MU", "event": "Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT). DCF re-run queued post-earnings. Prior DCF: IV $442.63, MoS -57.5% at $1,040 (corrected from -54.1% at $965). MU broke $1,000 + $1T market cap June 1. TrendForce Q2 DRAM +58-63% confirms thesis; Q3/Q4 pricing still rising. No deep session before June 24.", "detected": "2026-05-29"},
-    {"ticker": "TSM", "event": "May monthly revenue release ~June 8. April was NT$410.73B (+17.5% YoY), 2nd-highest ever. May result confirms Q2 AI demand trajectory. Also: ex-dividend $0.955 ex-date June 11.", "detected": "2026-06-02"}
+    {"ticker": "MU", "event": "Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT). DCF re-run queued post-earnings. Prior DCF: IV $442.63, MoS -57.3% at ~$1,035. MU broke $1,000 + $1T market cap June 1. TrendForce Q2 DRAM +58-63% confirms thesis; Q3/Q4 pricing still rising. No deep session before June 24.", "detected": "2026-05-29"},
+    {"ticker": "TSM", "event": "May monthly revenue release ~June 8. April was NT$410.73B (+17.5% YoY), 2nd-highest ever. May result confirms Q2 AI demand trajectory. Also: ex-dividend $0.955 ex-date June 11. NEW: TSM +4.1% to $435.63 (June 2 close); 52-week high $449.39 intraday; $2T market cap milestone; MoS now -11.8% SELL/AVOID (was HOLD). DCF re-run needed after May revenue.", "detected": "2026-06-02"},
+    {"ticker": "MRVL", "event": "June 2: Jensen Huang called MRVL 'the next trillion-dollar company' at Computex — stock +32.52% to $290.79 (biggest single-day gain ever). Session 39 DCF IV $126.67 at $219.26; at $286.70 (June 3 est.) MoS = -55.8%. DCF re-run needed at current price. Also track: Google MPU/inference TPU talks (no contract yet); Morgan Stanley PT watch.", "detected": "2026-06-03"},
+    {"ticker": "ASML", "event": "June 2: +5.7% to $1,704.72 (from $1,612.76 session 39 carry). Morgan Stanley raised PT to EUR 1,660 (~$1,840) from EUR 1,400. Intel accepted EXE:5200 High-NA for HVM — first High-NA HVM milestone. DCF last run May 22 (>10 days, approaching 30-day threshold). Monitor for Q2 2026 results.", "detected": "2026-06-03"},
+    {"ticker": "ANET", "event": "June 2: $174.36 confirmed close (from $159.80 session 39 carry = +9.1%). ANET June 1 +5.77% per TradingKey. No specific catalyst — AI infrastructure rerating on NVDA/MRVL Computex wave. DCF last run May 22. Price move warrants attention; MoS now -27.2% SELL/AVOID.", "detected": "2026-06-03"}
   ],
-  "_event_queue_note": "Session 39: MRVL Computex keynote captured and removed from queue. TSM May revenue ~June 8 added as new event. Rotation now: next_deep_session = ANET (after MRVL processed). Session 40 = ALAB June 3 demo (first in queue). If ALAB demo runs June 3 session, Session 41 = MU watch, Session 42 = TSM May revenue (if not yet processed).",
+  "_event_queue_note": "Session 40: ALAB Computex June 3 captured and removed from queue. MRVL Jensen trillion-dollar surge added. TSM updated with >3% price move note. ASML and ANET added as >3% price moves. Rotation: next_deep_session = ANET. Session 41 priority: MU (no deep session before June 24 earnings), OR TSM (~June 8 revenue). MRVL DCF re-run queued at $286.70.",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-26",
@@ -19,6 +21,6 @@
     "NVDA": "2026-05-21",
     "MRVL": "2026-06-02",
     "ANET": "2026-05-22",
-    "ALAB": "2026-05-22"
+    "ALAB": "2026-06-03"
   }
 }
