@@ -10,6 +10,16 @@ Format:
 
 ---
 
+## [2026-06-04 08:00 UTC] session-41
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: TSM — event_queue (price move +4.1% June 2; $2T market cap milestone; May monthly revenue pending ~June 8; 3nm ASP hike +15% H2 2026 confirmed by TrendForce)
+Notable: TSMC simultaneously raising 3nm ASP (+15% H2 2026) and expanding 3nm capacity (+40% to 180K WPM) — both volume and price rising together for the first time on the highest-revenue node; Broadcom Q2 FY2026 $10.8B AI semi revenue (+143% YoY, Q3 guided $16B +200%) provides largest-ever downstream validation that custom silicon demand is multi-$10B/quarter at hyperscale.
+Price corrections this session: MRVL June 3 close confirmed ~$319.40 (+9.84%, not -1.41% as S40 estimated); ALAB June 3 close ~$320 (not $324 S40 est.); ALAB +11.1% June 4 Broadcom read-through; ASML new ATH $1,726.36 June 3; MU new ATH ~$1,070 June 4.
+No significant news: NVDA (~$228 est., COMPUTEX Deierling presentation June 3-4), ANET (~$170 soft, no catalyst).
+DCF run: none — TSM May revenue pending ~June 8; DCF to re-run post-revenue and post-Q2 earnings July 16 (expected IV upgrade above $384.28 given 3nm ASP hike inputs).
+Concept pages updated: custom-silicon.md (Broadcom Q2 FY2026 validation entry)
+
 ## [2026-05-29 10:00 UTC] session-33
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

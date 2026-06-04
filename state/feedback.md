@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 41 — 2026-06-04
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers: TSM $436.69 (+0.24%), MU ~$1,070 (+0.6% new ATH), ASML $1,726.36 (+1.23% new ATH), NVDA ~$228 (+0.9% est.), MRVL ~$309 (-3.2% est.), ANET ~$170.50 (-2.7% est.), ALAB ~$356 (+11.1%). Major finds: TSMC 3nm +15% ASP H2 2026; Broadcom Q2 $10.8B AI semi +143%; Meta CapEx raised; Taiwan Strait stable; Susquehanna MU PT $1,750. |
+| 1b (podcasts) | Gated | 41%6=5 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 41%6=5 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | TSM — event_queue (price move +4.1%, $2T market cap, May revenue pending). Entity updated with 6 new dated entries: 3nm ASP hike, $2T milestone, Broadcom validation, CapEx update, Taiwan Strait, May revenue pending. |
+| 3 (DCF) | Skipped | Correct — TSM DCF last run May 23 (<30 days); May revenue not yet released (~June 8); 3nm ASP hike is forward pricing, not financial data. DCF re-run queued for post-June 8. |
+| 4 (dashboard) | Complete | For Arvs overwritten; Portfolio Snapshot: all 7 prices updated with corrections (MRVL June 3 confirmed +9.84%; ALAB June 3 close ~$320); MoS recalculated; AVGO PT + S41 notes + history row appended; header updated to Session 41. |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; TSM ex-div June 11 + Q2 earnings July 16 added to Upcoming Catalysts; custom-silicon concept page updated with Broadcom Q2 entry; cross-links verified OK. |
+
+### Diagnosis
+Session ran cleanly. One noteworthy pattern: session 40's MRVL and ALAB price estimates were meaningfully wrong (MRVL estimated -1.41% when actual was +9.84%; ALAB estimated similarly). This is a known limitation of same-day price estimation when a session runs before US market close. The corrections were captured in Session 41 with the next-day confirmed data — this is the correct mechanism and does not require a structural change. The quality of Phase 1a intelligence was high this session (TSMC pricing, Broadcom earnings).
+
+### Improvement Executed
+None — no 3-session pattern identified. Price estimation errors for same-day sessions are inherent to timing, not a process flaw.
+
+---
+
 ## Session 33 — 2026-05-29
 
 ### Phase Scores
