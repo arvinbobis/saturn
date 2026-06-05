@@ -25,8 +25,8 @@ NVIDIA made a ~$2B strategic investment in Marvell (announced late March 2026). 
 
 ### Key Financials (from agent sessions)
 
-- FY2027 consensus revenue: $11.12B (FY2027 = Feb 2026 – Jan 2027)
-- FY2028 consensus revenue: $15.35B+
+- FY2027 consensus revenue: ~$11B (FY2027 = Feb 2026 – Jan 2027; management guidance ~$11B confirmed Q1 FY2027 earnings)
+- FY2028 management guidance: $16.5B (~50% YoY; first-time guidance issued May 27, 2026 — corrected from $15B initial report)
 - Non-GAAP operating margin: ~35% in FY2026 (already strong)
 - GAAP EBIT: Deeply negative due to acquired intangibles amortization (~$639M from Inphi/Cavium acquisitions) and SBC — misleading; use non-GAAP for economic analysis
 - FY year ends January.
@@ -38,13 +38,7 @@ Marvell's GAAP earnings are suppressed by non-cash amortization of acquired inta
 
 ### Upcoming: Q1 FY2027 Earnings — May 27, 2026
 
-**Consensus:** $2.40B revenue / $0.79 non-GAAP EPS
-**Options pricing:** ~13% move on earnings day
-**Key questions for the call:**
-1. Does management confirm Google TPU+MPU volume timeline?
-2. Is FY2027 guidance raised above $11.12B?
-3. What is the AI data center revenue mix vs. legacy enterprise/carrier?
-4. Any new hyperscaler custom ASIC wins announced?
+**COMPLETED May 27, 2026:** Revenue $2.418B (+28% YoY), EPS $0.80. Q2 guided $2.7B (+35%). FY2027 raised to ~$11B. FY2028 first-time guide $16.5B (~50% YoY). Custom ASIC: $1.5B FY2026 → >$3B FY2028. Jensen Huang at Computex June 2 called MRVL "next trillion-dollar company." NVLink Fusion integration confirmed live. Stifel PT $321 (street-high, June 4).
 
 ---
 

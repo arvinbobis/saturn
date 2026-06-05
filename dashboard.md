@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-06-04 | Session #41
+Last updated: 2026-06-05 | Session #42
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-06-04 | Session #41
 
 ### Action Items
 
-1. **Watch TSM May revenue release ~June 8 — next binary catalyst.** April was NT$410.73B (+17.5% YoY), second-highest monthly ever. If May is NT$415B+ (new record), Q2 trajectory is above the >30% USD growth guide and a DCF re-run is warranted. TSM ex-dividend $0.955 ex-date June 11. Entry window below $410 if market pulls back post-revenue.
-2. **TSMC planning 15% 3nm price hike H2 2026 + 3nm capacity to 180K WPM (+40%) — DCF re-run needed after Q2 earnings July 16.** The ASP increase + volume expansion together could push TSM intrinsic value well above the current $384.28 IV. Re-run immediately after July 16 Q2 results.
-3. **Broadcom June 3 earnings confirm custom silicon thesis at scale: $10.8B AI semi +143%, Q3 guided $16B +200%.** No direct action (AVGO not in portfolio) but validates MRVL FY2028 $16.5B trajectory — Broadcom reached $16B/quarter in 3 years; MRVL is 18–24 months behind. Thesis on track.
-4. **Hold MU through June 24 earnings — no action.** New ATH ~$1,070 (June 4); Susquehanna raised PT to $1,750. The June 24 result + DCF re-run will determine whether IV upgrades past $600+.
-5. **All 7 positions SELL/AVOID — TSM is mildest at -12.0% MoS.** No new entries across the portfolio. Thesis on every position is strengthening; the stocks simply ran too fast. Hold existing positions.
+1. **Watch TSM May revenue release ~June 10 — primary upcoming catalyst.** April was NT$410.73B (+17.5% YoY); if May is NT$415B+ (new record), Q2 trajectory confirms >30% USD YoY guide. TSM ex-dividend $0.955 ex-date June 11 — be aware of ADR ex-date for income tracking. DCF re-run follows Q2 earnings July 16.
+2. **Broadcom Q3 guidance miss ($16B vs $17.2B estimate) is an expectation reset, not a thesis break — hold all 7 positions.** AVGO maintained its $100B 2027 AI chip target and still guided $16B Q3 (+48% sequentially from $10.8B Q2). The selloff on June 4 (MU -7.7%, MRVL -5.6%, ANET -4.8%) is valuation-regime noise. Custom silicon thesis intact. MRVL FY2028 $16.5B management guidance unchanged.
+3. **Hold MU through June 24 earnings — no action.** Price corrected to $996 (June 4 confirmed close; Session 41's ~$1,070 was the intraday high, not the close). MoS -55.6% SELL/AVOID; Susquehanna PT $1,750. June 24 results + DCF re-run will determine if IV upgrades materially.
+4. **Monitor NVDA — price corrected to $216.34 (June 4 confirmed close, ex-dividend day; prior estimate $228 was intraday).** MoS improves slightly to -27.7%. Next catalyst is Q2 FY2027 earnings (est. Aug 2026); no near-term event. Hold.
+5. **All 7 positions SELL/AVOID — TSM is mildest at -14.0% MoS.** Thesis strengthening across all 7; stocks ran past intrinsic value. No new entries. TSM deepened from -12.0% to -14.0% as the June 4 estimate ($446.69) moved further from DCF IV $384.28.
 
 ### Key Snippets
 
-- **TSMC is planning a 15% price hike on 3nm wafers in H2 2026 with another 5–10% in 2027** — at ~$30B annualized 3nm revenue, a 15% ASP increase adds ~$4.5B in annual revenue directly to gross margin. This is the most important near-term TSMC fundamental development.
-- **Broadcom's AI semiconductor revenue hit $10.8B in Q2 2026 (+143% YoY), Q3 guided $16B (+200%)** — all manufactured at TSMC; Broadcom's trajectory gives MRVL a real-world benchmark, confirming the custom silicon wave can scale to $40–60B+ annualized per co-designer within 3 years.
-- **Meta raised 2026 CapEx guidance to $125–145B (from $115–135B) because of higher component prices** — hyperscaler demand is inelastic to inflation; the buildout continues regardless of cost. Combined $725B+ hyperscaler CapEx reconfirmed.
-- **ALAB surged +11% on June 4 to ~$356 (MoS deepens to -68.6%)** — Broadcom earnings read-through drove adjacent AI connectivity plays; thesis confirming at a pace that continues to outrun DCF valuation.
-- **Taiwan President Lai Ching-te at Computex: "committed to maintaining the status quo" — Jensen Huang, Lip-Bu Tan, and Lisa Su all publicly affirmed Taiwan's supply chain irreplaceability.** Geopolitical risk baseline unchanged.
+- **Broadcom Q3 AI guidance miss caused the biggest semiconductor sell-off in months** — AVGO guided $16B AI chip revenue for Q3 (vs. $17.2B high analyst est.), fell 14% and dragged the whole sector; but AVGO maintained a $100B 2027 target and $16B Q3 is still an extraordinary absolute number — this is expectation overshooting reality, not a business deterioration.
+- **MRVL DCF re-run at $301.65: IV $125.63, MoS -58.4% SELL/AVOID** — the $176B gap between Saturn IV ($126) and Stifel's street-high $321 target is the widest single-ticker divergence in the portfolio; institutionals are pricing growth optionality the model doesn't credit; management FY2028 $16.5B guide is intact.
+- **Two significant price corrections vs. Session 41 estimates: MU $996 (not $1,070), NVDA $216 (not $228)** — both prior estimates captured intraday highs, not closes; corrected MoS: MU -55.6% (was -58.6%), NVDA -27.7% (was -31.5%).
+- **ASML bucked the June 4 selloff: +1.80% to $1,757.47** — upstream equipment is insulated from near-term custom silicon demand noise; ASML's EUV monopoly earns regardless of which chip design houses win or lose quarter-to-quarter.
+- **TSM May revenue ~June 10 is the next binary event; TSMC shareholders' meeting June 4 approved 2025 results** — annual meeting passed without controversy; 3nm ASP hike +15% H2 2026 (TrendForce) and May revenue release in 5 days are the two near-term catalysts to watch.
 
 ---
 
@@ -32,15 +32,15 @@ Last updated: 2026-06-04 | Session #41
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $436.69 | +0.24% | $384.28 | -12.0% | SELL/AVOID | 3nm ASP hike +15% H2 2026 (TrendForce); 3nm capacity to 180K WPM; $2T market cap; ex-div $0.955 Jun 11; May rev ~Jun 8; Q2 earnings Jul 16 | 2026-05-23 |
-| MU     | $1,070.01† | +0.6%† | $442.63 | -58.6% | SELL/AVOID | HBM4 in HVM for Vera Rubin; Susquehanna PT $1,750; new ATH $1,070; Q3 FY2026 earnings June 24; HBM sold out through 2027 via LTAs | 2026-05-26 |
-| ASML   | $1,726.36 | +1.23% | $1,122.64 | -35.0% | SELL/AVOID | Only EUV supplier; June 3 close new ATH $1,726; Intel accepted High-NA EXE:5200 for HVM; Morgan Stanley EUR 1,660 PT; Low-NA €36-40B floor intact | 2026-05-22 |
-| NVDA   | ~$228†est | +0.9%†est | $156.27 | -31.5% | SELL/AVOID | CUDA-moated AI GPU; Q1 $81.6B (+85%); Q2 guide $91B; $0.25/qtr dividend (+2,400%) record date Jun 4; Vera Rubin NVL72 full production H2 2026 | 2026-05-21 |
-| MRVL   | $309.13†est | -3.2%†est | $126.67 | -59.0% | SELL/AVOID | June 3 actual close ~$319 (+9.84% confirmed, corrects S40 $286.70 est.); June 4 ~-3% pullback; FY2028 $16.5B; NVLink Fusion live; AVGO $16B Q3 validates custom silicon | 2026-06-02 |
-| ANET   | $170.50†est | -2.7%†est | $126.94 | -25.5% | SELL/AVOID | AI networking; June 3-4 range $168-177; FY2026 $11.5B; $8.9B non-cancel commitments; Gartner MQ Leader 2026; AI revenues doubling 2026 | 2026-05-22 |
-| ALAB   | $355.76†est | +11.1%†est | $111.84 | -68.6% | SELL/AVOID | June 3 close ~$320 (corrects S40 $324 est.); June 4 +11.1% Broadcom read-through; UALink + NVLink Fusion stack-agnostic; 3 hyperscaler design wins confirmed | 2026-06-03 |
+| TSM    | ~$446.69†est | ~+2.3%†est | $384.28 | -14.0% | SELL/AVOID | 3nm ASP hike +15% H2 2026; 3nm capacity to 180K WPM; $2T market cap; ex-div $0.955 Jun 11; May rev ~Jun 10; Q2 earnings Jul 16; shareholders' mtg Jun 4 passed | 2026-05-23 |
+| MU     | $996.00 | -7.74% | $442.63 | -55.6% | SELL/AVOID | HBM4 in HVM for Vera Rubin; Susquehanna PT $1,750; June 4 confirmed close $996 (AVGO selloff; prior S41 est $1,070 was intraday high); Q3 FY2026 earnings June 24 | 2026-05-26 |
+| ASML   | $1,757.47 | +1.80% | $1,122.64 | -36.1% | SELL/AVOID | Only EUV supplier; June 4 close $1,757 (bucked AVGO selloff); Intel High-NA EXE:5200 for HVM; Morgan Stanley EUR 1,660 PT; Low-NA €36-40B floor intact | 2026-05-22 |
+| NVDA   | $216.34 | +0.74% (ex-div) | $156.27 | -27.7% | SELL/AVOID | CUDA-moated AI GPU; Q1 $81.6B (+85%); Q2 guide $91B; $0.25/qtr ex-div June 4 (price corrects from S41 ~$228 est.); Vera Rubin NVL72 full production H2 2026 | 2026-05-21 |
+| MRVL   | $301.65 | -5.55% | $125.63 | -58.4% | SELL/AVOID | June 3 confirmed $319.40; June 4 -5.55% (AVGO selloff); Stifel PT $321 street-high; FY2028 $16.5B mgmt guide intact; NVLink Fusion live; Jensen "next trillion-dollar co." | 2026-06-05 |
+| ANET   | ~$166.03†est | -4.79%†est | $126.94 | -23.6% | SELL/AVOID | AI networking; June 4 -4.79% (AVGO selloff); FY2026 $11.5B; $8.9B non-cancel commitments; Gartner MQ Leader 2026; AI revenues doubling 2026 | 2026-05-22 |
+| ALAB   | ~$348.00†est | +8.72%†est | $111.84 | -67.9% | SELL/AVOID | June 4 est ~$348 (corrects S41 $355.76 est; intraday high $372.37); UALink + NVLink Fusion stack-agnostic; 3 hyperscaler design wins; AVGO read-through net positive | 2026-06-03 |
 
-*Session 41, 2026-06-04 (Thursday): TSM $436.69 June 3 confirmed close (June 2 $435.63 +0.24%; $2T mkt cap). MU ~$1,070 June 4 est. (new ATH; June 2 ATH close $1,064.10; Susquehanna PT $1,750). ASML $1,726.36 June 3 confirmed close (June 2 $1,705.37 +1.23%). NVDA ~$228 June 4 est. (intraday range $224-$232; $0.25/qtr dividend record date June 4). MRVL ~$309.13 June 4 est. (S40 estimated June 3 close at $286.70; actual June 3 close ~$319.40, confirmed +9.84% from June 2 $290.79; June 4 ~-3.2% pullback per search data). ANET ~$170.50 June 3-4 est. (June 2 confirmed close $175.33; June 3 range $168.71-$177.48; MoS improves from -27.2% to -25.5% as price declined). ALAB ~$355.76 June 4 est. (+11.14% confirmed; June 3 close ~$320.09, corrects S40 estimate of $324.19). MoS note: all prices with † are estimated or partially confirmed. IV/MoS carried forward for tickers without DCF re-run this session (no DCF run this session — TSM pending May revenue ~June 8).*
+*Session 42, 2026-06-05 (Friday): June 4 confirmed closes: MU $996.00 (-7.74%; S41 est $1,070 was intraday high), ASML $1,757.47 (+1.80%), NVDA $216.34 (+0.74% ex-div; S41 est $228 was intraday), MRVL $301.65 (-5.55%; June 3 confirmed $319.40). Estimates: TSM ~$446.69 (+2.3%est; June 4 shareholders' mtg, +2.54% reported but unconfirmed close), ANET ~$166.03 (-4.79%est), ALAB ~$348 (+8.72%est; range $337-$372 intraday). MoS note: † = estimated. MRVL DCF re-run this session (IV $125.63, MoS -58.4%). All others carry forward prior DCF. AVGO Q3 guidance miss triggered broad semi selloff June 4 — most significant intraday driver; AVGO maintained $100B 2027 AI target.*
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -71,7 +71,7 @@ Last updated: 2026-06-04 | Session #41
 | NVDA | GTC Taipei Keynote ✓ | 2026-06-01 | COMPLETE — N1X launched (Dell/Lenovo/ASUS/MSI/Surface OEMs); Vera Rubin NVL72 confirmed full production H2 2026; Constellation campus announced; analyst PT consensus $268 post-keynote |
 | MRVL / NVDA | Computex Joint Keynote ✓ | 2026-06-02 | COMPLETE — Jensen+Murphy confirmed NVLink Fusion live; Jensen called MRVL "the next trillion-dollar company" (stock +32.52% = biggest single-day gain ever to $290.79); FY2028 $16.5B confirmed; Google 4-partner TPU supply chain |
 | ALAB | Computex 2026 Press Conference + Demo ✓ | 2026-06-03 | COMPLETE — UALink support disclosed (stack-agnostic); CXL KV Cache 2nd hyperscaler custom design win (ships 2027); NVLink Fusion custom design win (NVIDIA + hyperscaler); first public Scorpio X 320-lane live demo; ALAB +3.86% |
-| TSM | May Monthly Revenue | ~2026-06-08 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; May result confirms Q2 trajectory; precedes ex-div $0.955 (June 11). If May ≥ NT$415B (new record), DCF re-run warranted. |
+| TSM | May Monthly Revenue | ~2026-06-10 | April was NT$410.73B (+17.5% YoY), 2nd-highest ever; May result confirms Q2 trajectory; precedes ex-div $0.955 (June 11). If May ≥ NT$415B (new record), DCF re-run warranted. Pattern: April rev released May 8 → May rev expected ~June 10. |
 | TSM | Ex-Dividend $0.955 | 2026-06-11 | Record date ~June 11; payment ~June 25 est. ADR holders eligible. |
 | MU | Q3 FY2026 Earnings | 2026-06-24 | Confirmed date (StockTitan/Micron IR); 2:30pm MT. Consensus ~$33.5B (guided); Susquehanna raised PT to $1,750 (June 4); post-earnings DCF re-run planned. |
 | TSM | Q2 2026 Earnings | 2026-07-16 | Estimated date. Revenue expected $39.76B (+32% YoY). First earnings to reflect full 3nm ASP hike announcement. DCF re-run immediately after. |
@@ -129,10 +129,15 @@ Last updated: 2026-06-04 | Session #41
 | ASML | Morgan Stanley | €1,660 (~$1,840) | Overweight (↑ from €1,400) | 2026-06-02 |
 | MU | Mizuho | $1,150 | Buy | 2026-06-03 |
 | MU | Susquehanna | $1,750 | Buy (↑ from $600) | 2026-06-04 |
+| MRVL | Stifel | $321 | Buy (↑ from $210, street-high) | 2026-06-04 |
 
 ---
 
 ## Session Notes
+
+### Session 42 (2026-06-05) — Deep: MRVL (event_queue: DCF re-run needed; Broadcom guidance miss June 4 selloff)
+
+MRVL deep session with two new entity entries and a DCF re-run. **Key finding this session: Broadcom Q3 AI guidance miss ($16B vs $17.2B high analyst est.) triggered a broad semiconductor selloff on June 4 — MU -7.74%, MRVL -5.55%, ANET -4.79%.** Critical nuance: AVGO maintained its $100B 2027 AI chip target; the selloff reflects over-elevated expectations, not a fundamental cut. Custom silicon thesis is intact. **Multiple significant price corrections vs. Session 41 estimates:** MU June 4 confirmed close $996.00 (S41 estimated $1,070 — that was the intraday high, not the close); NVDA June 4 confirmed $216.34 (S41 estimated $228 — intraday high); MRVL June 3 confirmed $319.40 (entity had $286.70 — corrected). **MRVL DCF re-run at $301.65: IV $125.63, MoS -58.4%, SELL/AVOID** — essentially unchanged IV from June 2 run ($126.67); price update reflects post-Jensen-Huang surge and partial Broadcom-selloff reversal. Stifel raised MRVL PT to $321 (street-high, June 4). ASML bucked the selloff: +1.80% to $1,757.47, reflecting its upstream equipment position insulated from near-term custom silicon noise. TSM shareholders' meeting June 4 approved 2025 results; May revenue release ~June 10. Phase 1b (OPEN: 42%6=0): no qualifying podcast episodes found in last 14 days. Phase 1c (OPEN: 42%6=0): optical networking bottleneck reinforces COHR watchlist thesis (Rosenblatt: NVIDIA demanding 20× more optics supply) — no new additions. All 7 positions SELL/AVOID. TSM mildest at -14.0% MoS.
 
 ### Session 41 (2026-06-04) — Deep: TSM (event_queue: price move +4.1% June 2 + $2T market cap + May revenue pending ~June 8)
 
@@ -390,3 +395,4 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 39 | 2026-06-02 | MRVL | event_queue (Computex June 2 keynote — Jensen+Murphy NVLink Fusion) | DCF IV $126.67 (MoS -42.2%) SELL/AVOID; FY2028 corrected $15B→$16.5B; Google 4-partner TPU supply chain (35M by 2028); MU broke $1,000 (+7.9%); custom-silicon concept page updated |
 | 40 | 2026-06-03 | ALAB | event_queue (Computex June 3 press conference — UALink + 2 design wins) | DCF IV $111.84 (MoS -65.5%) SELL/AVOID; UALink support (stack-agnostic); CXL KV Cache 2nd hyperscaler win; NVLink Fusion custom win; TSM flips to SELL/AVOID (-11.8%); all 7 SELL/AVOID first time; MRVL +32.52% June 2 (Jensen trillion-dollar); custom-silicon concept updated |
 | 41 | 2026-06-04 | TSM | event_queue (price move +4.1% June 2; $2T market cap; May revenue pending ~June 8) | No DCF (pending May revenue); 3nm ASP hike +15% H2 2026 (TrendForce); AVGO Q2 $10.8B AI semi +143%; Meta CapEx raised to $125-145B; Taiwan Strait stable; MRVL June 3 corrected to ~$319 (+9.84% confirmed); ALAB +11.1% June 4; custom-silicon updated with AVGO validation |
+| 42 | 2026-06-05 | MRVL | event_queue (DCF re-run needed; Broadcom Q3 guidance miss $16B vs $17.2B est. → semiselloff June 4) | DCF IV $125.63, MoS -58.4% SELL/AVOID; price corrections: MU $996 (not $1,070), NVDA $216 (not $228); ASML bucked selloff +1.80%; Stifel MRVL PT $321 street-high; custom-silicon concept updated with AVGO guidance recalibration; Phase 1b/1c gated open — no podcast finds, no new watchlist additions |

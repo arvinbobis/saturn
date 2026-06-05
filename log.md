@@ -10,6 +10,17 @@ Format:
 
 ---
 
+## [2026-06-05 08:00 UTC] session-42
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue (DCF re-run; Broadcom Q3 guidance miss June 4 broad semi selloff)
+Notable: Broadcom Q3 AI guidance miss ($16B vs $17.2B high analyst est.) triggered biggest semiconductor selloff since January — MU -7.74% to $996 confirmed (S41 ~$1,070 was intraday high), MRVL -5.55% to $301.65, ANET -4.79%; AVGO maintained $100B 2027 AI target — expectation reset not thesis break. MRVL DCF re-run: IV $125.63, MoS -58.4% SELL/AVOID. ASML bucked selloff +1.80%.
+No significant news: ALAB (est. ~$348 +8.72% net June 4), ASML (confirmed +1.80%), NVDA (confirmed $216.34 ex-div)
+DCF run: MRVL — IV $125.63, MoS -58.4%, Rec: SELL/AVOID
+Concept pages updated: custom-silicon.md (Broadcom Q3 guidance recalibration)
+Phase 1b: no qualifying podcast finds (7th consecutive open-gate session)
+Phase 1c: no new watchlist additions; optical networking bottleneck reinforces COHR thesis
+
 ## [2026-06-04 08:00 UTC] session-41
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

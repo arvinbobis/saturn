@@ -1,26 +1,25 @@
 {
   "_comment": "Saturn session state — updated by the agent at start and end of each 4-hour session.",
-  "last_run_utc": "2026-06-04T08:00:00Z",
-  "session_count": 41,
+  "last_run_utc": "2026-06-05T08:00:00Z",
+  "session_count": 42,
   "rotation_order": ["TSM", "MU", "ASML", "NVDA", "MRVL", "ANET", "ALAB"],
-  "last_deep_session": "TSM",
-  "next_deep_session": "MU",
-  "_session_41_note": "Session 41 (2026-06-04, Thursday): TSM deep session. Five new entity entries: (1) 3nm ASP hike +15% H2 2026 (TrendForce May 27) + 3nm capacity 180K WPM (+40%); (2) TSM $2T market cap + $436.69 June 3 close, MoS -12.0%; (3) Broadcom Q2 $10.8B AI semi +143%, Q3 $16B +200% — downstream validation; (4) Meta CapEx raised $125-145B; MS $190B; Google $460B backlog; (5) Taiwan Strait stable, Lai status quo commitment. No DCF run — pending May revenue ~June 8 and Q2 earnings July 16. Price corrections: MRVL June 3 confirmed close ~$319.40 (+9.84%, not -1.41% as estimated in S40); ALAB June 3 close ~$320.09 (vs $324 S40 est.); ANET June 2 close $175.33 (vs $174.36). ALAB +11.1% June 4 (Broadcom read-through). Phase 1b/1c gated (41%6=5). Custom-silicon concept page updated with Broadcom Q2 validation. Susquehanna raised MU PT to $1,750.",
+  "last_deep_session": "MRVL",
+  "next_deep_session": "ASML",
+  "_session_42_note": "Session 42 (2026-06-05, Friday): MRVL deep session (event_queue: DCF re-run). Key findings: (1) Broadcom Q3 AI guidance miss ($16B vs $17.2B high analyst est.) triggered broad semiconductor selloff June 4 — MU -7.74% to $996.00 (corrects S41 $1,070 intraday est), MRVL -5.55% to $301.65, ANET -4.79%. AVGO maintained $100B 2027 target — selloff is expectation reset, not thesis cut. (2) NVDA June 4 confirmed $216.34 (corrects S41 ~$228 intraday est; June 4 was ex-div date for $0.25/qtr). (3) ASML June 4 $1,757.47 (+1.80% — bucked selloff). (4) TSM ~$446.69 est June 4 (+2.3%est; annual shareholders' meeting June 4 approved 2025 results). (5) MRVL DCF re-run: IV $125.63, MoS -58.4%, SELL/AVOID at $301.65. Stifel raised MRVL PT to $321 (street-high). MRVL entity: corrected June 3 close to $319.40 (was $286.70); added June 4 Broadcom selloff + Stifel PT entries. Custom-silicon concept updated with Broadcom Q3 guidance miss recalibration. Phase 1b (OPEN 42%6=0): no qualifying episodes found in 14 days. Phase 1c (OPEN 42%6=0): optical networking bottleneck reinforces COHR watchlist — no new additions. TSM May revenue ~June 10 remains primary upcoming catalyst. All 7 SELL/AVOID; TSM mildest -14.0% MoS.",
   "event_queue": [
-    {"ticker": "MU", "event": "Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT). DCF re-run queued post-earnings. Prior DCF: IV $442.63, MoS -58.6% at ~$1,070 (new ATH June 4). Susquehanna raised PT to $1,750 (June 4). TrendForce Q2 DRAM +58-63% confirms thesis; Q3/Q4 pricing still rising. No deep session before June 24.", "detected": "2026-05-29"},
-    {"ticker": "TSM", "event": "May monthly revenue release ~June 8. April was NT$410.73B (+17.5% YoY), 2nd-highest ever. 3nm ASP hike +15% H2 2026 announced (TrendForce May 27); 3nm capacity to 180K WPM (+40%). Ex-dividend $0.955 ex-date June 11. Q2 earnings July 16. Entity updated Session 41. DCF re-run to follow May revenue release — expect IV upgrade toward $420-450+ once ASP hike incorporated.", "detected": "2026-06-02"},
-    {"ticker": "MRVL", "event": "June 2: Jensen Huang 'next trillion-dollar company' (+32.52% to $290.79). June 3: confirmed close ~$319.40 (+9.84%). June 4: ~$309.13 est. (-3.2% pullback). DCF IV $126.67 (June 2 run at $219.26). At $309.13 MoS = -59.0%. DCF re-run needed at current price. Broadcom Q2 $10.8B AI semi validates MRVL FY2028 $16.5B trajectory. Google MPU talks still ongoing.", "detected": "2026-06-03"},
-    {"ticker": "ASML", "event": "June 3 close: $1,726.36 (+1.23%). All-time high. Morgan Stanley EUR 1,660 PT. Intel accepted EXE:5200 High-NA for HVM. DCF last run May 22 (13 days, approaching 30-day threshold June 21). Q2 2026 results expected mid-July. Monitor.", "detected": "2026-06-03"},
-    {"ticker": "ANET", "event": "June 2 close $175.33 (confirmed, corrects S40 $174.36 est.). June 3-4: ~$170.50 (-2.7% from June 2). MoS improves to -25.5%. DCF last run May 22 (13 days). No specific catalyst for decline — reversion after Computex AI rerating. Monitor for Q2 2026 results.", "detected": "2026-06-03"},
-    {"ticker": "ALAB", "event": "June 4: +11.1% to ~$355.76 (Broadcom read-through after AVGO Q2 $10.8B AI semi +143%). June 3 confirmed close ~$320.09 (corrects S40 $324 est.). MoS deepens to -68.6% SELL/AVOID. Deep session was June 3 (S40). No new deep session needed — thesis confirming but valuation gap widening.", "detected": "2026-06-04"}
+    {"ticker": "MU", "event": "Q3 FY2026 earnings confirmed June 24, 2026 (2:30pm MT). DCF re-run queued post-earnings. June 4 confirmed close $996.00 (S41 ~$1,070 was intraday high — AVGO selloff pulled MU -7.74%). Susquehanna PT $1,750. TrendForce Q2 DRAM +58-63% confirms thesis; Q3/Q4 pricing still rising. No deep session before June 24.", "detected": "2026-05-29"},
+    {"ticker": "TSM", "event": "May monthly revenue release ~June 10 (pattern: April released May 8; May expected ~June 10). April was NT$410.73B (+17.5% YoY), 2nd-highest ever. 3nm ASP hike +15% H2 2026; 3nm capacity to 180K WPM. Ex-dividend $0.955 ex-date June 11. Q2 earnings July 16. June 4 confirmed close ~$446.69 est. (+2.3%est; annual shareholders' meeting passed). DCF re-run to follow May revenue release.", "detected": "2026-06-02"},
+    {"ticker": "ASML", "event": "June 4 confirmed close $1,757.47 (+1.80% — bucked AVGO selloff). DCF last run May 22 (14 days; 30-day threshold June 21). Intel accepted High-NA EXE:5200 for HVM. Morgan Stanley EUR 1,660 PT. Q2 2026 results expected mid-July. Priority: run DCF before June 21 threshold or when material news surfaces.", "detected": "2026-06-03"},
+    {"ticker": "ANET", "event": "June 4: -4.79% to ~$166.03 est. (AVGO selloff). DCF last run May 22 (14 days). MoS -23.6% SELL/AVOID. No company-specific catalyst — macro selloff. FY2026 $11.5B; $8.9B non-cancel purchase commitments. Q2 2026 results expected late July. Monitor.", "detected": "2026-06-03"},
+    {"ticker": "ALAB", "event": "June 4 confirmed close ~$348 est. (+8.72% net from June 3 $320.09; intraday high $372.37 then pulled back with AVGO selloff). MoS -67.9% SELL/AVOID. Deep session June 3 (S40). No new deep session needed — thesis confirming but valuation gap widening.", "detected": "2026-06-04"}
   ],
-  "_event_queue_note": "Session 41: TSM deep session complete (entity updated; DCF pending May revenue). MRVL price corrected upward (June 3 close $319, not $286.70 S40 estimate). ALAB added for +11.1% price move June 4. Rotation advances to MU but gated until June 24 earnings — next session will take ASML or NVDA from event_queue. Priority next session: TSM May revenue (if released ~June 8) or ASML (approaching 30-day DCF threshold June 21).",
+  "_event_queue_note": "Session 42: MRVL deep session complete (DCF re-run IV $125.63, MoS -58.4%; entity corrected + 2 new entries). MRVL removed from leading position in queue (processed). Next priority: TSM May revenue ~June 10 (check start of next session). ASML DCF threshold June 21 — if no other event, ASML is rotation target next session. MU gated until June 24. Rotation advances to ASML (skip MU — gated).",
   "dcf_last_run": {
     "TSM":  "2026-05-23",
     "MU":   "2026-05-26",
     "ASML": "2026-05-22",
     "NVDA": "2026-05-21",
-    "MRVL": "2026-06-02",
+    "MRVL": "2026-06-05",
     "ANET": "2026-05-22",
     "ALAB": "2026-06-03"
   }
