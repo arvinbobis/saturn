@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 43 — 2026-06-06
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers updated. June 5 SOX -10.3% (largest since March 2020) captured. ALAB $358.05 confirmed; all others estimated. Three significant S42 price corrections: MRVL June 4 $316.43 (S42 had $301.65), ALAB June 4 $363.54 (S42 ~$348), NVDA June 4 $218.66 (S42 $216.34). |
+| 1b (podcasts) | Gated | 43%6=1 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 43%6=1 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | ASML — event_queue (first processable; MU gated, TSM gated). Three new entity entries: JPMorgan $2,200 PT (record), record 45-system EUV backlog, Brainport campus Q3 2026. Plus June 4 catch-up entries (MS PT details, ASML bucked AVGO selloff). |
+| 3 (DCF) | Skipped | Correct — ASML last ran May 22 (15 days; threshold June 21); no earnings; no thesis-changing event. |
+| 4 (dashboard) | Complete | For Arvs overwritten; all 7 prices updated with S42 corrections and June 5 estimates; ASML analyst PT table updated (JPMorgan $2,200); Upcoming Catalysts cleaned (3 COMPLETE rows removed; NVDA Q2 added); Session 43 notes + history row appended; header updated. |
+| 5 (lint) | Complete | No null DCFs; no zero-revenue; 3 stale catalyst rows removed (GTC Taipei, Computex Joint, ALAB Computex — all COMPLETE and past date); concept pages all updated within 14 days; custom-silicon updated with Broadcom/Google TPU share data; CLAUDE.md self-improvement applied. |
+
+### Diagnosis
+Third consecutive session requiring significant price corrections from the prior session's same-day data. The pattern: on volatile trading days (>3% intraday swings), search results surface intraday prices from news articles (e.g., "MRVL fell to $301 during trading") rather than confirmed closing prices. The existing price verification instruction in CLAUDE.md failed to catch this because the intraday price was directionally consistent with the news narrative, so it didn't trigger as an obvious error. A targeted fix (searching for "regular session close" on volatile-day follow-ups) has been added.
+
+### Improvement Executed
+3-session rule met (S41, S42, S43 all had significant same-day intraday-vs-close errors). Added to CLAUDE.md Phase 1a, price search instruction: "**Volatile day confirmation:** If the prior session recorded any ticker moving >3%, use the query '[TICKER] stock [YYYY-MM-DD] regular session close' for those tickers specifically to minimize sourcing intraday extremes from news articles." This is a search string adjustment within the autonomous improvement scope.
+
+---
+
 ## Session 42 — 2026-06-05
 
 ### Phase Scores

@@ -51,7 +51,7 @@ Each session runs through these phases in order. Stop immediately at any point i
 #### 1a — Price & News (all 7 tickers)
 
 For each of TSM, MU, ASML, NVDA, MRVL, ANET, ALAB:
-1. Search for closing price and 1-day % change. Use the query "[TICKER] stock closing price [YYYY-MM-DD]" for the most recent trading day. If markets are closed (weekend/US holiday), note the last trading day explicitly and do not treat intraday ranges as the closing price. **Price verification:** If a search result price differs from the prior session's carried price by >1%, verify before using it: confirm the result is the regular-session close, not an intraday high/low or after-hours price. Note the basis of any correction in the dashboard table footnote.
+1. Search for closing price and 1-day % change. Use the query "[TICKER] stock closing price [YYYY-MM-DD]" for the most recent trading day. If markets are closed (weekend/US holiday), note the last trading day explicitly and do not treat intraday ranges as the closing price. **Price verification:** If a search result price differs from the prior session's carried price by >1%, verify before using it: confirm the result is the regular-session close, not an intraday high/low or after-hours price. Note the basis of any correction in the dashboard table footnote. **Volatile day confirmation (Self-improvement Session 43):** If the prior session recorded any ticker moving >3%, search specifically for those tickers using "[TICKER] stock [YYYY-MM-DD] regular session close" to minimize sourcing intraday extremes embedded in news articles written during trading hours.
 2. Check for news in the last 24 hours
 
 Search across these sources specifically:

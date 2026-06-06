@@ -203,6 +203,30 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 ---
 
+### 2026-06-02
+
+**Morgan Stanley EUR 1,660 price target (Overweight maintained) — models 90 EUV tools in 2027 and 104 in FY2028:** Morgan Stanley raised ASML's price target to EUR 1,660 (from EUR 1,400), maintaining Overweight rating. MS now models 90 EUV tool shipments in 2027 (above ASML's own guidance of 80) and 104 tool sets in FY2028 (96 Low-NA + 8 High-NA). MS noted ASML's April AGM disclosure of plans to expand into the Brainport Industries Campus in Eindhoven, describing the build-out as needing to be "multi-phase" to fully alleviate production capacity constraints as AI chip demand accelerates. Source: Morgan Stanley / Investing.com, 2026-06-02. *Thesis bearing: Confirms — MS projects demand outpacing ASML's own guidance by 13–30% in 2027–2028; campus expansion signals ASML itself expects demand to outrun current production ceiling.*
+
+---
+
+### 2026-06-04
+
+**ASML +1.80% to $1,757.47 — bucked the Broadcom-triggered sector selloff:** While the semiconductor sector sold off sharply on June 4 following Broadcom's Q3 AI chip revenue guidance miss ($16B vs. $17.2B estimate) — MU -7.74%, MRVL -5.55%, ANET -4.79% — ASML closed +1.80% to $1,757.47. The upstream equipment position insulates ASML from near-term application demand noise: EUV machine orders are placed 12–18 months in advance for foundry capacity decisions, and are not revisable on the basis of a single quarter's guidance miss. ASML's order book dynamics operate on a 2–3 year planning horizon. Source: Trading data, 2026-06-04. *Thesis bearing: Confirms — ASML's pricing power and backlog structure decouple its near-term stock performance from AI application demand volatility at the chip level.*
+
+---
+
+### 2026-06-06
+
+**JPMorgan raises ASML ADR price target to $2,200 from $1,813 (Overweight, June 3, 2026) — highest published ASML ADR target on record:** JPMorgan raised its ASML price target +21.4% to $2,200, maintaining Overweight. At the June 4 close of $1,757.47, this implies +25.2% upside. The $2,200 ADR target exceeds Morgan Stanley's EUR 1,660 (~$1,840 at current EUR/USD) and UBS's EUR 1,900 (~$2,100) — making JPMorgan the most bullish on record for the US-listed shares. Source: GuruFocus / Investing.com, 2026-06-03. *Thesis bearing: Confirms — the sell-side's most aggressive ASML ADR target was set one day before a broad semiconductor selloff; institutional conviction in ASML's structural position remains at a record high.*
+
+**Record EUV backlog: 45 systems in Q1 2026; High-NA supply ceiling <20/year extends backlog to late 2027:** ASML reported a record EUV system backlog of 45 units in Q1 2026, driven by simultaneous orders from TSMC, Samsung Foundry, and Intel Foundry for 2nm-and-below process nodes. Year-end 2025 backlog was €38.8B. ASML's production capacity for High-NA EUV systems is constrained to fewer than 20 per year; High-NA backlog already extends to late 2027. The production bottleneck is metrology equipment, precision vacuum chamber parts, and optical components from a deliberately narrow supplier base. CEO Fouquet: "demand is outpacing supply, and customers are accelerating capacity expansion plans for 2026 and beyond." Source: Rivcut / AInvest / AlphaPilot / ASML Q1 earnings, 2026-Q1–Q2. *Thesis bearing: Confirms — the 12–24 month equipment lead time is now the gating constraint for the entire semiconductor industry; simultaneous TSMC + Samsung + Intel orders for 2nm-and-below confirms the AI capacity expansion cycle is broadening, not concentrating. ASML's supply ceiling makes EUV a genuine bottleneck, extending pricing power.*
+
+**ASML Brainport Industries Campus capacity expansion — construction starts Q3 2026:** At the April 2026 AGM, ASML disclosed plans to expand manufacturing capacity into the Brainport Industries Campus in Eindhoven, with construction beginning in Q3 2026. Morgan Stanley described the expansion as requiring a "multi-phase build-out" to fully address production capacity constraints. This is the first formally announced physical manufacturing footprint expansion in ASML's High-NA EUV era. MS models 8 High-NA systems in FY2028 growing from the <20/year ceiling; the campus is the prerequisite for reaching the 104 tool-set/year target by 2028. Source: Morgan Stanley / Investing.com, 2026-06-02 to 2026-06-03. *Thesis bearing: Confirms — capacity expansion announcement validates that current production ceilings are a recognized constraint and ASML is investing to relieve them; consistent with MS's 104 tool sets/year FY2028 model which requires more High-NA production capacity than currently available.*
+
+**June 5 broad semiconductor selloff — ASML -3.8% est. to ~$1,691; significantly outperforms SOX -10.3%:** ASML declined approximately 3.8% on June 5, 2026 as the Philadelphia Semiconductor Index (SOX) fell over 10% — the largest single-day drop since March 2020. The selloff continued the June 4 AI demand valuation reset from Broadcom's guidance miss. ASML's -3.8% decline was dramatically better than: MU -13.1%, NVDA -6.0%, MRVL -8.6%, ANET -5.5%, TSM -3.8% (tie). The upstream equipment position insulates ASML — whether AI chip revenue in a given quarter beats or misses does not revise EUV machine orders placed 12–18 months in advance. Source: TheStreet / GuruFocus, 2026-06-05. *Thesis bearing: Neutral — macro valuation reset, ASML fundamentals unchanged. MoS improves from -36.1% (at $1,757) to -33.6% (at ~$1,691 est) as price declined while IV ($1,122.64) is unchanged. SELL/AVOID maintained. DCF re-run threshold June 21.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — primary customer; TSMC CapEx guides ASML demand 12–18 months ahead

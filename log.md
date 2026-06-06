@@ -10,6 +10,18 @@ Format:
 
 ---
 
+## [2026-06-06 16:00 UTC] session-43
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ASML — event_queue (first processable; MU gated June 24, TSM gated ~June 10 May revenue)
+Notable: June 5 SOX -10.3% (largest since March 2020) continued AVGO guidance miss selloff; ASML outperformed (-3.8% vs SOX -10.3%) confirming upstream equipment insulation. JPMorgan raised ASML to $2,200 ADR PT (record) on June 3; record 45-system EUV backlog Q1 2026; Brainport campus construction starts Q3 2026. S42 price corrections: MRVL June 4 actual $316.43 (S42 had $301.65 intraday), ALAB June 4 $363.54 (S42 ~$348 est). TSM MoS improved to -10.2% (boundary of HOLD threshold); May revenue ~June 10 is next catalyst.
+No significant news: NVDA (carry — June 4 corrected to $218.66; added to event_queue for June 5 -5.8%)
+DCF run: none — ASML threshold June 21
+Concept pages updated: custom-silicon.md (Broadcom/Google TPU share quantification: 95%→80%→65% 2026-2028 as MediaTek gains)
+Watchlist: none (Phase 1c gated)
+Podcast: none (Phase 1b gated)
+Self-improvement: Phase 1a volatile-day price confirmation note added to CLAUDE.md (3-session rule: S41+S42+S43 all had intraday-vs-close errors)
+
 ## [2026-06-05 08:00 UTC] session-42
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
