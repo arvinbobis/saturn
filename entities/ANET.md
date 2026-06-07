@@ -202,6 +202,32 @@ Source: FX Leaders / public.com, 2026-05-14. *Assessment: The Citi cut highlight
 
 ---
 
+---
+
+### 2026-06-01
+
+**Price recovery +5.77% to ~$164.23 on GTC Taipei AI infrastructure tailwind:** *(Price correction note: May 30 confirmed close was ~$155.26, not ~$148.60 as recorded in the May 31 entity entry — correction established in Session 38.)* ANET rebounded 5.77% to approximately $164.23 on June 1 — the first trading day following the NVIDIA GTC Taipei keynote (Sunday evening US time, June 1 11am Taipei). Key announces from the keynote: Vera Rubin NVL72 in full production H2 2026 (72 Rubin GPUs per rack + CoWoS-L), N1X ARM laptop chip launch targeting 150M laptops/year. Each Vera Rubin NVL72 rack in production represents proportionally more 800G spine-leaf ethernet demand; every N1X-equipped AI PC adds enterprise edge networking demand. Source: TradingKey market data, 2026-06-01. *Thesis bearing: Confirms — ANET's stock responds directly and quickly to signals of increasing GPU cluster deployment; the AI networking demand thesis is validated in real time by price response to GPU production confirmations.*
+
+---
+
+### 2026-06-02
+
+**William Blair 46th Annual Growth Stock Conference — CFO expands TAM to $105B, projects $160B by 2030; AI cycle "multi-year to multi-decade":** CFO Chantelle Breithaupt and VP Investor Advocacy Rudolph Araujo presented at William Blair's 46th Annual Growth Stock Conference. Key commentary: (1) Total addressable market has expanded from ~$50B to ~$105B (current), with $160B projected by 2030 — a 3× TAM increase from prior estimates embedded in analyst models; (2) AI networking cycle explicitly characterized as "multi-year or even multi-decade" — the strongest management endorsement of long-duration demand; (3) Full-year 2026 guidance confirmed unchanged: $11.5B revenue, $3.5B AI networking. No guide raise — management maintaining discipline given supply chain constraints. Source: William Blair 46th Annual Growth Stock Conference / SeekingAlpha transcript, 2026-06-02. *Thesis bearing: Strongly confirms — the $105B → $160B TAM trajectory and "multi-decade" characterization materially extend the fundamental runway modeled in Saturn's DCF; long-duration AI networking demand shifts the moat from "cyclical infrastructure" to "infrastructure utility." The absence of a guide raise at the conference is appropriate given supply constraints — the demand signal is the important data point.*
+
+---
+
+### 2026-06-04
+
+**AVGO guidance miss selloff: -4.79% to $166.01 (confirmed close):** ANET fell -4.79% to $166.01 on June 4 as Broadcom's Q3 FY2026 guidance miss ($16B vs. $17.2B high analyst estimate) triggered a broad semiconductor sector selloff. AVGO maintained its $100B 2027 AI chip target — the miss reflects analyst expectations running ahead of even bullish fundamentals, not underlying AI infrastructure demand destruction. No ANET-specific catalyst. Source: TradingKey market data, 2026-06-04. *Thesis bearing: Neutral — macro repricing; ANET Q2 2026 guidance ($2.8B), $11.5B FY guide, and $3.5B AI ethernet target unchanged. The 54% actual shipment growth signal (JPMorgan conference) and $8.9B non-cancellable purchase commitments lock in near-term revenue independent of sector-level valuation swings.*
+
+---
+
+### 2026-06-05
+
+**SOX -10.3% selloff (largest since March 2020): ANET -6.94% to $154.49 (confirmed close), MoS -17.8% SELL/AVOID:** ANET fell -6.94% to $154.49 (confirmed) on June 5 as the Philadelphia Semiconductor Index dropped 10.3% — its largest single-session decline since March 2020. Continuation of AVGO-driven expectation reset from June 4. No ANET-specific negative catalyst. At $154.49, MoS = (IV $126.94 − $154.49) / $154.49 = **-17.8%**, SELL/AVOID. Note: S43 estimated $157 (-5.5%) — actual was $154.49 (-6.94%) from confirmed June 4 close $166.01. US BIS (June 1) tightened export controls to apply to advanced AI chips shipped to Chinese companies' non-China subsidiaries; this primarily affects GPU vendors (NVDA, AMD) not ethernet switch vendors — ANET's hyperscaler customers (Microsoft, Meta, Google) are unaffected. Source: TradingKey market data / BIS regulatory notice, 2026-06-05. *Thesis bearing: Neutral — macro selloff; underlying AI cluster networking demand trajectory (CEO Ullal: "best demand I have ever seen," 54% actual shipment growth, $8.9B committed supply), $105B → $160B TAM, and "multi-decade" cycle characterization are all intact. Price decline creates marginally improved margin of safety from session highs.*
+
+---
+
 ## Cross-links
 
 - [[NVDA]] — NVIDIA GPU cluster scale-out drives Arista networking demand; InfiniBand (NVDA) vs. Ethernet (ANET) is the competitive framing

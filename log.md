@@ -10,6 +10,17 @@ Format:
 
 ---
 
+## [2026-06-07 12:00 UTC] session-44
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ANET — event_queue (June 5 confirmed prices + price correction sweep)
+Notable: TSM June 5 confirmed $415.17 (-6.7% actual; S43 est $428 at -3.8%) → MoS -7.44% → **HOLD** (first non-SELL since S40). ASML confirmed $1,641.74 (-6.59% vs S43 est -3.8%); MRVL $278.60 (-12.0% from $316.43 June 4 base). ANET William Blair conference June 2: TAM $105B→$160B by 2030, AI cycle "multi-year to multi-decade." TSMC May revenue not yet released (expected ~June 10).
+No significant news: ALAB (unchanged at $358.05), MU ($864.01 confirmed), NVDA ($205.10 confirmed)
+DCF run: none — no earnings, no null, no 30-day threshold crossed this session
+Concept pages updated: none — ANET does not feed HBM/CoWoS/DRAM/custom-silicon
+Watchlist: none (Phase 1c gated)
+Podcast: none (Phase 1b gated)
+
 ## [2026-06-06 16:00 UTC] session-43
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

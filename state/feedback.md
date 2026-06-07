@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 44 — 2026-06-07
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 June 5 closes confirmed via targeted volatile-day queries. Three significant S43 corrections: TSM $415.17 (-6.7% actual), ASML $1,641.74 (-6.59%), MRVL $278.60 (-12.0% from $316.43). TSM → HOLD (threshold crossed). TSMC May revenue not yet released. US BIS export controls extended to Chinese subsidiaries June 1. |
+| 1b (podcasts) | Gated | 44%6=2 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 44%6=2 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | ANET — event_queue (June 5 price confirm). Four new entity entries: June 1 +5.77% rebound, June 2 William Blair conference (TAM $105B→$160B, "multi-year to multi-decade"), June 4 -4.79%, June 5 -6.94%. Price correction note for May 30 (was $148.60, actual $155.26). |
+| 3 (DCF) | Skipped | Correct — ANET last ran May 22 (16 days; threshold 30 days); no earnings; no material thesis-changing event. |
+| 4 (dashboard) | Complete | All 7 prices updated with confirmed June 5 closes. TSM row: SELL/AVOID → HOLD. ASML/MRVL/ANET corrections. For Arvs overwritten. Session 44 notes + history row appended. Header updated. vs. Institutional Entry table updated. |
+| 5 (lint) | Complete | No null DCFs. No zero-revenue (checked concept pages — all within 14 days: HBM Jun 1, CoWoS Jun 1, DRAM May 31, custom-silicon Jun 6). No stale catalysts. ASML re-added to event_queue for June 5 >3% trigger. No broken cross-links found in ANET. |
+
+### Diagnosis
+Session ran cleanly — primarily a price confirmation session with ANET deep work. The volatile-day confirmation mechanism (added S43) worked exactly as intended: three material corrections caught immediately. Main observation: Sunday sessions are naturally price-confirmation sessions because Friday closes are indexed by weekend but not always cleanly captured in Saturday sessions. No friction. Context usage appropriate — no context pressure.
+
+### Improvement Executed
+None — no 3-session pattern requiring action. Single observation: Sunday sessions reliably serve as Friday-close confirmation sessions. This is a structural pattern but not a problem — the mechanism is working.
+
+---
+
 ## Session 43 — 2026-06-06
 
 ### Phase Scores
