@@ -10,6 +10,15 @@ Format:
 
 ---
 
+## [2026-06-10 13:00 UTC] session-45
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: TSM — event_queue (May revenue day + ex-div June 11; DCF re-run triggered by >30-day threshold)
+Notable: TSMC May 2026 revenue released at 13:30 Taipei but not indexed at session time — Taiwan May exports +51.7% YoY to $78.48B used as proxy. TSM DCF re-run on TTM basis ($131.7B rev / $70.6B EBIT): IV $414.11 (from $384.28), MoS -3.2% = HOLD. June 8-9 broad recovery: MU +12% ($864→$968), ASML +11.6% ($1,641→$1,749), TSM +3.1% ($415→$428), NVDA +2.1%, MRVL +3.7%; ANET -2.5%, ALAB -3.1% underperformed. May CPI 4.2% YoY (highest since April 2023); Fed rate hike probability 72%. Taiwan Strait 32 PLA sorties June 5 (25 crossed median line).
+No significant news: MRVL (gated until June 24), NVDA (monitoring)
+DCF run: TSM — IV $414.11, MoS -3.2%, Rec: HOLD
+Concept pages updated: none — TSM developments this session do not cross into HBM/DRAM/custom-silicon; cowos.md last updated June 1 (within 14-day window)
+
 ## [2026-06-07 12:00 UTC] session-44
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

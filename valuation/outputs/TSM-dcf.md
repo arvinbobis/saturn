@@ -1,19 +1,19 @@
 # DCF Valuation — TSM
 
-*Generated: 2026-05-23 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
+*Generated: 2026-06-10 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
 
 ## 🟡 Decision: HOLD
 
 | Metric | Value |
 |---|---|
-| **Intrinsic Value** | **$384.28** |
-| Current Price | $407.15 |
-| Margin of Safety | **-5.6%** |
-| Enterprise Value | $1,912,672M |
-| PV Stage 1 FCFFs | $454,865M |
-| PV Terminal Value | $1,457,806M |
-| Terminal Value (undiscounted) | $3,398,909M |
-| WACC (high growth) | 8.83% |
+| **Intrinsic Value** | **$414.11** |
+| Current Price | $427.89 |
+| Margin of Safety | **-3.2%** |
+| Enterprise Value | $2,067,208M |
+| PV Stage 1 FCFFs | $506,508M |
+| PV Terminal Value | $1,560,701M |
+| Terminal Value (undiscounted) | $3,640,027M |
+| WACC (high growth) | 8.84% |
 | WACC (stable) | 8.35% |
 | Stable ROIC | 30.45% |
 | Stable Reinvestment Rate | 9.9% |
@@ -43,29 +43,29 @@
 
 | Item | Value ($M) |
 |---|---|
-| Reported Revenue | 122,900 |
-| Reported EBIT | 62,400 |
+| Reported Revenue | 131,700 |
+| Reported EBIT | 70,600 |
 | R&D Adj. to EBIT | 2,111 |
-| Adjusted EBIT | 64,511 |
+| Adjusted EBIT | 72,711 |
 | CapEx | 41,000 |
 | D&A | 22,600 |
 | ΔWorking Capital | 2,000 |
-| FCFF (Year 0) | 33,614 |
+| FCFF (Year 0) | 40,748 |
 
 ## Year-by-Year FCF Projection
 
 | Year | Revenue ($M) | EBIT Margin | NOPAT ($M) | Reinvestment ($M) | FCFF ($M) | PV ($M) |
 |---|---|---|---|---|---|---|
-| 1 | 145,022 | 51.4% | 64,904 | 24,580 | 40,324 | 37,051 |
-| 2 | 171,126 | 50.4% | 75,024 | 29,004 | 46,020 | 38,852 |
-| 3 | 201,929 | 49.3% | 86,686 | 34,225 | 52,460 | 40,695 |
-| 4 | 238,276 | 48.3% | 100,114 | 40,386 | 59,729 | 42,572 |
-| 5 | 281,165 | 47.2% | 115,569 | 47,655 | 67,914 | 44,477 |
-| 6 | 331,775 | 46.2% | 133,343 | 56,233 | 77,110 | 46,401 |
-| 7 | 391,495 | 45.1% | 153,772 | 66,355 | 87,417 | 48,333 |
-| 8 | 461,964 | 44.1% | 177,234 | 78,299 | 98,935 | 50,262 |
-| 9 | 545,117 | 43.0% | 204,161 | 92,393 | 111,768 | 52,173 |
-| 10 | 643,238 | 42.0% | 235,039 | 109,024 | 126,016 | 54,049 |
+| 1 | 155,406 | 53.9% | 72,859 | 26,340 | 46,519 | 42,742 |
+| 2 | 183,379 | 52.6% | 83,866 | 31,081 | 52,785 | 44,561 |
+| 3 | 216,387 | 51.2% | 96,476 | 36,676 | 59,800 | 46,384 |
+| 4 | 255,337 | 49.9% | 110,907 | 43,278 | 67,629 | 48,197 |
+| 5 | 301,298 | 48.6% | 127,407 | 51,067 | 76,340 | 49,987 |
+| 6 | 355,531 | 47.3% | 146,255 | 60,260 | 85,995 | 51,737 |
+| 7 | 419,527 | 46.0% | 167,759 | 71,106 | 96,653 | 53,428 |
+| 8 | 495,042 | 44.6% | 192,267 | 83,905 | 108,361 | 55,036 |
+| 9 | 584,149 | 43.3% | 220,162 | 99,008 | 121,153 | 56,536 |
+| 10 | 689,296 | 42.0% | 251,869 | 116,830 | 135,039 | 57,899 |
 
 ## Sensitivity — Intrinsic Value per Share
 
@@ -73,11 +73,11 @@
 
 | Revenue CAGR | WACC ~8% | WACC ~10% | WACC ~12% |
 |---|---|---|---|
-| 8% | $259 | $149 | $103 |
-| 12% | $337 | $183 | $120 |
-| 16% | $443 | $229 | $142 |
-| 20% | $584 | $288 | $171 |
-| 25% | $827 | $390 | $220 |
+| 8% | $279 | $161 | $111 |
+| 12% | $364 | $198 | $130 |
+| 16% | $477 | $247 | $154 |
+| 20% | $629 | $312 | $186 |
+| 25% | $890 | $421 | $238 |
 
 ---
 *Inputs: `valuation/inputs/TSM.json` — populate from earnings + web search.*

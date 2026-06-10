@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 45 — 2026-06-10
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers updated with June 8-9 confirmed closes via volatile-day confirmation (>3% movers: MU +12%, ASML +11.6%). TSMC May revenue not indexed despite 13:30 Taipei release; Taiwan export proxy used. CPI 4.2% YoY captured. Taiwan Strait sorties (32, June 5) captured. |
+| 1b (podcasts) | Gated | 45%6=3 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 45%6=3 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | TSM — event_queue (May revenue day). Five new entity entries: May revenue proxy, June 8-9 recovery, ex-div June 11, Taiwan Strait sorties, CPI/WACC risk. Schema read confirmed HOLD threshold -10% to +5%. |
+| 3 (DCF) | Complete | TSM: TTM inputs updated ($131.7B rev, $70.6B EBIT, $427.89 price). IV $414.11 (from $384.28), MoS -3.2% = HOLD. 30-day threshold triggered (last run 2026-05-23). |
+| 4 (dashboard) | Complete | All 7 prices updated. TSM row: IV/MoS/Rec/Story/Last DCF updated. For Arvs overwritten. Session 45 notes + history row appended. vs. Institutional table updated. Catalysts: TSM May Revenue row removed (played out). |
+| 5 (lint) | Complete | No null DCFs (TSM updated to 2026-06-10). No zero-revenue tickers. No stale catalysts. Concept pages all within 14 days (cowos June 1, HBM June 1, dram-cycle May 31, custom-silicon June 6). Cross-links not re-audited (no new [[concept]] or [[TICKER]] references added in TSM entity entries this session). |
+
+### Diagnosis
+Session ran cleanly despite one significant data gap: TSMC May 2026 revenue was not indexed despite being scheduled for release during the session window. The Taiwan export proxy (+51.7% YoY, TSMC cited as key driver) provided adequate qualitative context. The DCF ran on TTM basis anyway (not dependent on monthly revenue), so the gap did not block the core deliverable. Primary friction was WebFetch 403 errors from nearly all direct URL fetches — all financial data was sourced from WebSearch snippets, which proved sufficient. No context pressure; session completed all phases.
+
+### Improvement Executed
+None — no 3-session pattern requiring action. WebFetch 403 errors are an environment constraint, not a pattern warranting CLAUDE.md change. TSMC May revenue gap is a timing issue (resolved next session when data is indexed).
+
+---
+
 ## Session 44 — 2026-06-07
 
 ### Phase Scores

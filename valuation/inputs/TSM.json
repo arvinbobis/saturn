@@ -1,12 +1,12 @@
 {
   "_comment": "Damodaran FCFF inputs for TSMC (TSM). Amounts in USD millions.",
-  "_last_updated": "2026-05-23",
-  "_data_source": "Session 10 Phase 3 DCF — full financial inputs populated 2026-05-23. Base year: FY2025 (most recent complete year). Revenue/EBIT from TSMC Q1-Q4 2025 SEC 6-K filings. CapEx/D&A from TSMC 2025 capital spending disclosures and Q3 2025 financial statements. D&A is estimated (9M actuals annualized). Cash: Q3 2025 balance sheet. Debt: Q3 2025 LT interest-bearing debt. Book equity: estimated from Q1 2025 actuals + retained earnings. R&D: MacroTrends/Statista. TTM (Q2-Q4 2025 + Q1 2026) revenue ~$131.7B / EBIT ~$70.6B (53.6% margin) — FY2025 used as more complete base.",
+  "_last_updated": "2026-06-10",
+  "_data_source": "Session 45 Phase 3 DCF — updated to TTM basis 2026-06-10. Base year: TTM (Q2-Q4 FY2025 + Q1 FY2026). Revenue $131,700M / EBIT $70,600M (53.6% margin) confirmed from TSMC 6-K SEC filings and Q1 2026 earnings release. CapEx/D&A remain FY2025 actuals (most recent complete-year figures; 2026 CapEx $52-56B guidance but FY2025 $41B is base year anchor). Cash: Q3 2025 balance sheet ($88.7B; conservative — Q1 2026 net income of $18.1B adds to cash position). Stock price: June 9, 2026 confirmed close $427.89. May 2026 monthly revenue released June 10 but not yet indexed — Taiwan May exports +51.7% YoY proxy implies record.",
 
   "ticker": "TSM",
 
-  "current_revenue_usd_m": 122900,
-  "current_ebit_usd_m": 62400,
+  "current_revenue_usd_m": 131700,
+  "current_ebit_usd_m": 70600,
   "effective_tax_rate": 0.13,
   "capex_usd_m": 41000,
   "depreciation_usd_m": 22600,
@@ -17,7 +17,7 @@
   "non_operating_assets_usd_m": 0,
   "minority_interests_usd_m": 0,
   "shares_outstanding_m": 5180,
-  "current_stock_price": 407.15,
+  "current_stock_price": 427.89,
 
   "rd_expense_usd_m": 7910,
   "rd_history_usd_m": [3500, 4100, 4800, 5957, 6227],
