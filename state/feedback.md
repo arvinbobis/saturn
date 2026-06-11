@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 46 — 2026-06-11
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers updated with June 10 confirmed closes; volatile-day confirmation applied (MRVL -12.56%, TSM -4.57%, ALAB -3.17%). MU and NVDA carried as estimates with confirmed intraday ranges. TSMC May 2026 revenue confirmed NT$416,984M (new all-time monthly record). Iran war Strait of Hormuz escalation + CPI 4.2% captured. ByteDance→Qualcomm ASIC deal captured. ASML Terafab CEO confirmation captured. |
+| 1b (podcasts) | Gated | 46%6=4 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 46%6=4 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | ASML — next rotation + active Terafab event. Two new entity entries: 2026-06-08 (Musk/CEO "very serious" talks, High-NA EUV $380M+, +5.81%), 2026-06-11 (tech conference active, $1,777.77 +1.65%, MoS -36.8%). Supplementary updates: MRVL (two entries: ByteDance/Qualcomm -10.5%, analyst downgrade -12.6%), TSM (three entries: May revenue confirmed, June 10 close, Iran war helium). Schema read confirmed for ASML. |
+| 3 (DCF) | Skipped | No trigger: ASML last run 2026-05-22 (20 days; threshold 30 days; June 21 target). No earnings processed. Correctly deferred. |
+| 4 (dashboard) | Complete | All 7 prices updated. For Arvs overwritten. Session 46 notes + history row appended. Upcoming Catalysts: TSM ex-div + TSM May revenue rows removed (played out); ASML Terafab MoU watch + ASML DCF June 21 added. vs. Institutional table updated. |
+| 5 (lint) | Complete | No null DCFs. No zero-revenue tickers. No stale catalysts (ASML conf June 11/12 active today). Concept pages all within 14 days. All [[concept]] and [[TICKER]] cross-links verified — 11/11 target files exist. |
+
+### Diagnosis
+Session was context-heavy due to three entity updates (ASML deep + MRVL + TSM supplementary) on top of a dense Phase 1 news sweep. The context summary/compaction mid-session caused Phase 5 and Phase 6 to execute in a resumed context window, requiring re-reading key files to confirm state. No data was lost but the split-session execution is a recurring friction point on high-event days. MRVL price reconciliation required careful disambiguation (June 8 recovery to ~$322.77, then June 9 -10.5% to $288.85, then June 10 -12.56% to $252.59 — three distinct days, not two).
+
+### Improvement Executed
+None — no 3-session pattern requiring action. Context pressure from dense multi-entity sessions is noted for the second consecutive session (Sessions 45 and 46 both triggered compaction); one more occurrence would trigger a 3-session review.
+
+---
+
 ## Session 45 — 2026-06-10
 
 ### Phase Scores

@@ -227,6 +227,20 @@ US/Dutch export controls prevent ASML from shipping EUV to China. This is a reve
 
 ---
 
+### 2026-06-08
+
+**Elon Musk / Terafab — ASML CEO confirms "very serious" direct talks; High-NA EUV ($380M+/machine) required for $119B Texas fab:** Terafab — a chip fabrication venture jointly announced by Tesla, SpaceX, and xAI in March 2026 and joined by Intel in April — is in direct equipment negotiations with ASML. ASML CEO Christophe Fouquet confirmed to Reuters he has spoken directly with Musk, calling him "very serious" about the project. Key details: (1) Terafab would use Intel's 14A process technology (2nm-class), which requires High-NA EUV (€350–400M/machine, ~$380M+); (2) Planned site: Grimes County, Texas — already filed for permits; SpaceX-Tesla-xAI chip production for AI, robotics, and space; (3) Investment envelope: $55B base to $119B expanded; (4) Intel's 14A node uses the TWINSCAN EXE:5000 (first High-NA tool Intel installed). ASML stock rose +5.81% on June 8 on the news. Musk publicly called ASML "arguably the greatest company in Europe." Source: Tom's Hardware / Reuters / Bloomberg, 2026-06-08. *Thesis bearing: Strongly Confirms — Terafab would be a major new US-based High-NA EUV customer at the highest ASP tier ($380M+/machine). A 5–10 machine order alone represents $1.9–3.8B in equipment revenue. Critically: US-based fab = zero export control risk. ASML CEO's "very serious" endorsement (the company rarely validates projects at this stage) adds credibility above typical Musk announcement cadence. Directly addresses the TSMC High-NA deferral risk (to 2029) by opening a new demand pathway for the highest-margin product line. Key risk: execution — no binding orders disclosed; Intel 14A timeline itself uncertain; Musk ventures have a history of delays.*
+
+---
+
+### 2026-06-11
+
+**ASML annual technology conference (June 11–12, Veldhoven) — SpaceX presenting Terafab to ASML employees; Musk virtual fireside chat with CEO Fouquet:** SpaceX is presenting the Terafab initiative to ASML employees at ASML's annual technology conference today. Musk participates in a virtual fireside chat with CEO Christophe Fouquet. This is the first time ASML has given a prospective semiconductor project this level of institutional platform at an internal event — signaling organizational commitment beyond the prior Reuters interview. Investors are monitoring for any MoU or formal equipment letter-of-intent announcement from the conference. No binding order publicly disclosed as of session time. Source: CryptoBriefing / Bloomberg, 2026-06-11. *Thesis bearing: Confirms — elevating the Terafab engagement from "CEO interview" to "company-wide event" represents ASML's organizational seriousness; the procurement process typically follows internal feasibility and equipment specification discussions that this conference formalizes.*
+
+**June 10 close $1,777.77 (+1.65%) — third consecutive macro-selloff outperformance; upstream equipment insulation confirmed structural:** ASML rose +1.65% to $1,777.77 on June 10 while TSM fell -4.57%, MRVL -12.56%, MU -3.3%, and the broader semiconductor sector sold off on CPI 4.2% + Iran war escalation. Three confirmed data points now establish the pattern: (1) June 4: +1.80% vs. AVGO guidance-miss sector selloff; (2) June 5: -3.8% vs. SOX -10.3%; (3) June 10: +1.65% vs. broad macro compression. EUV machine orders are placed on 12–18 month horizons and cannot be revised in response to single-quarter demand data — making ASML structurally decoupled from near-term chip application volatility. At $1,777.77: MoS = (IV $1,122.64 − $1,777.77) / $1,777.77 = **-36.8% SELL/AVOID.** DCF re-run threshold June 21 (10 days). Source: Market data, 2026-06-10. *Thesis bearing: Confirms — upstream equipment insulation is now empirically validated across three stress tests in a single week. SELL/AVOID on valuation; thesis structurally stronger.*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — primary customer; TSMC CapEx guides ASML demand 12–18 months ahead

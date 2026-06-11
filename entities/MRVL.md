@@ -333,6 +333,16 @@ Marvell is expected to raise FY2027 full-year guidance above $11.12B and FY2028 
 
 ---
 
+### 2026-06-09
+
+**ByteDance-Qualcomm ASIC deal triggers -10.48% decline to $288.85 — Qualcomm enters data center custom ASIC space:** On June 9, 2026, Qualcomm officially signed a custom AI chip deal with ByteDance, described as Qualcomm's "largest AI infrastructure deal to date." Qualcomm CEO Cristiano Amon confirmed on the Q2 FY2026 call: "a leading hyperscaler custom silicon engagement is on track for initial shipments later this calendar year." MRVL fell 10.48% to $288.85 (from an estimated June 8 close of ~$322.77) as investors priced in Qualcomm as a new competitor in the custom data center ASIC space. Also, Qualcomm dropped ~8% on export control fears — the deal requires navigating US rules on advanced chips to ByteDance. Key context: (1) ByteDance was NOT a confirmed Marvell customer; the decline is a competitive read-through, not a confirmed customer loss; (2) Qualcomm's entry into data center AI ASICs is new — its historical focus was smartphones/edge; (3) Marvell's confirmed hyperscaler ASIC programs (Google TPU/MPU, Amazon Trainium, Microsoft Maia) have not been publicly affected. Source: 24/7 Wall St. / AI Weekly / CryptoBriefing, 2026-06-09. *Thesis bearing: Challenges (medium-term) — Qualcomm's entry adds a fourth competitor alongside Broadcom (~60% market share), Marvell (~25%), and MediaTek. ByteDance going to Qualcomm is not a direct Marvell program loss, but establishes a precedent: hyperscalers can source custom data center ASICs outside the Broadcom-Marvell duopoly. The most important near-term question is whether Marvell's confirmed programs (Google MPU signing timeline; Amazon Trainium successor) remain on track. DCF IV unchanged at $125.63; at $288.85, MoS = -56.5% SELL/AVOID.*
+
+### 2026-06-10
+
+**Continued decline to $252.59 (-12.56%) — SA analyst downgrade compounds ByteDance read-through and macro headwinds:** MRVL fell an additional 12.56% to $252.59 on June 10, compounding the June 9 -10.48% ByteDance selloff for a two-day cumulative decline of -21.8% from the June 8 peak of ~$322.77. Contributing factors: (1) Seeking Alpha reported an analyst downgrade on June 10; (2) Benzinga and Alphaspread cited "reports of potential customer losses" alongside the downgrade — these are speculative headlines based on the Qualcomm read-through, not confirmed MRVL program announcements; (3) broader macro headwinds: CPI 4.2% + Iran war escalation compressed all high-multiple semiconductor names. Two-day loss: from ~$322.77 (June 8 peak) to $252.59 (June 10 close) = -21.8%. At $252.59: MoS = (IV $125.63 − $252.59) / $252.59 = **-50.3% SELL/AVOID** (vs. -56.5% at $288.85 pre-June 9 — MoS improvement reflects price compression, not thesis improvement). Source: Benzinga / Alphaspread / Seeking Alpha, 2026-06-10. *Thesis bearing: Challenges (price action and competitive concern) — the two-day selloff reflects the market's elevated sensitivity to any custom ASIC competitive signal at MRVL's 90%+ post-Computex valuation surge. No confirmed losses at Google/Amazon/Microsoft. DCF re-run warranted after next MRVL management guidance update or Q2 FY2027 earnings (~August 2026).*
+
+---
+
 ## Cross-links
 
 - [[TSM]] — TSMC manufactures Marvell-designed custom ASICs; custom silicon trend = TSMC volume

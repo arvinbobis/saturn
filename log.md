@@ -10,6 +10,17 @@ Format:
 
 ---
 
+## [2026-06-11 12:00 UTC] session-46
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: ASML — next rotation + Terafab event active (CEO confirms "very serious" Musk talks; tech conf June 11-12)
+Notable: TSMC May 2026 = NT$416,984M ($13.25B, +30.1% YoY) new all-time monthly record; MRVL -21.8% two-day ($322→$252) from ByteDance→Qualcomm ASIC deal + analyst downgrade; ASML +1.65% vs. broad macro selloff = 3rd consecutive outperformance; Iran war US strikes near Strait of Hormuz + helium spot prices doubled.
+No significant news: MU (gated to June 24 earnings), ANET (minor +1.0%)
+DCF run: none — ASML last run 2026-05-22 (20 days; threshold June 21)
+Concept pages updated: custom-silicon (Qualcomm enters custom ASIC market via ByteDance deal)
+
+---
+
 ## [2026-06-10 13:00 UTC] session-45
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
