@@ -1,20 +1,20 @@
 # DCF Valuation — MRVL
 
-*Generated: 2026-06-05 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
+*Generated: 2026-06-12 | Model: Damodaran FCFF two-stage (fcffginzu methodology)*
 
 ## 🔴 Decision: SELL / AVOID
 
 | Metric | Value |
 |---|---|
-| **Intrinsic Value** | **$125.63** |
-| Current Price | $301.65 |
-| Margin of Safety | **-58.4%** |
-| Enterprise Value | $105,862M |
-| PV Stage 1 FCFFs | $11,167M |
-| PV Terminal Value | $94,694M |
-| Terminal Value (undiscounted) | $293,276M |
-| WACC (high growth) | 11.97% |
-| WACC (stable) | 9.80% |
+| **Intrinsic Value** | **$125.84** |
+| Current Price | $280.71 |
+| Margin of Safety | **-55.2%** |
+| Enterprise Value | $106,042M |
+| PV Stage 1 FCFFs | $11,177M |
+| PV Terminal Value | $94,865M |
+| Terminal Value (undiscounted) | $293,561M |
+| WACC (high growth) | 11.96% |
+| WACC (stable) | 9.79% |
 | Stable ROIC | 55.44% |
 | Stable Reinvestment Rate | 5.4% |
 | R&D Capitalized | $5,771M |
@@ -22,7 +22,7 @@
 
 ## Story → Numbers
 
-> Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the emerging full-stack connectivity platform for AI data centers. Q1 FY2027 actuals (2026-05-27): $2.418B revenue (+28% YoY, beat $2.40B guide), non-GAAP EPS $0.80. Q2 FY2027 guided $2.7B (+35% YoY). FY2027 management guidance ~$11B (>30% YoY). FY2028 management guidance $16.5B (~50% YoY). Q4 FY2027 exit >$3B. Custom ASIC: $1.5B FY2026, >$3B FY2028. Confirmed/active: Google (inference TPU + MPU in talks; 4-partner supply chain; 35M Google TPUs by 2028), Amazon (Trainium; Wells Fargo $6B/yr from $225B backlog), Microsoft (Maia). Three connectivity layers: Celestial AI ($3.25B Photonic Fabric), Polariton (plasmonics), XConn ($540M PCIe 6/CXL 3.1). Computex June 2: Jensen Huang + Matt Murphy jointly demonstrated NVLink Fusion integration live — MRVL embedded in NVIDIA AI factory ecosystem. Jensen Huang called MRVL 'the next trillion-dollar company' (+32.52% single-day surge June 2). Hyperscaler CapEx $725B 2026. NVDA $2B invested March 2026. Broadcom Q3 AI guidance miss (June 3 AH report): $16B vs $16.4-17.2B analyst est — triggered broad semi selloff June 4; MRVL -5.55% to $301.65. Broadcom maintained $100B 2027 AI target; selloff is expectation-reset, not thesis break. Stifel PT raised to $321 (street-high, June 4). Goldman sole bear $125 PT. Stock June 4 confirmed close $301.65. MoS -58.0% — SELL/AVOID.
+> Marvell is the second wave of AI silicon — the custom ASIC choke point for hyperscaler compute and the emerging full-stack connectivity platform for AI data centers. Q1 FY2027 actuals (2026-05-27): $2.418B revenue (+28% YoY, beat $2.40B guide), non-GAAP EPS $0.80. Q2 FY2027 guided $2.7B (+35% YoY) — REAFFIRMED via 8-K June 11, 2026. FY2027 management guidance ~$11B (>30% YoY). FY2028 management guidance $16.5B (~50% YoY). Q4 FY2027 exit >$3B. Custom ASIC: $1.5B FY2026, >$3B FY2028. Confirmed/active: Google (inference TPU + MPU in talks; 4-partner supply chain; 35M Google TPUs by 2028), Amazon (Trainium; Wells Fargo $6B/yr from $225B backlog), Microsoft (Maia). Three connectivity layers: Celestial AI ($3.25B Photonic Fabric), Polariton (plasmonics), XConn ($540M PCIe 6/CXL 3.1). Computex June 2: Jensen Huang + Matt Murphy jointly demonstrated NVLink Fusion integration live — MRVL embedded in NVIDIA AI factory ecosystem. Jensen Huang called MRVL 'the next trillion-dollar company' (+32.52% single-day surge June 2). Hyperscaler CapEx $725B 2026. NVDA $2B invested March 2026. June 9: Qualcomm-ByteDance custom ASIC deal triggered -10.5% (ByteDance was NOT a confirmed MRVL customer; competitive read-through, not direct loss). June 10: SA analyst downgrade + macro adds -12.6%; two-day total -21.8% from $322.77 peak to $252.59 trough. June 11: Q2 guidance reaffirmed (8-K), S&P 500 inclusion announced effective June 22 (forced passive buying from ~$8T index funds), new CFO Dan Durn (ex-Adobe, Applied Materials) appointed effective June 15 — stock recovers +11.1% to $280.71. Stifel PT $321 (street-high). Goldman sole bear $125 PT. Stock June 11 confirmed close $280.71. MoS ~-55.2% — SELL/AVOID.
 
 ## Assumptions & Justifications
 
@@ -57,15 +57,15 @@
 | Year | Revenue ($M) | EBIT Margin | NOPAT ($M) | Reinvestment ($M) | FCFF ($M) | PV ($M) |
 |---|---|---|---|---|---|---|
 | 1 | 10,902 | -1.7% | -163 | 1,090 | -1,253 | -1,119 |
-| 2 | 13,628 | 2.1% | 255 | 1,363 | -1,108 | -883 |
+| 2 | 13,628 | 2.1% | 255 | 1,363 | -1,108 | -884 |
 | 3 | 17,035 | 5.8% | 892 | 1,704 | -811 | -578 |
 | 4 | 21,294 | 9.6% | 1,832 | 2,129 | -297 | -189 |
 | 5 | 26,617 | 13.3% | 3,186 | 2,662 | 525 | 298 |
-| 6 | 33,272 | 17.0% | 5,103 | 3,327 | 1,776 | 901 |
-| 7 | 41,590 | 20.8% | 7,778 | 4,159 | 3,619 | 1,640 |
-| 8 | 51,987 | 24.5% | 11,473 | 5,199 | 6,274 | 2,540 |
-| 9 | 64,984 | 28.3% | 16,528 | 6,498 | 10,030 | 3,626 |
-| 10 | 81,230 | 32.0% | 23,394 | 8,123 | 15,271 | 4,931 |
+| 6 | 33,272 | 17.0% | 5,103 | 3,327 | 1,776 | 902 |
+| 7 | 41,590 | 20.8% | 7,778 | 4,159 | 3,619 | 1,641 |
+| 8 | 51,987 | 24.5% | 11,473 | 5,199 | 6,274 | 2,541 |
+| 9 | 64,984 | 28.3% | 16,528 | 6,498 | 10,030 | 3,629 |
+| 10 | 81,230 | 32.0% | 23,394 | 8,123 | 15,271 | 4,935 |
 
 ## Sensitivity — Intrinsic Value per Share
 
@@ -74,10 +74,10 @@
 | Revenue CAGR | WACC ~8% | WACC ~10% | WACC ~12% |
 |---|---|---|---|
 | 8% | $288 | $71 | $33 |
-| 12% | $409 | $97 | $43 |
+| 12% | $408 | $97 | $43 |
 | 16% | $574 | $132 | $57 |
 | 20% | $800 | $181 | $76 |
-| 25% | $1,195 | $265 | $108 |
+| 25% | $1,194 | $265 | $108 |
 
 ---
 *Inputs: `valuation/inputs/MRVL.json` — populate from earnings + web search.*

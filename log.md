@@ -10,6 +10,17 @@ Format:
 
 ---
 
+## [2026-06-12 12:00 UTC] session-47
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: MRVL — event_queue position 0 (ByteDance/Qualcomm resolution + S&P 500 inclusion + CFO transition)
+Notable: MRVL +11.1% to $280.71 on S&P 500 inclusion June 22 + Q2 FY2027 guidance reaffirmed ($2.7B, +35% YoY) + CFO Dan Durn (ex-Adobe) appointed; DCF IV $125.84, MoS -55.2% SELL/AVOID — confirmed programs intact, ByteDance concern resolved.
+No significant news: TSM (recovery +1.98%), NVDA (+~1.4%), ALAB (+2.15%)
+DCF run: MRVL — IV $125.84, MoS -55.2%, Rec: SELL/AVOID
+Concept pages updated: none (custom-silicon last updated June 9, 3 days ago; all within 14-day window)
+Price correction: MU June 10 actual close ~$894.52 (S46 estimated $935.89)
+Event queue: MRVL ByteDance event removed (processed); MRVL S&P 500 watch re-queued; ANET added (>3% price trigger)
+
 ## [2026-06-11 12:00 UTC] session-46
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

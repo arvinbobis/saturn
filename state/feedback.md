@@ -4,6 +4,27 @@ Saturn evaluates its own session performance and logs diagnoses and autonomous i
 
 **3-session rule:** Autonomous improvements to CLAUDE.md only execute when the same problem appears in 3 consecutive sessions. One bad session is noise; a pattern is signal.
 
+## Session 47 — 2026-06-12
+
+### Phase Scores
+| Phase | Status | Notes |
+|-------|--------|-------|
+| 1a (price/news) | Complete | All 7 tickers updated with June 11 closes. 5 confirmed (TSM $416.40, MU $926.56, NVDA $204.87, MRVL $280.71, ALAB $337.99); 2 estimated (ASML ~$1,859, ANET ~$157.01). S46 MU correction applied: actual June 10 close ~$894.52 (not $935.89 estimated). Key Phase 1 finds: MRVL S&P 500 inclusion June 22, Micron-Bechtel $100B NY megafab, ASML Musk fireside chat confirmed, TrendForce DRAM elevated into Q3/Q4. |
+| 1b (podcasts) | Gated | 47%6=5 ≠ 0; correctly skipped |
+| 1c (scout) | Gated | 47%6=5 ≠ 0; correctly skipped |
+| 2 (deep session) | Complete | MRVL — event_queue position 0 (ByteDance/Qualcomm resolved). Three new entity entries: S&P 500 inclusion June 22, Q2 guidance reaffirmed ($2.7B), CFO Dan Durn appointed. Schema read confirmed. |
+| 3 (DCF) | Complete | MRVL re-run triggered (material thesis change since June 5: ByteDance context + recovery events). IV $125.84 (vs. $125.63 prior — negligible), MoS -55.2% at $280.71. Story narrative updated with full June 9-11 arc. |
+| 4 (dashboard) | Complete | All 7 prices updated. MRVL IV/MoS/Story/LastDCF updated. For Arvs overwritten. Session 47 notes + history row appended. MRVL S&P 500 catalyst added. Barclays MRVL $275 PT added. |
+| 5 (lint) | Complete | No null DCFs. No zero-revenue. No past-dated catalysts. All concept pages within 14 days (no catch-up). ANET added to event_queue (>3% move). |
+
+### Diagnosis
+Session executed cleanly across all 6 phases without context compaction pressure. The MRVL event was multi-faceted (ByteDance resolved + S&P 500 + CFO + DCF re-run) but fit comfortably in a single pass. The main friction was the MU price correction from S46 (estimated $935.89 vs. actual ~$894.52 — the volatile-day mechanism correctly flagged this for verification). Three consecutive sessions (45, 46, 47) have each required price corrections from prior session estimates; the volatile-day confirmation improvement added to CLAUDE.md in Session 43 is working but cannot eliminate estimation error when same-session close data is unavailable.
+
+### Improvement Executed
+None — no 3-session pattern requiring CLAUDE.md change. Context pressure from Sessions 45/46 did NOT recur in Session 47 (single-entity session with focused event). Price correction pattern (Sessions 45/46/47) is partially structural — unavoidable when same-session close data is not indexed. No action warranted; existing mechanism is correct.
+
+---
+
 ## Session 46 — 2026-06-11
 
 ### Phase Scores

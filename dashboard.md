@@ -2,7 +2,7 @@
 
 *Saturn agent runs every 4 hours. This file is the single output you need to read.*
 
-Last updated: 2026-06-11 | Session #46
+Last updated: 2026-06-12 | Session #47
 
 ---
 
@@ -12,19 +12,19 @@ Last updated: 2026-06-11 | Session #46
 
 ### Action Items
 
-1. **TSM = HOLD at $408.33 — May revenue confirmed as new all-time record (NT$416.98B/$13.25B).** Despite the record May figure (+30.1% YoY), TSM fell -4.57% June 10 on CPI 4.2% + Iran war escalation. IV $414.11 unchanged; at $408.33, MoS = +1.42% = HOLD. TSM ex-dividend $0.955 record date is today (June 11) — payment ~June 25 if held.
-2. **MRVL dropped -21.8% in two days ($322 peak → $252) on Qualcomm/ByteDance ASIC news.** Qualcomm signed ByteDance data center ASIC deal June 9 — new competitor in custom ASIC space. MRVL's three confirmed programs (Google/Amazon/Microsoft) are publicly unaffected; this is a competitive read-through, not a confirmed loss. Do not add at $252. DCF re-run queued for Q2 FY2027 earnings (~August).
-3. **ASML is the portfolio's standout position this week — +1.65% vs. broad chip selloff on June 10, and Musk/Terafab confirms High-NA EUV demand story.** ASML CEO confirmed direct talks with Musk about Terafab ($119B Texas fab using Intel 14A + High-NA EUV). ASML tech conference June 11-12 happening today — watch for MoU or equipment letter-of-intent. DCF re-run June 21 (10 days). SELL/AVOID at $1,777.77 (MoS -36.8%) but thesis strengthening.
-4. **Hold MU through June 24 earnings — no action.** MU at ~$935.89 (est.), MoS ~-52.7%. Q3 FY2026 earnings June 24 is the only meaningful catalyst; TrendForce Q3 DRAM pricing still strong. Do not add.
-5. **Iran war / Helium crisis: US military strikes near Strait of Hormuz June 10 — ongoing risk for all fab-intensive positions.** Qatar ~34% of global helium supply disrupted since February 2026; spot helium prices doubled. TSMC gross margin faces 100-200bps pressure. Fed rate hike probability 72% — if Fed hikes, all DCF IVs compress ~40%. WACC review needed if hike materializes (CLAUDE.md prohibits autonomous WACC change).
+1. **MRVL = SELL/AVOID at $280.71 — S&P 500 inclusion June 22 creates forced passive buying, but IV is $125.84 (-55.2% MoS).** Q2 guidance of $2.7B (+35% YoY) reaffirmed via 8-K June 11; confirmed programs (Google/Amazon/Microsoft) unaffected by ByteDance/Qualcomm. New CFO Dan Durn (ex-Adobe, Applied Materials) effective June 15. Do not add — IV is $125.84, well below $280.71. Watch: if price compresses post-June 22 inclusion date (sell-the-news risk historically 10–20% after S&P entry), note re-entry only below $200. Next material catalyst: Q2 FY2027 earnings ~August 2026.
+2. **TSM = HOLD at $416.40 — MoS now -0.55%.** May revenue all-time record confirmed. Q2 guided $39.0–40.2B. TSM +1.98% June 11 in a broad recovery. ASML conference ongoing (June 11-12); Terafab thesis strengthens. Q2 earnings July 16 is the next major TSM event; DCF re-run immediately after. No action — hold existing position; ex-dividend $0.955 paid ~June 25.
+3. **ASML DCF re-run threshold is June 21 — 9 days out.** ASML +4.56% June 11 (fourth consecutive macro-selloff outperformance). ASML tech conference June 11-12: Musk spoke in virtual fireside chat with CEO Fouquet — no MoU or equipment order yet, but $119B Terafab project is advancing with Intel 14A + High-NA EUV required. SELL/AVOID at $1,859 (MoS -39.6%). DCF re-run June 21 or earlier if MoU announced.
+4. **Hold MU through June 24 earnings — no action.** June 11 close $926.56 (+3.59%); S46 estimated $935.89 — actual June 10 close corrected to ~$894.52. TrendForce: DRAM price increases extend into Q3/Q4 (server DRAM shortage severe). Micron selected Bechtel as construction partner for $100B New York semiconductor megafab (Clay, NY — largest private investment in NY state history). DCF re-run post-June 24 earnings only. MoS -52.2% SELL/AVOID.
+5. **Macro risk persists — Iran war helium shortage + Fed rate hike probability 72%.** All DCF IVs carry compression risk if Fed hikes. TSMC gross margin faces 100-200bps helium-cost headwind. WACC review required if hike materializes (CLAUDE.md prohibits autonomous WACC change — flag this to Arvs).
 
 ### Key Snippets
 
-- **TSMC May 2026 = NT$416,984M ($13.25B) — new all-time monthly revenue record**, beating March 2026's NT$415,192M; 2026 is now tracking to be the best year in TSMC history across every revenue metric.
-- **Qualcomm enters data center custom ASIC (ByteDance, June 9)** — the custom silicon market now has four serious chipmakers (Broadcom, Marvell, Qualcomm, MediaTek); validates that the market is large and growing, while increasing MRVL competitive pressure.
-- **ASML upstream insulation confirmed three times in one week** — outperformed SOX selloff June 4 (+1.80%), June 5 (-3.8% vs. SOX -10.3%), and June 10 (+1.65% vs. broad macro decline); the portfolio's most structurally insulated position.
-- **CPI 4.2% YoY + US strikes near Strait of Hormuz** — combined macro shock compressed all semiconductor names June 10; helium shortage from the Iran war is the most direct TSMC supply-chain cost risk; doubled spot prices could pressure gross margin if sustained.
-- **MRVL two-day -21.8% decline is price only — DCF IV $125.63 unchanged; confirmed hyperscaler programs unaffected.** MoS improved to -50.3% (from -56.5%) as price compressed. ByteDance went to Qualcomm, not Marvell; the fear is precedent, not confirmed program loss.
+- **MRVL joins S&P 500 effective June 22** — approximately $8T in passive funds must purchase shares; stock +210% YTD. DCF IV $125.84 unchanged; forced buying does not change intrinsic value.
+- **MRVL Q2 FY2027 guidance of $2.7B (+35% YoY) reaffirmed via 8-K June 11** — directly negating ByteDance-driven panic; confirmed hyperscaler programs (Google TPU/MPU, Amazon Trainium, Microsoft Maia) are on track.
+- **Micron selected Bechtel for $100B New York semiconductor megafab (Clay, NY)** — largest private investment in New York state history; 50,000 jobs projected; signals sustained US government and industry commitment to domestic DRAM manufacturing.
+- **ASML Terafab: Musk spoke in fireside chat with CEO Fouquet at annual tech conference June 11** — no MoU yet, but $119B Terafab project advancing with Intel 14A node requiring High-NA EUV ($380M+ per machine); ASML outperformed selloff for fourth consecutive session.
+- **TrendForce: DRAM pricing elevated into Q3/Q4 2026** — server DRAM shortage severe; supplier inventories critically low; cloud service providers actively procuring; MU thesis structurally intact ahead of June 24 earnings.
 
 ---
 
@@ -32,15 +32,15 @@ Last updated: 2026-06-11 | Session #46
 
 | Ticker | Price | 1D% | IV | MoS | Rec | Story (one line) | Last DCF |
 |--------|-------|-----|----|-----|-----|------------------|----------|
-| TSM    | $408.33§ | -4.57%§ | $414.11 | **+1.42%** | **HOLD** | May rev NT$416.98B ($13.25B) new all-time monthly record; June 10 decline on CPI 4.2% + Iran war escalation; 3nm ASP hike +15% H2 2026; Q2 Jul 16; ex-div $0.955 paid ~Jun 25 | 2026-06-10 |
-| MU     | $935.89* | -3.3%* | $442.63 | -52.7%* | SELL/AVOID | HBM4 in HVM for Vera Rubin; Q3 FY2026 earnings June 24; June 10 decline macro-driven; Susquehanna PT $1,750; TrendForce DRAM Q3 pricing strong | 2026-05-26 |
-| ASML   | $1,777.77§ | +1.65%§ | $1,122.64 | -36.8% | SELL/AVOID | Terafab/Musk: CEO confirms "very serious" talks; High-NA EUV ($380M+) required for $119B Texas fab; ASML tech conf June 11–12 (now); +1.65% vs. broad selloff = 3rd consecutive outperformance; DCF threshold June 21 | 2026-05-22 |
-| NVDA   | ~$202* | ~-3.0%* | $156.27 | ~-22.6%* | SELL/AVOID | CUDA-moated AI GPU; Q1 $81.6B (+85%); Q2 guide $91B; Vera Rubin NVL72 H2 2026; June 10 macro decline (range $199–$207); Q2 FY2027 earnings ~Aug 2026 | 2026-05-21 |
-| MRVL   | $252.59§ | -12.56%§ | $125.63 | -50.3% | SELL/AVOID | ByteDance→Qualcomm ASIC deal (June 9) triggers -10.5%; analyst downgrade + macro adds -12.6% June 10; 2-day total -21.8%; confirmed programs (Google/Amazon/Microsoft) unaffected; Q2 FY2027 earnings ~Aug | 2026-06-05 |
-| ANET   | $152.16§ | +1.0%§ | $126.94 | -16.6% | SELL/AVOID | AI networking; FY2026 $11.5B; TAM $105B→$160B by 2030; +1.0% June 10 (networking insulated from ASIC competition news); Q2 2026 earnings ~August | 2026-05-22 |
-| ALAB   | $330.86§ | -3.17%§ | $111.84 | -66.2% | SELL/AVOID | June 9 actual $341.70 → June 10 $330.86 (-3.17%); UALink + NVLink Fusion stack-agnostic; 3 hyperscaler wins confirmed; Scorpio X in production | 2026-06-03 |
+| TSM    | $416.40§ | +1.98%§ | $414.11 | **-0.55%** | **HOLD** | May rev NT$416.98B ($13.25B) new all-time monthly record; June 11 recovery +1.98%; 3nm ASP hike +15% H2 2026; Q2 Jul 16; ex-div $0.955 paid ~Jun 25 | 2026-06-10 |
+| MU     | $926.56§ | +3.59%§ | $442.63 | -52.2% | SELL/AVOID | HBM4 in HVM for Vera Rubin; Q3 FY2026 earnings June 24; June 11 +3.59% recovery; Bechtel selected for $100B NY megafab; TrendForce DRAM Q3-Q4 pricing strong | 2026-05-26 |
+| ASML   | ~$1,859* | +4.56%* | $1,122.64 | -39.6%* | SELL/AVOID | Terafab: Musk spoke at annual tech conf June 11 (no MoU yet); High-NA EUV required for Intel 14A; +4.56% June 11 = 4th consecutive outperformance; DCF threshold June 21 | 2026-05-22 |
+| NVDA   | $204.87§ | +~1.4%* | $156.27 | -23.7%* | SELL/AVOID | CUDA-moated AI GPU; Q1 $81.6B (+85%); Q2 guide $91B; Vera Rubin NVL72 full production H2 2026; June 11 $204.87; Q2 FY2027 earnings ~Aug 2026 | 2026-05-21 |
+| MRVL   | $280.71§ | +11.1%§ | $125.84 | -55.2% | SELL/AVOID | S&P 500 inclusion June 22 + Q2 guidance reaffirmed ($2.7B, +35% YoY) + CFO Dan Durn → +11.1% recovery; confirmed programs (Google/Amazon/Microsoft) unaffected by ByteDance; Q2 earnings ~Aug | 2026-06-12 |
+| ANET   | ~$157.01* | +3.19%* | $126.94 | -19.2%* | SELL/AVOID | AI networking; FY2026 $11.5B; TAM $105B→$160B by 2030; +3.19% June 11 (broad market recovery); Q2 2026 earnings ~August | 2026-05-22 |
+| ALAB   | $337.99§ | +2.15%§ | $111.84 | -66.9% | SELL/AVOID | UALink + NVLink Fusion stack-agnostic; 3 hyperscaler wins confirmed; Scorpio X in production; June 11 +2.15%; MoS -66.9% deepest SELL/AVOID in portfolio | 2026-06-03 |
 
-*Session 46, 2026-06-11: TSM, ASML, MRVL, ANET, ALAB = confirmed June 10 regular-session closes (§). MU and NVDA = estimated (*) — confirmed intraday ranges $854–$989 (MU) and $199–$207 (NVDA); exact closes uncertain. MRVL June 9 actual confirmed $288.85; June 10 confirmed $252.59. ALAB June 9 actual was $341.70 (vs. $346.97 prior session estimate — corrected). TSM Session 45 DCF re-run: IV $414.11, MoS = +1.42% at June 10 close $408.33 → HOLD maintained. TSMC May 2026 revenue confirmed NT$416,984M ($13.25B) — new all-time monthly record. TSM ex-dividend record date is TODAY (June 11); payment ~June 25.*
+*Session 47, 2026-06-12: TSM ($416.40), NVDA ($204.87), MRVL ($280.71), ALAB ($337.99), MU ($926.56) = confirmed June 11 regular-session closes (§). ASML (~$1,859) and ANET (~$157.01) estimated (*) — ASML based on TradingKey +4.56% from confirmed $1,777.77 June 10 close; ANET based on TradingKey +3.19% from confirmed $152.16 June 10 close. **S46 correction: MU June 10 actual close was ~$894.52 (not S46 estimate $935.89); confirmed via June 11 close $926.56 / 1.0359 = $894.52.** MRVL DCF re-run this session: IV $125.84 (from $125.63), MoS -55.2% at $280.71 — SELL/AVOID maintained. TSM MoS moves from +1.42% (at June 10 close $408.33) to -0.55% (at June 11 close $416.40) — HOLD maintained.*
 
 **MoS** = (IV − Price) / Price × 100. Positive = undervalued. Carried forward from last DCF if not re-run this session.
 
@@ -68,7 +68,8 @@ Last updated: 2026-06-11 | Session #46
 
 | Ticker | Event | Date | Notes |
 |--------|-------|------|-------|
-| ASML | Terafab MoU watch | 2026-06-11/12 | ASML annual technology conference; SpaceX presenting Terafab to ASML employees; Musk virtual fireside chat with CEO Fouquet. Watch for equipment letter-of-intent or MoU announcement. High-NA EUV ($380M+/machine) required for Intel 14A node Terafab plans. |
+| MRVL | S&P 500 inclusion | 2026-06-22 | Marvell joins S&P 500 effective June 22, replacing Campbell's (CPB). ~$8T in passive funds must purchase MRVL. Stock +210% YTD. Forced buying provides near-term price floor but does not change IV $125.84. Watch for sell-the-news compression after June 22. |
+| ASML | Terafab MoU watch | 2026-06-11/12 | ASML annual technology conference June 11-12. Musk spoke in virtual fireside chat with CEO Fouquet on June 11 (CONFIRMED by CNBC). No MoU or equipment letter-of-intent announced as of June 11. Conference still ongoing (June 12). High-NA EUV ($380M+/machine) required for Intel 14A Terafab. Monitor June 12 close. |
 | MU | Q3 FY2026 Earnings | 2026-06-24 | Confirmed date; 2:30pm MT. Consensus ~$33.5B (guided); Susquehanna PT $1,750; post-earnings DCF re-run queued. MoS -52.7%* at $935.89. TrendForce Q3 DRAM pricing remains strong. |
 | ASML | DCF re-run threshold | 2026-06-21 | 30 days since last run (2026-05-22). Terafab news may pull forward if MoU announced from conference. Q2 earnings (mid-July) will be the more complete update. |
 | TSM | Q2 2026 Earnings | 2026-07-16 | Estimated date. Revenue guided $39.0–40.2B (+32% YoY); Q2 will be first earnings reflecting 3nm ASP hike impact. May monthly record ($13.25B) is strong leading indicator for Q2 beat. DCF re-run immediately after. |
@@ -129,10 +130,15 @@ Last updated: 2026-06-11 | Session #46
 | MU | Mizuho | $1,150 | Buy | 2026-06-03 |
 | MU | Susquehanna | $1,750 | Buy (↑ from $600) | 2026-06-04 |
 | MRVL | Stifel | $321 | Buy (↑ from $210, street-high) | 2026-06-04 |
+| MRVL | Barclays | $275 | Overweight (↑ from $150) | 2026-06-11 |
 
 ---
 
 ## Session Notes
+
+### Session 47 (2026-06-12) — Deep: MRVL (event_queue position 0: ByteDance/Qualcomm ASIC competitive concern + S&P 500 inclusion + CFO transition)
+
+Phase 1a: June 11 closing prices confirmed for 5 of 7 tickers (TSM $416.40 +1.98%, NVDA $204.87 +~1.4%, MRVL $280.71 +11.1%, ALAB $337.99 +2.15%, MU $926.56 +3.59%). ASML and ANET estimated from TradingKey percentage moves (ASML ~$1,859 +4.56%, ANET ~$157.01 +3.19%). **Price correction from S46:** MU June 10 actual close was ~$894.52 (S46 estimated $935.89); corrected via June 11 close $926.56 ÷ 1.0359. Phase 1b/1c gated (47%6=5). **MRVL deep session (event_queue position 0):** Three new entity entries added — (1) S&P 500 inclusion confirmed effective June 22 (announced June 5; Marvell replaces Campbell's; ~$8T passive funds must purchase; stock +210% YTD); (2) Q2 FY2027 guidance reaffirmed via 8-K on June 11 ($2.7B midpoint, +35% YoY — directly negates ByteDance-driven sell-off fear); (3) New CFO Dan Durn (ex-Adobe CFO 2021-2026, ex-Applied Materials SVP/CFO 2017-2021) appointed effective June 15, succeeding Willem Meintjes. Three catalysts combined for MRVL +11.1% to $280.71 on June 11. **DCF re-run:** Story narrative updated with ByteDance context and June 11 recovery. IV $125.84 (vs. $125.63 prior; negligible change as business fundamentals unchanged), MoS -55.2% SELL/AVOID. **Notable Phase 1 finds:** Micron selected Bechtel as construction partner for $100B New York semiconductor megafab (June 10); ASML annual tech conference June 11-12 confirmed Musk fireside chat with CEO Fouquet (no MoU). TrendForce: DRAM pricing elevated into Q3/Q4 2026 — MU thesis intact. ANET +3.19% added to event_queue (>3% trigger). Barclays raised MRVL PT from $150 to $275 (June 11). **Concept page:** custom-silicon.md not updated this session (Q2 reaffirmation confirms trajectory already captured; no new concept-level development). Next deep: NVDA (rotation) or ASML DCF (June 21 threshold, 9 days).
 
 ### Session 46 (2026-06-11) — Deep: ASML (event_queue: Terafab/Musk news + next rotation; TSM May revenue confirmed as Phase 1a task)
 
@@ -414,4 +420,5 @@ NVDA Q1: $81.6B (+85%), Data Center $75B (+92%), Q2 guide $91B. DCF: **IV $156.2
 | 43 | 2026-06-06 | ASML | event_queue (first processable; MU gated June 24, TSM gated ~June 10) | JPMorgan $2,200 PT (record ADR target); record 45-system EUV backlog (Q1 2026); Brainport campus construction Q3 2026; SOX -10.3% June 5; MRVL June 4 corrected $316.43 (S42 had $301.65); all 7 MoS improved as prices fell; ASML -3.8% vs SOX -10.3% (upstream insulation confirmed); no DCF (15 days since May 22); self-improvement: volatile-day price confirmation note added to CLAUDE.md |
 | 44 | 2026-06-07 | ANET | event_queue (June 5 confirmed prices; S43 estimate corrections) | TSM flips SELL/AVOID → HOLD at confirmed $415.17 (S43 est $428 wrong); ASML confirmed $1,641.74 (S43 est $1,691); MRVL $278.60 (-12.0% from correct base); ANET William Blair June 2: TAM $105B → $160B by 2030, "multi-year to multi-decade"; no DCF |
 | 46 | 2026-06-11 | ASML | event_queue (Terafab/Musk + next rotation; TSM May revenue confirmed Phase 1a) | TSMC May 2026 = NT$416.98B new all-time record; MRVL -21.8% 2-day on ByteDance/Qualcomm ASIC deal + analyst downgrade; ASML +1.65% on June 10 (3rd consecutive macro-selloff outperformance); Musk Terafab confirmed at ASML tech conference today; Iran war escalation (US Hormuz strikes, helium doubled) |
+| 47 | 2026-06-12 | MRVL | event_queue position 0: ByteDance/Qualcomm resolution + S&P 500 inclusion + CFO transition | DCF IV $125.84, MoS -55.2% SELL/AVOID; MRVL +11.1% to $280.71 on S&P 500 inclusion June 22 + Q2 guidance reaffirmed ($2.7B) + CFO Dan Durn; MU Bechtel $100B NY megafab; ASML Musk fireside chat confirmed (no MoU); ANET >3% added to event_queue |
 | 45 | 2026-06-10 | TSM | event_queue (May revenue day; Taiwan exports +51.7% proxy; ex-div June 11) | DCF re-run: TTM $131.7B rev / $70.6B EBIT → IV $414.11 (from $384.28), MoS -3.2% = HOLD; June 8-9 broad recovery (MU +12%, ASML +11.6%, TSM +3.1%); TSMC May revenue not indexed; CPI 4.2% YoY (Fed hike 72%); Taiwan Strait 32 sorties June 5 (elevated) |
