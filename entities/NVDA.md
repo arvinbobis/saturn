@@ -248,14 +248,36 @@ Source: CNBC / Quiver Quantitative / StockTitan / Motley Fool Transcript, 2026-0
 
 **NVDA stock reaction muted; analyst consensus PT rises to ~$268:** NVDA remained range-bound (~$210–$215) on June 1 despite the scale of GTC announcements — the keynote confirmed the thesis (Vera Rubin production, N1X live, Constellation campus) but surprised no one given the pre-leaked content. Wall Street firms reiterated Buy ratings; consensus analyst PT post-keynote approximately $268. DCF IV unchanged at $156.27 (last run 2026-05-21). At ~$212, live MoS = -26.4%. SELL/AVOID. Source: Leverage Shares / Yahoo Finance, 2026-06-01. *Thesis bearing: Neutral — the stock has priced the confirmed roadmap; material upside requires H2 Rubin volume execution and N1X commercial launch above current expectations.*
 
+### 2026-06-01 (addendum — NVDA+TSMC AI-in-fabs partnership)
+
+**NVIDIA + TSMC announce CUDA-X embedded in semiconductor manufacturing (Computex June 1):** TSMC has integrated NVIDIA CUDA-X tools across its chip manufacturing lifecycle: (1) **cuLitho** — GPU-accelerated computational lithography delivering 20–50% cost/cycle improvement vs. CPU-based approaches, cutting one of the most compute-intensive steps in fab operation; (2) **cuEST** — 50× faster chemistry simulations for semiconductor material design; (3) **Metropolis + TAO Toolkit** — vision AI for automated defect inspection at nanometer scale; (4) **Omniverse FabTwin** — virtual fab environment for process tool simulation and configuration optimization. Announced via joint press release at GTC Taipei. Source: NVIDIA Newsroom / GlobeNewswire / Electronics360 / WCCFTech, 2026-06-01. *Thesis bearing: Confirms — NVIDIA's CUDA ecosystem has penetrated the manufacturing layer of its most critical supplier. TSMC pays for NVIDIA compute to run its fabs more efficiently — a novel, recurring AI-to-fab revenue stream that the current DCF does not credit. The moat extension is strategic: once TSMC's engineering workflows depend on cuLitho, switching compute substrate disrupts production at the most sensitive point in the semiconductor supply chain. This deepens the TSMC-NVIDIA dependency bidirectionally: NVIDIA needs TSMC for manufacturing; TSMC now needs NVIDIA for efficient operations.*
+
+---
+
+### 2026-06-05
+
+**HBM4 all three suppliers certified for Vera Rubin — Micron confirmed on flagship platform:** Jensen Huang confirmed on June 5, 2026 that Samsung, SK Hynix, and Micron have all passed HBM4 qualification and are in production for Vera Rubin. Estimated volume allocation: SK Hynix 60–70%, Samsung 25–30%, Micron the remainder. Vera Rubin shipments begin Q3 2026. Source: Yahoo Finance / TechTimes / Gurufocus, 2026-06-05. *Thesis bearing: Confirms — the May 24 entry flagged Micron's HBM4 certification delays; the May 28 entry placed Micron on "Rubin CPX (mid-tier)" only. This confirmation upgrades Micron's position to the flagship Vera Rubin NVL72 platform. The three-supplier structure validates that Vera Rubin-scale HBM4 demand cannot be met by a single supplier — reinforcing the sold-out supply thesis. For [[MU]]: flagship certification means exposure to the highest-ASP HBM4 variant, not just the mid-tier. For NVDA: supply risk is reduced; production cadence is now a function of total three-supplier output, not a single vendor bottleneck.*
+
+---
+
+### 2026-06-08
+
+**Jensen Huang declines Senate Banking Committee testimony on China/export controls; $50B revenue gap cited:** Senator Elizabeth Warren invited NVIDIA CEO Jensen Huang to testify before the Senate Banking Committee on June 11 about NVIDIA's China business and U.S. export controls. Huang declined (June 8), offering instead to host senators at NVIDIA headquarters. The hearing proceeded without him. Focus: how export control laws impact NVIDIA's strategy; the conflict between commercial AI chip growth and national security restrictions. An estimated $50B China AI chip revenue gap (historical ~20% of datacenter revenue, now zero) was highlighted in congressional discussion. Source: CNBC, 2026-06-04 and 2026-06-08; StartupHub.ai / Senate Banking Committee, 2026-06-11. *Thesis bearing: Challenges — legislative scrutiny on NVIDIA's China business is intensifying from a new vector (Congress, not just the executive branch). Jensen declining to testify avoids an immediate public record but does not resolve the policy question. Risk: bipartisan legislation restricting China-modified chip sales could entrench zero China revenue by statute rather than executive policy — a more durable headwind than current export control enforcement. DCF already assumes zero China contribution; this is consistent with the model.*
+
+---
+
+### 2026-06-12
+
+**NVDA $205.19 (+0.16%) — quality anchor as chip momentum unwinds; DCF threshold June 21:** NVDA closed at $205.19 on June 12, essentially flat from June 11's $204.87. The session saw broad semiconductor sector volatility: MRVL fell ~-6% as the post-June 11 (+11.1%) momentum trade unwound; ALAB surged ~+9% on Nasdaq-100 inclusion news; ANET +4.5% on 7060XE7 product launch. NVDA's near-flat close reflects its "quality anchor" positioning — investors rotating within AI semiconductors rather than exiting. Strong May jobs report (reducing Fed rate cut probability) continued to pressure high-multiple growth names broadly. At $205.19, live MoS = -23.8% vs. DCF IV $156.27. SELL/AVOID. NVDA DCF threshold June 21 (8 days). Source: Market data / 247WallSt, 2026-06-12. *Thesis bearing: Neutral — price in expected range; no new fundamental catalyst; Senate hearing (Jensen absent June 11) did not move the stock; underlying demand trajectory unchanged ($91B Q2 guide intact).*
+
 ---
 
 ## Cross-links
 
-- [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS
-- [[MU]] — Blackwell requires HBM3E; Micron is a qualified supplier alongside SK Hynix
+- [[TSM]] — sole manufacturer; Blackwell on N4/N3 + CoWoS; NVIDIA supply constrained by TSMC CoWoS; TSMC now uses NVIDIA cuLitho in fab operations
+- [[MU]] — Blackwell requires HBM3E; Vera Rubin HBM4; Micron certified on flagship Rubin platform June 5
 - [[ASML]] — upstream; NVDA demand drives TSMC EUV machine orders
 - [[MRVL]] — Marvell designs custom ASICs that may partially substitute for NVIDIA GPUs at hyperscalers; complementary and competitive; NVLink Fusion partnership ($2B) makes MRVL the primary non-NVIDIA silicon in NVIDIA's ecosystem
 - [[ANET]] — Arista networking connects NVIDIA GPU clusters; co-dependent
-- [[HBM]] — Blackwell HBM3E requirement drives MU and SK Hynix HBM revenue
-- [[cowos]] — TSMC CoWoS packages HBM onto Blackwell; was the binding supply constraint
+- [[HBM]] — Blackwell HBM3E + Vera Rubin HBM4; all three suppliers certified for Rubin
+- [[cowos]] — TSMC CoWoS packages HBM onto Blackwell; NVIDIA holds >50% of CoWoS-L capacity through 2027

@@ -10,6 +10,18 @@ Format:
 
 ---
 
+## [2026-06-13 12:00 UTC] session-48
+
+Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB
+Deep session: NVDA — event_queue (DCF threshold June 21 approaching; first actionable after MU gated June 24, ALAB gated ~August)
+Notable: NVIDIA+TSMC announced CUDA-X embedded in TSMC manufacturing (cuLitho: 20-50% lithography cost improvement) — CUDA ecosystem now penetrates the manufacturing supply chain; all 3 HBM4 suppliers (Samsung/SK Hynix/Micron) certified for Vera Rubin flagship platform June 5; ALAB joining Nasdaq-100 effective June 22 (same day as MRVL S&P 500 — dual index inclusion); TrendForce: HBM contract prices "multiples higher in 2027."
+No significant news: TSM (+1.12% June 12), NVDA (+0.16%)
+Price corrections: ASML June 11 actual $1,899.48 (S47 est ~$1,859, off 2.2%); ANET June 11 actual $156.40 (S47 est $157.01, minor)
+DCF run: none — NVDA last run 2026-05-21 (23 days; threshold June 21 = 8 days)
+Concept pages updated: HBM.md (all 3 HBM4 suppliers certified for Vera Rubin)
+Podcast (1b OPEN): SemiAnalysis Weekly ~June 6 — silicon vendors vs. platform integrators debate (added to podcasts.md)
+Scout (1c OPEN): VAT Group (VACN, SIX Swiss Exchange) — vacuum valve chokepoint; watchlist/VACN.md created
+
 ## [2026-06-12 12:00 UTC] session-47
 
 Tickers scanned: TSM, MU, ASML, NVDA, MRVL, ANET, ALAB

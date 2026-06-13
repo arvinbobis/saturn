@@ -104,6 +104,10 @@ HBM cannot connect to a GPU without advanced packaging. TSMC's CoWoS is the pack
 
 **Vera Rubin NVL72 in full production confirmed (GTC Taipei): 288GB HBM4 per Rubin GPU; 20.7TB HBM4 per NVL72 rack (72 GPUs × 288GB); production ramp active H2 2026** — Jensen Huang's confirmation that Vera Rubin NVL72 is in full production locks in HBM4 demand at scale. Each NVL72 rack carries 72 Rubin GPUs × 288GB HBM4 = 20,736GB (20.7TB) per rack. SK Hynix holds ~70% of Vera Rubin HBM4 allocation; Samsung added as second supplier; Micron targeted for Rubin CPX (mid-tier). HBM4 demand from Vera Rubin is no longer speculative — it is executing against binding supply agreements. NVLink-C2C at 1.8 TB/s makes high-bandwidth memory mandatory at this compute density; no viable alternative to HBM at Rubin power envelope.
 
+### 2026-06-05 — NVDA / MU
+
+**NVIDIA certifies all three HBM4 suppliers (SK Hynix 60-70%, Samsung 25-30%, Micron remainder) for Vera Rubin flagship platform** — resolves the open question from the May 28 entry, which had placed Micron on "Rubin CPX mid-tier only." Jensen Huang's June 5 confirmation means Micron's HBM4 exposure is to the highest-ASP variant, not the mid-tier. The three-supplier structure validates that Vera Rubin-scale demand cannot be served by any single supplier, confirming the sold-out supply thesis. For the HBM supply chain: all three manufacturers must simultaneously produce HBM4 at yield, making any single-supplier disruption a systemic bottleneck — not just a competitive loss for one player.
+
 ---
 
 ## Cross-links

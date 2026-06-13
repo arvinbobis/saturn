@@ -64,3 +64,4 @@ Saturn scans these for investment-relevant signal. Updated when a relevant episo
 
 | Date | Show | Episode | Key Finding | Thesis Bearing |
 |------|------|---------|-------------|----------------|
+| ~2026-06-06 | SemiAnalysis Weekly | "$22.7T TAM — silicon vendors vs. platform integrators: who captures the 2026 AI infrastructure beat?" | Silicon semiconductor companies (NVDA, TSM, MU) and hyperscaler cloud services are competing to capture AI infrastructure spend; NVDA's $91B Q2 guide currently favors silicon vendors, but the "earnings-before-training" dynamics and platform integrator margins warrant quarterly monitoring; $22.7T framing suggests near-decade TAM expansion | NVDA, TSM, MU: Neutral — confirms AI demand scale; raises value capture question to monitor each quarter |
